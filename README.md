@@ -18,8 +18,8 @@
 ## 📌 Uso
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/Tabla-Periodica-Interactiva-3D.git
+```bash
+   git clone https://github.com/Akutangulo/Tabla-Periodica-Interactiva-3D.git
 ```
 
 2. Abre `index.html` en tu navegador.
@@ -32,5 +32,4 @@ Este proyecto está licenciado bajo la **GPL v3**. Eres libre de usarlo, modific
 
 **Desarrollado por Oscar Navarro "Akutangulo"**
 
-```
 
