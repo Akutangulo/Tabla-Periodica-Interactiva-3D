@@ -1,1 +1,112 @@
-
+[
+{
+  "simbolo": "H",
+  "nombre": "Hidrógeno",
+  "numeroAtomico": 1,
+  "masaAtomica": 1.008,
+  "grupo": 1,
+  "periodo": 1,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 14.01,
+    "puntoDeEbullicion": 20.28,
+    "densidad": 0.00008988,
+    "radioAtomico": 53,
+    "conductividadTermica": 0.1805
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.20,
+    "energiaDeIonizacion": 1312,
+    "afinidadElectronica": 73,
+    "estadosOxidacion": [-1, 1]
+  },
+  "capasElectronicas": [1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["diatomico", "no metal"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Protio",
+      "numeroNeutrones": 0,
+      "masaAtomica": 1.0078250322,
+      "abundancia": 99.9885,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Deuterio",
+      "numeroNeutrones": 1,
+      "masaAtomica": 2.0141017781,
+      "abundancia": 0.0115,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Tritio",
+      "numeroNeutrones": 2,
+      "masaAtomica": 3.0160492779,
+      "abundancia": 0.000,
+      "radiactivo": true,
+      "natural": false,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "12.32 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Henry Cavendish",
+    "fechaDescubrimiento": 1766
+  },
+  "datosCuriosos": [
+    "Es el elemento más ligero y abundante en el universo, constituyendo aproximadamente el 75% de su masa elemental. [1, 4]",
+    "Forma parte del agua (H₂O), siendo esencial para la vida tal como la conocemos. [33]",
+    "Fue el primer elemento creado tras el Big Bang.",
+    "Puede existir en tres formas isotópicas principales: protio (¹H), deuterio (²H o D) y tritio (³H o T). [33]",
+    "El hidrógeno molecular (H₂) es extremadamente inflamable y arde en el aire con una llama pálida, casi invisible. [1]",
+    "Bajo presiones extremadamente altas, se teoriza que el hidrógeno puede existir como un metal líquido (hidrógeno metálico), posiblemente en el interior de planetas gigantes gaseosos como Júpiter y Saturno."
+  ],
+  "usos": [
+    "Producción de amoniaco (proceso Haber-Bosch) para fertilizantes. [10, 37]",
+    "Hidrogenación de aceites vegetales para producir grasas sólidas (margarina). [10]",
+    "Combustible para cohetes espaciales, usualmente en forma líquida (LH₂) con oxígeno líquido (LOX). [10]",
+    "Refrigerante en generadores eléctricos de gran tamaño debido a su alta conductividad térmica y baja densidad. [5]",
+    "Producción de metanol y ácido clorhídrico. [10, 38]",
+    "Combustible en celdas de hidrógeno para vehículos eléctricos, produciendo solo agua como subproducto. [10]",
+    "Agente reductor en metalurgia para obtener metales puros a partir de sus óxidos. [18]",
+    "En soldadura (soplete de hidrógeno atómico). [18]"
+  ],
+  "compuestosImportantes": [
+    "H₂O (agua)",
+    "NH₃ (amoniaco)",
+    "CH₄ (metano)",
+    "HCl (ácido clorhídrico)",
+    "H₂O₂ (peróxido de hidrógeno)",
+    "Numerosos compuestos orgánicos (hidrocarburos, alcoholes, azúcares, etc.). [2, 33]"
+  ],
+  "abundancia": {
+    "universo": 75,
+    "cortezaTerrestre": 1400,
+    "atmosfera": 0.00005,
+    "oceano": 10.8,
+    "totalTierra": 0.88,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 10,
+      "categoriaAbundancia": "Principal (>1%)"
+    }
+  },
+  "toxicidad": "false",
+  "origenDelNombre": "Del griego 'hydro' (agua) y 'genes' (generador o creador), que significa \"formador de agua\", nombre acuñado por Antoine Lavoisier. [2, 10, 12]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Hidr%C3%B3geno",
+    "https://www.rsc.org/periodic-table/element/1/hydrogen"
+  ]
+},
+  
+]
