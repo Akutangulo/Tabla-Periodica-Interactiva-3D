@@ -108,5 +108,109 @@
     "https://www.rsc.org/periodic-table/element/1/hydrogen"
   ]
 },
+  {
+  "simbolo": "He",
+  "nombre": "Helio",
+  "numeroAtomico": 2,
+  "masaAtomica": 4.002602,
+  "grupo": 18,
+  "periodo": 1,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 0.95,
+    "puntoDeEbullicion": 4.22,
+    "densidad": 0.0001786,
+    "radioAtomico": 140,
+    "conductividadTermica": 0.152
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": null,
+    "energiaDeIonizacion": 2372.3,
+    "afinidadElectronica": 0,
+    "estadosOxidacion": [0]
+  },
+  "capasElectronicas": [2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["gas noble"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Helio-3",
+      "numeroNeutrones": 1,
+      "masaAtomica": 3.0160293227,
+      "abundancia": 0.000137,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Helio-4",
+      "numeroNeutrones": 2,
+      "masaAtomica": 4.0026032541,
+      "abundancia": 99.999863,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Helio-6",
+      "numeroNeutrones": 4,
+      "masaAtomica": 6.0188891,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "806.7 ms"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Pierre Janssen y Norman Lockyer",
+    "fechaDescubrimiento": 1868
+  },
+  "datosCuriosos": [
+    "Fue descubierto en el espectro de la corona solar durante un eclipse en 1868 antes que en la Tierra. [4, 17, 21, 26]",
+    "Es el segundo elemento más abundante en el universo después del hidrógeno, constituyendo aproximadamente el 24% de la masa elemental del universo. [2, 7]",
+    "No se solidifica a presión atmosférica normal, incluso a temperaturas cercanas al cero absoluto; se requiere una presión de unas 25 atmósferas. [1, 6, 7]",
+    "Al inhalarlo, la voz se vuelve temporalmente más aguda debido a que la velocidad del sonido en el helio es casi tres veces mayor que en el aire. [14]",
+    "El helio líquido (Helio II, por debajo de 2.17 K) es un superfluido, con viscosidad prácticamente nula y una conductividad térmica extremadamente alta. [1, 3]",
+    "Es el elemento con el punto de ebullición más bajo de todos. [4, 5, 6]"
+  ],
+  "usos": [
+    "Inflar globos y dirigibles debido a su baja densidad (más ligero que el aire) y por no ser inflamable. [1, 8, 9, 10, 12, 15]",
+    "Refrigerante criogénico para imanes superconductores en escáneres de Resonancia Magnética (MRI) y espectrómetros de RMN. [5, 9, 10, 14, 33]",
+    "Gas protector inerte en soldadura por arco de metales. [1, 10, 15, 33]",
+    "Detección de fugas en sistemas de alto vacío y tuberías. [1, 10]",
+    "En mezclas respiratorias (heliox) para buceo a gran profundidad y para pacientes con dificultades respiratorias, ya que reduce la resistencia al flujo de aire. [9, 10, 12]",
+    "Gas portador en cromatografía de gases. [10]",
+    "Enfriamiento de detectores infrarrojos y telescopios espaciales. [9]",
+    "Como medio de transmisión de calor en algunos reactores nucleares refrigerados por gas. [1]"
+  ],
+  "compuestosImportantes": [
+    "Na₂He (Heluro de disodio, un compuesto predicho y observado bajo altas presiones). [37]"
+  ],
+  "abundancia": {
+    "universo": 24,
+    "cortezaTerrestre": 0.008,
+    "atmosfera": 0.00052,
+    "oceano": 0.00000072,
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.0,
+      "categoriaAbundancia": "Trazas insignificantes"
+    }
+  },
+  "toxicidad": "false",
+  "origenDelNombre": "Del griego 'helios' (ἥλιος), que significa Sol, ya que fue detectado por primera vez en el espectro de la corona solar. [1, 4, 12, 17, 18, 22, 25, 29]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Helio",
+    "https://www.rsc.org/periodic-table/element/2/helium"
+  ]
+},
   
 ]
