@@ -212,5 +212,121 @@
     "https://www.rsc.org/periodic-table/element/2/helium"
   ]
 },
+  {
+  "simbolo": "Li",
+  "nombre": "Litio",
+  "numeroAtomico": 3,
+  "masaAtomica": 6.94,
+  "grupo": 1,
+  "periodo": 2,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 453.65,
+    "puntoDeEbullicion": 1603,
+    "densidad": 0.534,
+    "radioAtomico": 152,
+    "conductividadTermica": 84.7
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.98,
+    "energiaDeIonizacion": 520.2,
+    "afinidadElectronica": 59.6,
+    "estadosOxidacion": [
+      1
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    1
+  ],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal alcalino"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Litio-6",
+      "numeroNeutrones": 3,
+      "masaAtomica": 6.0151228874,
+      "abundancia": 7.59,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Litio-7",
+      "numeroNeutrones": 4,
+      "masaAtomica": 7.0160034366,
+      "abundancia": 92.41,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Litio-8",
+      "numeroNeutrones": 5,
+      "masaAtomica": 8.02248624,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta- y fisión",
+        "vidaMedia": "840.3 ms"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Johan August Arfwedson",
+    "fechaDescubrimiento": 1817
+  },
+  "datosCuriosos": [
+    "Es el metal más ligero y el elemento sólido menos denso a temperatura ambiente. [1, 2, 3, 10]",
+    "Reacciona vigorosamente con el agua, produciendo hidrógeno gaseoso e hidróxido de litio; puede incendiarse. [3, 16]",
+    "Se encuentra en minerales como la espodumena, petalita, lepidolita y ambligonita. [5, 26]",
+    "Es un componente crucial en las baterías recargables de ion-litio, ampliamente utilizadas desde finales del siglo XX. [3, 4, 32, 33]",
+    "El litio-7 es uno de los pocos elementos primordiales producidos por la nucleosíntesis del Big Bang. [1, 32, 33]",
+    "Acercado a una llama, la torna de color carmesí. [2]"
+  ],
+  "usos": [
+    "Fabricación de baterías recargables para dispositivos electrónicos (móviles, portátiles) y vehículos eléctricos. [3, 4, 10, 34]",
+    "Como sales de litio (principalmente carbonato de litio) en el tratamiento de trastornos bipolares y depresión. [1, 2, 16, 34]",
+    "En aleaciones con aluminio y magnesio para aplicaciones aeroespaciales, debido a su ligereza y resistencia. [3, 5]",
+    "Producción de vidrios y cerámicas especiales resistentes al calor y a los golpes. [5, 8, 27]",
+    "Como lubricante (estearato de litio) para altas temperaturas. [1, 8]",
+    "El hidróxido de litio se usa para purificar el aire en naves espaciales y submarinos al absorber dióxido de carbono. [5, 26, 39]",
+    "En la industria nuclear, el litio-6 se usa para producir tritio, como blindaje o detector de neutrones, y el litio-7 en reactores de agua presurizada. [18, 25]"
+  ],
+  "compuestosImportantes": [
+    "Li₂CO₃ (carbonato de litio)",
+    "LiOH (hidróxido de litio)",
+    "LiCl (cloruro de litio)",
+    "LiH (hidruro de litio)",
+    "LiCoO₂ (óxido de litio cobalto, en baterías). [28, 32]",
+    "LiFePO₄ (fosfato de hierro y litio, en baterías). [28]",
+    "n-Butil-litio (reactivo en síntesis orgánica). [39]"
+  ],
+  "abundancia": {
+    "universo": 0.0000006,
+    "cortezaTerrestre": 20,
+    "atmosfera": "Trazas",
+    "oceano": 0.18,
+    "totalTierra": 1.7,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "moderada",
+  "origenDelNombre": "Del griego 'lithos' (λίθος), que significa piedra, ya que fue descubierto en minerales, a diferencia de otros metales alcalinos hallados en tejidos vegetales. [1, 3, 5, 13, 26, 38]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Litio",
+    "https://www.rsc.org/periodic-table/element/3/lithium"
+  ]
+},
   
 ]
