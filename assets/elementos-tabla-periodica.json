@@ -328,5 +328,123 @@
     "https://www.rsc.org/periodic-table/element/3/lithium"
   ]
 },
+  {
+  "simbolo": "Be",
+  "nombre": "Berilio",
+  "numeroAtomico": 4,
+  "masaAtomica": 9.0121831,
+  "grupo": 2,
+  "periodo": 2,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1560,
+    "puntoDeEbullicion": 2742,
+    "densidad": 1.85,
+    "radioAtomico": 112,
+    "conductividadTermica": 201
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.57,
+    "energiaDeIonizacion": 899.5,
+    "afinidadElectronica": -48,
+    "estadosOxidacion": [
+      2
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    2
+  ],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal alcalinotérreo"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Berilio-7",
+      "numeroNeutrones": 3,
+      "masaAtomica": 7.01692871,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "53.12 días"
+      }
+    },
+    {
+      "nombre": "Berilio-9",
+      "numeroNeutrones": 5,
+      "masaAtomica": 9.01218306,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Berilio-10",
+      "numeroNeutrones": 6,
+      "masaAtomica": 10.01353469,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "1.387 × 10^6 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Louis Nicolas Vauquelin",
+    "fechaDescubrimiento": 1798
+  },
+  "datosCuriosos": [
+    "Es un metal ligero, de color gris acero, duro y quebradizo. [1, 3]",
+    "Es tóxico y la inhalación de su polvo puede causar beriliosis, una enfermedad pulmonar crónica. [5, 6, 10]",
+    "Se encuentra en gemas como la esmeralda (variedad verde del berilo) y el aguamarina (variedad azul del berilo). [1, 3, 19]",
+    "Tiene una alta conductividad térmica y un alto punto de fusión para ser un metal ligero. [2, 11]",
+    "Es transparente a los rayos X, por lo que se usa en ventanas para tubos de rayos X. [1, 3, 5]",
+    "El berilio-10 se forma en la atmósfera por espalación de rayos cósmicos sobre oxígeno y nitrógeno. [1, 2]"
+  ],
+  "usos": [
+    "Fabricación de ventanas para tubos de rayos X y equipos de diagnóstico. [1, 3, 4]",
+    "En aleaciones con cobre (cobre-berilio) para fabricar herramientas que no producen chispas, resortes y contactos eléctricos. [1, 3, 18]",
+    "Componentes estructurales ligeros en la industria aeroespacial y de defensa (satélites, misiles, aviones de alta velocidad). [3, 4, 30]",
+    "Moderador y reflector de neutrones en reactores nucleares. [1, 3, 18]",
+    "En la fabricación de espejos de alta precisión, como los del Telescopio Espacial James Webb. [5]",
+    "El óxido de berilio se utiliza en electrónica por su alta conductividad térmica y como aislante eléctrico. [3, 8]",
+    "En la fabricación de tweeters para altavoces de alta fidelidad debido a su rigidez. [1, 18]"
+  ],
+  "compuestosImportantes": [
+    "BeO (óxido de berilio)",
+    "BeCl₂ (cloruro de berilio)",
+    "BeF₂ (fluoruro de berilio)",
+    "BeSO₄ (sulfato de berilio)",
+    "Be(OH)₂ (hidróxido de berilio)",
+    "Be₃Al₂(SiO₃)₆ (Berilo)"
+  ],
+  "abundancia": {
+    "universo": 0.0000001,
+    "cortezaTerrestre": 2.8,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000000002,
+    "totalTierra": 0.00000053,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true",
+  "origenDelNombre": "Del griego 'beryllos' (βήρυλλος), nombre del mineral berilo, donde fue descubierto. [1, 8]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Berilio",
+    "https://www.rsc.org/periodic-table/element/4/beryllium"
+  ]
+}
   
 ]
