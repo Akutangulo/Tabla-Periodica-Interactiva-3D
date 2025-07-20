@@ -560,6 +560,114 @@
     "https://es.wikipedia.org/wiki/Boro",
     "https://www.rsc.org/periodic-table/element/5/boron"
   ]
+},
+  {
+  "simbolo": "C",
+  "nombre": "Carbono",
+  "numeroAtomico": 6,
+  "masaAtomica": 12.011,
+  "grupo": 14,
+  "periodo": 2,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 3823,
+    "puntoDeEbullicion": 5100,
+    "densidad": 2.26,
+    "radioAtomico": 77,
+    "conductividadTermica": 129
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.55,
+    "energiaDeIonizacion": 1086.5,
+    "afinidadElectronica": 121.776,
+    "estadosOxidacion": [-4, -3, -2, -1, 0, 1, 2, 3, 4]
+  },
+  "capasElectronicas": [2, 4],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["no metal"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Carbono-12",
+      "numeroNeutrones": 6,
+      "masaAtomica": 12.0000000,
+      "abundancia": 98.89,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Carbono-13",
+      "numeroNeutrones": 7,
+      "masaAtomica": 13.003354835,
+      "abundancia": 1.11,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Carbono-14",
+      "numeroNeutrones": 8,
+      "masaAtomica": 14.003241989,
+      "abundancia": 0.0000000001,
+      "radiactivo": true,
+      "natural": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "5730 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido desde la antigüedad",
+    "fechaDescubrimiento": null
+  },
+  "datosCuriosos": [
+    "Es la base de toda la vida conocida en la Tierra, formando la estructura fundamental de las moléculas orgánicas. [4, 15, 29]",
+    "Existe en varias formas alotrópicas con propiedades muy diferentes, como el grafito (blando y conductor) y el diamante (extremadamente duro y aislante). [1, 3]",
+    "Forma más compuestos que cualquier otro elemento, con casi diez millones de compuestos descritos. [1]",
+    "Se encuentra en depósitos orgánicos como carbón, turba, petróleo y gas natural. [1]",
+    "El carbono-14, un isótopo radiactivo, se utiliza para la datación de restos arqueológicos y geológicos (datación por radiocarbono). [1, 33]",
+    "El grafeno, una lámina de carbono de un átomo de espesor, tiene propiedades electrónicas y mecánicas excepcionales."
+  ],
+  "usos": [
+    "Como componente principal de los hidrocarburos (petróleo y gas natural) utilizados como combustibles y materia prima para plásticos. [1, 6]",
+    "En la fabricación de acero (el carbono es un componente esencial). [3, 4]",
+    "El grafito se usa en minas de lápices, lubricantes y electrodos. [1, 9]",
+    "El carbón activado se utiliza en filtros de agua y aire, y en máscaras de gas por su alta capacidad de adsorción. [8]",
+    "Los diamantes se usan en joyería y como material de corte y abrasivo debido a su dureza. [3, 8]",
+    "Las fibras de carbono se emplean en materiales compuestos de alta resistencia y ligereza para la industria aeroespacial, automotriz y deportiva. [1, 26]",
+    "Los fullerenos y nanotubos de carbono tienen aplicaciones potenciales en nanotecnología y electrónica. [1]"
+  ],
+  "compuestosImportantes": [
+    "CO₂ (dióxido de carbono)",
+    "CO (monóxido de carbono)",
+    "CH₄ (metano)",
+    "CaCO₃ (carbonato de calcio)",
+    "C₆H₁₂O₆ (glucosa)",
+    "Numerosos polímeros orgánicos (plásticos, proteínas, ADN, etc.)"
+  ],
+  "abundancia": {
+    "universo": 0.46,
+    "cortezaTerrestre": 200,
+    "atmosfera": 0.0415,
+    "oceano": 28,
+    "totalTierra": 0.032,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 18.5,
+      "categoriaAbundancia": "Principal (>1%)"
+    }
+  },
+  "toxicidad": "baja (elemento puro); muchos compuestos de carbono pueden ser tóxicos (e.g., monóxido de carbono, cianuros). [1]",
+  "origenDelNombre": "Del latín 'carbo', que significa carbón, una de sus formas más comunes y conocidas desde la antigüedad. [1, 8, 9, 16, 24, 36]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Carbono",
+    "https://www.rsc.org/periodic-table/element/6/carbon"
+  ]
 }
   
 ]
