@@ -622,9 +622,9 @@
       }
     }
   ],
-  "descubrimiento": {
-    "descubridor": "Conocido desde la antigüedad",
-    "fechaDescubrimiento": null
+    "descubrimiento": {
+    "descubridor": "Conocido en sus formas (e.g., carbón, hollín, diamante) por civilizaciones antiguas; Antoine Lavoisier lo identificó como un elemento.",
+    "fechaDescubrimiento": "Identificado como elemento c. 1789"
   },
   "datosCuriosos": [
     "Es la base de toda la vida conocida en la Tierra, formando la estructura fundamental de las moléculas orgánicas. [4, 15, 29]",
@@ -667,6 +667,114 @@
   "recursos": [
     "https://es.wikipedia.org/wiki/Carbono",
     "https://www.rsc.org/periodic-table/element/6/carbon"
+  ]
+},
+  {
+  "simbolo": "N",
+  "nombre": "Nitrógeno",
+  "numeroAtomico": 7,
+  "masaAtomica": 14.007,
+  "grupo": 15,
+  "periodo": 2,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 63.15,
+    "puntoDeEbullicion": 77.36,
+    "densidad": 0.001251,
+    "radioAtomico": 71,
+    "conductividadTermica": 0.02583
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 3.04,
+    "energiaDeIonizacion": 1402.3,
+    "afinidadElectronica": 7,
+    "estadosOxidacion": [-3, -2, -1, 1, 2, 3, 4, 5]
+  },
+  "capasElectronicas": [2, 5],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["diatomico", "no metal"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Nitrógeno-13",
+      "numeroNeutrones": 6,
+      "masaAtomica": 13.00573861,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta+",
+        "vidaMedia": "9.965 minutos"
+      }
+    },
+    {
+      "nombre": "Nitrógeno-14",
+      "numeroNeutrones": 7,
+      "masaAtomica": 14.0030740048,
+      "abundancia": 99.636,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Nitrógeno-15",
+      "numeroNeutrones": 8,
+      "masaAtomica": 15.0001088982,
+      "abundancia": 0.364,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Daniel Rutherford",
+    "fechaDescubrimiento": 1772
+  },
+  "datosCuriosos": [
+    "Compone aproximadamente el 78.09% del aire de la Tierra en volumen. [4]",
+    "Es un componente esencial de los aminoácidos, las proteínas y los ácidos nucleicos (ADN y ARN), fundamentales para la vida. [1, 4]",
+    "Muchos compuestos de nitrógeno son altamente energéticos y se usan en explosivos como el TNT (trinitrotolueno) y la nitroglicerina. [2]",
+    "Fue descubierto por Daniel Rutherford al eliminar el oxígeno y el dióxido de carbono del aire, llamándolo \"aire nocivo\" o \"aire flogisticado\". [1, 2, 4]",
+    "El nitrógeno líquido, a -196 °C (-321 °F), se utiliza como un refrigerante criogénico común. [4, 10]",
+    "El ciclo del nitrógeno es un proceso biogeoquímico crucial para convertir el nitrógeno atmosférico en formas utilizables por los organismos vivos. [2, 4]"
+  ],
+  "usos": [
+    "Producción de amoniaco (NH₃) mediante el proceso Haber-Bosch, que es la base para la mayoría de los fertilizantes nitrogenados. [1, 2, 4]",
+    "El nitrógeno líquido se usa como refrigerante criogénico para la conservación de muestras biológicas, en dermatología y en la industria alimentaria. [4, 10]",
+    "Fabricación de numerosos compuestos químicos, incluyendo ácido nítrico, nylon, tintes y explosivos. [2, 4]",
+    "Como gas inerte en atmósferas modificadas para el empaquetado de alimentos, para prevenir la oxidación y prolongar la vida útil. [2, 4]",
+    "Inflado de neumáticos de aviones y vehículos de competición para proporcionar una presión más estable y reducir el riesgo de incendio. [2, 4]",
+    "En la industria electrónica para crear atmósferas inertes durante la fabricación de semiconductores. [4]"
+  ],
+  "compuestosImportantes": [
+    "NH₃ (amoniaco)",
+    "HNO₃ (ácido nítrico)",
+    "N₂O (óxido nitroso, \"gas de la risa\")",
+    "NO (óxido nítrico)",
+    "NO₂ (dióxido de nitrógeno)",
+    "NaN₃ (azida de sodio)",
+    "KNO₃ (nitrato de potasio, salitre)"
+  ],
+  "abundancia": {
+    "universo": 0.097,
+    "cortezaTerrestre": 19,
+    "atmosfera": 78.08,
+    "oceano": 0.7,
+    "totalTierra": 0.0019,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 3.0,
+      "categoriaAbundancia": "Principal (>1%)"
+    }
+  },
+  "toxicidad": "false (el gas N₂ no es tóxico, pero puede ser un asfixiante simple en altas concentraciones; muchos compuestos de nitrógeno son tóxicos)",
+  "origenDelNombre": "Del griego 'nitron' (nitro, un antiguo nombre para el salitre o nitrato de potasio) y 'genes' (formador o generador), propuesto por el químico francés Jean-Antoine Chaptal en 1790. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Nitr%C3%B3geno",
+    "https://www.rsc.org/periodic-table/element/7/nitrogen"
   ]
 }
   
