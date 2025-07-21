@@ -776,6 +776,123 @@
     "https://es.wikipedia.org/wiki/Nitr%C3%B3geno",
     "https://www.rsc.org/periodic-table/element/7/nitrogen"
   ]
-}
+},
+  {
+  "simbolo": "O",
+  "nombre": "Oxígeno",
+  "numeroAtomico": 8,
+  "masaAtomica": 15.999,
+  "grupo": 16,
+  "periodo": 2,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 54.36,
+    "puntoDeEbullicion": 90.18,
+    "densidad": 0.001429,
+    "radioAtomico": 60,
+    "conductividadTermica": 0.02674
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 3.44,
+    "energiaDeIonizacion": 1313.9,
+    "afinidadElectronica": 141,
+    "estadosOxidacion": [-2, -1, 0, 1, 2]
+  },
+  "capasElectronicas": [2, 6],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["diatomico", "no metal", "calcógeno"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Oxígeno-16",
+      "numeroNeutrones": 8,
+      "masaAtomica": 15.994914619,
+      "abundancia": 99.762,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Oxígeno-17",
+      "numeroNeutrones": 9,
+      "masaAtomica": 16.99913170,
+      "abundancia": 0.038,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Oxígeno-18",
+      "numeroNeutrones": 10,
+      "masaAtomica": 17.999159612,
+      "abundancia": 0.200,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Oxígeno-15",
+      "numeroNeutrones": 7,
+      "masaAtomica": 15.0030656,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta+",
+        "vidaMedia": "122.2 segundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Wilhelm Scheele (1772-1773) y Joseph Priestley (1774) de forma independiente. Antoine Lavoisier lo nombró y describió su papel en la combustión.",
+    "fechaDescubrimiento": "c. 1774 (publicación de Priestley)"
+  },
+  "datosCuriosos": [
+    "Compone aproximadamente el 20.95% del volumen de la atmósfera terrestre y es esencial para la respiración de la mayoría de los seres vivos. [2, 13]",
+    "Forma el ozono (O₃) en la estratosfera, una capa que protege la vida en la Tierra de la radiación ultravioleta dañina del sol. [15, 30]",
+    "Es el elemento más abundante en masa en la corteza terrestre (aproximadamente 46-50%). [5, 25, 30]",
+    "Fue descubierto independientemente por Scheele y Priestley al calentar óxidos (como el óxido de mercurio) y observar el gas liberado. [1, 13]",
+    "El oxígeno líquido y sólido tienen un color azul pálido. [1]",
+    "Es el tercer elemento más abundante en el universo, después del hidrógeno y el helio. [2, 3]"
+  ],
+  "usos": [
+    "Soporte vital en medicina (oxigenoterapia) para pacientes con dificultades respiratorias. [1, 19]",
+    "En procesos de combustión, como en la soldadura oxiacetilénica, y como oxidante en combustibles para cohetes. [1, 28]",
+    "Producción de acero, donde se utiliza para eliminar impurezas de carbono y otros elementos. [1, 7, 17]",
+    "Tratamiento de aguas residuales y potabilización del agua, a menudo en forma de ozono. [14, 22]",
+    "Industria química para la síntesis de numerosos compuestos y en procesos de oxidación. [19]",
+    "En la industria papelera para el blanqueo de la pulpa de celulosa."
+  ],
+  "compuestosImportantes": [
+    "H₂O (agua)",
+    "CO₂ (dióxido de carbono)",
+    "O₃ (ozono)",
+    "H₂O₂ (peróxido de hidrógeno)",
+    "SiO₂ (dióxido de silicio, cuarzo)",
+    "Fe₂O₃ (óxido de hierro (III))",
+    "CaCO₃ (carbonato de calcio)"
+  ],
+  "abundancia": {
+    "universo": 0.96,
+    "cortezaTerrestre": 466000,
+    "atmosfera": 20.95,
+    "oceano": 85.7,
+    "totalTierra": 29.5,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 61.4,
+      "categoriaAbundancia": "Principal (>1%)"
+    }
+  },
+  "toxicidad": "false (el gas O₂ es esencial para la vida; altas concentraciones o el ozono pueden ser tóxicos). [19]",
+  "origenDelNombre": "Del griego 'oxys' (ácido) y 'genēs' (productor o generador), nombre acuñado por Antoine Lavoisier debido a la creencia errónea de que el oxígeno era un constituyente esencial de todos los ácidos. [1, 2, 9, 23]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Ox%C3%ADgeno",
+    "https://www.rsc.org/periodic-table/element/8/oxygen"
+  ]
+},
   
 ]
