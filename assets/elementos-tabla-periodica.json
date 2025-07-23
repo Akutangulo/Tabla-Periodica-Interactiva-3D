@@ -1212,5 +1212,120 @@
     "https://www.rsc.org/periodic-table/element/11/sodium"
   ]
 },
+  {
+  "simbolo": "Mg",
+  "nombre": "Magnesio",
+  "numeroAtomico": 12,
+  "masaAtomica": 24.3050,
+  "grupo": 2,
+  "periodo": 3,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 923,
+    "puntoDeEbullicion": 1363,
+    "densidad": 1.738,
+    "radioAtomico": 160,
+    "conductividadTermica": 156
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.31,
+    "energiaDeIonizacion": 737.7,
+    "afinidadElectronica": 0,
+    "estadosOxidacion": [2]
+  },
+  "capasElectronicas": [2, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalinotérreo"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Magnesio-24",
+      "numeroNeutrones": 12,
+      "masaAtomica": 23.98504169,
+      "abundancia": 78.99,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Magnesio-25",
+      "numeroNeutrones": 13,
+      "masaAtomica": 24.98583697,
+      "abundancia": 10.00,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Magnesio-26",
+      "numeroNeutrones": 14,
+      "masaAtomica": 25.98259296,
+      "abundancia": 11.01,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Magnesio-28",
+      "numeroNeutrones": 16,
+      "masaAtomica": 27.9838755,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "20.915 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Joseph Black reconoció el magnesio como un elemento en 1755; Humphry Davy lo aisló por primera vez en 1808.",
+    "fechaDescubrimiento": "Reconocido en 1755, aislado en 1808."
+  },
+  "datosCuriosos": [
+    "Arde en el aire con una luz blanca muy brillante y es difícil de extinguir, pudiendo reaccionar con el nitrógeno y el dióxido de carbono. [1, 2]",
+    "Es un componente esencial de la clorofila, el pigmento que permite a las plantas realizar la fotosíntesis. [1, 2, 6, 12]",
+    "Es un metal estructural ligero, aproximadamente dos tercios de la densidad del aluminio, pero con buena resistencia. [1, 2, 6]",
+    "Es el octavo elemento más abundante en la corteza terrestre y el tercero más abundante disuelto en el agua de mar. [2, 6, 12]",
+    "El ion magnesio (Mg²⁺) es esencial para todas las células vivas, participando en cientos de reacciones enzimáticas. [1, 2, 6]"
+  ],
+  "usos": [
+    "En aleaciones ligeras con aluminio, zinc y manganeso para componentes de aviones, automóviles, herramientas eléctricas y maquinaria. [1, 2, 5, 6, 12]",
+    "Compuestos de magnesio como el hidróxido de magnesio (leche de magnesia) y el sulfato de magnesio (sales de Epsom) se usan como antiácidos y laxantes. [1, 2, 6, 12]",
+    "En la fabricación de bengalas, fuegos artificiales y bombas incendiarias debido a la luz brillante que produce al quemarse. [1, 2, 6]",
+    "Como agente reductor en la producción de metales como el uranio y el berilio a partir de sus sales. [1, 2, 6]",
+    "En la industria siderúrgica para la desulfuración del hierro y el acero. [1, 2, 6]",
+    "Como ánodo de sacrificio para proteger otros metales de la corrosión (protección catódica). [1, 2, 6]"
+  ],
+  "compuestosImportantes": [
+    "MgO (óxido de magnesio)",
+    "MgCl₂ (cloruro de magnesio)",
+    "Mg(OH)₂ (hidróxido de magnesio, leche de magnesia). [1, 2, 6]",
+    "MgSO₄ (sulfato de magnesio, sales de Epsom). [1, 2, 6]",
+    "MgCO₃ (carbonato de magnesio, magnesita). [1, 2]",
+    "Mg₃Si₄O₁₀(OH)₂ (talco)"
+  ],
+  "abundancia": {
+    "universo": 0.07,
+    "cortezaTerrestre": 23300,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 1300,
+    "totalTierra": 13.9,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.027,
+      "categoriaAbundancia": "Oligoelemento"
+    }
+  },
+  "toxicidad": "baja (el ion magnesio es esencial; el polvo de magnesio metálico es inflamable y puede ser irritante). [1, 2]",
+  "origenDelNombre": "De Magnesia, un distrito de Tesalia en Grecia, donde se encontró el mineral magnesita (carbonato de magnesio). [1, 2, 6, 12]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Magnesio",
+    "https://www.rsc.org/periodic-table/element/12/magnesium"
+  ]
+}
   
 ]
