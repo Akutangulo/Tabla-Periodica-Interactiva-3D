@@ -1426,5 +1426,122 @@
     "https://www.rsc.org/periodic-table/element/13/aluminium"
   ]
 },
+  {
+  "simbolo": "Si",
+  "nombre": "Silicio",
+  "numeroAtomico": 14,
+  "masaAtomica": 28.086,
+  "grupo": 14,
+  "periodo": 3,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1687,
+    "puntoDeEbullicion": 3538,
+    "densidad": 2.329,
+    "radioAtomico": 111,
+    "conductividadTermica": 149
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.90,
+    "energiaDeIonizacion": 786.5,
+    "afinidadElectronica": 133.6,
+    "estadosOxidacion": [-4, -3, -2, -1, 0, 1, 2, 3, 4]
+  },
+  "capasElectronicas": [2, 8, 4],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metaloide",
+    "subtipo": ["semiconductor"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Silicio-28",
+      "numeroNeutrones": 14,
+      "masaAtomica": 27.9769265346,
+      "abundancia": 92.223,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Silicio-29",
+      "numeroNeutrones": 15,
+      "masaAtomica": 28.9764946649,
+      "abundancia": 4.685,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Silicio-30",
+      "numeroNeutrones": 16,
+      "masaAtomica": 29.97377013,
+      "abundancia": 3.092,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Silicio-32",
+      "numeroNeutrones": 18,
+      "masaAtomica": 31.9741483,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "153 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Jöns Jacob Berzelius",
+    "fechaDescubrimiento": 1824
+  },
+  "datosCuriosos": [
+    "Es el segundo elemento más abundante en la corteza terrestre después del oxígeno, constituyendo aproximadamente el 28%. [1, 2, 4]",
+    "En su forma cristalina pura, es un metaloide duro y quebradizo con un brillo metálico gris azulado. [1, 2]",
+    "Es la base de la industria electrónica moderna, siendo el material principal para la fabricación de chips semiconductores y transistores. [1, 2, 4]",
+    "Se encuentra abundantemente en la naturaleza como dióxido de silicio (sílice) en la arena, cuarzo, y en silicatos en rocas como el granito y la arcilla. [1, 2, 4]",
+    "Las diatomeas, un tipo de alga, construyen sus paredes celulares (frústulas) a partir de sílice biogénica. [1, 2]",
+    "El silicio ultrapuro, necesario para la electrónica, es uno de los materiales más puros producidos comercialmente. [1, 2]"
+  ],
+  "usos": [
+    "Fabricación de dispositivos semiconductores, como microprocesadores, transistores y circuitos integrados (chips). [1, 2, 4]",
+    "Producción de vidrio, cemento, cerámica y ladrillos, principalmente a partir de sílice y silicatos. [1, 2, 4]",
+    "Fabricación de células solares fotovoltaicas para la conversión de luz solar en electricidad. [1, 2, 4]",
+    "En aleaciones, como el ferrosilicio, para mejorar las propiedades de metales como el acero y el aluminio. [1, 2]",
+    "Producción de siliconas, polímeros versátiles utilizados como selladores, adhesivos, lubricantes, implantes médicos y utensilios de cocina. [1, 2, 4]",
+    "Fabricación de abrasivos como el carburo de silicio (carborundo). [1, 2]",
+    "Como desecante (gel de sílice) para absorber la humedad. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "SiO₂ (dióxido de silicio, sílice, cuarzo)",
+    "SiC (carburo de silicio, carborundo)",
+    "SiH₄ (silano)",
+    "Na₂SiO₃ (silicato de sodio, vidrio soluble)",
+    "K₂SiO₃ (silicato de potasio)",
+    "[-Si(CH₃)₂-O-]n (polidimetilsiloxano, una silicona común)"
+  ],
+  "abundancia": {
+    "universo": 0.071,
+    "cortezaTerrestre": 282000,
+    "atmosfera": "Trazas (como polvo de silicatos)",
+    "oceano": 2.2,
+    "totalTierra": 15.2,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.0026,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (el silicio elemental es inerte; la inhalación prolongada de polvo fino de sílice cristalina puede causar silicosis). [1, 2]",
+  "origenDelNombre": "Del latín 'silex' o 'silicis', que significa pedernal o roca dura, en referencia a su presencia común en rocas y minerales. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Silicio",
+    "https://www.rsc.org/periodic-table/element/14/silicon"
+  ]
+},
   
 ]
