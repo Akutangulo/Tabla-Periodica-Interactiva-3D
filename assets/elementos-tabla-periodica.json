@@ -1780,6 +1780,114 @@
     "https://es.wikipedia.org/wiki/Azufre",
     "https://www.rsc.org/periodic-table/element/16/sulfur"
   ]
+},
+  {
+  "simbolo": "Cl",
+  "nombre": "Cloro",
+  "numeroAtomico": 17,
+  "masaAtomica": 35.45,
+  "grupo": 17,
+  "periodo": 3,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 171.6,
+    "puntoDeEbullicion": 239.11,
+    "densidad": 0.003214,
+    "radioAtomico": 99,
+    "conductividadTermica": 0.0089
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 3.16,
+    "energiaDeIonizacion": 1251.2,
+    "afinidadElectronica": 349.0,
+    "estadosOxidacion": [-1, 1, 2, 3, 4, 5, 6, 7]
+  },
+  "capasElectronicas": [2, 8, 7],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["diatomico", "halógeno"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Cloro-35",
+      "numeroNeutrones": 18,
+      "masaAtomica": 34.96885268,
+      "abundancia": 75.76,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cloro-36",
+      "numeroNeutrones": 19,
+      "masaAtomica": 35.9683069,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta- / ε / beta+",
+        "vidaMedia": "3.01 × 10^5 años"
+      }
+    },
+    {
+      "nombre": "Cloro-37",
+      "numeroNeutrones": 20,
+      "masaAtomica": 36.96590259,
+      "abundancia": 24.24,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Wilhelm Scheele",
+    "fechaDescubrimiento": 1774
+  },
+  "datosCuriosos": [
+    "Es un gas diatómico (Cl₂) de color amarillo verdoso, altamente reactivo, tóxico y con un olor fuerte y sofocante. [1, 2, 4]",
+    "Fue utilizado como arma química (gas asfixiante) por primera vez por el ejército alemán durante la Primera Guerra Mundial en la Segunda Batalla de Ypres en 1915. [1, 2, 4]",
+    "Forma parte del cloruro de sodio (NaCl), comúnmente conocido como sal de mesa, un compuesto esencial para la vida. [1, 2, 4]",
+    "Debido a sus propiedades oxidantes, es un desinfectante eficaz que mata bacterias y otros microorganismos en el agua potable y piscinas. [1, 2, 4]",
+    "Es el segundo halógeno más reactivo después del flúor. [1, 2]",
+    "El ion cloruro (Cl⁻) es un electrolito importante en los fluidos corporales. [1, 2]"
+  ],
+  "usos": [
+    "Desinfección del agua potable y de piscinas para eliminar bacterias y otros patógenos. [1, 2, 4]",
+    "Producción de blanqueadores domésticos e industriales (principalmente hipoclorito de sodio, lejía). [1, 2, 4]",
+    "Fabricación de una amplia gama de plásticos, especialmente el policloruro de vinilo (PVC). [1, 2, 4]",
+    "Síntesis de numerosos productos químicos orgánicos e inorgánicos, incluyendo disolventes, pesticidas, productos farmacéuticos y refrigerantes. [1, 2, 4]",
+    "En la industria papelera para el blanqueo de la pulpa de papel. [1, 2]",
+    "Producción de cloruro de hidrógeno (HCl), que disuelto en agua forma el ácido clorhídrico. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "NaCl (cloruro de sodio, sal de mesa)",
+    "HCl (cloruro de hidrógeno / ácido clorhídrico)",
+    "NaClO (hipoclorito de sodio, lejía)",
+    "KCl (cloruro de potasio)",
+    "CaCl₂ (cloruro de calcio)",
+    "PVC (policloruro de vinilo)",
+    "CCl₄ (tetracloruro de carbono, uso restringido)"
+  ],
+  "abundancia": {
+    "universo": 0.000085,
+    "cortezaTerrestre": 145,
+    "atmosfera": "Trazas (como compuestos orgánicos clorados y aerosoles marinos)",
+    "oceano": 19400,
+    "totalTierra": 0.17,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.12,
+      "categoriaAbundancia": "Secundario (0.1-1%)"
+    }
+  },
+  "toxicidad": "true (el gas cloro es altamente tóxico y corrosivo; el ion cloruro es esencial pero puede ser perjudicial en exceso). [1, 2]",
+  "origenDelNombre": "Del griego 'khlōros' (χλωρός), que significa \"verde pálido\" o \"amarillo verdoso\", en referencia al color característico del gas. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Cloro",
+    "https://www.rsc.org/periodic-table/element/17/chlorine"
+  ]
 }
   
 ]
