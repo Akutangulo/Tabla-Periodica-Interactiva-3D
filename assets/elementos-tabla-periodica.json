@@ -1005,5 +1005,102 @@
     "https://www.rsc.org/periodic-table/element/9/fluorine"
   ]
 },
+  {
+  "simbolo": "Ne",
+  "nombre": "Neón",
+  "numeroAtomico": 10,
+  "masaAtomica": 20.1797,
+  "grupo": 18,
+  "periodo": 2,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 24.56,
+    "puntoDeEbullicion": 27.07,
+    "densidad": 0.0009002,
+    "radioAtomico": 154,
+    "conductividadTermica": 0.0491
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": null,
+    "energiaDeIonizacion": 2080.7,
+    "afinidadElectronica": 0,
+    "estadosOxidacion": [0]
+  },
+  "capasElectronicas": [2, 8],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["gas noble"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Neón-20",
+      "numeroNeutrones": 10,
+      "masaAtomica": 19.992440175,
+      "abundancia": 90.48,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Neón-21",
+      "numeroNeutrones": 11,
+      "masaAtomica": 20.99384668,
+      "abundancia": 0.27,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Neón-22",
+      "numeroNeutrones": 12,
+      "masaAtomica": 21.99138511,
+      "abundancia": 9.25,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "William Ramsay y Morris Travers",
+    "fechaDescubrimiento": 1898
+  },
+  "datosCuriosos": [
+    "Emite un característico brillo rojo-anaranjado cuando se le aplica una descarga eléctrica en un tubo de vacío, lo que lo hace famoso en las luces de neón. [1, 2, 8, 9, 10]",
+    "Es relativamente raro en la atmósfera terrestre (aproximadamente 1 parte en 55,000 o 18.2 ppm), pero es el quinto elemento más abundante en el universo. [2, 4, 10]",
+    "Fue descubierto por Ramsay y Travers al estudiar los componentes del aire líquido, poco después de su descubrimiento del kriptón y el xenón. [1, 2, 4, 10]",
+    "Es un gas noble extremadamente inerte y, durante mucho tiempo, se consideró que no formaba compuestos químicos. Se han observado iones moleculares exóticos en condiciones de laboratorio. [1, 2, 4, 10]",
+    "El neón líquido tiene más de 40 veces la capacidad de refrigeración por unidad de volumen que el helio líquido, y más de 3 veces la del hidrógeno líquido. [2, 4]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de letreros luminosos (luces de neón), donde produce un brillo rojo-anaranjado. Otros gases nobles se usan para producir otros colores. [1, 2, 4, 8, 9, 10, 11]",
+    "En indicadores de alto voltaje y tubos de televisión. [2, 4, 10]",
+    "En algunos tipos de láseres, como los láseres de helio-neón (HeNe), que emiten luz roja. [2, 4, 10, 11]",
+    "Como refrigerante criogénico en aplicaciones específicas donde se requieren temperaturas muy bajas. [2, 4, 10]",
+    "En tubos de vacío y detectores de partículas. [2, 4]"
+  ],
+  "compuestosImportantes": [
+    "Prácticamente ninguno en condiciones normales. Se han observado iones como (NeAr)+, (NeH)+, y (HeNe)+ en espectrómetros de masas y estudios ópticos. [2, 4]"
+  ],
+  "abundancia": {
+    "universo": 0.126,
+    "cortezaTerrestre": 0.000003,
+    "atmosfera": 0.001818,
+    "oceano": 0.00000012,
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "false (no tóxico, pero puede ser un asfixiante simple en altas concentraciones). [2]",
+  "origenDelNombre": "Del griego 'neos' (νέος), que significa \"nuevo\", ya que era un elemento recién descubierto cuando fue aislado por primera vez. [1, 2, 4, 8, 9, 10, 11]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Ne%C3%B3n",
+    "https://www.rsc.org/periodic-table/element/10/neon"
+  ]
+}
   
 ]
