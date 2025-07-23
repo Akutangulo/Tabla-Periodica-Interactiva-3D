@@ -1101,6 +1101,116 @@
     "https://es.wikipedia.org/wiki/Ne%C3%B3n",
     "https://www.rsc.org/periodic-table/element/10/neon"
   ]
-}
+},
+  {
+  "simbolo": "Na",
+  "nombre": "Sodio",
+  "numeroAtomico": 11,
+  "masaAtomica": 22.989769,
+  "grupo": 1,
+  "periodo": 3,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 370.95,
+    "puntoDeEbullicion": 1156,
+    "densidad": 0.968,
+    "radioAtomico": 186,
+    "conductividadTermica": 141
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.93,
+    "energiaDeIonizacion": 495.8,
+    "afinidadElectronica": 52.8,
+    "estadosOxidacion": [1, -1]
+  },
+  "capasElectronicas": [2, 8, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Sodio-22",
+      "numeroNeutrones": 11,
+      "masaAtomica": 21.9944364,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta+, captura electrónica (ε)",
+        "vidaMedia": "2.602 años"
+      }
+    },
+    {
+      "nombre": "Sodio-23",
+      "numeroNeutrones": 12,
+      "masaAtomica": 22.98976928,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Sodio-24",
+      "numeroNeutrones": 13,
+      "masaAtomica": 23.99096278,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "14.959 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Humphry Davy",
+    "fechaDescubrimiento": 1807
+  },
+  "datosCuriosos": [
+    "Es un metal tan blando que se puede cortar fácilmente con un cuchillo a temperatura ambiente. [13]",
+    "Reacciona violentamente con el agua, liberando hidrógeno gaseoso que puede inflamarse y causar una explosión. [2, 6, 9]",
+    "Es un componente esencial de la sal de mesa (cloruro de sodio, NaCl), vital para la vida. [2, 9, 28]",
+    "Las lámparas de vapor de sodio emiten una característica luz amarilla brillante y son muy eficientes energéticamente. [9, 11]",
+    "El sodio metálico se oxida rápidamente al exponerse al aire, perdiendo su brillo plateado y debiendo almacenarse en aceite mineral o una atmósfera inerte. [2, 12, 20]",
+    "Es el sexto elemento más abundante en la corteza terrestre. [1, 2, 4]"
+  ],
+  "usos": [
+    "Fabricación de compuestos de sodio como el hidróxido de sodio (sosa cáustica) para jabones, detergentes, papel y rayón. [1, 5, 8, 14]",
+    "En lámparas de vapor de sodio para iluminación pública debido a su alta eficiencia. [9, 11]",
+    "Como intercambiador de calor en algunos reactores nucleares. [2, 9]",
+    "En la producción de aditivos antidetonantes para gasolinas (históricamente, como plomo tetraetilo). [5, 10]",
+    "Purificación de metales fundidos y en la fabricación de aleaciones. [1, 18]",
+    "El ion sodio (Na+) es esencial para la función nerviosa y la regulación del balance hídrico en animales, incluyendo los humanos. [1, 2, 31, 32]"
+  ],
+  "compuestosImportantes": [
+    "NaCl (cloruro de sodio, sal de mesa). [1, 21, 27]",
+    "NaOH (hidróxido de sodio, sosa cáustica). [1, 8, 14, 21]",
+    "Na₂CO₃ (carbonato de sodio, soda). [2, 14, 21]",
+    "NaHCO₃ (bicarbonato de sodio). [11, 14, 21]",
+    "NaNO₃ (nitrato de sodio, salitre de Chile). [5, 11, 14]",
+    "Na₂B₄O₇·10H₂O (bórax). [7, 10, 11, 21]"
+  ],
+  "abundancia": {
+    "universo": 0.0019,
+    "cortezaTerrestre": 23600,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 10800,
+    "totalTierra": 1.54,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.14,
+      "categoriaAbundancia": "Secundario (0.1-1%)"
+    }
+  },
+  "toxicidad": "baja (el ion sodio es esencial; el metal sodio es altamente reactivo y corrosivo). [9]",
+  "origenDelNombre": "Del inglés 'soda'. El símbolo Na proviene del latín 'natrium', derivado del árabe 'natrun', un nombre para el carbonato de sodio natural. [1, 5, 10, 11, 13, 20, 22, 23]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Sodio",
+    "https://www.rsc.org/periodic-table/element/11/sodium"
+  ]
+},
   
 ]
