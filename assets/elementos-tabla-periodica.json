@@ -1543,5 +1543,117 @@
     "https://www.rsc.org/periodic-table/element/14/silicon"
   ]
 },
+  {
+  "simbolo": "P",
+  "nombre": "Fósforo",
+  "numeroAtomico": 15,
+  "masaAtomica": 30.973762,
+  "grupo": 15,
+  "periodo": 3,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 317.30,
+    "puntoDeEbullicion": 553.65,
+    "densidad": 1.823,
+    "radioAtomico": 107,
+    "conductividadTermica": 0.236
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.19,
+    "energiaDeIonizacion": 1011.8,
+    "afinidadElectronica": 72.0,
+    "estadosOxidacion": [-3, -2, -1, 0, 1, 2, 3, 4, 5]
+  },
+  "capasElectronicas": [2, 8, 5],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["no metal", "pnictógeno"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Fósforo-31",
+      "numeroNeutrones": 16,
+      "masaAtomica": 30.973761998,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Fósforo-32",
+      "numeroNeutrones": 17,
+      "masaAtomica": 31.973907274,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "14.268 días"
+      }
+    },
+    {
+      "nombre": "Fósforo-33",
+      "numeroNeutrones": 18,
+      "masaAtomica": 32.9717255,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "25.34 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Hennig Brand",
+    "fechaDescubrimiento": 1669
+  },
+  "datosCuriosos": [
+    "El fósforo blanco exhibe quimioluminiscencia, brillando débilmente en la oscuridad al reaccionar con el oxígeno. [1, 2, 4]",
+    "Fue el primer elemento descubierto que no se conocía desde la antigüedad; Hennig Brand lo aisló al destilar grandes cantidades de orina en su búsqueda de la piedra filosofal. [1, 2, 4]",
+    "Es esencial para la vida, formando parte de los huesos y dientes (como fosfato de calcio), del ADN y ARN (en el esqueleto de fosfato-azúcar), y de moléculas energéticas como el ATP. [1, 2, 4]",
+    "Existe en varias formas alotrópicas, siendo las más comunes el fósforo blanco (ceroso, tóxico y altamente inflamable), el fósforo rojo (menos reactivo y menos tóxico) y el fósforo negro (similar al grafito, semiconductor). [1, 2, 4]",
+    "Debido a su alta reactividad, el fósforo no se encuentra libre en la naturaleza, sino principalmente en minerales de fosfato. [1, 2]"
+  ],
+  "usos": [
+    "Producción de ácido fosfórico, que a su vez se utiliza masivamente para fabricar fertilizantes fosfatados esenciales para la agricultura. [1, 2, 4]",
+    "Fabricación de cerillas (el fósforo rojo se usa en la superficie de rascado de las cajas de cerillas de seguridad). [1, 2, 4]",
+    "Componente en aleaciones como el bronce fosforoso, que mejora la dureza y resistencia a la corrosión. [1, 2]",
+    "El fósforo blanco se ha utilizado en aplicaciones militares como municiones incendiarias y cortinas de humo. [1, 2]",
+    "Algunos compuestos de fósforo se utilizan como aditivos alimentarios (e.g., ácido fosfórico en bebidas, fosfatos como estabilizantes). [1, 2]",
+    "Históricamente, los fosfatos se usaron ampliamente en detergentes, aunque su uso se ha reducido debido a problemas de eutrofización. [1, 2]",
+    "El fósforo rojo se utiliza en la producción de algunos pesticidas y en pirotecnia. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "P₄ (fósforo blanco)",
+    "P₄O₁₀ (decaóxido de tetrafósforo / pentóxido de fósforo)",
+    "H₃PO₄ (ácido fosfórico)",
+    "Ca₃(PO₄)₂ (fosfato de calcio / roca fosfórica)",
+    "PH₃ (fosfina / fosfano)",
+    "ATP (trifosfato de adenosina)",
+    "PCl₃ (tricloruro de fósforo)",
+    "PCl₅ (pentacloruro de fósforo)"
+  ],
+  "abundancia": {
+    "universo": 0.0007,
+    "cortezaTerrestre": 1050,
+    "atmosfera": "Trazas (como compuestos orgánicos volátiles y partículas)",
+    "oceano": 0.07,
+    "totalTierra": 0.076,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 1.1,
+      "categoriaAbundancia": "Principal (>1%)"
+    }
+  },
+  "toxicidad": "alta (el fósforo blanco es extremadamente tóxico y autoinflamable); baja (el fósforo rojo es mucho menos tóxico y estable); los fosfatos son esenciales pero pueden ser perjudiciales en exceso.",
+  "origenDelNombre": "Del griego 'phosphoros' (φωσφόρος), que significa \"portador de luz\" o \"lucero del alba\" (nombre antiguo del planeta Venus), debido a la quimioluminiscencia del fósforo blanco. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/F%C3%B3sforo",
+    "https://www.rsc.org/periodic-table/element/15/phosphorus"
+  ]
+},
   
 ]
