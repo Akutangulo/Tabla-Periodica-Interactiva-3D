@@ -1654,6 +1654,132 @@
     "https://es.wikipedia.org/wiki/F%C3%B3sforo",
     "https://www.rsc.org/periodic-table/element/15/phosphorus"
   ]
+}, 
+  {
+  "simbolo": "S",
+  "nombre": "Azufre",
+  "numeroAtomico": 16,
+  "masaAtomica": 32.06,
+  "grupo": 16,
+  "periodo": 3,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 388.36,
+    "puntoDeEbullicion": 717.8,
+    "densidad": 2.07,
+    "radioAtomico": 105,
+    "conductividadTermica": 0.205
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.58,
+    "energiaDeIonizacion": 999.6,
+    "afinidadElectronica": 200.4,
+    "estadosOxidacion": [-2, -1, 0, 1, 2, 3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 6],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["no metal", "calcógeno"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Azufre-32",
+      "numeroNeutrones": 16,
+      "masaAtomica": 31.972071174,
+      "abundancia": 94.99,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Azufre-33",
+      "numeroNeutrones": 17,
+      "masaAtomica": 32.971458909,
+      "abundancia": 0.75,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Azufre-34",
+      "numeroNeutrones": 18,
+      "masaAtomica": 33.96786683,
+      "abundancia": 4.25,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Azufre-36",
+      "numeroNeutrones": 20,
+      "masaAtomica": 35.9670807,
+      "abundancia": 0.01,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Azufre-35",
+      "numeroNeutrones": 19,
+      "masaAtomica": 34.96903233,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "87.51 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido por las civilizaciones antiguas. Antoine Lavoisier lo reconoció como elemento.",
+    "fechaDescubrimiento": "Antigüedad (conocimiento); c. 1777 (reconocimiento como elemento)"
+  },
+  "datosCuriosos": [
+    "El sulfuro de hidrógeno (H₂S), un compuesto de azufre, es responsable del característico olor a huevos podridos. [1, 2, 4]",
+    "En su forma elemental más común (azufre rómbico o α-azufre), es un sólido cristalino de color amarillo brillante. [1, 2, 4]",
+    "En la alquimia, el azufre era uno de los tres principios (junto con el mercurio y la sal) y se asociaba con la combustibilidad, siendo conocido como 'piedra que arde' o 'piedra de fuego'. [1, 2, 4]",
+    "Se encuentra en forma nativa en grandes depósitos, a menudo cerca de regiones volcánicas y fuentes termales. [1, 2, 4]",
+    "Es un componente esencial de los aminoácidos cisteína y metionina, y por lo tanto, de muchas proteínas. [1, 2, 4]",
+    "El azufre fundido presenta un cambio de color notable al aumentar la temperatura, pasando de amarillo a rojo y luego a marrón oscuro debido a cambios en su estructura molecular. [1, 2]"
+  ],
+  "usos": [
+    "La mayor parte del azufre se utiliza para producir ácido sulfúrico (H₂SO₄), uno de los productos químicos industriales más importantes. [1, 2, 4]",
+    "Fabricación de fertilizantes (principalmente superfosfatos) y pesticidas (fungicidas e insecticidas). [1, 2, 4]",
+    "Vulcanización del caucho para mejorar su elasticidad y durabilidad, esencial en la fabricación de neumáticos. [1, 2, 4]",
+    "Componente de la pólvora negra (junto con carbón y nitrato de potasio). [1, 2, 4]",
+    "Producción de productos farmacéuticos (como las sulfamidas), detergentes, papel y tintes. [1, 2, 4]",
+    "El dióxido de azufre (SO₂) se utiliza como conservante en algunos alimentos y bebidas (e.g., vino) y como blanqueador. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "H₂SO₄ (ácido sulfúrico)",
+    "SO₂ (dióxido de azufre)",
+    "SO₃ (trióxido de azufre)",
+    "H₂S (sulfuro de hidrógeno)",
+    "CS₂ (disulfuro de carbono)",
+    "FeS₂ (pirita, \"oro de los tontos\")",
+    "CaSO₄·2H₂O (yeso)"
+  ],
+  "abundancia": {
+    "universo": 0.037,
+    "cortezaTerrestre": 350,
+    "atmosfera": "Trazas (como SO₂ y H₂S, principalmente de origen volcánico y biogénico)",
+    "oceano": 900,
+    "totalTierra": 0.52,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.20,
+      "categoriaAbundancia": "Secundario (0.1-1%)"
+    }
+  },
+  "toxicidad": "baja (el azufre elemental no es tóxico); muchos de sus compuestos, como el dióxido de azufre (SO₂) y el sulfuro de hidrógeno (H₂S), son tóxicos. [1, 2]",
+  "origenDelNombre": "Del latín 'sulphur' (o 'sulfur'), que era el nombre antiguo para el elemento. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Azufre",
+    "https://www.rsc.org/periodic-table/element/16/sulfur"
+  ]
 }
   
 ]
