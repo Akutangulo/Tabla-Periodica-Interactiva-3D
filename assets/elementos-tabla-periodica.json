@@ -1326,6 +1326,105 @@
     "https://es.wikipedia.org/wiki/Magnesio",
     "https://www.rsc.org/periodic-table/element/12/magnesium"
   ]
-}
+},
+  {
+  "simbolo": "Al",
+  "nombre": "Aluminio",
+  "numeroAtomico": 13,
+  "masaAtomica": 26.9815385,
+  "grupo": 13,
+  "periodo": 3,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 933.47,
+    "puntoDeEbullicion": 2792,
+    "densidad": 2.70,
+    "radioAtomico": 143,
+    "conductividadTermica": 237
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.61,
+    "energiaDeIonizacion": 577.5,
+    "afinidadElectronica": 41.7,
+    "estadosOxidacion": [3, 1]
+  },
+  "capasElectronicas": [2, 8, 3],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal del bloque p", "metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Aluminio-26",
+      "numeroNeutrones": 13,
+      "masaAtomica": 25.98689186,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "β+ / ε",
+        "vidaMedia": "7.17 × 10^5 años"
+      }
+    },
+    {
+      "nombre": "Aluminio-27",
+      "numeroNeutrones": 14,
+      "masaAtomica": 26.98153853,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Hans Christian Ørsted (preparación impura); Friedrich Wöhler (aislamiento puro)",
+    "fechaDescubrimiento": "1825 (Ørsted); 1827 (Wöhler)"
+  },
+  "datosCuriosos": [
+    "Es el metal más abundante en la corteza terrestre, constituyendo aproximadamente el 8.2%. [1, 2, 4]",
+    "Durante el siglo XIX, el aluminio era más valioso que el oro debido a la dificultad de su extracción. [1, 2, 4]",
+    "Es 100% reciclable sin perder sus propiedades físicas, y su reciclaje requiere solo el 5% de la energía necesaria para producirlo a partir de mineral. [1, 2, 4]",
+    "Se oxida rápidamente al exponerse al aire, formando una delgada capa superficial de óxido de aluminio (Al₂O₃) que es impermeable y protege al metal de una mayor corrosión (pasivación). [1, 2, 4]",
+    "Es un excelente conductor de electricidad y calor, y no es magnético. [1, 2, 4]",
+    "A pesar de su reactividad, es seguro para el contacto con alimentos debido a su capa de óxido protectora. [1, 2, 4]"
+  ],
+  "usos": [
+    "Fabricación de latas de bebidas y envases para alimentos debido a su ligereza, maleabilidad y resistencia a la corrosión. [1, 2, 4]",
+    "En la industria del transporte para la construcción de aviones, automóviles, trenes de alta velocidad y barcos, por su baja densidad y alta resistencia. [1, 2, 4]",
+    "Producción de papel de aluminio para uso doméstico (cocinar, envolver alimentos) e industrial. [1, 2, 4]",
+    "En la construcción para marcos de ventanas, fachadas, techos y otras estructuras. [1, 2, 4]",
+    "Fabricación de cables eléctricos y conductores (aunque con menor conductividad que el cobre, es más ligero). [1, 2, 4]",
+    "Producción de utensilios de cocina, bienes de consumo y equipamiento deportivo. [1, 2, 4]",
+    "Como componente en aleaciones (e.g., duraluminio) para mejorar la resistencia y otras propiedades. [1, 2, 4]"
+  ],
+  "compuestosImportantes": [
+    "Al₂O₃ (óxido de aluminio, alúmina, corindón)",
+    "Al(OH)₃ (hidróxido de aluminio)",
+    "AlCl₃ (cloruro de aluminio)",
+    "Al₂(SO₄)₃ (sulfato de aluminio)",
+    "NaAlO₂ (aluminato de sodio)",
+    "LiAlH₄ (tetrahidruroaluminato de litio)"
+  ],
+  "abundancia": {
+    "universo": 0.0053,
+    "cortezaTerrestre": 82300,
+    "atmosfera": "Trazas (como polvo)",
+    "oceano": 0.002,
+    "totalTierra": 1.59,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00009,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (el metal en sí no es tóxico; algunas sales de aluminio pueden ser tóxicas en altas dosis y su relación con enfermedades neurodegenerativas es objeto de debate). [1, 2, 4]",
+  "origenDelNombre": "Del latín 'alumen' (genitivo 'aluminis'), que se refería al alumbre (sulfato de aluminio y potasio), un compuesto utilizado en la antigüedad como mordiente en tintorería y como astringente. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Aluminio",
+    "https://www.rsc.org/periodic-table/element/13/aluminium"
+  ]
+},
   
 ]
