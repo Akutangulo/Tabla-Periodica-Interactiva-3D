@@ -1999,6 +1999,114 @@
     "https://es.wikipedia.org/wiki/Arg%C3%B3n",
     "https://www.rsc.org/periodic-table/element/18/argon"
   ]
+},
+  {
+  "simbolo": "K",
+  "nombre": "Potasio",
+  "numeroAtomico": 19,
+  "masaAtomica": 39.0983,
+  "grupo": 1,
+  "periodo": 4,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 336.53,
+    "puntoDeEbullicion": 1032,
+    "densidad": 0.862,
+    "radioAtomico": 227,
+    "conductividadTermica": 102.5
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.82,
+    "energiaDeIonizacion": 418.8,
+    "afinidadElectronica": 48.383,
+    "estadosOxidacion": [1, -1]
+  },
+  "capasElectronicas": [2, 8, 8, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Potasio-39",
+      "numeroNeutrones": 20,
+      "masaAtomica": 38.963706486,
+      "abundancia": 93.2581,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Potasio-40",
+      "numeroNeutrones": 21,
+      "masaAtomica": 39.96399817,
+      "abundancia": 0.0117,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta- / ε / beta+",
+        "vidaMedia": "1.251 × 10^9 años"
+      }
+    },
+    {
+      "nombre": "Potasio-41",
+      "numeroNeutrones": 22,
+      "masaAtomica": 40.961825257,
+      "abundancia": 6.7302,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Humphry Davy",
+    "fechaDescubrimiento": 1807
+  },
+  "datosCuriosos": [
+    "Es un metal alcalino blando, de color plateado, que se oxida rápidamente en el aire y reacciona vigorosamente, a menudo de forma explosiva, con el agua. [1, 2, 4]",
+    "Es un electrolito esencial para el funcionamiento de las células nerviosas y musculares, y para mantener el equilibrio hídrico en el cuerpo humano. [1, 2, 4]",
+    "Se encuentra en muchos alimentos, siendo los plátanos, las patatas, las espinacas y las legumbres fuentes conocidas de potasio. [1, 2, 4]",
+    "Su símbolo químico 'K' proviene de 'kalium', el nombre neolatín del elemento, que a su vez deriva del árabe 'al-qalyah' (cenizas de plantas), ya que la potasa se obtenía de estas cenizas. [1, 2, 4]",
+    "El isótopo natural potasio-40 es radiactivo y es la principal fuente de radiactividad natural en los animales, incluyendo los humanos, a través de la cadena alimentaria. [1, 2, 4]",
+    "El potasio metálico es menos denso que el agua. [1, 2]"
+  ],
+  "usos": [
+    "La mayoría del potasio se utiliza en forma de compuestos (principalmente cloruro de potasio, sulfato de potasio y nitrato de potasio) como fertilizantes agrícolas (potasa), ya que es un nutriente esencial para el crecimiento de las plantas. [1, 2, 4]",
+    "El ion potasio (K⁺) es crucial para la regulación de los fluidos corporales, la transmisión de impulsos nerviosos y la contracción muscular en los seres vivos. [1, 2, 4]",
+    "El hidróxido de potasio (KOH) se utiliza en la fabricación de jabones líquidos y blandos, y como electrolito en algunas baterías alcalinas. [1, 2, 4]",
+    "El carbonato de potasio (K₂CO₃) se utiliza en la producción de ciertos tipos de vidrio especial, como el utilizado en tubos de televisión y pantallas. [1, 2, 4]",
+    "El nitrato de potasio (KNO₃, salitre) es un componente de la pólvora negra y se utiliza en fuegos artificiales y como conservante de alimentos. [1, 2, 4]",
+    "El superóxido de potasio (KO₂) se utiliza en aparatos de respiración autónoma en minas y naves espaciales porque libera oxígeno y absorbe dióxido de carbono. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "KCl (cloruro de potasio, silvina)",
+    "KOH (hidróxido de potasio, potasa cáustica)",
+    "K₂CO₃ (carbonato de potasio, potasa)",
+    "KNO₃ (nitrato de potasio, salitre)",
+    "K₂SO₄ (sulfato de potasio)",
+    "KMnO₄ (permanganato de potasio)",
+    "KCN (cianuro de potasio)"
+  ],
+  "abundancia": {
+    "universo": 0.00031,
+    "cortezaTerrestre": 20900,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 399,
+    "totalTierra": 0.16,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.20,
+      "categoriaAbundancia": "Secundario (0.1-1%)"
+    }
+  },
+  "toxicidad": "baja (el ion potasio es esencial; el metal potasio es altamente reactivo y corrosivo). Un exceso de potasio en el cuerpo (hiperpotasemia) puede ser peligroso. [1, 2]",
+  "origenDelNombre": "El nombre \"potasio\" deriva de \"potasa\", ya que el compuesto se obtenía de las cenizas de plantas ('pot ash'). El símbolo K proviene del latín 'kalium', que a su vez deriva del árabe 'al-qalyah' (القَلْيَه), que significa \"cenizas de plantas calcinadas\". [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Potasio",
+    "https://www.rsc.org/periodic-table/element/19/potassium"
+  ]
 }
   
 ]
