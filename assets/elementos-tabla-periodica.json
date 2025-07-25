@@ -1888,6 +1888,117 @@
     "https://es.wikipedia.org/wiki/Cloro",
     "https://www.rsc.org/periodic-table/element/17/chlorine"
   ]
+},
+  {
+  "simbolo": "Ar",
+  "nombre": "Argón",
+  "numeroAtomico": 18,
+  "masaAtomica": 39.948,
+  "grupo": 18,
+  "periodo": 3,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 83.81,
+    "puntoDeEbullicion": 87.30,
+    "densidad": 0.001784,
+    "radioAtomico": 188,
+    "conductividadTermica": 0.01772
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": null,
+    "energiaDeIonizacion": 1520.6,
+    "afinidadElectronica": 0,
+    "estadosOxidacion": [0]
+  },
+  "capasElectronicas": [2, 8, 8],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["gas noble"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Argón-36",
+      "numeroNeutrones": 18,
+      "masaAtomica": 35.9675451,
+      "abundancia": 0.334,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Argón-38",
+      "numeroNeutrones": 20,
+      "masaAtomica": 37.9627321,
+      "abundancia": 0.063,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Argón-40",
+      "numeroNeutrones": 22,
+      "masaAtomica": 39.962383123,
+      "abundancia": 99.604,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Argón-39",
+      "numeroNeutrones": 21,
+      "masaAtomica": 38.964313,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "269 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Lord Rayleigh (John William Strutt) y Sir William Ramsay",
+    "fechaDescubrimiento": 1894
+  },
+  "datosCuriosos": [
+    "Constituye aproximadamente el 0.934% del volumen de la atmósfera terrestre, siendo el gas noble más abundante en el aire. [1, 2, 4]",
+    "Es un gas extremadamente inerte debido a su capa de valencia completa, por lo que no forma compuestos químicos estables en condiciones normales. [1, 2, 4]",
+    "Fue el primer gas noble en ser descubierto. Rayleigh y Ramsay lo identificaron al notar que el nitrógeno obtenido del aire era ligeramente más denso que el nitrógeno producido químicamente. [1, 2, 4]",
+    "Cuando se somete a una descarga eléctrica en un tubo de vacío, el argón emite una luz que puede variar de lila a púrpura o azul, dependiendo de la presión y la pureza. [1, 2]",
+    "El isótopo argón-40 se forma por la desintegración radiactiva del potasio-40 en la corteza terrestre, lo que contribuye a su abundancia atmosférica. [1, 2]"
+  ],
+  "usos": [
+    "Como gas de relleno inerte en bombillas incandescentes y fluorescentes para proteger el filamento de la oxidación y prolongar su vida útil. [1, 2, 4]",
+    "Como gas protector en soldadura por arco (soldadura TIG y MIG) y en la fabricación de metales reactivos como el titanio para evitar la oxidación. [1, 2, 4]",
+    "En láseres de argón, que producen luz azul-verde y se utilizan en medicina (cirugía ocular, dermatología), espectroscopia y como punteros láser. [1, 2, 4]",
+    "Para crear atmósferas inertes en la conservación de documentos históricos, artefactos y vinos de calidad, previniendo su degradación. [1, 2]",
+    "En ventanas de doble acristalamiento de alto rendimiento como aislante térmico. [1, 2, 4]",
+    "En la industria de semiconductores para procesos de pulverización catódica (sputtering) y grabado. [1, 2]",
+    "El isótopo argón-39 se utiliza en la datación de aguas subterráneas y núcleos de hielo (datación argón-argón). [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Fluorohidruro de argón (HArF), un compuesto inestable observado a temperaturas muy bajas. En general, el argón no forma compuestos estables. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": 0.0007,
+    "cortezaTerrestre": 1.2,
+    "atmosfera": 0.934,
+    "oceano": 0.6,
+    "totalTierra": 0.0004,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "false (no tóxico, pero puede ser un asfixiante simple en altas concentraciones al desplazar el oxígeno). [1, 2]",
+  "origenDelNombre": "Del griego 'argos' (ἀργός), que significa \"inactivo\", \"perezoso\" o \"lento\", en referencia a su marcada inercia química. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Arg%C3%B3n",
+    "https://www.rsc.org/periodic-table/element/18/argon"
+  ]
 }
   
 ]
