@@ -2107,6 +2107,154 @@
     "https://es.wikipedia.org/wiki/Potasio",
     "https://www.rsc.org/periodic-table/element/19/potassium"
   ]
+},
+  {
+  "simbolo": "Ca",
+  "nombre": "Calcio",
+  "numeroAtomico": 20,
+  "masaAtomica": 40.078,
+  "grupo": 2,
+  "periodo": 4,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1115,
+    "puntoDeEbullicion": 1757,
+    "densidad": 1.55,
+    "radioAtomico": 197,
+    "conductividadTermica": 201
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.00,
+    "energiaDeIonizacion": 589.8,
+    "afinidadElectronica": 2.37,
+    "estadosOxidacion": [2]
+  },
+  "capasElectronicas": [2, 8, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalinotérreo"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Calcio-40",
+      "numeroNeutrones": 20,
+      "masaAtomica": 39.962590863,
+      "abundancia": 96.941,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Calcio-42",
+      "numeroNeutrones": 22,
+      "masaAtomica": 41.95861783,
+      "abundancia": 0.647,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Calcio-43",
+      "numeroNeutrones": 23,
+      "masaAtomica": 42.95876644,
+      "abundancia": 0.135,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Calcio-44",
+      "numeroNeutrones": 24,
+      "masaAtomica": 43.95548156,
+      "abundancia": 2.086,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Calcio-46",
+      "numeroNeutrones": 26,
+      "masaAtomica": 45.9536890,
+      "abundancia": 0.004,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Calcio-48",
+      "numeroNeutrones": 28,
+      "masaAtomica": 47.95252276,
+      "abundancia": 0.187,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": "6.4 × 10^19 años"
+      }
+    },
+    {
+      "nombre": "Calcio-41",
+      "numeroNeutrones": 21,
+      "masaAtomica": 40.96227789,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "9.94 × 10^4 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Humphry Davy",
+    "fechaDescubrimiento": 1808
+  },
+  "datosCuriosos": [
+    "Es el mineral más abundante en el cuerpo humano, siendo un componente esencial de los huesos y los dientes (en forma de hidroxiapatita). [1, 2, 4]",
+    "Se encuentra en productos lácteos como la leche y el queso, así como en verduras de hoja verde y la tiza (carbonato de calcio). [1, 2, 4]",
+    "Cuando se quema, el calcio metálico produce una llama de color naranja-rojizo brillante. [1, 2]",
+    "Es el quinto elemento más abundante en la corteza terrestre, principalmente en forma de minerales como la piedra caliza (carbonato de calcio), el yeso (sulfato de calcio) y la fluorita (fluoruro de calcio). [1, 2, 4]",
+    "El calcio metálico es un metal alcalinotérreo relativamente blando, de color plateado, que reacciona con el aire y el agua. [1, 2]",
+    "El ion calcio (Ca²⁺) juega un papel vital en muchos procesos biológicos, incluyendo la contracción muscular, la transmisión de impulsos nerviosos y la coagulación de la sangre. [1, 2, 4]"
+  ],
+  "usos": [
+    "Producción de cemento y mortero (a partir de piedra caliza, que es principalmente carbonato de calcio) para la construcción. [1, 2, 4]",
+    "Como suplemento dietético para asegurar una ingesta adecuada de calcio y fortalecer los huesos, previniendo la osteoporosis. [1, 2, 4]",
+    "Como agente reductor en la extracción de otros metales, como el uranio, circonio y torio. [1, 2]",
+    "En la fabricación de queso, donde el cloruro de calcio se utiliza a veces como coagulante. [1, 2]",
+    "Producción de cal viva (óxido de calcio, CaO) y cal apagada (hidróxido de calcio, Ca(OH)₂), utilizadas en la industria, la agricultura y el tratamiento de aguas. [1, 2, 4]",
+    "El yeso (sulfato de calcio dihidratado) se utiliza para fabricar paneles de yeso (drywall) y como material de moldeo. [1, 2, 4]",
+    "En la industria siderúrgica como desoxidante, desulfurante y descarbonizante. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "CaCO₃ (carbonato de calcio, piedra caliza, mármol, tiza)",
+    "CaO (óxido de calcio, cal viva)",
+    "Ca(OH)₂ (hidróxido de calcio, cal apagada)",
+    "CaSO₄ (sulfato de calcio, yeso, anhidrita)",
+    "CaCl₂ (cloruro de calcio)",
+    "Ca₃(PO₄)₂ (fosfato de calcio)",
+    "CaF₂ (fluoruro de calcio, fluorita)"
+  ],
+  "abundancia": {
+    "universo": 0.0072,
+    "cortezaTerrestre": 41500,
+    "atmosfera": "Trazas (como polvo de carbonato)",
+    "oceano": 412,
+    "totalTierra": 1.94,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 1.4,
+      "categoriaAbundancia": "Principal (>1%)"
+    }
+  },
+  "toxicidad": "baja (el ion calcio es esencial; el metal calcio reacciona con la humedad y puede ser irritante). Un exceso de calcio en el cuerpo (hipercalcemia) puede ser perjudicial. [1, 2]",
+  "origenDelNombre": "Del latín 'calx' (genitivo 'calcis'), que significa cal o piedra caliza, ya que el calcio se aisló por primera vez a partir de la cal. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Calcio",
+    "https://www.rsc.org/periodic-table/element/20/calcium"
+  ]
 }
   
 ]
