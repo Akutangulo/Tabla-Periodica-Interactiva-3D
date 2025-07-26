@@ -2255,6 +2255,114 @@
     "https://es.wikipedia.org/wiki/Calcio",
     "https://www.rsc.org/periodic-table/element/20/calcium"
   ]
+},
+  {
+  "simbolo": "Sc",
+  "nombre": "Escandio",
+  "numeroAtomico": 21,
+  "masaAtomica": 44.955908,
+  "grupo": 3,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1814,
+    "puntoDeEbullicion": 3109,
+    "densidad": 2.985,
+    "radioAtomico": 162,
+    "conductividadTermica": 15.8
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.36,
+    "energiaDeIonizacion": 633.1,
+    "afinidadElectronica": 18.1,
+    "estadosOxidacion": [3, 2, 1]
+  },
+  "capasElectronicas": [2, 8, 9, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Escandio-44",
+      "numeroNeutrones": 23,
+      "masaAtomica": 43.9594028,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta+",
+        "vidaMedia": "3.97 horas"
+      }
+    },
+    {
+      "nombre": "Escandio-45",
+      "numeroNeutrones": 24,
+      "masaAtomica": 44.95590828,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Escandio-46",
+      "numeroNeutrones": 25,
+      "masaAtomica": 45.9551703,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "83.79 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Lars Fredrik Nilson",
+    "fechaDescubrimiento": 1879
+  },
+  "datosCuriosos": [
+    "Es un metal de transición blando, ligero, de color blanco plateado, que desarrolla una ligera tonalidad amarillenta o rosada al exponerse al aire. [1, 2, 4]",
+    "La existencia y propiedades del escandio (como 'eka-boro') fueron predichas por Dmitri Mendeléyev en 1869 antes de su descubrimiento real. [1, 2, 4]",
+    "Se encuentra en pequeñas cantidades en minerales raros de Escandinavia y Madagascar, como la tortveitita, euxenita y gadolinita. [1, 2, 4]",
+    "Es considerablemente más abundante en el Sol y algunas estrellas que en la corteza terrestre. [1, 2]",
+    "El escandio puro no se aisló hasta 1937. [1, 2]",
+    "Tiene una densidad similar a la del aluminio, pero un punto de fusión mucho más alto. [1, 2]"
+  ],
+  "usos": [
+    "En aleaciones con aluminio (aluminio-escandio) para fabricar componentes ligeros y de alta resistencia para la industria aeroespacial y equipos deportivos de alto rendimiento (cuadros de bicicleta, bates de béisbol, palos de lacrosse). [1, 2, 4]",
+    "En lámparas de halogenuros metálicos de alta intensidad (lámparas de escandio-sodio), que producen una luz muy similar a la luz solar y se utilizan en estudios de televisión y cine. [1, 2, 4]",
+    "El isótopo radiactivo escandio-46 se utiliza como trazador en refinerías de petróleo para monitorear el flujo de fracciones de crudo. [1, 2]",
+    "Se investiga su uso en catalizadores para diversas reacciones químicas. [1, 2]",
+    "Pequeñas adiciones de escandio pueden mejorar significativamente la resistencia y soldabilidad de las aleaciones de aluminio. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Sc₂O₃ (óxido de escandio / escandia)",
+    "ScCl₃ (cloruro de escandio)",
+    "ScF₃ (fluoruro de escandio)",
+    "Sc₂(SO₄)₃ (sulfato de escandio)",
+    "ScN (nitruro de escandio)"
+  ],
+  "abundancia": {
+    "universo": 0.000004,
+    "cortezaTerrestre": 22,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000006,
+    "totalTierra": 0.00058,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (se considera que el escandio y sus compuestos tienen baja toxicidad, aunque los datos son limitados; el polvo metálico puede ser inflamable). [1, 2]",
+  "origenDelNombre": "Del latín 'Scandia', que significa Escandinavia, en honor a la región donde se encontraron los minerales de los que fue aislado por primera vez. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Escandio",
+    "https://www.rsc.org/periodic-table/element/21/scandium"
+  ]
 }
   
 ]
