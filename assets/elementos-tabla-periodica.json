@@ -2363,6 +2363,122 @@
     "https://es.wikipedia.org/wiki/Escandio",
     "https://www.rsc.org/periodic-table/element/21/scandium"
   ]
+},
+  {
+  "simbolo": "Ti",
+  "nombre": "Titanio",
+  "numeroAtomico": 22,
+  "masaAtomica": 47.867,
+  "grupo": 4,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1941,
+    "puntoDeEbullicion": 3560,
+    "densidad": 4.506,
+    "radioAtomico": 147,
+    "conductividadTermica": 21.9
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.54,
+    "energiaDeIonizacion": 658.8,
+    "afinidadElectronica": 7.6,
+    "estadosOxidacion": [2, 3, 4]
+  },
+  "capasElectronicas": [2, 8, 10, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Titanio-44",
+      "numeroNeutrones": 22,
+      "masaAtomica": 43.9596901,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "60.0 años"
+      }
+    },
+    {
+      "nombre": "Titanio-46",
+      "numeroNeutrones": 24,
+      "masaAtomica": 45.9526316,
+      "abundancia": 8.25,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Titanio-48",
+      "numeroNeutrones": 26,
+      "masaAtomica": 47.9479463,
+      "abundancia": 73.72,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Titanio-50",
+      "numeroNeutrones": 28,
+      "masaAtomica": 49.9447912,
+      "abundancia": 5.18,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "William Gregor",
+    "fechaDescubrimiento": 1791
+  },
+  "datosCuriosos": [
+    "Es un metal fuerte como el acero pero aproximadamente un 45% más ligero. [1, 2]",
+    "Posee una excelente resistencia a la corrosión, especialmente del agua de mar y el cloro, debido a la formación de una capa de óxido pasivante. [1, 2, 4]",
+    "Se encuentra principalmente en minerales como la ilmenita (FeTiO₃) y el rutilo (TiO₂), a menudo presentes en arenas minerales pesadas (arenas negras). [1, 2, 4]",
+    "El polvo fino de titanio puede ser pirofórico y arder espontáneamente en el aire o en nitrógeno. [1, 2]",
+    "Es biocompatible, lo que significa que no es tóxico ni rechazado por el cuerpo humano, haciéndolo ideal para implantes médicos. [1, 2, 4]",
+    "Es el noveno elemento más abundante en la corteza terrestre. [1, 2]"
+  ],
+  "usos": [
+    "Fabricación de implantes médicos y dentales (prótesis de cadera y rodilla, tornillos óseos, implantes dentales) debido a su biocompatibilidad y resistencia a la corrosión. [1, 2, 4]",
+    "En aleaciones ligeras y de alta resistencia para componentes estructurales de aviones, motores a reacción, naves espaciales y misiles. [1, 2, 4]",
+    "El dióxido de titanio (TiO₂) es el pigmento blanco más utilizado en pinturas, plásticos, papel, protectores solares, alimentos y cosméticos. [1, 2, 4]",
+    "El dióxido de titanio micronizado se usa ampliamente en protectores solares por su capacidad para bloquear la radiación UV. [1, 2, 4]",
+    "Equipamiento deportivo de alto rendimiento como palos de golf, cuadros de bicicleta, raquetas de tenis y cascos. [1, 2]",
+    "Componentes en plantas de desalinización y para la industria química debido a su excepcional resistencia a la corrosión. [1, 2]",
+    "En joyería, por su ligereza, resistencia y la capacidad de ser anodizado para producir varios colores. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "TiO₂ (dióxido de titanio / óxido de titanio(IV))",
+    "TiCl₄ (tetracloruro de titanio)",
+    "BaTiO₃ (titanato de bario)",
+    "TiN (nitruro de titanio)",
+    "FeTiO₃ (ilmenita)"
+  ],
+  "abundancia": {
+    "universo": 0.0003,
+    "cortezaTerrestre": 6320,
+    "atmosfera": "Trazas (como polvo)",
+    "oceano": 0.001,
+    "totalTierra": 1800,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.000001,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (el metal titanio y el TiO₂ son considerados no tóxicos y biocompatibles; algunos compuestos como el TiCl₄ son corrosivos).",
+  "origenDelNombre": "Nombrado por Martin Klaproth en honor a los Titanes de la mitología griega, seres de gran fuerza, debido a la resistencia del metal. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Titanio",
+    "https://www.rsc.org/periodic-table/element/22/titanium"
+  ]
 }
   
 ]
