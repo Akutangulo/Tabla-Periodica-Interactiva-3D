@@ -2587,6 +2587,230 @@
     "https://es.wikipedia.org/wiki/Vanadio",
     "https://www.rsc.org/periodic-table/element/23/vanadium"
   ]
+},
+  {
+  "simbolo": "Cr",
+  "nombre": "Cromo",
+  "numeroAtomico": 24,
+  "masaAtomica": 51.9961,
+  "grupo": 6,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2180,
+    "puntoDeEbullicion": 2944,
+    "densidad": 7.19,
+    "radioAtomico": 128,
+    "conductividadTermica": 93.9
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.66,
+    "energiaDeIonizacion": 652.9,
+    "afinidadElectronica": 65.21,
+    "estadosOxidacion": [-2, -1, 0, 1, 2, 3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 13, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Cromo-50",
+      "numeroNeutrones": 26,
+      "masaAtomica": 49.9460421,
+      "abundancia": 4.345,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cromo-51",
+      "numeroNeutrones": 27,
+      "masaAtomica": 50.9447661,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "27.7025 días"
+      }
+    },
+    {
+      "nombre": "Cromo-52",
+      "numeroNeutrones": 28,
+      "masaAtomica": 51.94050623,
+      "abundancia": 83.789,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cromo-53",
+      "numeroNeutrones": 29,
+      "masaAtomica": 52.9406481,
+      "abundancia": 9.501,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cromo-54",
+      "numeroNeutrones": 30,
+      "masaAtomica": 53.9388791,
+      "abundancia": 2.365,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Louis Nicolas Vauquelin",
+    "fechaDescubrimiento": 1797
+  },
+  "datosCuriosos": [
+    "Es un metal duro, quebradizo y lustroso, conocido por su alto brillo plateado y su resistencia al deslustre. [1, 2, 4]",
+    "Muchos de sus compuestos son intensamente coloreados, como el rojo rubí (óxido de cromo en corindón), el verde esmeralda (cromo en berilo) y el amarillo de cromato de plomo. [1, 2, 4]",
+    "Es altamente resistente a la corrosión, por lo que se utiliza como recubrimiento protector y decorativo (cromado). [1, 2, 4]",
+    "El principal mineral comercial de cromo es la cromita (FeCr₂O₄). [1, 2, 4]",
+    "El cromo(VI) es tóxico y carcinogénico, mientras que el cromo(III) es un oligoelemento esencial para el metabolismo de la glucosa en humanos. [1, 2, 4]",
+    "Tiene una configuración electrónica anómala ([Ar] 3d⁵ 4s¹) que le confiere mayor estabilidad. [1, 2]"
+  ],
+  "usos": [
+    "En el cromado electrolítico de piezas metálicas para proporcionar un acabado brillante, resistente al desgaste y a la corrosión (e.g., parachoques de automóviles, grifos, herramientas). [1, 2, 4]",
+    "Como componente principal en la producción de acero inoxidable (generalmente >10.5% de cromo), que es altamente resistente a la corrosión. [1, 2, 4]",
+    "Sus compuestos se utilizan como pigmentos en pinturas, tintes, tintas y vidrios (e.g., amarillo de cromo, verde de óxido de cromo, rojo de cromo). [1, 2, 4]",
+    "Las sales de cromo(III) se utilizan en el curtido del cuero para estabilizar las fibras de colágeno. [1, 2, 4]",
+    "En aleaciones especiales como el nicromo (níquel-cromo), que se utiliza en elementos calefactores por su alta resistencia eléctrica y resistencia a la oxidación a altas temperaturas. [1, 2]",
+    "Como catalizador en diversas reacciones químicas industriales. [1, 2]",
+    "El óxido de cromo(IV) (CrO₂) se utilizó en cintas magnéticas de alta calidad. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Cr₂O₃ (óxido de cromo(III), verde de cromo)",
+    "CrO₃ (trióxido de cromo / óxido de cromo(VI))",
+    "K₂Cr₂O₇ (dicromato de potasio)",
+    "K₂CrO₄ (cromato de potasio)",
+    "PbCrO₄ (cromato de plomo, amarillo de cromo)",
+    "FeCr₂O₄ (cromita)"
+  ],
+  "abundancia": {
+    "universo": 0.0015,
+    "cortezaTerrestre": 102,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.0003,
+    "totalTierra": 0.27,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.000002,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "variable (el cromo metálico y el Cr(III) tienen baja toxicidad y el Cr(III) es esencial; los compuestos de Cr(VI) son muy tóxicos, corrosivos y carcinogénicos por inhalación). [1, 2]",
+  "origenDelNombre": "Del griego 'chrōma' (χρῶμα), que significa \"color\", debido a la gran variedad de colores vivos que presentan sus compuestos. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Cromo",
+    "https://www.rsc.org/periodic-table/element/24/chromium"
+  ]
+},
+  {
+  "simbolo": "Mn",
+  "nombre": "Manganeso",
+  "numeroAtomico": 25,
+  "masaAtomica": 54.938044,
+  "grupo": 7,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1519,
+    "puntoDeEbullicion": 2334,
+    "densidad": 7.21,
+    "radioAtomico": 127,
+    "conductividadTermica": 7.81
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.55,
+    "energiaDeIonizacion": 717.3,
+    "afinidadElectronica": -50,
+    "estadosOxidacion": [-3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7]
+  },
+  "capasElectronicas": [2, 8, 13, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Manganeso-53",
+      "numeroNeutrones": 28,
+      "masaAtomica": 52.9412892,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "3.74 × 10^6 años"
+      }
+    },
+    {
+      "nombre": "Manganeso-55",
+      "numeroNeutrones": 30,
+      "masaAtomica": 54.93804393,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Wilhelm Scheele (reconocimiento); Johan Gottlieb Gahn (aislamiento)",
+    "fechaDescubrimiento": "1774"
+  },
+  "datosCuriosos": [
+    "Es un metal duro y muy quebradizo, difícil de mecanizar en estado puro, pero es un componente esencial en muchas aleaciones de acero. [1, 2, 4]",
+    "Se encuentra en grandes cantidades en forma de nódulos de manganeso en el fondo de los océanos, que también contienen otros metales valiosos. [1, 2, 4]",
+    "Es un oligoelemento esencial para muchos seres vivos, incluyendo humanos y plantas. En las plantas, juega un papel crucial en la fotosíntesis (en el complejo que desprende oxígeno). [1, 2, 4]",
+    "El dióxido de manganeso (pirolusita) se ha utilizado como pigmento negro y marrón desde la prehistoria, encontrándose en pinturas rupestres. [1, 2, 4]",
+    "El permanganato de potasio (KMnO₄), un compuesto de manganeso, es un potente agente oxidante con un característico color púrpura intenso. [1, 2]",
+    "El manganeso presenta múltiples estados de oxidación, lo que da lugar a una rica química y compuestos coloreados. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la producción de acero y otras aleaciones (ferromanganeso y silicomanganeso) para mejorar la resistencia, dureza y trabajabilidad. [1, 2, 4]",
+    "El dióxido de manganeso (MnO₂) se utiliza como cátodo en baterías secas (pilas alcalinas y de zinc-carbono). [1, 2, 4]",
+    "Como componente de fertilizantes para suplir las deficiencias de manganeso en los suelos y mejorar el crecimiento de las plantas. [1, 2]",
+    "Sus compuestos se utilizan como pigmentos en la fabricación de cerámicas, vidrios (para decolorar o dar color violeta), ladrillos y pinturas. [1, 2, 4]",
+    "El permanganato de potasio se utiliza como desinfectante, desodorante, agente blanqueador y en el tratamiento de aguas. [1, 2]",
+    "En la producción de aluminio para mejorar su resistencia a la corrosión. [1, 2]",
+    "Como catalizador en diversas reacciones químicas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "MnO₂ (dióxido de manganeso, pirolusita)",
+    "KMnO₄ (permanganato de potasio)",
+    "MnSO₄ (sulfato de manganeso(II))",
+    "MnCl₂ (cloruro de manganeso(II))",
+    "Mn₃O₄ (óxido de manganeso(II,III), hausmannita)"
+  ],
+  "abundancia": {
+    "universo": 0.0008,
+    "cortezaTerrestre": 950,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.0002,
+    "totalTierra": 0.075,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.000017,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "moderada (el manganeso es un oligoelemento esencial, pero la exposición crónica a altas concentraciones de polvo o vapores de manganeso, especialmente en minería y soldadura, puede causar manganismo, un trastorno neurológico similar al Parkinson). [1, 2]",
+  "origenDelNombre": "Proviene del latín 'magnesia nigra' (magnesia negra), un nombre antiguo para el mineral pirolusita (dióxido de manganeso), que a su vez deriva de Magnesia, una región de Grecia. Se confundía a menudo con la 'magnesia alba' (óxido de magnesio). [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Manganeso",
+    "https://www.rsc.org/periodic-table/element/25/manganese"
+  ]
 }
   
 ]
