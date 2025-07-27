@@ -2479,6 +2479,114 @@
     "https://es.wikipedia.org/wiki/Titanio",
     "https://www.rsc.org/periodic-table/element/22/titanium"
   ]
+},
+  {
+  "simbolo": "V",
+  "nombre": "Vanadio",
+  "numeroAtomico": 23,
+  "masaAtomica": 50.9415,
+  "grupo": 5,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2183,
+    "puntoDeEbullicion": 3680,
+    "densidad": 6.11,
+    "radioAtomico": 134,
+    "conductividadTermica": 30.7
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.63,
+    "energiaDeIonizacion": 650.9,
+    "afinidadElectronica": 50.911,
+    "estadosOxidacion": [-1, 0, 1, 2, 3, 4, 5]
+  },
+  "capasElectronicas": [2, 8, 11, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Vanadio-49",
+      "numeroNeutrones": 26,
+      "masaAtomica": 48.9485161,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "330 días"
+      }
+    },
+    {
+      "nombre": "Vanadio-50",
+      "numeroNeutrones": 27,
+      "masaAtomica": 49.9471585,
+      "abundancia": 0.250,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε (83%), β- (17%)",
+        "vidaMedia": "1.4 × 10^17 años"
+      }
+    },
+    {
+      "nombre": "Vanadio-51",
+      "numeroNeutrones": 28,
+      "masaAtomica": 50.9439595,
+      "abundancia": 99.750,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Andrés Manuel del Río (descubrimiento inicial como 'eritronio'); Nils Gabriel Sefström (redescubrimiento y confirmación)",
+    "fechaDescubrimiento": "1801 (del Río); 1830 (Sefström)"
+  },
+  "datosCuriosos": [
+    "Sus compuestos exhiben una amplia gama de colores vivos, como verde, amarillo, naranja, rojo y azul, dependiendo del estado de oxidación. [1, 2, 4]",
+    "Fue descubierto inicialmente en 1801 por Andrés Manuel del Río, quien lo llamó 'eritronio'. Sin embargo, fue convencido erróneamente de que era una forma impura de cromo. Nils Sefström lo redescubrió en 1830. [1, 2, 4]",
+    "Aunque es un oligoelemento esencial para algunos organismos, el vanadio y sus compuestos pueden ser tóxicos en grandes cantidades para los humanos. [1, 2]",
+    "Se encuentra en algunas especies de ascidias (animales marinos), que pueden acumular vanadio en sus células sanguíneas (vanadocitos) en concentraciones millones de veces superiores a las del agua de mar. [1, 2, 4]",
+    "El vanadio metálico es duro, dúctil y de color gris plateado. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente como aditivo en aleaciones de acero (ferrovanadio) para aumentar su dureza, resistencia, tenacidad y resistencia al desgaste, utilizado en herramientas, ejes, engranajes y componentes estructurales. [1, 2, 4]",
+    "El pentóxido de vanadio (V₂O₅) es un catalizador importante en la producción de ácido sulfúrico (proceso de contacto) y en la oxidación de otros compuestos orgánicos. [1, 2, 4]",
+    "En baterías de flujo redox de vanadio, que son prometedoras para el almacenamiento de energía a gran escala de fuentes renovables. [1, 2, 4]",
+    "Sus compuestos se utilizan como pigmentos para dar color a cerámicas, vidrios y esmaltes. [1, 2, 4]",
+    "En aleaciones de titanio-aluminio-vanadio, que son ligeras y resistentes, para aplicaciones aeroespaciales. [1, 2]",
+    "Como estabilizador en la producción de acero y en la reducción de la corrosión. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "V₂O₅ (pentóxido de vanadio / óxido de vanadio(V))",
+    "VO₂ (dióxido de vanadio / óxido de vanadio(IV))",
+    "VCl₃ (tricloruro de vanadio)",
+    "VOSO₄ (sulfato de vanadilo / sulfato de oxovanadio(IV))",
+    "NH₄VO₃ (metavanadato de amonio)"
+  ],
+  "abundancia": {
+    "universo": 0.00004,
+    "cortezaTerrestre": 120,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.0025,
+    "totalTierra": 0.019,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00000016,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "moderada (el vanadio elemental es relativamente inerte, pero sus compuestos, especialmente el V₂O₅, son tóxicos por inhalación o ingestión).",
+  "origenDelNombre": "Nombrado por Nils Sefström en honor a 'Vanadis', un nombre antiguo de Freyja, la diosa nórdica de la belleza y la fertilidad, debido a la variedad de colores hermosos de sus compuestos. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Vanadio",
+    "https://www.rsc.org/periodic-table/element/23/vanadium"
+  ]
 }
   
 ]
