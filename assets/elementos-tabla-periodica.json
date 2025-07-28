@@ -2811,6 +2811,131 @@
     "https://es.wikipedia.org/wiki/Manganeso",
     "https://www.rsc.org/periodic-table/element/25/manganese"
   ]
+},
+  {
+  "simbolo": "Fe",
+  "nombre": "Hierro",
+  "numeroAtomico": 26,
+  "masaAtomica": 55.845,
+  "grupo": 8,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1811,
+    "puntoDeEbullicion": 3134,
+    "densidad": 7.874,
+    "radioAtomico": 126,
+    "conductividadTermica": 80.4
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.83,
+    "energiaDeIonizacion": 762.5,
+    "afinidadElectronica": 14.785,
+    "estadosOxidacion": [-2, -1, 0, 1, 2, 3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 14, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Hierro-54",
+      "numeroNeutrones": 28,
+      "masaAtomica": 53.9396090,
+      "abundancia": 5.845,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Hierro-56",
+      "numeroNeutrones": 30,
+      "masaAtomica": 55.93493633,
+      "abundancia": 91.754,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Hierro-57",
+      "numeroNeutrones": 31,
+      "masaAtomica": 56.93539283,
+      "abundancia": 2.119,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Hierro-58",
+      "numeroNeutrones": 32,
+      "masaAtomica": 57.9332744,
+      "abundancia": 0.282,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Hierro-60",
+      "numeroNeutrones": 34,
+      "masaAtomica": 59.934072,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "2.6 × 10^6 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido por las civilizaciones antiguas (hierro meteorítico y fundido).",
+    "fechaDescubrimiento": "Prehistoria (uso conocido desde c. 4000 a.C.)"
+  },
+  "datosCuriosos": [
+    "Es el cuarto elemento más abundante en la corteza terrestre y el más abundante en masa en la Tierra en su conjunto, formando gran parte del núcleo externo e interno. [1, 2, 4]",
+    "El hierro puro es un metal relativamente blando, pero se vuelve mucho más duro y resistente cuando se alea con carbono para formar acero. [1, 2]",
+    "Se oxida fácilmente en presencia de aire húmedo, formando óxidos de hierro hidratados, comúnmente conocidos como herrumbre o roña. [1, 2, 4]",
+    "El desarrollo de la tecnología para fundir hierro a partir de sus minerales marcó el inicio de la Edad del Hierro, un período crucial en la historia de la humanidad. [1, 2, 4]",
+    "Es un componente esencial de la hemoglobina, la proteína en los glóbulos rojos que transporta oxígeno por el cuerpo. [1, 2, 4]",
+    "El hierro es el elemento más pesado que se produce por fusión nuclear en estrellas masivas; los elementos más pesados se forman en supernovas. [1, 2]"
+  ],
+  "usos": [
+    "La mayor parte del hierro se utiliza para producir acero (una aleación de hierro y carbono), que es fundamental en la construcción de edificios, puentes, infraestructuras, vehículos y maquinaria. [1, 2, 4]",
+    "Fabricación de herramientas, armas, utensilios de cocina (hierro fundido) y una amplia variedad de bienes manufacturados. [1, 2, 4]",
+    "Componente clave en motores de combustión interna, maquinaria pesada y estructuras portantes. [1, 2]",
+    "Los suplementos de hierro se utilizan para tratar la anemia ferropénica, una deficiencia común de hierro. [1, 2, 4]",
+    "El óxido de hierro se utiliza como pigmento (ocre, siena, umbra), en medios de grabación magnética y como catalizador. [1, 2]",
+    "El hierro fundido se utiliza para fabricar tuberías, estufas y elementos decorativos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Fe₂O₃ (óxido de hierro(III), hematita)",
+    "Fe₃O₄ (óxido de hierro(II,III), magnetita)",
+    "FeO (óxido de hierro(II), wustita)",
+    "FeS₂ (disulfuro de hierro, pirita)",
+    "FeCl₃ (cloruro de hierro(III))",
+    "FeSO₄ (sulfato de hierro(II))"
+  ],
+  "abundancia": {
+    "universo": 0.11,
+    "cortezaTerrestre": 56300,
+    "atmosfera": "Trazas (como polvo)",
+    "oceano": 0.002,
+    "totalTierra": 32.1,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.0058,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (el hierro es esencial para la vida; sin embargo, la sobrecarga de hierro (hemocromatosis) o la ingestión masiva pueden ser tóxicas). [1, 2]",
+  "origenDelNombre": "La palabra \"hierro\" proviene del latín 'ferrum'. El símbolo 'Fe' deriva directamente de 'ferrum'. El origen de la palabra en muchas lenguas germánicas (e.g., inglés 'iron', alemán 'Eisen') es antiguo y de etimología incierta, posiblemente relacionado con su uso y propiedades. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Hierro",
+    "https://www.rsc.org/periodic-table/element/26/iron"
+  ]
 }
   
 ]
