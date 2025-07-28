@@ -2936,6 +2936,117 @@
     "https://es.wikipedia.org/wiki/Hierro",
     "https://www.rsc.org/periodic-table/element/26/iron"
   ]
+},
+  {
+  "simbolo": "Co",
+  "nombre": "Cobalto",
+  "numeroAtomico": 27,
+  "masaAtomica": 58.933194,
+  "grupo": 9,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1768,
+    "puntoDeEbullicion": 3200,
+    "densidad": 8.90,
+    "radioAtomico": 125,
+    "conductividadTermica": 100
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.88,
+    "energiaDeIonizacion": 760.4,
+    "afinidadElectronica": 63.898,
+    "estadosOxidacion": [-1, 0, 1, 2, 3, 4, 5]
+  },
+  "capasElectronicas": [2, 8, 15, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "ferromagnético"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Cobalto-57",
+      "numeroNeutrones": 30,
+      "masaAtomica": 56.9362902,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "271.74 días"
+      }
+    },
+    {
+      "nombre": "Cobalto-59",
+      "numeroNeutrones": 32,
+      "masaAtomica": 58.93319427,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cobalto-60",
+      "numeroNeutrones": 33,
+      "masaAtomica": 59.9338161,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "5.2713 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Georg Brandt",
+    "fechaDescubrimiento": "c. 1735 (aislamiento y reconocimiento como nuevo metal)"
+  },
+  "datosCuriosos": [
+    "Los compuestos de cobalto se han utilizado durante siglos para impartir un característico color azul intenso al vidrio, esmaltes y cerámicas (azul de cobalto). [1, 2, 4]",
+    "Se encuentra en la naturaleza a menudo asociado con minerales de níquel y arsénico, como la cobaltita, esmaltita y skutterudita. [1, 2, 4]",
+    "Es uno de los tres metales ferromagnéticos a temperatura ambiente, junto con el hierro y el níquel. [1, 2, 4]",
+    "Es un componente esencial de la vitamina B12 (cobalamina), que es vital para la función nerviosa y la formación de la sangre en los humanos y otros animales. [1, 2, 4]",
+    "El isótopo radiactivo cobalto-60 es una importante fuente de rayos gamma utilizada en radioterapia para el tratamiento del cáncer y en la esterilización industrial. [1, 2, 4]",
+    "El nombre 'cobalto' deriva de la palabra alemana 'Kobold', que significa 'duende' o 'espíritu maligno', porque los mineros creían que estos seres interferían con la extracción de minerales valiosos y causaban problemas de salud (debido al arsénico a menudo presente en los minerales de cobalto). [1, 2, 4]"
+  ],
+  "usos": [
+    "En la fabricación de superaleaciones de alto rendimiento utilizadas en turbinas de gas para motores de avión, y en herramientas de corte resistentes al desgaste y a altas temperaturas. [1, 2, 4]",
+    "Como pigmento azul (azul de cobalto, azul cerúleo) en pinturas, cerámicas, vidrios y esmaltes. [1, 2, 4]",
+    "Componente clave en los cátodos de algunas baterías recargables de ion-litio (e.g., óxido de litio cobalto, LiCoO₂). [1, 2, 4]",
+    "El isótopo cobalto-60 se utiliza en radioterapia para el tratamiento del cáncer, en la esterilización de equipos médicos y alimentos, y en la radiografía industrial. [1, 2, 4]",
+    "Como catalizador en la industria química y petrolera (e.g., en la hidrodesulfuración). [1, 2]",
+    "En la fabricación de imanes permanentes fuertes (e.g., aleaciones Alnico y Samario-Cobalto). [1, 2]",
+    "Como secante para pinturas, barnices y tintas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "CoO (óxido de cobalto(II))",
+    "Co₃O₄ (óxido de cobalto(II,III))",
+    "CoCl₂ (cloruro de cobalto(II))",
+    "CoSO₄ (sulfato de cobalto(II))",
+    "LiCoO₂ (óxido de litio cobalto)",
+    "C₁₈H₁₂CoN₂O₄ (azul de cobalto, un ejemplo de pigmento)"
+  ],
+  "abundancia": {
+    "universo": 0.0003,
+    "cortezaTerrestre": 25,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.00002,
+    "totalTierra": 0.011,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.000002,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "moderada (el cobalto es un oligoelemento esencial en forma de vitamina B12, pero la exposición a altas concentraciones de polvo o sales de cobalto puede ser tóxica, causando problemas pulmonares, cardíacos y dermatológicos). [1, 2]",
+  "origenDelNombre": "Del alemán 'Kobold' (o 'Kobalt'), que significa \"duende\" o \"espíritu maligno de las minas\". Los mineros alemanes medievales culpaban a estos espíritus cuando los minerales que esperaban que contuvieran cobre o plata producían cobalto y arsénico tóxico al fundirse. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Cobalto",
+    "https://www.rsc.org/periodic-table/element/27/cobalt"
+  ]
 }
   
 ]
