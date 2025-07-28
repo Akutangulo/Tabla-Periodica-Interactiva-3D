@@ -3047,6 +3047,141 @@
     "https://es.wikipedia.org/wiki/Cobalto",
     "https://www.rsc.org/periodic-table/element/27/cobalt"
   ]
+},
+  {
+  "simbolo": "Ni",
+  "nombre": "Níquel",
+  "numeroAtomico": 28,
+  "masaAtomica": 58.6934,
+  "grupo": 10,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1728,
+    "puntoDeEbullicion": 3186,
+    "densidad": 8.908,
+    "radioAtomico": 124,
+    "conductividadTermica": 90.9
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.91,
+    "energiaDeIonizacion": 737.1,
+    "afinidadElectronica": 112.0,
+    "estadosOxidacion": [-1, 0, 1, 2, 3, 4]
+  },
+  "capasElectronicas": [2, 8, 16, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "ferromagnético"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Níquel-58",
+      "numeroNeutrones": 30,
+      "masaAtomica": 57.9353429,
+      "abundancia": 68.077,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Níquel-60",
+      "numeroNeutrones": 32,
+      "masaAtomica": 59.9307864,
+      "abundancia": 26.223,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Níquel-61",
+      "numeroNeutrones": 33,
+      "masaAtomica": 60.9310560,
+      "abundancia": 1.140,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Níquel-62",
+      "numeroNeutrones": 34,
+      "masaAtomica": 61.9283451,
+      "abundancia": 3.634,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Níquel-63",
+      "numeroNeutrones": 35,
+      "masaAtomica": 62.9296694,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "100.1 años"
+      }
+    },
+    {
+      "nombre": "Níquel-64",
+      "numeroNeutrones": 36,
+      "masaAtomica": 63.9279660,
+      "abundancia": 0.926,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Axel Fredrik Cronstedt",
+    "fechaDescubrimiento": 1751
+  },
+  "datosCuriosos": [
+    "Es un metal de color blanco plateado con un ligero tono dorado, duro, dúctil, maleable y muy resistente a la corrosión en el aire y el agua. [1, 2, 4]",
+    "Se encuentra en cantidades significativas en meteoritos de hierro-níquel, y se cree que el núcleo de la Tierra está compuesto principalmente de hierro y níquel. [1, 2, 4]",
+    "El contacto con el níquel puede causar dermatitis alérgica (alergia al níquel) en personas sensibles, una de las causas más comunes de alergia por contacto. [1, 2, 4]",
+    "Se ha utilizado en la acuñación de monedas durante mucho tiempo, a menudo en aleaciones como el cuproníquel (cobre-níquel). La moneda de cinco centavos de EE. UU. (\"nickel\") está hecha de esta aleación. [1, 2, 4]",
+    "Es uno de los tres elementos ferromagnéticos a temperatura ambiente, junto con el hierro y el cobalto. [1, 2]",
+    "El vidrio coloreado con pequeñas cantidades de níquel puede presentar una variedad de colores, incluyendo verde, azul, violeta o negro. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la producción de acero inoxidable y otras aleaciones resistentes a la corrosión y altas temperaturas (e.g., Inconel, Monel, Nicromo). [1, 2, 4]",
+    "En la fabricación de monedas en muchos países, a menudo aleado con cobre (cuproníquel). [1, 2, 4]",
+    "Componente clave en baterías recargables, como las de níquel-cadmio (NiCd, ahora menos comunes), níquel-hidruro metálico (NiMH) y algunas de ion-litio. [1, 2, 4]",
+    "Como catalizador en numerosos procesos industriales, especialmente en la hidrogenación de aceites vegetales para producir margarina. [1, 2, 4]",
+    "En el niquelado electrolítico para proporcionar un recubrimiento protector y decorativo a otros metales. [1, 2]",
+    "En la fabricación de imanes permanentes (e.g., Alnico). [1, 2]",
+    "En cuerdas de guitarra eléctrica y en la industria electrónica. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "NiO (óxido de níquel(II))",
+    "Ni(OH)₂ (hidróxido de níquel(II))",
+    "NiSO₄ (sulfato de níquel(II))",
+    "NiCl₂ (cloruro de níquel(II))",
+    "Ni(CO)₄ (tetracarbonilo de níquel, altamente tóxico)",
+    "NiFe₂O₄ (ferrita de níquel)"
+  ],
+  "abundancia": {
+    "universo": 0.008,
+    "cortezaTerrestre": 84,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.00056,
+    "totalTierra": 1.8,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.000015,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "moderada (el níquel metálico puede causar alergias cutáneas; algunos compuestos de níquel, como el tetracarbonilo de níquel y el polvo de sulfuro de níquel, son carcinogénicos y altamente tóxicos por inhalación). [1, 2]",
+  "origenDelNombre": "Derivado del mineral alemán 'Kupfernickel' (que significa \"cobre del diablo\" o \"falso cobre\"). Los mineros lo llamaban así porque se parecía al mineral de cobre pero no se podía extraer cobre de él, y a menudo contenía arsénico que causaba problemas de salud, atribuyéndolo a un duende o 'Nickel'. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/N%C3%ADquel",
+    "https://www.rsc.org/periodic-table/element/28/nickel"
+  ]
 }
   
 ]
