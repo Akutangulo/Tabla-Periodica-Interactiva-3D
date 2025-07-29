@@ -3291,6 +3291,141 @@
     "https://es.wikipedia.org/wiki/Cobre",
     "https://www.rsc.org/periodic-table/element/29/copper"
   ]
+},
+  {
+  "simbolo": "Zn",
+  "nombre": "Zinc",
+  "numeroAtomico": 30,
+  "masaAtomica": 65.38,
+  "grupo": 12,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 692.68,
+    "puntoDeEbullicion": 1180,
+    "densidad": 7.14,
+    "radioAtomico": 134,
+    "conductividadTermica": 116
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.65,
+    "energiaDeIonizacion": 906.4,
+    "afinidadElectronica": 0,
+    "estadosOxidacion": [2, 1]
+  },
+  "capasElectronicas": [2, 8, 18, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Zinc-64",
+      "numeroNeutrones": 34,
+      "masaAtomica": 63.9291419,
+      "abundancia": 49.17,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Zinc-65",
+      "numeroNeutrones": 35,
+      "masaAtomica": 64.9292407,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / β+",
+        "vidaMedia": "243.93 días"
+      }
+    },
+    {
+      "nombre": "Zinc-66",
+      "numeroNeutrones": 36,
+      "masaAtomica": 65.9260330,
+      "abundancia": 27.73,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Zinc-67",
+      "numeroNeutrones": 37,
+      "masaAtomica": 66.9271269,
+      "abundancia": 4.04,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Zinc-68",
+      "numeroNeutrones": 38,
+      "masaAtomica": 67.9248437,
+      "abundancia": 18.45,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Zinc-70",
+      "numeroNeutrones": 40,
+      "masaAtomica": 69.925319,
+      "abundancia": 0.61,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Reconocido como metal en la India c. 1300 d.C.; Andreas Sigismund Marggraf aisló zinc puro en Europa.",
+    "fechaDescubrimiento": "c. 1746 (Marggraf)"
+  },
+  "datosCuriosos": [
+    "Se utiliza ampliamente para galvanizar el acero o el hierro, protegiéndolos de la corrosión al actuar como ánodo de sacrificio. [1, 2, 4]",
+    "Es un oligoelemento esencial para humanos, animales y plantas, desempeñando un papel crucial en el sistema inmunológico, la cicatrización de heridas, la síntesis de ADN y la función enzimática. [1, 2, 4]",
+    "El principal mineral de zinc es la esfalerita (sulfuro de zinc, también llamado blenda de zinc). Otros minerales incluyen la smithsonita (carbonato de zinc) y la hemimorfita (silicato de zinc). [1, 2, 4]",
+    "El polvo de zinc puede ser pirofórico y arder en el aire con una llama azul verdosa. [1, 2]",
+    "El latón, una aleación de cobre y zinc, se conoce desde la antigüedad, incluso antes de que el zinc fuera reconocido como un metal distinto. [1, 2]",
+    "El zinc es un metal de color blanco azulado, moderadamente reactivo, que se vuelve quebradizo a ciertas temperaturas pero es maleable entre 100 y 150 °C. [1, 2]"
+  ],
+  "usos": [
+    "Galvanización del acero y el hierro para protegerlos de la corrosión (acero galvanizado). [1, 2, 4]",
+    "Componente principal en la fabricación de baterías y pilas, especialmente en pilas secas de zinc-carbono y como ánodo en pilas alcalinas. [1, 2, 4]",
+    "Como suplemento dietético para prevenir o tratar la deficiencia de zinc. [1, 2, 4]",
+    "En aleaciones importantes como el latón (con cobre), la alpaca (con cobre y níquel) y en aleaciones de fundición a presión. [1, 2, 4]",
+    "El óxido de zinc (ZnO) se utiliza en protectores solares, pomadas, pinturas blancas, cerámicas y como aditivo en la industria del caucho. [1, 2, 4]",
+    "El sulfuro de zinc (ZnS) se utiliza como pigmento luminiscente en pantallas de televisión y pinturas fluorescentes. [1, 2]",
+    "En la fabricación de piezas de fundición, como componentes de automóviles y herrajes. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "ZnO (óxido de zinc)",
+    "ZnS (sulfuro de zinc, esfalerita)",
+    "ZnCl₂ (cloruro de zinc)",
+    "ZnSO₄ (sulfato de zinc)",
+    "ZnCO₃ (carbonato de zinc, smithsonita)",
+    "Zn(C₁₈H₃₅O₂)₂ (estearato de zinc)"
+  ],
+  "abundancia": {
+    "universo": 0.00004,
+    "cortezaTerrestre": 70,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.0049,
+    "totalTierra": 0.0052,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.0032,
+      "categoriaAbundancia": "Oligoelemento esencial"
+    }
+  },
+  "toxicidad": "baja (el zinc es un nutriente esencial; la ingesta excesiva puede causar deficiencia de cobre y problemas gastrointestinales; los humos de óxido de zinc pueden causar fiebre de los humos metálicos). [1, 2]",
+  "origenDelNombre": "Del alemán 'Zink'. El origen exacto es incierto, pero podría estar relacionado con la palabra alemana 'Zinke' (diente, púa) por la forma de los cristales de calamina, o con 'Zinn' (estaño) por su apariencia similar. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Zinc",
+    "https://www.rsc.org/periodic-table/element/30/zinc"
+  ]
 }
   
 ]
