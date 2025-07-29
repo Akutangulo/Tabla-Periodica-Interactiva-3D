@@ -3533,6 +3533,143 @@
     "https://es.wikipedia.org/wiki/Galio",
     "https://www.rsc.org/periodic-table/element/31/gallium"
   ]
+},
+  {
+  "simbolo": "Ge",
+  "nombre": "Germanio",
+  "numeroAtomico": 32,
+  "masaAtomica": 72.630,
+  "grupo": 14,
+  "periodo": 4,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1211.40,
+    "puntoDeEbullicion": 3106,
+    "densidad": 5.323,
+    "radioAtomico": 122,
+    "conductividadTermica": 59.9
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.01,
+    "energiaDeIonizacion": 762,
+    "afinidadElectronica": 119,
+    "estadosOxidacion": [-4, 0, 1, 2, 3, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 4],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metaloide",
+    "subtipo": ["semiconductor"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Germanio-70",
+      "numeroNeutrones": 38,
+      "masaAtomica": 69.9242474,
+      "abundancia": 20.57,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Germanio-72",
+      "numeroNeutrones": 40,
+      "masaAtomica": 71.9220758,
+      "abundancia": 27.45,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Germanio-73",
+      "numeroNeutrones": 41,
+      "masaAtomica": 72.9234589,
+      "abundancia": 7.75,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Germanio-74",
+      "numeroNeutrones": 42,
+      "masaAtomica": 73.9211778,
+      "abundancia": 36.50,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Germanio-76",
+      "numeroNeutrones": 44,
+      "masaAtomica": 75.9214027,
+      "abundancia": 7.73,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": "1.92 × 10^21 años"
+      }
+    },
+    {
+      "nombre": "Germanio-68",
+      "numeroNeutrones": 36,
+      "masaAtomica": 67.928094,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "270.95 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Clemens Winkler",
+    "fechaDescubrimiento": 1886
+  },
+  "datosCuriosos": [
+    "La existencia y propiedades del germanio (como 'eka-silicio') fueron predichas con gran precisión por Dmitri Mendeléyev en 1869, antes de su descubrimiento. [1, 2, 4]",
+    "Es un metaloide duro, quebradizo, de color blanco grisáceo y brillante, con una estructura cristalina similar a la del diamante. [1, 2, 4]",
+    "Fue uno de los primeros materiales semiconductores utilizados en la fabricación de transistores y diodos, desempeñando un papel crucial en el desarrollo temprano de la electrónica. [1, 2, 4]",
+    "Es un elemento relativamente raro en la corteza terrestre, encontrándose principalmente en minerales como la argirodita, la germanita y en algunos minerales de zinc y carbón. [1, 2, 4]",
+    "El germanio es transparente a la radiación infrarroja, lo que lo hace útil para ópticas infrarrojas. [1, 2, 4]",
+    "Al igual que el silicio y el galio, el germanio se expande al solidificarse. [1, 2]"
+  ],
+  "usos": [
+    "Como material semiconductor en la fabricación de transistores, diodos y otros componentes electrónicos, aunque en muchas aplicaciones ha sido reemplazado por el silicio. [1, 2, 4]",
+    "En la fabricación de lentes y ventanas para espectroscopios y sistemas de visión nocturna por infrarrojos, debido a su transparencia a la radiación infrarroja. [1, 2, 4]",
+    "Como dopante en fibras ópticas para telecomunicaciones para controlar el índice de refracción. [1, 2, 4]",
+    "El dióxido de germanio (GeO₂) se utiliza como catalizador en la producción de plásticos PET (tereftalato de polietileno). [1, 2, 4]",
+    "En aleaciones, como el silicio-germanio (SiGe), para mejorar el rendimiento de los dispositivos semiconductores. [1, 2]",
+    "En células solares de alta eficiencia, especialmente para aplicaciones espaciales. [1, 2]",
+    "Algunos compuestos de germanio se han investigado por sus posibles propiedades terapéuticas, aunque su uso médico es limitado y controvertido. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "GeO₂ (dióxido de germanio)",
+    "GeCl₄ (tetracloruro de germanio)",
+    "GeH₄ (germano)",
+    "GeS₂ (disulfuro de germanio)",
+    "Ag₈GeS₆ (argirodita)"
+  ],
+  "abundancia": {
+    "universo": 0.000007,
+    "cortezaTerrestre": 1.5,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": 0.000047,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el germanio elemental y la mayoría de sus compuestos inorgánicos se consideran de baja toxicidad; algunos compuestos orgánicos de germanio pueden ser más tóxicos). [1, 2]",
+  "origenDelNombre": "De 'Germania', el nombre latino de Alemania, en honor al país natal de su descubridor, Clemens Winkler. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Germanio",
+    "https://www.rsc.org/periodic-table/element/32/germanium"
+  ]
 }
   
 ]
