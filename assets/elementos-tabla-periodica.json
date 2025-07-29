@@ -3182,6 +3182,115 @@
     "https://es.wikipedia.org/wiki/N%C3%ADquel",
     "https://www.rsc.org/periodic-table/element/28/nickel"
   ]
+},
+  {
+  "simbolo": "Cu",
+  "nombre": "Cobre",
+  "numeroAtomico": 29,
+  "masaAtomica": 63.546,
+  "grupo": 11,
+  "periodo": 4,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1357.77,
+    "puntoDeEbullicion": 2835,
+    "densidad": 8.96,
+    "radioAtomico": 128,
+    "conductividadTermica": 401
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.90,
+    "energiaDeIonizacion": 745.5,
+    "afinidadElectronica": 118.4,
+    "estadosOxidacion": [0, 1, 2, 3, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal de acuñación"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Cobre-63",
+      "numeroNeutrones": 34,
+      "masaAtomica": 62.9295977,
+      "abundancia": 69.17,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cobre-64",
+      "numeroNeutrones": 35,
+      "masaAtomica": 63.9279660,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "β- (38.4%), ε (61.6%)",
+        "vidaMedia": "12.7 horas"
+      }
+    },
+    {
+      "nombre": "Cobre-65",
+      "numeroNeutrones": 36,
+      "masaAtomica": 64.9277897,
+      "abundancia": 30.83,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido y utilizado por civilizaciones antiguas (primer uso de cobre nativo c. 9000 a.C.; inicio de la fundición c. 5000 a.C.). Antoine Lavoisier lo catalogó como elemento químico.",
+    "fechaDescubrimiento": "c. 1789 Lavosier (reconocimiento como elemento)"
+  },
+  "datosCuriosos": [
+    "Es uno de los primeros metales utilizados por la humanidad, marcando el inicio de la Edad del Cobre y posteriormente la Edad del Bronce (aleación de cobre y estaño). [1, 2, 4]",
+    "Con el tiempo, el cobre expuesto al aire o al agua se oxida formando una pátina verdosa característica, compuesta principalmente de carbonato de cobre (e.g., la Estatua de la Libertad). [1, 2, 4]",
+    "Es un excelente conductor de la electricidad y el calor, solo superado por la plata en conductividad eléctrica entre los metales puros. [1, 2, 4]",
+    "A veces se encuentra en la naturaleza en forma de cobre nativo (puro), aunque la mayoría se extrae de minerales como la calcopirita, bornita y malaquita. [1, 2, 4]",
+    "El cobre es un oligoelemento esencial para muchos seres vivos, incluyendo los humanos, donde participa en funciones enzimáticas y en la formación de la sangre. [1, 2, 4]",
+    "Tiene propiedades antimicrobianas naturales, lo que significa que puede matar o inhibir el crecimiento de bacterias y virus en su superficie. [1, 2]"
+  ],
+  "usos": [
+    "Fabricación de cables eléctricos, alambres y componentes electrónicos debido a su alta conductividad eléctrica y ductilidad. [1, 2, 4]",
+    "Producción de tuberías para sistemas de fontanería de agua potable y gas, y en intercambiadores de calor, por su buena conductividad térmica y resistencia a la corrosión. [1, 2, 4]",
+    "Acuñación de monedas (a menudo en aleaciones como el cuproníquel o el bronce) y fabricación de joyería y objetos decorativos. [1, 2, 4]",
+    "Componente principal en importantes aleaciones como el bronce (cobre y estaño) y el latón (cobre y zinc), utilizadas en una amplia gama de aplicaciones. [1, 2, 4]",
+    "En la fabricación de techos, canalones y elementos arquitectónicos por su durabilidad y la pátina estética que desarrolla. [1, 2]",
+    "Como fungicida en la agricultura (e.g., sulfato de cobre) y conservante de la madera. [1, 2]",
+    "En utensilios de cocina de alta gama por su excelente distribución del calor. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "CuO (óxido de cobre(II))",
+    "Cu₂O (óxido de cobre(I))",
+    "CuSO₄ (sulfato de cobre(II))",
+    "CuCl₂ (cloruro de cobre(II))",
+    "Cu(NO₃)₂ (nitrato de cobre(II))",
+    "CuFeS₂ (calcopirita)",
+    "Cu₂(OH)₂CO₃ (malaquita)"
+  ],
+  "abundancia": {
+    "universo": 0.00007,
+    "cortezaTerrestre": 60,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.00025,
+    "totalTierra": 0.0075,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.0001,
+      "categoriaAbundancia": "Oligoelemento esencial"
+    }
+  },
+  "toxicidad": "baja (el cobre es un nutriente esencial; sin embargo, la ingestión de grandes cantidades de compuestos de cobre puede ser tóxica, causando problemas gastrointestinales y daño hepático). [1, 2]",
+  "origenDelNombre": "Del latín 'cuprum', que a su vez deriva de 'aes Cyprium', que significa \"metal de Chipre\", ya que la isla de Chipre fue una importante fuente de cobre en la antigüedad. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Cobre",
+    "https://www.rsc.org/periodic-table/element/29/copper"
+  ]
 }
   
 ]
