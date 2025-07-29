@@ -3426,6 +3426,113 @@
     "https://es.wikipedia.org/wiki/Zinc",
     "https://www.rsc.org/periodic-table/element/30/zinc"
   ]
+},
+  {
+  "simbolo": "Ga",
+  "nombre": "Galio",
+  "numeroAtomico": 31,
+  "masaAtomica": 69.723,
+  "grupo": 13,
+  "periodo": 4,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 302.9146,
+    "puntoDeEbullicion": 2477,
+    "densidad": 5.91,
+    "radioAtomico": 135,
+    "conductividadTermica": 29.8
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.81,
+    "energiaDeIonizacion": 578.8,
+    "afinidadElectronica": 41,
+    "estadosOxidacion": [1, 2, 3]
+  },
+  "capasElectronicas": [2, 8, 18, 3],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal del bloque p", "metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Galio-67",
+      "numeroNeutrones": 36,
+      "masaAtomica": 66.9282017,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "3.2617 días"
+      }
+    },
+    {
+      "nombre": "Galio-69",
+      "numeroNeutrones": 38,
+      "masaAtomica": 68.9255735,
+      "abundancia": 60.108,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Galio-71",
+      "numeroNeutrones": 40,
+      "masaAtomica": 70.9247013,
+      "abundancia": 39.892,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Paul-Émile Lecoq de Boisbaudran",
+    "fechaDescubrimiento": 1875
+  },
+  "datosCuriosos": [
+    "Tiene un punto de fusión muy bajo (29.76 °C o 85.57 °F), lo que significa que puede derretirse en la mano de una persona. [1, 2, 4]",
+    "Su existencia y propiedades (como 'eka-aluminio') fueron predichas con notable precisión por Dmitri Mendeléyev en 1871, antes de su descubrimiento. [1, 2, 4]",
+    "Es un metal blando, de color blanco plateado brillante, que se fractura de forma concoidea como el vidrio. [1, 2, 4]",
+    "A diferencia del mercurio, el galio líquido moja el vidrio y la piel, y tiene un rango de temperatura en estado líquido muy amplio, lo que lo hace útil en termómetros de alta temperatura. [1, 2, 4]",
+    "El galio se expande un 3.1% al solidificarse, por lo que no debe almacenarse en recipientes de vidrio o metal rígidos. [1, 2]",
+    "No se encuentra libre en la naturaleza, sino en trazas en minerales como la bauxita, la germanita y la esfalerita. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de compuestos semiconductores como el arseniuro de galio (GaAs) y el nitruro de galio (GaN), utilizados en diodos emisores de luz (LEDs), láseres, transistores de alta frecuencia y circuitos integrados para microondas. [1, 2, 4]",
+    "En aleaciones de bajo punto de fusión, como el Galinstan (galio, indio y estaño), que es líquido a temperatura ambiente y se utiliza como sustituto no tóxico del mercurio en termómetros y como refrigerante. [1, 2, 4]",
+    "En la producción de espejos ópticos de alta reflectividad. [1, 2]",
+    "El isótopo galio-67 se utiliza en medicina nuclear para la detección de tumores e inflamaciones (gammagrafía con galio). [1, 2, 4]",
+    "Se investiga su uso en catalizadores para diversas reacciones químicas y en el dopaje de otros semiconductores. [1, 2]",
+    "En algunos termómetros de alta temperatura debido a su alto punto de ebullición. [1, 2, 4]"
+  ],
+  "compuestosImportantes": [
+    "GaAs (arseniuro de galio)",
+    "GaN (nitruro de galio)",
+    "GaP (fosfuro de galio)",
+    "Ga₂O₃ (óxido de galio(III))",
+    "GaCl₃ (cloruro de galio(III))",
+    "Ga(NO₃)₃ (nitrato de galio)"
+  ],
+  "abundancia": {
+    "universo": 0.000001,
+    "cortezaTerrestre": 19,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00000003,
+    "totalTierra": 0.000015,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el galio elemental se considera de baja toxicidad; algunos de sus compuestos pueden ser más tóxicos, pero la información es limitada). [1, 2]",
+  "origenDelNombre": "De 'Gallia', el nombre latino de Francia, en honor al país natal de su descubridor, Paul-Émile Lecoq de Boisbaudran. También se ha sugerido un juego de palabras con 'le coq' (gallo en francés), ya que 'gallus' es gallo en latín. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Galio",
+    "https://www.rsc.org/periodic-table/element/31/gallium"
+  ]
 }
   
 ]
