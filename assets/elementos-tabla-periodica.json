@@ -4036,6 +4036,146 @@
     "https://es.wikipedia.org/wiki/Bromo",
     "https://www.rsc.org/periodic-table/element/35/bromine"
   ]
+},
+  {
+  "simbolo": "Kr",
+  "nombre": "Kriptón",
+  "numeroAtomico": 36,
+  "masaAtomica": 83.798,
+  "grupo": 18,
+  "periodo": 4,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 115.78,
+    "puntoDeEbullicion": 119.93,
+    "densidad": 0.003749,
+    "radioAtomico": 202,
+    "conductividadTermica": 0.00943
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 3.00,
+    "energiaDeIonizacion": 1350.8,
+    "afinidadElectronica": 0,
+    "estadosOxidacion": [0, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 8],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["gas noble"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Kriptón-78",
+      "numeroNeutrones": 42,
+      "masaAtomica": 77.9203648,
+      "abundancia": 0.35,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Kriptón-80",
+      "numeroNeutrones": 44,
+      "masaAtomica": 79.9163790,
+      "abundancia": 2.28,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Kriptón-82",
+      "numeroNeutrones": 46,
+      "masaAtomica": 81.9134836,
+      "abundancia": 11.58,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Kriptón-83",
+      "numeroNeutrones": 47,
+      "masaAtomica": 82.914136,
+      "abundancia": 11.49,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Kriptón-84",
+      "numeroNeutrones": 48,
+      "masaAtomica": 83.911507,
+      "abundancia": 57.00,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Kriptón-85",
+      "numeroNeutrones": 49,
+      "masaAtomica": 84.9125273,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "10.776 años"
+      }
+    },
+    {
+      "nombre": "Kriptón-86",
+      "numeroNeutrones": 50,
+      "masaAtomica": 85.91061073,
+      "abundancia": 17.30,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Sir William Ramsay y Morris Travers",
+    "fechaDescubrimiento": 1898
+  },
+  "datosCuriosos": [
+    "Cuando se somete a una descarga eléctrica, el kriptón emite una luz que puede variar de blanco verdoso a blanco amarillento o grisáceo, con varias líneas espectrales nítidas. [1, 2, 4]",
+    "Es un gas noble muy raro en la atmósfera terrestre (aproximadamente 1 parte por millón en volumen), pero se cree que es más abundante en el universo. [1, 2, 4]",
+    "Entre 1960 y 1983, la definición internacional del metro se basó en la longitud de onda de una línea espectral naranja-roja emitida por el isótopo kriptón-86. [1, 2, 4]",
+    "Fue descubierto por Ramsay y Travers al evaporar aire líquido y examinar los residuos menos volátiles, poco después del descubrimiento del neón. [1, 2, 4]",
+    "Aunque es un gas noble, se conocen algunos compuestos de kriptón, principalmente con flúor (e.g., difluoruro de kriptón, KrF₂), pero son inestables. [1, 2]",
+    "El kriptón-85, un isótopo radiactivo, se produce en reactores nucleares y pruebas nucleares. [1, 2]"
+  ],
+  "usos": [
+    "En ciertos tipos de lámparas fluorescentes de bajo consumo y en lámparas de descarga de alta intensidad para iluminación especializada (e.g., pistas de aeropuertos). [1, 2, 4]",
+    "En algunos láseres, como los láseres de fluoruro de kriptón (KrF), que emiten luz ultravioleta y se utilizan en la fotolitografía para la fabricación de microchips y en cirugía ocular (LASIK). [1, 2, 4]",
+    "Como gas de relleno en ventanas de doble o triple acristalamiento de alto rendimiento para mejorar el aislamiento térmico y acústico. [1, 2, 4]",
+    "En lámparas de flash para fotografía de alta velocidad debido a la intensa luz blanca que produce. [1, 2]",
+    "El isótopo kriptón-85 se utiliza en la detección de fugas en recipientes sellados y como trazador en investigación. [1, 2]",
+    "En la propulsión iónica para satélites (propulsores de efecto Hall). [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "KrF₂ (difluoruro de kriptón)",
+    "KrF₄ (tetrafluoruro de kriptón, existencia disputada)",
+    "[KrF][AsF₆] (fluoroarsenato de fluorokriptonio(II))"
+  ],
+  "abundancia": {
+    "universo": 0.000004,
+    "cortezaTerrestre": 0.0000001,
+    "atmosfera": 0.000114,
+    "oceano": 0.00000003,
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "false (no tóxico, pero puede ser un asfixiante simple en altas concentraciones al desplazar el oxígeno). [1, 2]",
+  "origenDelNombre": "Del griego 'kryptos' (κρυπτός), que significa \"oculto\" o \"escondido\", debido a que permaneció oculto en el aire y fue difícil de aislar y detectar. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Kript%C3%B3n",
+    "https://www.rsc.org/periodic-table/element/36/krypton"
+  ]
 }
   
 ]
