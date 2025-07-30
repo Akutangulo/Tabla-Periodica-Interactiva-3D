@@ -3929,6 +3929,113 @@
     "https://es.wikipedia.org/wiki/Selenio",
     "https://www.rsc.org/periodic-table/element/34/selenium"
   ]
+},
+  {
+  "simbolo": "Br",
+  "nombre": "Bromo",
+  "numeroAtomico": 35,
+  "masaAtomica": 79.904,
+  "grupo": 17,
+  "periodo": 4,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "líquido",
+    "puntoDeFusion": 265.95,
+    "puntoDeEbullicion": 332.0,
+    "densidad": 3.12,
+    "radioAtomico": 114,
+    "conductividadTermica": 0.122
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.96,
+    "energiaDeIonizacion": 1139.9,
+    "afinidadElectronica": 324.6,
+    "estadosOxidacion": [-1, 1, 3, 4, 5, 7]
+  },
+  "capasElectronicas": [2, 8, 18, 7],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["diatomico", "halógeno"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Bromo-79",
+      "numeroNeutrones": 44,
+      "masaAtomica": 78.9183376,
+      "abundancia": 50.69,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Bromo-81",
+      "numeroNeutrones": 46,
+      "masaAtomica": 80.9162897,
+      "abundancia": 49.31,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Bromo-77",
+      "numeroNeutrones": 42,
+      "masaAtomica": 76.9213792,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / β+",
+        "vidaMedia": "57.036 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Antoine Jérôme Balard y Carl Jacob Löwig (independientemente)",
+    "fechaDescubrimiento": "1825 (Löwig); 1826 (Balard)"
+  },
+  "datosCuriosos": [
+    "Es uno de los dos únicos elementos (junto con el mercurio) que son líquidos a temperatura y presión estándar. Es un líquido denso, móvil, de color marrón rojizo oscuro. [1, 2, 4]",
+    "Tiene un olor fuerte, penetrante y desagradable, y sus vapores son muy irritantes para los ojos, la garganta y los pulmones. [1, 2, 4]",
+    "Se extrae comercialmente de salmueras ricas en bromuro, que se encuentran en el agua de mar (aunque en baja concentración) y en depósitos salinos. [1, 2, 4]",
+    "Como otros halógenos, el bromo elemental existe como una molécula diatómica (Br₂). [1, 2]",
+    "Es un elemento reactivo y un agente oxidante fuerte. [1, 2]",
+    "El bromo daña la piel al contacto y debe manejarse con extrema precaución. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de compuestos orgánicos bromados que se utilizan como retardantes de llama en plásticos, textiles y productos electrónicos. [1, 2, 4]",
+    "Históricamente, en la producción de 1,2-dibromoetano, un aditivo antidetonante para gasolinas con plomo (ahora en desuso). [1, 2, 4]",
+    "En la producción de desinfectantes para piscinas y spas (alternativa al cloro), y en algunos pesticidas y biocidas. [1, 2, 4]",
+    "El bromuro de plata (AgBr) fue un componente esencial en las emulsiones fotográficas para películas y papel fotográfico. [1, 2, 4]",
+    "En la fabricación de ciertos tintes, productos farmacéuticos y productos químicos para el tratamiento de aguas. [1, 2]",
+    "Los bromuros inorgánicos (como bromuro de sodio y potasio) se han utilizado como sedantes y anticonvulsivos, aunque su uso médico es ahora limitado. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "HBr (bromuro de hidrógeno / ácido bromhídrico)",
+    "AgBr (bromuro de plata)",
+    "KBr (bromuro de potasio)",
+    "NaBr (bromuro de sodio)",
+    "CH₃Br (bromometano / bromuro de metilo, fumigante, uso restringido)",
+    "C₂H₄Br₂ (1,2-dibromoetano)"
+  ],
+  "abundancia": {
+    "universo": 0.0000004,
+    "cortezaTerrestre": 2.4,
+    "atmosfera": "Trazas (como compuestos orgánicos volátiles)",
+    "oceano": 67.3,
+    "totalTierra": 0.00038,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00029,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "true (el bromo líquido y sus vapores son altamente tóxicos, corrosivos e irritantes; los iones bromuro tienen menor toxicidad pero pueden ser perjudiciales en grandes dosis). [1, 2]",
+  "origenDelNombre": "Del griego 'brōmos' (βρῶμος), que significa \"hedor\" o \"mal olor\", debido al olor penetrante y desagradable de sus vapores. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Bromo",
+    "https://www.rsc.org/periodic-table/element/35/bromine"
+  ]
 }
   
 ]
