@@ -3782,6 +3782,153 @@
     "https://es.wikipedia.org/wiki/Ars%C3%A9nico",
     "https://www.rsc.org/periodic-table/element/33/arsenic"
   ]
+},
+  {
+  "simbolo": "Se",
+  "nombre": "Selenio",
+  "numeroAtomico": 34,
+  "masaAtomica": 78.971,
+  "grupo": 16,
+  "periodo": 4,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 494,
+    "puntoDeEbullicion": 958,
+    "densidad": 4.81,
+    "radioAtomico": 116,
+    "conductividadTermica": 0.519
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.55,
+    "energiaDeIonizacion": 941.0,
+    "afinidadElectronica": 195.0,
+    "estadosOxidacion": [-2, 0, 2, 4, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 6],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["no metal", "calcógeno"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Selenio-74",
+      "numeroNeutrones": 40,
+      "masaAtomica": 73.9224758,
+      "abundancia": 0.89,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Selenio-75",
+      "numeroNeutrones": 41,
+      "masaAtomica": 74.9225226,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "119.78 días"
+      }
+    },
+    {
+      "nombre": "Selenio-76",
+      "numeroNeutrones": 42,
+      "masaAtomica": 75.9192137,
+      "abundancia": 9.37,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Selenio-77",
+      "numeroNeutrones": 43,
+      "masaAtomica": 76.9199141,
+      "abundancia": 7.63,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Selenio-78",
+      "numeroNeutrones": 44,
+      "masaAtomica": 77.9173092,
+      "abundancia": 23.77,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Selenio-80",
+      "numeroNeutrones": 46,
+      "masaAtomica": 79.9165218,
+      "abundancia": 49.61,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Selenio-82",
+      "numeroNeutrones": 48,
+      "masaAtomica": 81.9166993,
+      "abundancia": 8.73,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": "9.2 × 10^19 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Jöns Jacob Berzelius y Johan Gottlieb Gahn",
+    "fechaDescubrimiento": 1817
+  },
+  "datosCuriosos": [
+    "El selenio gris es fotoconductor, lo que significa que su conductividad eléctrica aumenta cuando se expone a la luz. [1, 2, 4]",
+    "Es un oligoelemento esencial para muchos organismos, incluyendo los humanos, ya que forma parte de importantes enzimas antioxidantes como la glutatión peroxidasa. [1, 2, 4]",
+    "Cuando se quema o se vaporiza, el selenio y algunos de sus compuestos pueden producir un olor característico similar al ajo podrido o a rábanos picantes. [1, 2, 4]",
+    "Se encuentra en el suelo y es absorbido por las plantas; la concentración en las plantas varía mucho según el contenido de selenio del suelo. Las nueces de Brasil son particularmente ricas en selenio. [1, 2, 4]",
+    "Existe en varias formas alotrópicas: el selenio gris (metálico, estable), el selenio rojo (no metálico, amorfo o cristalino) y el selenio negro (amorfo). [1, 2, 4]",
+    "La diferencia entre la dosis esencial y la dosis tóxica de selenio es relativamente pequeña. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de rectificadores y células fotovoltaicas (aunque menos común ahora que en el pasado) debido a sus propiedades semiconductoras y fotoconductoras. [1, 2, 4]",
+    "Para decolorar el vidrio (eliminar el tinte verdoso causado por impurezas de hierro) y para dar un color rojo rubí al vidrio y a las cerámicas. [1, 2, 4]",
+    "Como suplemento alimenticio para humanos y animales para asegurar una ingesta adecuada de este micronutriente esencial. [1, 2, 4]",
+    "En fotocopiadoras y medidores de luz (fotocélulas) debido a su fotoconductividad. [1, 2, 4]",
+    "El sulfuro de selenio (SeS₂) se utiliza en champús anticaspa. [1, 2, 4]",
+    "En la industria metalúrgica para mejorar la maquinabilidad de los aceros inoxidables. [1, 2]",
+    "El isótopo selenio-75 se utiliza en medicina nuclear como trazador en gammagrafía. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "SeO₂ (dióxido de selenio)",
+    "H₂Se (seleniuro de hidrógeno, gas tóxico)",
+    "H₂SeO₃ (ácido selenioso)",
+    "H₂SeO₄ (ácido selénico)",
+    "Na₂SeO₃ (selenito de sodio)",
+    "SeS₂ (disulfuro de selenio)"
+  ],
+  "abundancia": {
+    "universo": 0.000003,
+    "cortezaTerrestre": 0.05,
+    "atmosfera": "Trazas (como compuestos volátiles)",
+    "oceano": 0.00009,
+    "totalTierra": 0.000008,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.0000002,
+      "categoriaAbundancia": "Oligoelemento esencial"
+    }
+  },
+  "toxicidad": "moderada (esencial en pequeñas dosis, pero tóxico en cantidades mayores; la exposición crónica puede causar selenosis). [1, 2]",
+  "origenDelNombre": "Del griego 'selēnē' (σελήνη), que significa \"Luna\". Jöns Jacob Berzelius lo nombró así debido a su similitud química con el telurio (nombrado por la Tierra, 'tellus' en latín), que a menudo se encontraba junto al selenio en los minerales. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Selenio",
+    "https://www.rsc.org/periodic-table/element/34/selenium"
+  ]
 }
   
 ]
