@@ -4176,6 +4176,115 @@
     "https://es.wikipedia.org/wiki/Kript%C3%B3n",
     "https://www.rsc.org/periodic-table/element/36/krypton"
   ]
+},
+  {
+  "simbolo": "Rb",
+  "nombre": "Rubidio",
+  "numeroAtomico": 37,
+  "masaAtomica": 85.4678,
+  "grupo": 1,
+  "periodo": 5,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 312.45,
+    "puntoDeEbullicion": 961,
+    "densidad": 1.532,
+    "radioAtomico": 248,
+    "conductividadTermica": 58.2
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.82,
+    "energiaDeIonizacion": 403.0,
+    "afinidadElectronica": 46.884,
+    "estadosOxidacion": [1, -1]
+  },
+  "capasElectronicas": [2, 8, 18, 8, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Rubidio-85",
+      "numeroNeutrones": 48,
+      "masaAtomica": 84.911789732,
+      "abundancia": 72.17,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rubidio-87",
+      "numeroNeutrones": 50,
+      "masaAtomica": 86.909180520,
+      "abundancia": 27.83,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "4.97 × 10^10 años"
+      }
+    },
+    {
+      "nombre": "Rubidio-83",
+      "numeroNeutrones": 46,
+      "masaAtomica": 82.914127,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "86.2 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Robert Bunsen y Gustav Kirchhoff",
+    "fechaDescubrimiento": 1861
+  },
+  "datosCuriosos": [
+    "Es un metal alcalino muy blando, de color blanco plateado, que es altamente reactivo y puede incendiarse espontáneamente en el aire. [1, 2, 4]",
+    "Cuando se introduce en una llama, el rubidio y sus compuestos le imparten un color rojo violáceo o carmesí intenso, debido a sus líneas espectrales características. [1, 2, 4]",
+    "Tiene un punto de fusión bajo, apenas por encima de la temperatura corporal humana (39.3 °C o 102.7 °F). [1, 2, 4]",
+    "Se encuentra en pequeñas cantidades en minerales como la lepidolita, la carnalita y la polucita, a menudo junto con otros metales alcalinos como el potasio y el cesio. [1, 2, 4]",
+    "El isótopo natural rubidio-87 es radiactivo (emisor beta) y tiene una vida media muy larga, lo que permite su uso en la datación geológica (datación rubidio-estroncio). [1, 2, 4]",
+    "Reacciona violentamente con el agua, liberando hidrógeno que se inflama. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de ciertos tipos de relojes atómicos de alta precisión, donde se utilizan las transiciones hiperfinas de los átomos de rubidio. [1, 2, 4]",
+    "En investigación científica, especialmente en física cuántica para la creación de condensados de Bose-Einstein y en magnetómetros. [1, 2, 4]",
+    "En la producción de vidrios especiales y cerámicas, y como componente de fotocélulas y tubos de vacío. [1, 2, 4]",
+    "Algunos compuestos de rubidio se utilizan como catalizadores en química orgánica. [1, 2]",
+    "El carbonato de rubidio se utiliza en algunos tipos de vidrio para mejorar su estabilidad y reducir su conductividad eléctrica. [1, 2]",
+    "Se ha investigado su uso en generadores termoeléctricos y como fluido de trabajo en turbinas de vapor. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "RbCl (cloruro de rubidio)",
+    "RbOH (hidróxido de rubidio)",
+    "Rb₂CO₃ (carbonato de rubidio)",
+    "RbNO₃ (nitrato de rubidio)",
+    "Rb₂SO₄ (sulfato de rubidio)"
+  ],
+  "abundancia": {
+    "universo": 0.000002,
+    "cortezaTerrestre": 90,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.12,
+    "totalTierra": 0.0058,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00046,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "moderada (el rubidio elemental es altamente reactivo y corrosivo; los iones de rubidio tienen una toxicidad similar a los de potasio y pueden interferir con el metabolismo del potasio si se ingieren en grandes cantidades). [1, 2]",
+  "origenDelNombre": "Del latín 'rubidus', que significa \"rojo oscuro\" o \"rojizo\", en referencia a las dos prominentes líneas rojas en el espectro de emisión del elemento, que permitieron su descubrimiento mediante espectroscopia. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Rubidio",
+    "https://www.rsc.org/periodic-table/element/37/rubidium"
+  ]
 }
   
 ]
