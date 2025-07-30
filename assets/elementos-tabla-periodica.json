@@ -3670,6 +3670,118 @@
     "https://es.wikipedia.org/wiki/Germanio",
     "https://www.rsc.org/periodic-table/element/32/germanium"
   ]
+},
+  {
+  "simbolo": "As",
+  "nombre": "Arsénico",
+  "numeroAtomico": 33,
+  "masaAtomica": 74.921595,
+  "grupo": 15,
+  "periodo": 4,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1090,
+    "puntoDeEbullicion": 887,
+    "densidad": 5.727,
+    "radioAtomico": 119,
+    "conductividadTermica": 50.2
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.18,
+    "energiaDeIonizacion": 947.0,
+    "afinidadElectronica": 77.65,
+    "estadosOxidacion": [-3, 0, 1, 2, 3, 4, 5]
+  },
+  "capasElectronicas": [2, 8, 18, 5],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metaloide",
+    "subtipo": []
+  },
+  "isotopos": [
+    {
+      "nombre": "Arsénico-73",
+      "numeroNeutrones": 40,
+      "masaAtomica": 72.923825,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "80.30 días"
+      }
+    },
+    {
+      "nombre": "Arsénico-74",
+      "numeroNeutrones": 41,
+      "masaAtomica": 73.9239287,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "β+ (66%), ε (34%), β- (trazas)",
+        "vidaMedia": "17.77 días"
+      }
+    },
+    {
+      "nombre": "Arsénico-75",
+      "numeroNeutrones": 42,
+      "masaAtomica": 74.9215946,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Compuestos conocidos desde la antigüedad; Alberto Magno se le atribuye el aislamiento del elemento.",
+    "fechaDescubrimiento": "c. 1250 (Alberto Magno)"
+  },
+  "datosCuriosos": [
+    "Es tristemente célebre como un veneno potente y ha sido utilizado históricamente con fines homicidas, ganándose el apodo de \"el rey de los venenos\". [1, 2, 4]",
+    "Existe en varias formas alotrópicas, siendo las más comunes el arsénico gris (metálico, estable), el arsénico amarillo (no metálico, ceroso) y el arsénico negro (no metálico, vítreo). [1, 2, 4]",
+    "El arsénico gris metálico se sublima (pasa directamente de sólido a gas sin fundirse) a presión atmosférica cuando se calienta, liberando un vapor con olor a ajo. [1, 2, 4]",
+    "Se encuentra de forma natural en trazas en el suelo, el agua, el aire y los alimentos, y puede acumularse en ciertas plantas y animales. [1, 2, 4]",
+    "A pesar de su toxicidad, algunos compuestos de arsénico tienen aplicaciones médicas. [1, 2, 4]",
+    "La exposición crónica a niveles bajos de arsénico (principalmente a través del agua potable contaminada) es un problema de salud pública en algunas regiones del mundo. [1, 2]"
+  ],
+  "usos": [
+    "Históricamente, y en algunas regiones aún, se utiliza como conservante de la madera (e.g., arseniato de cobre cromatado, CCA), aunque su uso está cada vez más restringido debido a su toxicidad. [1, 2, 4]",
+    "En la fabricación de semiconductores como el arseniuro de galio (GaAs), utilizado en circuitos integrados de alta velocidad, diodos láser y células solares. [1, 2, 4]",
+    "Producción de ciertos tipos de pesticidas, herbicidas e insecticidas (e.g., arseniato de plomo, verde de París), aunque muchos han sido prohibidos o restringidos. [1, 2, 4]",
+    "El trióxido de arsénico (As₂O₃) se utiliza en dosis controladas en el tratamiento de ciertos tipos de leucemia (leucemia promielocítica aguda). [1, 2, 4]",
+    "Como agente de aleación para endurecer el plomo en baterías y municiones. [1, 2]",
+    "En la industria del vidrio para eliminar el color verde causado por impurezas de hierro. [1, 2]",
+    "Históricamente, en pigmentos (e.g., oropimente, rejalgar). [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "As₂O₃ (trióxido de arsénico / anhídrido arsenioso)",
+    "As₂O₅ (pentóxido de arsénico / anhídrido arsénico)",
+    "AsH₃ (arsina / arseniuro de hidrógeno, gas extremadamente tóxico)",
+    "GaAs (arseniuro de galio)",
+    "FeAsS (arsenopirita, mineral común de arsénico)",
+    "As₂S₃ (trisulfuro de arsénico, oropimente)",
+    "As₄S₄ (tetrasulfuro de tetraarsénico, rejalgar)"
+  ],
+  "abundancia": {
+    "universo": 0.0000008,
+    "cortezaTerrestre": 1.8,
+    "atmosfera": "Trazas (como partículas y compuestos volátiles)",
+    "oceano": 0.0017,
+    "totalTierra": 0.00015,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00001,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "true (el arsénico y la mayoría de sus compuestos son altamente tóxicos y carcinogénicos; la arsina es un gas extremadamente venenoso). [1, 2]",
+  "origenDelNombre": "Del griego 'arsenikon' (ἀρσενικόν), que era el nombre del pigmento amarillo oropimente (As₂S₃). Este término griego podría derivar del persa 'zarnik' (amarillo) o del griego 'arsenikos' (masculino, potente), aunque la primera etimología es más aceptada. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Ars%C3%A9nico",
+    "https://www.rsc.org/periodic-table/element/33/arsenic"
+  ]
 }
   
 ]
