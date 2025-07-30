@@ -4285,6 +4285,132 @@
     "https://es.wikipedia.org/wiki/Rubidio",
     "https://www.rsc.org/periodic-table/element/37/rubidium"
   ]
+},
+  {
+  "simbolo": "Sr",
+  "nombre": "Estroncio",
+  "numeroAtomico": 38,
+  "masaAtomica": 87.62,
+  "grupo": 2,
+  "periodo": 5,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1050,
+    "puntoDeEbullicion": 1655,
+    "densidad": 2.64,
+    "radioAtomico": 215,
+    "conductividadTermica": 35.3
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.95,
+    "energiaDeIonizacion": 549.5,
+    "afinidadElectronica": 5.023,
+    "estadosOxidacion": [2, 1]
+  },
+  "capasElectronicas": [2, 8, 18, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalinotérreo"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Estroncio-84",
+      "numeroNeutrones": 46,
+      "masaAtomica": 83.913419,
+      "abundancia": 0.56,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estroncio-86",
+      "numeroNeutrones": 48,
+      "masaAtomica": 85.9092607,
+      "abundancia": 9.86,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estroncio-87",
+      "numeroNeutrones": 49,
+      "masaAtomica": 86.9088775,
+      "abundancia": 7.00,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estroncio-88",
+      "numeroNeutrones": 50,
+      "masaAtomica": 87.9056125,
+      "abundancia": 82.58,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estroncio-90",
+      "numeroNeutrones": 52,
+      "masaAtomica": 89.907732,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "28.90 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Adair Crawford (identificación del mineral); Humphry Davy (aislamiento del metal)",
+    "fechaDescubrimiento": "1790 (Crawford); 1808 (Davy)"
+  },
+  "datosCuriosos": [
+    "Las sales de estroncio, especialmente el nitrato y el carbonato, imparten un color rojo carmesí brillante a las llamas, lo que las hace ideales para fuegos artificiales y bengalas. [1, 2, 4]",
+    "Se encuentra principalmente en los minerales celestina (sulfato de estroncio, SrSO₄) y estroncianita (carbonato de estroncio, SrCO₃). [1, 2, 4]",
+    "Es un metal alcalinotérreo blando, de color blanco plateado, que se oxida rápidamente en el aire adquiriendo un tono amarillento. Es más blando que el calcio y reacciona vigorosamente con el agua. [1, 2, 4]",
+    "Las proporciones de isótopos de estroncio (especialmente ⁸⁷Sr/⁸⁶Sr) se utilizan en geología y arqueología para la datación y el rastreo del origen de rocas, aguas, artefactos y restos humanos o animales. [1, 2]",
+    "El isótopo radiactivo estroncio-90 es un producto de la fisión nuclear y es peligroso porque puede incorporarse a los huesos en lugar del calcio, causando daños por radiación. [1, 2, 4]",
+    "El estroncio es químicamente similar al calcio y al bario. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de fuegos artificiales y bengalas para producir un color rojo intenso. [1, 2, 4]",
+    "El carbonato de estroncio se utiliza en la producción de imanes de ferrita permanentes y en el refinamiento del zinc para eliminar el plomo. [1, 2, 4]",
+    "Históricamente, el hidróxido de estroncio se utilizó en la industria azucarera para extraer azúcar de la melaza de remolacha. [1, 2]",
+    "El ranelato de estroncio es un medicamento que se ha utilizado para tratar la osteoporosis, ya que puede aumentar la densidad ósea. [1, 2, 4]",
+    "El vidrio de los tubos de rayos catódicos (CRTs) de televisores y monitores antiguos contenía óxido de estroncio para bloquear la emisión de rayos X. [1, 2, 4]",
+    "El isótopo estroncio-89 se utiliza en radioterapia para aliviar el dolor óseo causado por metástasis cancerosas. [1, 2]",
+    "En aleaciones y como eliminador de gases en tubos de vacío. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "SrCO₃ (carbonato de estroncio, estroncianita)",
+    "SrSO₄ (sulfato de estroncio, celestina)",
+    "SrO (óxido de estroncio)",
+    "Sr(NO₃)₂ (nitrato de estroncio)",
+    "SrCl₂ (cloruro de estroncio)",
+    "C₁₂H₁₂N₂O₈SSr (ranelato de estroncio)"
+  ],
+  "abundancia": {
+    "universo": 0.000008,
+    "cortezaTerrestre": 370,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 7.9,
+    "totalTierra": 0.021,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00046,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (el estroncio estable no es tóxico y se comporta de manera similar al calcio en el cuerpo; el estroncio-90 radiactivo es peligroso debido a su incorporación en los huesos y la emisión de radiación beta). [1, 2]",
+  "origenDelNombre": "Nombrado por el pueblo de Strontian en Argyllshire, Escocia, donde se descubrió por primera vez el mineral estroncianita en 1790. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Estroncio",
+    "https://www.rsc.org/periodic-table/element/38/strontium"
+  ]
 }
   
 ]
