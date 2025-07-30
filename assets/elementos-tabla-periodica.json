@@ -4411,6 +4411,116 @@
     "https://es.wikipedia.org/wiki/Estroncio",
     "https://www.rsc.org/periodic-table/element/38/strontium"
   ]
+},
+  {
+  "simbolo": "Y",
+  "nombre": "Itrio",
+  "numeroAtomico": 39,
+  "masaAtomica": 88.90584,
+  "grupo": 3,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1799,
+    "puntoDeEbullicion": 3609,
+    "densidad": 4.472,
+    "radioAtomico": 180,
+    "conductividadTermica": 17.2
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.22,
+    "energiaDeIonizacion": 600,
+    "afinidadElectronica": 29.6,
+    "estadosOxidacion": [0, 1, 2, 3]
+  },
+  "capasElectronicas": [2, 8, 18, 9, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "a menudo clasificado con las tierras raras"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Itrio-89",
+      "numeroNeutrones": 50,
+      "masaAtomica": 88.9058403,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Itrio-87",
+      "numeroNeutrones": 48,
+      "masaAtomica": 86.910859,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "79.8 horas"
+      }
+    },
+    {
+      "nombre": "Itrio-90",
+      "numeroNeutrones": 51,
+      "masaAtomica": 89.908510,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "64.053 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Johan Gadolin",
+    "fechaDescubrimiento": 1794
+  },
+  "datosCuriosos": [
+    "Es un metal de transición de color blanco plateado, relativamente estable en el aire y resistente al calor. [1, 2, 4]",
+    "Aunque no es estrictamente una tierra rara (lantánido), se encuentra comúnmente en los mismos minerales que las tierras raras (como la monacita y la bastnasita) y comparte propiedades químicas similares con ellas. [1, 2, 4]",
+    "El óxido de itrio dopado con europio (Y₂O₃:Eu) fue un importante fósforo rojo utilizado en los tubos de rayos catódicos de los televisores en color y también se usa en LEDs. [1, 2, 4]",
+    "Muestras de rocas lunares traídas por las misiones Apolo mostraron un contenido de itrio relativamente alto en comparación con las rocas terrestres. [1, 2]",
+    "El itrio metálico finamente dividido puede ser pirofórico y arder espontáneamente en el aire. [1, 2]",
+    "Fue el primer elemento de las tierras raras en ser descubierto. [1, 2]"
+  ],
+  "usos": [
+    "En la producción de fósforos (sustancias que emiten luz) para pantallas de televisión, monitores de ordenador, lámparas fluorescentes y LEDs, especialmente para generar el color rojo (e.g., Y₂O₃:Eu, YVO₄:Eu). [1, 2, 4]",
+    "En aleaciones con otros metales para mejorar sus propiedades. Por ejemplo, el itrio se utiliza para aumentar la resistencia de las aleaciones de aluminio y magnesio, y en superaleaciones para componentes de turbinas de aviones. [1, 2, 4]",
+    "Como catalizador en la polimerización del etileno y en otras reacciones químicas industriales. [1, 2, 4]",
+    "En la fabricación de granates de itrio y aluminio (YAG), que se utilizan como cristales para láseres (e.g., láseres Nd:YAG), como gemas sintéticas y en la industria de la joyería. [1, 2, 4]",
+    "El óxido de itrio estabilizado con circonia (YSZ) se utiliza en cerámicas de alta temperatura, como recubrimientos de barrera térmica, sensores de oxígeno y electrolitos sólidos en celdas de combustible. [1, 2]",
+    "El isótopo radiactivo itrio-90 se utiliza en radioterapia para el tratamiento de ciertos tipos de cáncer. [1, 2, 4]",
+    "En bujías de alto rendimiento y como aditivo en aceros para refinar el grano. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Y₂O₃ (óxido de itrio)",
+    "YCl₃ (cloruro de itrio)",
+    "YF₃ (fluoruro de itrio)",
+    "YAG (granate de itrio y aluminio, Y₃Al₅O₁₂)",
+    "YBa₂Cu₃O₇ (YBCO, un superconductor de alta temperatura)"
+  ],
+  "abundancia": {
+    "universo": 0.0000007,
+    "cortezaTerrestre": 33,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000003,
+    "totalTierra": 0.0021,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el itrio y sus compuestos solubles se consideran de baja toxicidad, aunque la exposición a polvo de itrio puede causar irritación pulmonar). [1, 2]",
+  "origenDelNombre": "Nombrado por la aldea de Ytterby, cerca de Estocolmo, Suecia, donde se encontró el mineral gadolinita en una cantera. Varios otros elementos (erbio, terbio, iterbio) también deben su nombre a esta localidad. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Itrio",
+    "https://www.rsc.org/periodic-table/element/39/yttrium"
+  ]
 }
   
 ]
