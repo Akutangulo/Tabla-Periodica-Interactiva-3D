@@ -624,7 +624,7 @@
   ],
     "descubrimiento": {
     "descubridor": "Conocido en sus formas (e.g., carbón, hollín, diamante) por civilizaciones antiguas; Antoine Lavoisier lo identificó como un elemento.",
-    "fechaDescubrimiento": "Identificado como elemento c. 1789"
+    "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
     "Es la base de toda la vida conocida en la Tierra, formando la estructura fundamental de las moléculas orgánicas. [4, 15, 29]",
@@ -849,7 +849,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Carl Wilhelm Scheele (1772-1773) y Joseph Priestley (1774) de forma independiente. Antoine Lavoisier lo nombró y describió su papel en la combustión.",
-    "fechaDescubrimiento": "c. 1774 (publicación de Priestley)"
+    "fechaDescubrimiento": 1774
   },
   "datosCuriosos": [
     "Compone aproximadamente el 20.95% del volumen de la atmósfera terrestre y es esencial para la respiración de la mayoría de los seres vivos. [2, 13]",
@@ -1284,7 +1284,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Joseph Black reconoció el magnesio como un elemento en 1755; Humphry Davy lo aisló por primera vez en 1808.",
-    "fechaDescubrimiento": "Reconocido en 1755, aislado en 1808."
+    "fechaDescubrimiento": 1755
   },
   "datosCuriosos": [
     "Arde en el aire con una luz blanca muy brillante y es difícil de extinguir, pudiendo reaccionar con el nitrógeno y el dióxido de carbono. [1, 2]",
@@ -1381,7 +1381,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Hans Christian Ørsted (preparación impura); Friedrich Wöhler (aislamiento puro)",
-    "fechaDescubrimiento": "1825 (Ørsted); 1827 (Wöhler)"
+    "fechaDescubrimiento": 1825
   },
   "datosCuriosos": [
     "Es el metal más abundante en la corteza terrestre, constituyendo aproximadamente el 8.2%. [1, 2, 4]",
@@ -1736,7 +1736,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Conocido por las civilizaciones antiguas. Antoine Lavoisier lo reconoció como elemento.",
-    "fechaDescubrimiento": "Antigüedad (conocimiento); c. 1777 (reconocimiento como elemento)"
+    "fechaDescubrimiento": 1777
   },
   "datosCuriosos": [
     "El sulfuro de hidrógeno (H₂S), un compuesto de azufre, es responsable del característico olor a huevos podridos. [1, 2, 4]",
@@ -2546,7 +2546,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Andrés Manuel del Río (descubrimiento inicial como 'eritronio'); Nils Gabriel Sefström (redescubrimiento y confirmación)",
-    "fechaDescubrimiento": "1801 (del Río); 1830 (Sefström)"
+    "fechaDescubrimiento": 1801
   },
   "datosCuriosos": [
     "Sus compuestos exhiben una amplia gama de colores vivos, como verde, amarillo, naranja, rojo y azul, dependiendo del estado de oxidación. [1, 2, 4]",
@@ -2768,7 +2768,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Carl Wilhelm Scheele (reconocimiento); Johan Gottlieb Gahn (aislamiento)",
-    "fechaDescubrimiento": "1774"
+    "fechaDescubrimiento": 1774
   },
   "datosCuriosos": [
     "Es un metal duro y muy quebradizo, difícil de mecanizar en estado puro, pero es un componente esencial en muchas aleaciones de acero. [1, 2, 4]",
@@ -2893,7 +2893,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Conocido y utilizado por civilizaciones antiguas (primer uso de hierro meteorítico c. 4000 a.C.; inicio de la Edad del Hierro con la fundición generalizada c. 1200 a.C.).",
-    "fechaDescubrimiento": "Antoine Lavoisier lo catalogó como elemento químico. en 1789 (reconocimiento como elemento)"
+    "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
     "Es el cuarto elemento más abundante en la corteza terrestre y el más abundante en masa en la Tierra en su conjunto, formando gran parte del núcleo externo e interno. [1, 2, 4]",
@@ -3003,7 +3003,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Georg Brandt",
-    "fechaDescubrimiento": "c. 1735 (aislamiento y reconocimiento como nuevo metal)"
+    "fechaDescubrimiento": 1735
   },
   "datosCuriosos": [
     "Los compuestos de cobalto se han utilizado durante siglos para impartir un característico color azul intenso al vidrio, esmaltes y cerámicas (azul de cobalto). [1, 2, 4]",
@@ -3246,7 +3246,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Conocido y utilizado por civilizaciones antiguas (primer uso de cobre nativo c. 9000 a.C.; inicio de la fundición c. 5000 a.C.). Antoine Lavoisier lo catalogó como elemento químico.",
-    "fechaDescubrimiento": "c. 1789 Lavosier (reconocimiento como elemento)"
+    "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
     "Es uno de los primeros metales utilizados por la humanidad, marcando el inicio de la Edad del Cobre y posteriormente la Edad del Bronce (aleación de cobre y estaño). [1, 2, 4]",
@@ -3382,7 +3382,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Reconocido como metal en la India c. 1300 d.C.; Andreas Sigismund Marggraf aisló zinc puro en Europa.",
-    "fechaDescubrimiento": "c. 1746 (Marggraf)"
+    "fechaDescubrimiento": 1746
   },
   "datosCuriosos": [
     "Se utiliza ampliamente para galvanizar el acero o el hierro, protegiéndolos de la corrosión al actuar como ánodo de sacrificio. [1, 2, 4]",
@@ -3737,7 +3737,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Compuestos conocidos desde la antigüedad; Alberto Magno se le atribuye el aislamiento del elemento.",
-    "fechaDescubrimiento": "c. 1250 (Alberto Magno)"
+    "fechaDescubrimiento": 1250
   },
   "datosCuriosos": [
     "Es tristemente célebre como un veneno potente y ha sido utilizado históricamente con fines homicidas, ganándose el apodo de \"el rey de los venenos\". [1, 2, 4]",
@@ -3993,7 +3993,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Antoine Jérôme Balard y Carl Jacob Löwig (independientemente)",
-    "fechaDescubrimiento": "1825 (Löwig); 1826 (Balard)"
+    "fechaDescubrimiento": 1826
   },
   "datosCuriosos": [
     "Es uno de los dos únicos elementos (junto con el mercurio) que son líquidos a temperatura y presión estándar. Es un líquido denso, móvil, de color marrón rojizo oscuro. [1, 2, 4]",
@@ -4367,7 +4367,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Adair Crawford (identificación del mineral); Humphry Davy (aislamiento del metal)",
-    "fechaDescubrimiento": "1790 (Crawford); 1808 (Davy)"
+    "fechaDescubrimiento": 1790
   },
   "datosCuriosos": [
     "Las sales de estroncio, especialmente el nitrato y el carbonato, imparten un color rojo carmesí brillante a las llamas, lo que las hace ideales para fuegos artificiales y bengalas. [1, 2, 4]",
@@ -4615,7 +4615,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Martin Heinrich Klaproth (descubrimiento del óxido); Jöns Jacob Berzelius (aislamiento del metal impuro)",
-    "fechaDescubrimiento": "1789 (Klaproth); 1824 (Berzelius)"
+    "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
     "Es un metal de transición lustroso, de color blanco grisáceo, muy resistente a la corrosión por álcalis, ácidos, agua salada y otros agentes. [1, 2, 4]",
@@ -4736,7 +4736,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Charles Hatchett (descubrimiento inicial como 'columbio'); Heinrich Rose (confirmación y distinción del tantalio)",
-    "fechaDescubrimiento": "1801 (Hatchett); 1846 (Rose)"
+    "fechaDescubrimiento": 1801
   },
   "datosCuriosos": [
     "Es un metal de transición lustroso, de color gris, dúctil y altamente resistente a la corrosión por ácidos y al calor extremo. [1, 2, 4]",
@@ -4891,7 +4891,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Carl Wilhelm Scheele (identificación del óxido); Peter Jacob Hjelm (aislamiento del metal)",
-    "fechaDescubrimiento": "1778 (Scheele); 1781 (Hjelm)"
+    "fechaDescubrimiento": 1778
   },
   "datosCuriosos": [
     "Es un metal de transición de color blanco plateado, duro y con uno de los puntos de fusión más altos de todos los elementos puros. [1, 2, 4]",
