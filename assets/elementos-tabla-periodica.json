@@ -5316,6 +5316,149 @@
     "https://es.wikipedia.org/wiki/Rodio",
     "https://www.rsc.org/periodic-table/element/45/rhodium"
   ]
+},
+  {
+  "simbolo": "Pd",
+  "nombre": "Paladio",
+  "numeroAtomico": 46,
+  "masaAtomica": 106.42,
+  "grupo": 10,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1828.05,
+    "puntoDeEbullicion": 3236,
+    "densidad": 12.023,
+    "radioAtomico": 137,
+    "conductividadTermica": 71.8
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.20,
+    "energiaDeIonizacion": 804.4,
+    "afinidadElectronica": 54.24,
+    "estadosOxidacion": [0, 1, 2, 3, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 0],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal del grupo del platino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Paladio-102",
+      "numeroNeutrones": 56,
+      "masaAtomica": 101.905609,
+      "abundancia": 1.02,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Paladio-104",
+      "numeroNeutrones": 58,
+      "masaAtomica": 103.904036,
+      "abundancia": 11.14,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Paladio-105",
+      "numeroNeutrones": 59,
+      "masaAtomica": 104.905085,
+      "abundancia": 22.33,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Paladio-106",
+      "numeroNeutrones": 60,
+      "masaAtomica": 105.903486,
+      "abundancia": 27.33,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Paladio-107",
+      "numeroNeutrones": 61,
+      "masaAtomica": 106.905133,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "6.5 × 10^6 años"
+      }
+    },
+    {
+      "nombre": "Paladio-108",
+      "numeroNeutrones": 62,
+      "masaAtomica": 107.903892,
+      "abundancia": 26.46,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Paladio-110",
+      "numeroNeutrones": 64,
+      "masaAtomica": 109.905153,
+      "abundancia": 11.72,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "William Hyde Wollaston",
+    "fechaDescubrimiento": 1803
+  },
+  "datosCuriosos": [
+    "Tiene la notable capacidad de absorber grandes cantidades de hidrógeno gaseoso, hasta 900 veces su propio volumen a temperatura ambiente. [1, 2, 4]",
+    "Es un metal precioso raro, más escaso que el oro y el platino, y se encuentra principalmente en depósitos de metales del grupo del platino. [1, 2, 4]",
+    "Es un metal lustroso, de color blanco plateado, dúctil y maleable, que no se deslustra en el aire. [1, 2, 4]",
+    "Se utiliza en la acuñación de algunas monedas conmemorativas y de inversión. [1, 2]",
+    "El paladio tiene una configuración electrónica anómala ([Kr] 4d¹⁰) con una capa de valencia 5s vacía, lo cual es inusual. [1, 2]",
+    "Es el menos denso y tiene el punto de fusión más bajo de los metales del grupo del platino. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente como catalizador en los convertidores catalíticos de los automóviles para reducir las emisiones de gases de escape (convierte hidrocarburos, monóxido de carbono y óxidos de nitrógeno en sustancias menos nocivas). [1, 2, 4]",
+    "En la fabricación de joyería, a menudo como una alternativa al platino o como componente en aleaciones de oro blanco para decolorar el oro. [1, 2, 4]",
+    "En la industria electrónica para fabricar condensadores cerámicos multicapa (MLCC), contactos eléctricos y en el revestimiento de componentes. [1, 2, 4]",
+    "Para la purificación de hidrógeno, ya que el hidrógeno gaseoso se difunde selectivamente a través de membranas de paladio caliente. [1, 2, 4]",
+    "Como catalizador en numerosas reacciones de química orgánica, especialmente en reacciones de acoplamiento cruzado (e.g., reacción de Heck, acoplamiento de Suzuki). [1, 2]",
+    "En odontología para aleaciones dentales. [1, 2]",
+    "En la fabricación de instrumentos quirúrgicos y relojes. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "PdCl₂ (cloruro de paladio(II))",
+    "PdO (óxido de paladio(II))",
+    "Pd(NO₃)₂ (nitrato de paladio(II))",
+    "Pd(CH₃COO)₂ (acetato de paladio(II))",
+    "[PdCl₂(PPh₃)₂] (diclorobis(trifenilfosfina)paladio(II), un catalizador)"
+  ],
+  "abundancia": {
+    "universo": 0.0000006,
+    "cortezaTerrestre": 0.015,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el paladio metálico es inerte y no se considera tóxico; algunos de sus compuestos pueden ser irritantes o tóxicos en altas dosis, pero la exposición es generalmente baja). [1, 2]",
+  "origenDelNombre": "Nombrado por William Hyde Wollaston en honor al asteroide Palas (Pallas), que había sido descubierto dos años antes (en 1801). El asteroide, a su vez, fue nombrado por Palas Atenea, la diosa griega de la sabiduría, la guerra y las artes. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Paladio",
+    "https://www.rsc.org/periodic-table/element/46/palladium"
+  ]
 }
   
 ]
