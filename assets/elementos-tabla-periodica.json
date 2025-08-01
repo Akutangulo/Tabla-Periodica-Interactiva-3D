@@ -4521,6 +4521,142 @@
     "https://es.wikipedia.org/wiki/Itrio",
     "https://www.rsc.org/periodic-table/element/39/yttrium"
   ]
+},
+  {
+  "simbolo": "Zr",
+  "nombre": "Zirconio",
+  "numeroAtomico": 40,
+  "masaAtomica": 91.224,
+  "grupo": 4,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2128,
+    "puntoDeEbullicion": 4682,
+    "densidad": 6.52,
+    "radioAtomico": 160,
+    "conductividadTermica": 22.6
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.33,
+    "energiaDeIonizacion": 640.1,
+    "afinidadElectronica": 41.806,
+    "estadosOxidacion": [-2, 0, 1, 2, 3, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 10, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Zirconio-90",
+      "numeroNeutrones": 50,
+      "masaAtomica": 89.9046994,
+      "abundancia": 51.45,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Zirconio-91",
+      "numeroNeutrones": 51,
+      "masaAtomica": 90.9056407,
+      "abundancia": 11.22,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Zirconio-92",
+      "numeroNeutrones": 52,
+      "masaAtomica": 91.9050353,
+      "abundancia": 17.15,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Zirconio-93",
+      "numeroNeutrones": 53,
+      "masaAtomica": 92.90647,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "1.61 × 10^6 años"
+      }
+    },
+    {
+      "nombre": "Zirconio-94",
+      "numeroNeutrones": 54,
+      "masaAtomica": 93.9063102,
+      "abundancia": 17.38,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Zirconio-96",
+      "numeroNeutrones": 56,
+      "masaAtomica": 95.908275,
+      "abundancia": 2.80,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": "2.35 × 10^19 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Martin Heinrich Klaproth (descubrimiento del óxido); Jöns Jacob Berzelius (aislamiento del metal impuro)",
+    "fechaDescubrimiento": "1789 (Klaproth); 1824 (Berzelius)"
+  },
+  "datosCuriosos": [
+    "Es un metal de transición lustroso, de color blanco grisáceo, muy resistente a la corrosión por álcalis, ácidos, agua salada y otros agentes. [1, 2, 4]",
+    "El mineral más importante de zirconio es el zircón (silicato de zirconio, ZrSiO₄), que se utiliza como gema y es la fuente principal del metal. [1, 2, 4]",
+    "El zirconio tiene una sección transversal de absorción de neutrones muy baja, lo que lo hace ideal para el revestimiento de barras de combustible en reactores nucleares. [1, 2, 4]",
+    "El polvo de zirconio puede ser pirofórico y arder espontáneamente en el aire, especialmente a temperaturas elevadas. [1, 2]",
+    "La zirconia cúbica (dióxido de zirconio estabilizado, ZrO₂) es un material cerámico duro, ópticamente impecable y generalmente incoloro que se utiliza como un popular sustituto del diamante en joyería. [1, 2, 4]",
+    "El zirconio es químicamente similar al hafnio, que casi siempre se encuentra junto con el zirconio en la naturaleza y es difícil de separar. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la industria nuclear como material de revestimiento para las barras de combustible de uranio en reactores nucleares (en forma de aleaciones como Zircaloy) debido a su baja absorción de neutrones y alta resistencia a la corrosión. [1, 2, 4]",
+    "El dióxido de zirconio (zirconia) se utiliza para fabricar cerámicas refractarias resistentes al calor y al choque térmico, crisoles, abrasivos y como opacificante en esmaltes y pigmentos cerámicos. [1, 2, 4]",
+    "La zirconia cúbica se utiliza ampliamente como un simulante de diamante en joyería. [1, 2, 4]",
+    "En aleaciones con otros metales para mejorar la resistencia a la corrosión y al calor, como en equipos químicos y herramientas quirúrgicas. [1, 2, 4]",
+    "El metal zirconio se utiliza en lámparas de flash fotográfico, tubos de vacío y como agente de aleación en aceros. [1, 2]",
+    "Compuestos de zirconio se utilizan en desodorantes antitranspirantes. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "ZrO₂ (dióxido de zirconio / óxido de zirconio(IV), zirconia)",
+    "ZrSiO₄ (silicato de zirconio, zircón)",
+    "ZrCl₄ (tetracloruro de zirconio)",
+    "Zr(SO₄)₂ (sulfato de zirconio)",
+    "Zircaloy (aleaciones de zirconio para reactores nucleares)"
+  ],
+  "abundancia": {
+    "universo": 0.000004,
+    "cortezaTerrestre": 165,
+    "atmosfera": "Trazas (como polvo)",
+    "oceano": 0.000022,
+    "totalTierra": 0.0057,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.000001,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (el zirconio metálico y la mayoría de sus compuestos se consideran de baja toxicidad y no son biológicamente activos; el polvo de zirconio puede ser irritante). [1, 2]",
+  "origenDelNombre": "Del mineral zircón. La palabra 'zircón' deriva del persa 'zargun' (زرگون), que significa \"color dorado\", en referencia al color de algunas variedades de esta gema. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Zirconio",
+    "https://www.rsc.org/periodic-table/element/40/zirconium"
+  ]
 }
   
 ]
