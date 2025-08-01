@@ -5207,6 +5207,115 @@
     "https://es.wikipedia.org/wiki/Rutenio",
     "https://www.rsc.org/periodic-table/element/44/ruthenium"
   ]
+},
+  {
+  "simbolo": "Rh",
+  "nombre": "Rodio",
+  "numeroAtomico": 45,
+  "masaAtomica": 102.90550,
+  "grupo": 9,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2237,
+    "puntoDeEbullicion": 3968,
+    "densidad": 12.41,
+    "radioAtomico": 134,
+    "conductividadTermica": 150
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.28,
+    "energiaDeIonizacion": 719.7,
+    "afinidadElectronica": 110.27,
+    "estadosOxidacion": [-1, 0, 1, 2, 3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 16, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal del grupo del platino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Rodio-101",
+      "numeroNeutrones": 56,
+      "masaAtomica": 100.906160,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "3.3 años"
+      }
+    },
+    {
+      "nombre": "Rodio-103",
+      "numeroNeutrones": 58,
+      "masaAtomica": 102.905504,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rodio-99",
+      "numeroNeutrones": 54,
+      "masaAtomica": 98.908132,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / β+",
+        "vidaMedia": "16.1 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "William Hyde Wollaston",
+    "fechaDescubrimiento": 1803
+  },
+  "datosCuriosos": [
+    "Es uno de los metales preciosos más raros y valiosos del mundo, a menudo superando el precio del oro y el platino. [1, 2, 4]",
+    "Tiene una alta reflectividad y un brillo blanco plateado intenso, lo que lo hace útil para espejos y acabados de joyería. [1, 2, 4]",
+    "Es extremadamente resistente a la corrosión y al deslustre, y no es atacado por la mayoría de los ácidos, incluyendo el agua regia (aunque el agua regia caliente puede disolverlo lentamente). [1, 2, 4]",
+    "Se encuentra en la naturaleza en pequeñas cantidades asociado con minerales de platino y níquel, principalmente en depósitos de metales del grupo del platino. [1, 2, 4]",
+    "El rodio es un metal duro y duradero. [1, 2]",
+    "El nombre del rodio proviene del color rosado de algunas de sus soluciones salinas. [1, 2, 4]"
+  ],
+  "usos": [
+    "Principalmente como catalizador en los convertidores catalíticos de tres vías de los automóviles para reducir las emisiones nocivas (óxidos de nitrógeno, monóxido de carbono e hidrocarburos). [1, 2, 4]",
+    "En el revestimiento (rodiado) de joyas de oro blanco y plata para darles un acabado blanco brillante, mejorar su durabilidad y protegerlas del deslustre. [1, 2, 4]",
+    "En la fabricación de espejos de alta calidad para instrumentos ópticos y reflectores. [1, 2]",
+    "En aleaciones con platino y paladio para fabricar termopares, crisoles de laboratorio, contactos eléctricos y bobinados de hornos. [1, 2, 4]",
+    "Como catalizador en procesos industriales, como la producción de ácido nítrico y en la hidrogenación y carbonilación de compuestos orgánicos. [1, 2]",
+    "En detectores de neutrones en reactores nucleares. [1, 2]",
+    "En la fabricación de puntas de plumas estilográficas y como material de contacto eléctrico debido a su baja resistencia y alta resistencia a la corrosión. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "RhCl₃ (tricloruro de rodio)",
+    "Rh₂O₃ (óxido de rodio(III))",
+    "[RhCl(PPh₃)₃] (catalizador de Wilkinson, utilizado en hidrogenación)",
+    "Rh(acac)(CO)₂ (acetilacetonatodicarbonilrodio(I))"
+  ],
+  "abundancia": {
+    "universo": 0.00000002,
+    "cortezaTerrestre": 0.001,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el rodio metálico es inerte y no se considera tóxico; algunos de sus compuestos pueden ser irritantes o tóxicos en altas dosis, pero la exposición es rara). [1, 2]",
+  "origenDelNombre": "Del griego 'rhodon' (ῥόδον), que significa \"rosa\", debido al color rosado de las soluciones acuosas de algunas de sus sales de cloro, observadas por su descubridor. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Rodio",
+    "https://www.rsc.org/periodic-table/element/45/rhodium"
+  ]
 }
   
 ]
