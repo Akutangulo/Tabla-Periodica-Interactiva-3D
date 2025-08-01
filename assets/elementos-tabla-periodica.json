@@ -4779,6 +4779,161 @@
     "https://es.wikipedia.org/wiki/Niobio",
     "https://www.rsc.org/periodic-table/element/41/niobium"
   ]
+},
+  {
+  "simbolo": "Mo",
+  "nombre": "Molibdeno",
+  "numeroAtomico": 42,
+  "masaAtomica": 95.95,
+  "grupo": 6,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2896,
+    "puntoDeEbullicion": 4912,
+    "densidad": 10.28,
+    "radioAtomico": 139,
+    "conductividadTermica": 138
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.16,
+    "energiaDeIonizacion": 684.3,
+    "afinidadElectronica": 71.98,
+    "estadosOxidacion": [-2, -1, 0, 1, 2, 3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 13, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Molibdeno-92",
+      "numeroNeutrones": 50,
+      "masaAtomica": 91.9068080,
+      "abundancia": 14.53,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Molibdeno-94",
+      "numeroNeutrones": 52,
+      "masaAtomica": 93.9050852,
+      "abundancia": 9.15,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Molibdeno-95",
+      "numeroNeutrones": 53,
+      "masaAtomica": 94.9058406,
+      "abundancia": 15.84,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Molibdeno-96",
+      "numeroNeutrones": 54,
+      "masaAtomica": 95.9046779,
+      "abundancia": 16.67,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Molibdeno-97",
+      "numeroNeutrones": 55,
+      "masaAtomica": 96.9060200,
+      "abundancia": 9.60,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Molibdeno-98",
+      "numeroNeutrones": 56,
+      "masaAtomica": 97.9054063,
+      "abundancia": 24.39,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Molibdeno-100",
+      "numeroNeutrones": 58,
+      "masaAtomica": 99.907467,
+      "abundancia": 9.82,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": "7.3 × 10^18 años"
+      }
+    },
+    {
+      "nombre": "Molibdeno-99",
+      "numeroNeutrones": 57,
+      "masaAtomica": 98.9077116,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "65.976 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Wilhelm Scheele (identificación del óxido); Peter Jacob Hjelm (aislamiento del metal)",
+    "fechaDescubrimiento": "1778 (Scheele); 1781 (Hjelm)"
+  },
+  "datosCuriosos": [
+    "Es un metal de transición de color blanco plateado, duro y con uno de los puntos de fusión más altos de todos los elementos puros. [1, 2, 4]",
+    "Es un oligoelemento esencial para la mayoría de los organismos, incluyendo los humanos, ya que es un cofactor en varias enzimas importantes (e.g., xantina oxidasa, sulfito oxidasa). [1, 2, 4]",
+    "Se encuentra en algunos nódulos polimetálicos en el fondo del océano. [1, 2]",
+    "Mantiene su resistencia y dureza a temperaturas muy elevadas, lo que lo hace útil en aplicaciones de alta temperatura. [1, 2, 4]",
+    "El principal mineral comercial de molibdeno es la molibdenita (MoS₂). [1, 2, 4]",
+    "El molibdeno tiene una configuración electrónica anómala ([Kr] 4d⁵ 5s¹) que le confiere mayor estabilidad. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente como aditivo en aleaciones de acero para aumentar su resistencia, dureza, templabilidad y resistencia a la corrosión y a altas temperaturas (aceros para herramientas, aceros inoxidables, aceros estructurales). [1, 2, 4]",
+    "Sus compuestos, especialmente el disulfuro de molibdeno (MoS₂), se utilizan como catalizadores en refinerías de petróleo para la hidrodesulfuración (eliminación de azufre del petróleo crudo) y en otros procesos químicos. [1, 2, 4]",
+    "En la producción de ciertos tipos de fertilizantes para suministrar molibdeno como micronutriente a las plantas. [1, 2, 4]",
+    "Como componente en elementos calefactores, electrodos y filamentos para lámparas de alta intensidad y tubos de vacío debido a su alto punto de fusión. [1, 2, 4]",
+    "El disulfuro de molibdeno (MoS₂) también se utiliza como lubricante sólido en aplicaciones de alta temperatura y alta presión. [1, 2, 4]",
+    "En la fabricación de pigmentos y como aditivo en plásticos. [1, 2]",
+    "El isótopo molibdeno-99 es la fuente del tecnecio-99m, el radioisótopo más utilizado en procedimientos de diagnóstico médico. [1, 2, 4]"
+  ],
+  "compuestosImportantes": [
+    "MoO₃ (trióxido de molibdeno / óxido de molibdeno(VI))",
+    "MoS₂ (disulfuro de molibdeno, molibdenita)",
+    "Na₂MoO₄ (molibdato de sodio)",
+    "(NH₄)₂MoO₄ (molibdato de amonio)",
+    "MoCl₅ (pentacloruro de molibdeno)"
+  ],
+  "abundancia": {
+    "universo": 0.0000005,
+    "cortezaTerrestre": 1.2,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.01,
+    "totalTierra": 0.00079,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.0000001,
+      "categoriaAbundancia": "Oligoelemento esencial"
+    }
+  },
+  "toxicidad": "baja (el molibdeno es un oligoelemento esencial; la exposición a altas concentraciones de polvo o compuestos de molibdeno puede causar irritación, pero la toxicidad sistémica es rara). [1, 2]",
+  "origenDelNombre": "Del griego 'molybdos' (μόλυβδος), que significa \"plomo\". En la antigüedad, los minerales de molibdeno (como la molibdenita) se confundían a menudo con minerales de plomo (como la galena) o con el grafito debido a su apariencia y tacto similares. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Molibdeno",
+    "https://www.rsc.org/periodic-table/element/42/molybdenum"
+  ]
 }
   
 ]
