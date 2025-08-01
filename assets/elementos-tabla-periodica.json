@@ -4934,6 +4934,129 @@
     "https://es.wikipedia.org/wiki/Molibdeno",
     "https://www.rsc.org/periodic-table/element/42/molybdenum"
   ]
+},
+  {
+  "simbolo": "Tc",
+  "nombre": "Tecnecio",
+  "numeroAtomico": 43,
+  "masaAtomica": 97.907210,
+  "grupo": 7,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2430,
+    "puntoDeEbullicion": 4538,
+    "densidad": 11.5,
+    "radioAtomico": 136,
+    "conductividadTermica": 50.6
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.9,
+    "energiaDeIonizacion": 702,
+    "afinidadElectronica": 53,
+    "estadosOxidacion": [-3, -1, 0, 1, 2, 3, 4, 5, 6, 7]
+  },
+  "capasElectronicas": [2, 8, 18, 13, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Tecnecio-97",
+      "numeroNeutrones": 54,
+      "masaAtomica": 96.906365,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "4.21 × 10^6 años"
+      }
+    },
+    {
+      "nombre": "Tecnecio-98",
+      "numeroNeutrones": 55,
+      "masaAtomica": 97.907210,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "4.2 × 10^6 años"
+      }
+    },
+    {
+      "nombre": "Tecnecio-99",
+      "numeroNeutrones": 56,
+      "masaAtomica": 98.9062545,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "2.111 × 10^5 años"
+      }
+    },
+    {
+      "nombre": "Tecnecio-99m",
+      "numeroNeutrones": 56,
+      "masaAtomica": 98.9062545,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "transición isomérica (γ)",
+        "vidaMedia": "6.0058 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carlo Perrier y Emilio Segrè",
+    "fechaDescubrimiento": 1937
+  },
+  "datosCuriosos": [
+    "Fue el primer elemento producido artificialmente, de ahí su nombre. [1, 2, 4]",
+    "Todos los isótopos del tecnecio son radiactivos; no tiene isótopos estables. El isótopo de vida más larga es el ⁹⁸Tc (4.2 millones de años). [1, 2, 4]",
+    "Aunque se ha detectado en el espectro de algunas estrellas gigantes rojas (estrellas tipo S), lo que indica que se produce en procesos estelares, prácticamente no existe de forma natural en la Tierra, salvo trazas minúsculas producidas por fisión espontánea del uranio o captura de neutrones por molibdeno. [1, 2, 4]",
+    "La existencia de un elemento con número atómico 43 (como 'eka-manganeso') fue predicha por Dmitri Mendeléyev. [1, 2, 4]",
+    "El isótopo metaestable tecnecio-99m (⁹⁹ᵐTc) es el radioisótopo más utilizado en medicina nuclear para diagnósticos. [1, 2, 4]",
+    "El tecnecio es un metal de color gris plateado, similar al platino. [1, 2]"
+  ],
+  "usos": [
+    "El isótopo tecnecio-99m se utiliza ampliamente en procedimientos de diagnóstico médico por imagen, como escáneres óseos, gammagrafías cardíacas, cerebrales, tiroideas y pulmonares, debido a su corta vida media y la emisión de rayos gamma de energía adecuada. [1, 2, 4]",
+    "El ion pertecnetato (TcO₄⁻) puede actuar como un inhibidor de corrosión anódica para el acero en sistemas de agua de refrigeración cerrados, aunque su radiactividad limita esta aplicación. [1, 2, 4]",
+    "En investigación científica, especialmente en estudios de química y física nuclear. [1, 2]",
+    "Como fuente de calibración para detectores de radiación beta. [1, 2]",
+    "Se ha investigado su uso en nanotecnología y como catalizador, pero estas aplicaciones son limitadas por su radiactividad y escasez. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "TcO₂ (dióxido de tecnecio)",
+    "Tc₂O₇ (heptóxido de ditecnecio)",
+    "KTcO₄ (pertecnetato de potasio)",
+    "NH₄TcO₄ (pertecnetato de amonio)",
+    "Tc₂S₇ (heptasulfuro de ditecnecio)"
+  ],
+  "abundancia": {
+    "universo": "Trazas (producido en algunas estrellas)",
+    "cortezaTerrestre": "Prácticamente cero (trazas por fisión espontánea de uranio)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero (introducido artificialmente para fines médicos)",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "alta (debido a su radiactividad; el riesgo químico es secundario al radiológico). La manipulación requiere precauciones especiales. [1, 2]",
+  "origenDelNombre": "Del griego 'technētos' (τεχνητός), que significa \"artificial\" o \"sintético\", porque fue el primer elemento que se produjo de forma artificial antes de ser encontrado en la naturaleza (aunque sus trazas naturales son insignificantes). [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Tecnecio",
+    "https://www.rsc.org/periodic-table/element/43/technetium"
+  ]
 }
   
 ]
