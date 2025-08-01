@@ -4657,6 +4657,128 @@
     "https://es.wikipedia.org/wiki/Zirconio",
     "https://www.rsc.org/periodic-table/element/40/zirconium"
   ]
+},
+  {
+  "simbolo": "Nb",
+  "nombre": "Niobio",
+  "numeroAtomico": 41,
+  "masaAtomica": 92.90638,
+  "grupo": 5,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2750,
+    "puntoDeEbullicion": 5017,
+    "densidad": 8.57,
+    "radioAtomico": 146,
+    "conductividadTermica": 53.7
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.6,
+    "energiaDeIonizacion": 652.1,
+    "afinidadElectronica": 86.1,
+    "estadosOxidacion": [-1, 0, 1, 2, 3, 4, 5]
+  },
+  "capasElectronicas": [2, 8, 18, 12, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Niobio-91",
+      "numeroNeutrones": 50,
+      "masaAtomica": 90.906996,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "680 años"
+      }
+    },
+    {
+      "nombre": "Niobio-92",
+      "numeroNeutrones": 51,
+      "masaAtomica": 91.907194,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "3.47 × 10^7 años"
+      }
+    },
+    {
+      "nombre": "Niobio-93",
+      "numeroNeutrones": 52,
+      "masaAtomica": 92.9063731,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Niobio-94",
+      "numeroNeutrones": 53,
+      "masaAtomica": 93.9072839,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "2.03 × 10^4 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Charles Hatchett (descubrimiento inicial como 'columbio'); Heinrich Rose (confirmación y distinción del tantalio)",
+    "fechaDescubrimiento": "1801 (Hatchett); 1846 (Rose)"
+  },
+  "datosCuriosos": [
+    "Es un metal de transición lustroso, de color gris, dúctil y altamente resistente a la corrosión por ácidos y al calor extremo. [1, 2, 4]",
+    "Fue descubierto inicialmente por Charles Hatchett en 1801 y lo llamó 'columbio' (Cb). Debido a su gran similitud química con el tantalio (descubierto en 1802), se creyó erróneamente durante décadas que eran el mismo elemento. Heinrich Rose demostró en 1846 que eran distintos y nombró al nuevo elemento niobio. [1, 2, 4]",
+    "Se encuentra principalmente en los minerales columbita (también llamada niobita) y pirocloro, a menudo junto con el tantalio. [1, 2, 4]",
+    "El niobio se vuelve superconductor a temperaturas criogénicas (por debajo de 9.2 K), lo que significa que pierde toda resistencia eléctrica. [1, 2, 4]",
+    "Es biocompatible y se utiliza en algunas aplicaciones médicas. [1, 2]",
+    "El nombre 'columbio' todavía se utiliza ocasionalmente en metalurgia en los Estados Unidos. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente como aditivo en la producción de aceros de alta resistencia y baja aleación (HSLA), utilizados en la construcción de tuberías (oleoductos y gasoductos), componentes de automóviles y estructuras. [1, 2, 4]",
+    "En la fabricación de superaleaciones a base de níquel, cobalto y hierro para componentes de motores a reacción, turbinas de gas, cohetes y equipos resistentes al calor y la corrosión. [1, 2, 4]",
+    "En aleaciones superconductoras, como el niobio-titanio (NbTi) y el niobio-estaño (Nb₃Sn), para fabricar imanes superconductores utilizados en escáneres de Resonancia Magnética (MRI), aceleradores de partículas (como el LHC) y en investigación de fusión nuclear. [1, 2, 4]",
+    "Debido a su biocompatibilidad y resistencia a la corrosión, se utiliza en la fabricación de joyas hipoalergénicas (a menudo anodizado para producir colores vivos) e implantes médicos. [1, 2, 4]",
+    "En la producción de capacitores electrolíticos de niobio para aplicaciones electrónicas. [1, 2]",
+    "El óxido de niobio se utiliza en la fabricación de vidrios ópticos con alto índice de refracción para lentes de cámaras y gafas. [1, 2]",
+    "Como catalizador en la industria química. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Nb₂O₅ (pentóxido de niobio / óxido de niobio(V))",
+    "NbO₂ (dióxido de niobio / óxido de niobio(IV))",
+    "NbCl₅ (pentacloruro de niobio)",
+    "FeNb (ferroniobio, una ferroaleación)",
+    "LiNbO₃ (niobato de litio, utilizado en óptica no lineal y dispositivos piezoeléctricos)"
+  ],
+  "abundancia": {
+    "universo": 0.0000005,
+    "cortezaTerrestre": 20,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000009,
+    "totalTierra": 0.00063,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el niobio metálico y sus compuestos se consideran de baja toxicidad; el polvo metálico puede ser irritante). [1, 2]",
+  "origenDelNombre": "Nombrado por Heinrich Rose en honor a Níobe, la hija de Tántalo en la mitología griega. Esto se debe a la estrecha similitud química entre el niobio y el tantalio (nombrado por Tántalo), que a menudo se encuentran juntos en los minerales y fueron difíciles de distinguir. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Niobio",
+    "https://www.rsc.org/periodic-table/element/41/niobium"
+  ]
 }
   
 ]
