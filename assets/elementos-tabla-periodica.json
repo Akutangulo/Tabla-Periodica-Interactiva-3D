@@ -5057,6 +5057,156 @@
     "https://es.wikipedia.org/wiki/Tecnecio",
     "https://www.rsc.org/periodic-table/element/43/technetium"
   ]
+},
+  {
+  "simbolo": "Ru",
+  "nombre": "Rutenio",
+  "numeroAtomico": 44,
+  "masaAtomica": 101.07,
+  "grupo": 8,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2607,
+    "puntoDeEbullicion": 4423,
+    "densidad": 12.45,
+    "radioAtomico": 134,
+    "conductividadTermica": 117
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.2,
+    "energiaDeIonizacion": 710.2,
+    "afinidadElectronica": 100.96,
+    "estadosOxidacion": [-2, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+  },
+  "capasElectronicas": [2, 8, 18, 15, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal del grupo del platino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Rutenio-96",
+      "numeroNeutrones": 52,
+      "masaAtomica": 95.907598,
+      "abundancia": 5.54,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rutenio-98",
+      "numeroNeutrones": 54,
+      "masaAtomica": 97.905287,
+      "abundancia": 1.87,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rutenio-99",
+      "numeroNeutrones": 55,
+      "masaAtomica": 98.9059393,
+      "abundancia": 12.76,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rutenio-100",
+      "numeroNeutrones": 56,
+      "masaAtomica": 99.9042195,
+      "abundancia": 12.60,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rutenio-101",
+      "numeroNeutrones": 57,
+      "masaAtomica": 100.9055821,
+      "abundancia": 17.06,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rutenio-102",
+      "numeroNeutrones": 58,
+      "masaAtomica": 101.9043493,
+      "abundancia": 31.55,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rutenio-104",
+      "numeroNeutrones": 60,
+      "masaAtomica": 103.905433,
+      "abundancia": 18.62,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Rutenio-106",
+      "numeroNeutrones": 62,
+      "masaAtomica": 105.907329,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "373.59 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Karl Ernst Claus (también conocido como Karl Karlovich Klaus)",
+    "fechaDescubrimiento": 1844
+  },
+  "datosCuriosos": [
+    "Es un metal de transición raro, duro, quebradizo y de color blanco plateado, perteneciente al grupo del platino. [1, 2, 4]",
+    "Es químicamente inerte a la mayoría de los productos químicos y no es atacado por ácidos, incluyendo el agua regia, a temperatura ambiente. Sin embargo, se disuelve en álcalis fundidos. [1, 2, 4]",
+    "Se encuentra en la naturaleza generalmente asociado con otros metales del grupo del platino en minerales como la pentlandita y la pirrotita, y en depósitos de platino nativo. [1, 2, 4]",
+    "El rutenio puede existir en una amplia gama de estados de oxidación, desde -2 hasta +8, siendo +3 y +4 los más comunes. El tetróxido de rutenio (RuO₄) es altamente volátil y tóxico. [1, 2]",
+    "Tiene una configuración electrónica anómala ([Kr] 4d⁷ 5s¹) que le confiere propiedades particulares. [1, 2]",
+    "El rutenio es uno de los metales más efectivos para endurecer el platino y el paladio. [1, 2]"
+  ],
+  "usos": [
+    "En aleaciones con platino y paladio para aumentar su dureza y resistencia al desgaste, utilizadas en contactos eléctricos, puntas de plumas estilográficas y joyería. [1, 2, 4]",
+    "Como catalizador en diversas reacciones químicas industriales, incluyendo la síntesis de amoniaco (proceso Haber-Bosch alternativo), la producción de ácido acético y en celdas de combustible. [1, 2, 4]",
+    "En la fabricación de resistencias de película gruesa y en recubrimientos resistentes al desgaste para componentes electrónicos y ánodos en celdas electroquímicas. [1, 2, 4]",
+    "Pequeñas cantidades de rutenio se utilizan en algunas superaleaciones a base de níquel para mejorar su resistencia a altas temperaturas, empleadas en turbinas de aviones. [1, 2]",
+    "Compuestos de rutenio se investigan para aplicaciones en células solares sensibilizadas por colorante (células de Grätzel) y en el desarrollo de nuevos fármacos anticancerígenos. [1, 2]",
+    "El isótopo rutenio-106 se utiliza en radioterapia para el tratamiento de tumores oculares. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "RuO₂ (dióxido de rutenio / óxido de rutenio(IV))",
+    "RuO₄ (tetróxido de rutenio)",
+    "RuCl₃ (tricloruro de rutenio)",
+    "[Ru(bpy)₃]Cl₂ (cloruro de tris(bipiridina)rutenio(II), utilizado en fotoquímica)"
+  ],
+  "abundancia": {
+    "universo": 0.0000007,
+    "cortezaTerrestre": 0.001,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": 0.0000005,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el rutenio metálico es inerte; algunos de sus compuestos, especialmente el tetróxido de rutenio, son altamente tóxicos y volátiles). [1, 2]",
+  "origenDelNombre": "De 'Ruthenia', el nombre latino medieval de Rusia (específicamente de la región de los Rutenos, un pueblo eslavo oriental). Karl Ernst Claus, un químico ruso de origen alemán báltico, descubrió el elemento en los residuos de mineral de platino de los Montes Urales. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Rutenio",
+    "https://www.rsc.org/periodic-table/element/44/ruthenium"
+  ]
 }
   
 ]
