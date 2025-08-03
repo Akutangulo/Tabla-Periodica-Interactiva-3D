@@ -5751,6 +5751,117 @@
     "https://es.wikipedia.org/wiki/Cadmio",
     "https://www.rsc.org/periodic-table/element/48/cadmium"
   ]
+},
+  {
+  "simbolo": "In",
+  "nombre": "Indio",
+  "numeroAtomico": 49,
+  "masaAtomica": 114.818,
+  "grupo": 13,
+  "periodo": 5,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 429.75,
+    "puntoDeEbullicion": 2345,
+    "densidad": 7.31,
+    "radioAtomico": 167,
+    "conductividadTermica": 81.8
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.78,
+    "energiaDeIonizacion": 558.3,
+    "afinidadElectronica": 37.043,
+    "estadosOxidacion": [1, 2, 3]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 3],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal del bloque p", "metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Indio-113",
+      "numeroNeutrones": 64,
+      "masaAtomica": 112.904061,
+      "abundancia": 4.29,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Indio-115",
+      "numeroNeutrones": 66,
+      "masaAtomica": 114.903878,
+      "abundancia": 95.71,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "4.41 × 10^14 años"
+      }
+    },
+    {
+      "nombre": "Indio-111",
+      "numeroNeutrones": 62,
+      "masaAtomica": 110.905103,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "2.8047 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Ferdinand Reich y Hieronymous Theodor Richter",
+    "fechaDescubrimiento": 1863
+  },
+  "datosCuriosos": [
+    "Es un metal muy blando, maleable y dúctil, de color blanco plateado lustroso, que se puede cortar con un cuchillo a temperatura ambiente. [1, 2, 4]",
+    "Cuando una barra de indio puro se dobla rápidamente, emite un característico sonido agudo, similar a un crujido o \"grito\" (similar al \"grito del estaño\"), debido a la recristalización. [1, 2, 4]",
+    "Fue descubierto espectroscópicamente por la presencia de dos prominentes líneas de color azul índigo en su espectro de emisión, lo que le dio su nombre. [1, 2, 4]",
+    "Es un elemento relativamente raro en la corteza terrestre, encontrándose principalmente como un componente menor en minerales de zinc (como la esfalerita) y, en menor medida, en minerales de hierro, plomo y cobre. [1, 2, 4]",
+    "El indio tiene un punto de fusión bajo y permanece líquido en un amplio rango de temperaturas. [1, 2]",
+    "El isótopo natural indio-115 es ligeramente radiactivo, pero su vida media es extremadamente larga. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la producción de óxido de indio y estaño (ITO, por sus siglas en inglés Indium Tin Oxide), un material transparente y conductor que se utiliza ampliamente en la fabricación de electrodos para pantallas de cristal líquido (LCD), pantallas táctiles, paneles solares de película delgada y LEDs orgánicos (OLEDs). [1, 2, 4]",
+    "En la fabricación de semiconductores compuestos como el fosfuro de indio (InP), el arseniuro de indio (InAs) y el antimoniuro de indio (InSb), utilizados en transistores de alta velocidad, diodos láser, fotodetectores y dispositivos termoeléctricos. [1, 2, 4]",
+    "En aleaciones de bajo punto de fusión, como las soldaduras especiales y los fusibles. [1, 2, 4]",
+    "Para fabricar espejos de alta calidad que son más resistentes a la corrosión que los de plata, y en recubrimientos ópticos. [1, 2]",
+    "El isótopo radiactivo indio-111 se utiliza en medicina nuclear para el marcado de glóbulos blancos y plaquetas, y en estudios de diagnóstico por imagen. [1, 2, 4]",
+    "En barras de control para reactores nucleares debido a su capacidad para absorber neutrones. [1, 2]",
+    "Como recubrimiento para rodamientos en motores de alto rendimiento para mejorar la resistencia al desgaste. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "In₂O₃ (óxido de indio(III))",
+    "ITO (óxido de indio y estaño)",
+    "InCl₃ (cloruro de indio(III))",
+    "InP (fosfuro de indio)",
+    "InAs (arseniuro de indio)",
+    "InSb (antimoniuro de indio)"
+  ],
+  "abundancia": {
+    "universo": 0.00000007,
+    "cortezaTerrestre": 0.25,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.000001,
+    "totalTierra": 0.000004,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el indio metálico y sus compuestos insolubles se consideran de baja toxicidad; sin embargo, la exposición prolongada a algunos compuestos de indio, como el fosfuro de indio, puede causar problemas pulmonares). [1, 2]",
+  "origenDelNombre": "Del latín 'indicum', que significa \"índigo\" o \"color índigo\", en referencia a la característica línea azul índigo prominente en su espectro atómico, que llevó a su descubrimiento. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Indio_(elemento)",
+    "https://www.rsc.org/periodic-table/element/49/indium"
+  ]
 }
   
 ]
