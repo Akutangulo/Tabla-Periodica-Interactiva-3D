@@ -5580,6 +5580,177 @@
     "https://es.wikipedia.org/wiki/Plata",
     "https://www.rsc.org/periodic-table/element/47/silver"
   ]
+},
+  {
+  "simbolo": "Cd",
+  "nombre": "Cadmio",
+  "numeroAtomico": 48,
+  "masaAtomica": 112.414,
+  "grupo": 12,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 594.22,
+    "puntoDeEbullicion": 1040,
+    "densidad": 8.65,
+    "radioAtomico": 151,
+    "conductividadTermica": 96.6
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.69,
+    "energiaDeIonizacion": 867.8,
+    "afinidadElectronica": -32,
+    "estadosOxidacion": [2, 1]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "a veces considerado metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Cadmio-106",
+      "numeroNeutrones": 58,
+      "masaAtomica": 105.906459,
+      "abundancia": 1.25,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cadmio-108",
+      "numeroNeutrones": 60,
+      "masaAtomica": 107.904184,
+      "abundancia": 0.89,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cadmio-110",
+      "numeroNeutrones": 62,
+      "masaAtomica": 109.9030021,
+      "abundancia": 12.49,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cadmio-111",
+      "numeroNeutrones": 63,
+      "masaAtomica": 110.9041781,
+      "abundancia": 12.80,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cadmio-112",
+      "numeroNeutrones": 64,
+      "masaAtomica": 111.9027578,
+      "abundancia": 24.13,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cadmio-113",
+      "numeroNeutrones": 65,
+      "masaAtomica": 112.9044017,
+      "abundancia": 12.22,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "7.7 × 10^15 años"
+      }
+    },
+    {
+      "nombre": "Cadmio-114",
+      "numeroNeutrones": 66,
+      "masaAtomica": 113.9033585,
+      "abundancia": 28.73,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": ">6.4 × 10^18 años"
+      }
+    },
+    {
+      "nombre": "Cadmio-116",
+      "numeroNeutrones": 68,
+      "masaAtomica": 115.904756,
+      "abundancia": 7.49,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": "3.0 × 10^19 años"
+      }
+    },
+    {
+      "nombre": "Cadmio-109",
+      "numeroNeutrones": 61,
+      "masaAtomica": 108.9049820,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "461.4 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Friedrich Stromeyer y Karl Samuel Leberecht Hermann (independientemente)",
+    "fechaDescubrimiento": 1817
+  },
+  "datosCuriosos": [
+    "Es un metal blando, maleable, dúctil y de color blanco azulado plateado, similar al zinc y al estaño. [1, 2, 4]",
+    "Se encuentra principalmente como un componente menor en minerales de zinc, especialmente en la esfalerita (sulfuro de zinc). Su producción es casi exclusivamente un subproducto del refinado del zinc. [1, 2, 4]",
+    "El cadmio y sus compuestos son altamente tóxicos, incluso a bajas concentraciones, y pueden causar graves problemas de salud, incluyendo daño renal y óseo (enfermedad de Itai-Itai). [1, 2, 4]",
+    "Fue descubierto por Stromeyer al investigar una impureza en el carbonato de zinc que causaba una decoloración amarilla al calentarse. [1, 2, 4]",
+    "El cadmio tiene una alta capacidad de absorción de neutrones, lo que lo hace útil en barras de control para reactores nucleares. [1, 2, 4]",
+    "Cuando se quema, el cadmio produce una llama de color amarillo y emite humos tóxicos de óxido de cadmio. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de baterías recargables de níquel-cadmio (NiCd), aunque su uso está disminuyendo debido a preocupaciones ambientales y de toxicidad. [1, 2, 4]",
+    "Como pigmentos (sulfuro de cadmio para amarillo, seleniuro de cadmio para rojo y naranja) en pinturas, plásticos y vidrios, conocidos por su brillo y estabilidad. [1, 2, 4]",
+    "En recubrimientos anticorrosivos (cadmiado) para acero y otros metales, especialmente en la industria aeroespacial y en ambientes marinos, debido a su excelente resistencia a la corrosión. [1, 2, 4]",
+    "En barras de control para reactores nucleares para absorber neutrones y controlar la fisión nuclear. [1, 2, 4]",
+    "En aleaciones de bajo punto de fusión, como las utilizadas en soldaduras y fusibles. [1, 2]",
+    "En algunos tipos de células solares (telururo de cadmio, CdTe). [1, 2]",
+    "Históricamente, en estabilizadores para plásticos PVC. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "CdO (óxido de cadmio)",
+    "CdS (sulfuro de cadmio, amarillo de cadmio)",
+    "CdSe (seleniuro de cadmio, rojo de cadmio)",
+    "CdTe (telururo de cadmio)",
+    "CdSO₄ (sulfato de cadmio)",
+    "CdCl₂ (cloruro de cadmio)"
+  ],
+  "abundancia": {
+    "universo": 0.0000003,
+    "cortezaTerrestre": 0.15,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.00011,
+    "totalTierra": 0.00005,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00007,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "true (el cadmio y sus compuestos son altamente tóxicos, carcinogénicos y teratogénicos; se acumula en el cuerpo, especialmente en los riñones y el hígado). [1, 2]",
+  "origenDelNombre": "Del latín 'cadmia' y del griego 'kadmeia' (καδμεία), que era el nombre antiguo de la calamina (un mineral de zinc, principalmente carbonato de zinc o silicato de zinc). El cadmio fue descubierto como una impureza en la calamina. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Cadmio",
+    "https://www.rsc.org/periodic-table/element/48/cadmium"
+  ]
 }
   
 ]
