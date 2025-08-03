@@ -5459,6 +5459,127 @@
     "https://es.wikipedia.org/wiki/Paladio",
     "https://www.rsc.org/periodic-table/element/46/palladium"
   ]
+},
+  {
+  "simbolo": "Ag",
+  "nombre": "Plata",
+  "numeroAtomico": 47,
+  "masaAtomica": 107.8682,
+  "grupo": 11,
+  "periodo": 5,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1234.93,
+    "puntoDeEbullicion": 2435,
+    "densidad": 10.49,
+    "radioAtomico": 144,
+    "conductividadTermica": 429
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.93,
+    "energiaDeIonizacion": 731.0,
+    "afinidadElectronica": 125.6,
+    "estadosOxidacion": [-1, 0, 1, 2, 3]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal precioso", "metal de acuñación"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Plata-107",
+      "numeroNeutrones": 60,
+      "masaAtomica": 106.905092,
+      "abundancia": 51.839,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Plata-109",
+      "numeroNeutrones": 62,
+      "masaAtomica": 108.904755,
+      "abundancia": 48.161,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Plata-105",
+      "numeroNeutrones": 58,
+      "masaAtomica": 104.906529,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "41.29 días"
+      }
+    },
+    {
+      "nombre": "Plata-111",
+      "numeroNeutrones": 64,
+      "masaAtomica": 110.905291,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "7.45 días"
+      }
+    }
+  ],
+   "descubrimiento": {
+    "descubridor": "Conocida y utilizada por civilizaciones antiguas (evidencia de uso desde c. 5000 a.C. o antes). Antoine Lavoisier la catalogó como elemento químico.",
+    "fechaDescubrimiento": 1789
+  },
+  "datosCuriosos": [
+    "Posee la más alta conductividad eléctrica y térmica de todos los metales, y la mayor reflectividad de la luz visible. [1, 2, 4]",
+    "Ha sido valorada como metal precioso y utilizada para la fabricación de monedas, joyas y ornamentos desde la antigüedad. [1, 2, 4]",
+    "Se oscurece (deslustra) al reaccionar con compuestos de azufre en el aire (como el sulfuro de hidrógeno), formando una capa superficial de sulfuro de plata (Ag₂S) de color negro. [1, 2, 4]",
+    "Se encuentra en la naturaleza tanto en forma nativa (plata pura) como en minerales como la argentita (Ag₂S) y la clorargirita (AgCl), a menudo asociada con depósitos de cobre, plomo y zinc. [1, 2, 4]",
+    "La plata tiene propiedades antimicrobianas y se ha utilizado históricamente para prevenir infecciones y conservar alimentos y agua. [1, 2]",
+    "Es un metal relativamente blando, dúctil y maleable. [1, 2]"
+  ],
+  "usos": [
+    "Fabricación de joyas, orfebrería, vajillas y cubiertos (a menudo como plata de ley, una aleación con 92.5% de plata). [1, 2, 4]",
+    "Acuñación de monedas (históricamente y para monedas de inversión o conmemorativas) y medallas. [1, 2, 4]",
+    "Los haluros de plata (especialmente bromuro de plata, AgBr) fueron fundamentales en la fotografía analógica tradicional para la producción de películas y papel fotográfico. [1, 2, 4]",
+    "En la industria electrónica para fabricar contactos eléctricos, conductores, interruptores y en circuitos impresos, debido a su excelente conductividad. [1, 2, 4]",
+    "Producción de espejos de alta calidad debido a su alta reflectividad. [1, 2]",
+    "Como catalizador en reacciones químicas, como la producción de óxido de etileno. [1, 2]",
+    "En aplicaciones médicas, como recubrimientos antimicrobianos para instrumentos médicos y en apósitos para heridas. [1, 2]",
+    "En la fabricación de baterías de óxido de plata. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "AgNO₃ (nitrato de plata)",
+    "AgCl (cloruro de plata, clorargirita)",
+    "AgBr (bromuro de plata)",
+    "AgI (yoduro de plata)",
+    "Ag₂S (sulfuro de plata, argentita)",
+    "Ag₂O (óxido de plata(I))"
+  ],
+  "abundancia": {
+    "universo": 0.00000004,
+    "cortezaTerrestre": 0.075,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00004,
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.000001,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (la plata metálica es inerte; los iones de plata pueden ser tóxicos en altas concentraciones, y la exposición crónica puede causar argiria, una coloración azul grisácea de la piel). [1, 2]",
+  "origenDelNombre": "La palabra \"plata\" proviene del latín vulgar '*plattus', que significa \"plano\" o \"lámina metálica\". El símbolo 'Ag' deriva del latín 'argentum', que significa plata, y está relacionado con el griego 'argyros' (ἄργυρος), que significa \"blanco brillante\". Muchas lenguas germánicas, como el inglés 'silver' (del anglosajón 'seolfor'), tienen raíces antiguas para este metal. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Plata",
+    "https://www.rsc.org/periodic-table/element/47/silver"
+  ]
 }
   
 ]
