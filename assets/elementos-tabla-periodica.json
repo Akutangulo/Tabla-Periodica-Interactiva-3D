@@ -6404,6 +6404,155 @@
     "https://es.wikipedia.org/wiki/Yodo",
     "https://www.rsc.org/periodic-table/element/53/iodine"
   ]
+},
+  {
+  "simbolo": "Xe",
+  "nombre": "Xenón",
+  "numeroAtomico": 54,
+  "masaAtomica": 131.293,
+  "grupo": 18,
+  "periodo": 5,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 161.4,
+    "puntoDeEbullicion": 165.05,
+    "densidad": 0.005894,
+    "radioAtomico": 216,
+    "conductividadTermica": 0.00565
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.60,
+    "energiaDeIonizacion": 1170.4,
+    "afinidadElectronica": 0,
+    "estadosOxidacion": [0, 2, 4, 6, 8]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 8],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["gas noble"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Xenón-124",
+      "numeroNeutrones": 70,
+      "masaAtomica": 123.905893,
+      "abundancia": 0.09,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble captura electrónica (εε)",
+        "vidaMedia": "1.8 × 10^22 años"
+      }
+    },
+    {
+      "nombre": "Xenón-129",
+      "numeroNeutrones": 75,
+      "masaAtomica": 128.9047794,
+      "abundancia": 26.44,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Xenón-131",
+      "numeroNeutrones": 77,
+      "masaAtomica": 130.9050824,
+      "abundancia": 21.18,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Xenón-132",
+      "numeroNeutrones": 78,
+      "masaAtomica": 131.9041535,
+      "abundancia": 26.89,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Xenón-134",
+      "numeroNeutrones": 80,
+      "masaAtomica": 133.9053945,
+      "abundancia": 10.44,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Xenón-136",
+      "numeroNeutrones": 82,
+      "masaAtomica": 135.907219,
+      "abundancia": 8.87,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": "2.165 × 10^21 años"
+      }
+    },
+    {
+      "nombre": "Xenón-133",
+      "numeroNeutrones": 79,
+      "masaAtomica": 132.905898,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "5.2475 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Sir William Ramsay y Morris Travers",
+    "fechaDescubrimiento": 1898
+  },
+  "datosCuriosos": [
+    "Cuando se somete a una descarga eléctrica en un tubo de vacío, el xenón emite una luz azul brillante, con un espectro complejo de muchas líneas. [1, 2, 4]",
+    "Es un gas noble extremadamente raro en la atmósfera terrestre (aproximadamente 1 parte en 11.5 millones, o 0.087 partes por millón en volumen). [1, 2, 4]",
+    "Se utiliza en luces de alta intensidad, como los faros de xenón en automóviles y lámparas de arco para proyectores de cine, debido a la calidad y el brillo de la luz que produce. [1, 2, 4]",
+    "A pesar de ser un gas noble, el xenón puede formar compuestos químicos estables, principalmente con elementos muy electronegativos como el flúor y el oxígeno (e.g., XeF₂, XeF₄, XeO₃). Fue el primer gas noble del que se sintetizó un compuesto (hexafluoroplatinato de xenón). [1, 2, 4]",
+    "Fue descubierto por Ramsay y Travers al estudiar los residuos de la evaporación del aire líquido, poco después del descubrimiento del kriptón y el neón. [1, 2, 4]",
+    "El xenón líquido se utiliza en detectores de partículas, como los que buscan materia oscura. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de faros de descarga de alta intensidad (HID) para automóviles, que producen una luz más brillante y blanca que los faros halógenos. [1, 2, 4]",
+    "En láseres de excímeros (e.g., láser de XeCl) y en lámparas de destello para fotografía y dermatología. [1, 2, 4]",
+    "Como propelente en motores de propulsión iónica para satélites y naves espaciales, debido a su alto peso atómico y baja energía de ionización. [1, 2, 4]",
+    "Como anestésico general en algunos procedimientos médicos, aunque su alto costo limita su uso generalizado. Tiene la ventaja de ser poco tóxico y de rápida recuperación. [1, 2, 4]",
+    "En la visualización de tejidos blandos en tomografía computarizada (TC) y en estudios de imagen por resonancia magnética (IRM) hiperpolarizada. [1, 2]",
+    "En la investigación de la física de partículas, como medio en detectores de materia oscura y neutrinos. [1, 2]",
+    "Para rellenar ciertos tipos de tubos electrónicos y lámparas estroboscópicas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "XeF₂ (difluoruro de xenón)",
+    "XeF₄ (tetrafluoruro de xenón)",
+    "XeF₆ (hexafluoruro de xenón)",
+    "XeO₃ (trióxido de xenón, explosivo)",
+    "XePtF₆ (hexafluoroplatinato de xenón, el primer compuesto de gas noble sintetizado)"
+  ],
+  "abundancia": {
+    "universo": 0.0000004,
+    "cortezaTerrestre": 0.000002,
+    "atmosfera": 0.0000087,
+    "oceano": "Trazas insignificantes",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "false (no tóxico, pero puede ser un asfixiante simple en altas concentraciones al desplazar el oxígeno; algunos de sus compuestos, como el trióxido de xenón, son altamente explosivos y deben manejarse con extrema precaución). [1, 2]",
+  "origenDelNombre": "Del griego 'xenos' (ξένος), que significa \"extraño\", \"extranjero\" o \"huésped\", debido a su extrema rareza en la atmósfera terrestre. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Xen%C3%B3n",
+    "https://www.rsc.org/periodic-table/element/54/xenon"
+  ]
 }
   
 ]
