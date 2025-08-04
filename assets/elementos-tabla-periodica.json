@@ -6280,6 +6280,130 @@
     "https://es.wikipedia.org/wiki/Telurio",
     "https://www.rsc.org/periodic-table/element/52/tellurium"
   ]
+},
+  {
+  "simbolo": "I",
+  "nombre": "Yodo",
+  "numeroAtomico": 53,
+  "masaAtomica": 126.90447,
+  "grupo": 17,
+  "periodo": 5,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 386.85,
+    "puntoDeEbullicion": 457.4,
+    "densidad": 4.933,
+    "radioAtomico": 132,
+    "conductividadTermica": 0.449
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.66,
+    "energiaDeIonizacion": 1008.4,
+    "afinidadElectronica": 295.2,
+    "estadosOxidacion": [-1, 0, 1, 3, 4, 5, 6, 7]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 7],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["halógeno", "diatomico"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Yodo-127",
+      "numeroNeutrones": 74,
+      "masaAtomica": 126.904473,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Yodo-129",
+      "numeroNeutrones": 76,
+      "masaAtomica": 128.904988,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "1.57 × 10^7 años"
+      }
+    },
+    {
+      "nombre": "Yodo-131",
+      "numeroNeutrones": 78,
+      "masaAtomica": 130.9061246,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "8.02070 días"
+      }
+    },
+    {
+      "nombre": "Yodo-123",
+      "numeroNeutrones": 70,
+      "masaAtomica": 122.905589,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "13.22 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Bernard Courtois",
+    "fechaDescubrimiento": 1811
+  },
+  "datosCuriosos": [
+    "Es un sólido lustroso, de color gris oscuro a negro violáceo, que se sublima fácilmente al calentarse, formando un vapor de color violeta intenso con un olor irritante. [1, 2, 4]",
+    "Es un oligoelemento esencial para los humanos y muchos otros animales, ya que es un componente crucial de las hormonas tiroideas (tiroxina y triyodotironina), que regulan el metabolismo. [1, 2, 4]",
+    "Históricamente, se extraía de las cenizas de algas marinas, que concentran yodo del agua de mar. Actualmente, también se obtiene de salmueras subterráneas. [1, 2, 4]",
+    "El yodo es el halógeno menos reactivo y el más electropositivo (o menos electronegativo) del grupo. [1, 2]",
+    "La deficiencia de yodo puede causar bocio (agrandamiento de la glándula tiroides) y cretinismo (retraso en el desarrollo físico y mental). [1, 2, 4]",
+    "El yodo elemental existe como una molécula diatómica (I₂). [1, 2]"
+  ],
+  "usos": [
+    "Como desinfectante y antiséptico, en forma de tintura de yodo (solución de yodo y yoduro de potasio en alcohol y agua) o povidona yodada, para limpiar heridas y esterilizar la piel antes de cirugías. [1, 2, 4]",
+    "En la producción de sal yodada y como suplemento dietético para prevenir la deficiencia de yodo y los trastornos asociados. [1, 2, 4]",
+    "El yoduro de plata (AgI) se utiliza en la fotografía analógica (aunque menos común ahora) y en la siembra de nubes para inducir la lluvia. [1, 2, 4]",
+    "En la fabricación de tintes, productos farmacéuticos (incluyendo medios de contraste para rayos X) y catalizadores. [1, 2, 4]",
+    "En la producción de polarizadores para pantallas de cristal líquido (LCD). [1, 2]",
+    "Los isótopos radiactivos del yodo, como el yodo-131 y el yodo-123, se utilizan en medicina nuclear para el diagnóstico y tratamiento de enfermedades tiroideas, incluyendo el cáncer de tiroides. [1, 2, 4]",
+    "En lámparas halógenas para regenerar el filamento de tungsteno y prolongar la vida útil de la bombilla. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "KI (yoduro de potasio)",
+    "NaI (yoduro de sodio)",
+    "AgI (yoduro de plata)",
+    "HI (yoduro de hidrógeno / ácido yodhídrico)",
+    "ICl (monocloruro de yodo)",
+    "KIO₃ (yodato de potasio)",
+    "T₃ (triyodotironina) y T₄ (tiroxina) (hormonas tiroideas)"
+  ],
+  "abundancia": {
+    "universo": 0.0000004,
+    "cortezaTerrestre": 0.45,
+    "atmosfera": "Trazas (como compuestos orgánicos volátiles)",
+    "oceano": 0.06,
+    "totalTierra": 0.000049,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.000016,
+      "categoriaAbundancia": "Oligoelemento esencial"
+    }
+  },
+  "toxicidad": "moderada (el yodo elemental es irritante y corrosivo; la ingestión de grandes cantidades puede ser tóxica. El yodo es esencial en pequeñas dosis, pero el exceso puede causar problemas tiroideos). [1, 2]",
+  "origenDelNombre": "Del griego 'ioeidēs' (ἰοειδής) o 'iodes', que significa \"de color violeta\", en referencia al color característico del vapor de yodo. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Yodo",
+    "https://www.rsc.org/periodic-table/element/53/iodine"
+  ]
 }
   
 ]
