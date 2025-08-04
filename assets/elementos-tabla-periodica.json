@@ -5862,6 +5862,158 @@
     "https://es.wikipedia.org/wiki/Indio_(elemento)",
     "https://www.rsc.org/periodic-table/element/49/indium"
   ]
+},
+  {
+  "simbolo": "Sn",
+  "nombre": "Estaño",
+  "numeroAtomico": 50,
+  "masaAtomica": 118.710,
+  "grupo": 14,
+  "periodo": 5,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 505.08,
+    "puntoDeEbullicion": 2875,
+    "densidad": 7.287,
+    "radioAtomico": 140,
+    "conductividadTermica": 66.8
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.96,
+    "energiaDeIonizacion": 708.6,
+    "afinidadElectronica": 107.3,
+    "estadosOxidacion": [-4, 0, 2, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 4],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal del bloque p", "metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Estaño-112",
+      "numeroNeutrones": 62,
+      "masaAtomica": 111.904818,
+      "abundancia": 0.97,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estaño-116",
+      "numeroNeutrones": 66,
+      "masaAtomica": 115.901741,
+      "abundancia": 14.54,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estaño-118",
+      "numeroNeutrones": 68,
+      "masaAtomica": 117.901603,
+      "abundancia": 24.22,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estaño-119",
+      "numeroNeutrones": 69,
+      "masaAtomica": 118.903308,
+      "abundancia": 8.59,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estaño-120",
+      "numeroNeutrones": 70,
+      "masaAtomica": 119.9021947,
+      "abundancia": 32.58,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estaño-122",
+      "numeroNeutrones": 72,
+      "masaAtomica": 121.9034390,
+      "abundancia": 4.63,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estaño-124",
+      "numeroNeutrones": 74,
+      "masaAtomica": 123.9052739,
+      "abundancia": 5.79,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Estaño-126",
+      "numeroNeutrones": 76,
+      "masaAtomica": 125.90765,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "2.30 × 10^5 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido por las civilizaciones antiguas (uso desde c. 3000 a.C.). Antoine Lavoisier lo catalogó como elemento químico.",
+    "fechaDescubrimiento": "c. 1789 (reconocimiento como elemento)"
+  },
+  "datosCuriosos": [
+    "Fue uno de los primeros metales conocidos y utilizados por la humanidad, siendo un componente esencial del bronce (aleación de cobre y estaño), que dio nombre a la Edad del Bronce. [1, 2, 4]",
+    "Cuando una barra de estaño se dobla, emite un sonido característico conocido como \"grito del estaño\" o \"llanto del estaño\", causado por la fricción de los cristales al reorientarse. [1, 2, 4]",
+    "Es altamente resistente a la corrosión por agua, pero es atacado por ácidos y álcalis fuertes. [1, 2, 4]",
+    "Existe en dos formas alotrópicas principales a temperatura ambiente: el estaño blanco (β-estaño), que es la forma metálica común, maleable y estable por encima de 13.2 °C; y el estaño gris (α-estaño), que es una forma no metálica, pulverulenta y quebradiza, estable por debajo de 13.2 °C. La transformación a estaño gris se conoce como \"peste del estaño\". [1, 2, 4]",
+    "El estaño tiene 10 isótopos estables, el mayor número de cualquier elemento. [1, 2]",
+    "El principal mineral de estaño es la casiterita (dióxido de estaño, SnO₂). [1, 2, 4]"
+  ],
+  "usos": [
+    "Principalmente como recubrimiento protector (estañado) para el acero en la fabricación de latas de conserva, para prevenir la corrosión y la contaminación de los alimentos. [1, 2, 4]",
+    "En la fabricación de aleaciones importantes como el bronce (con cobre), la soldadura blanda (con plomo, aunque el uso de plomo está disminuyendo), el peltre (con antimonio y cobre) y metales de Babbitt (para cojinetes). [1, 2, 4]",
+    "Históricamente, en la fabricación de tuberías, láminas y utensilios domésticos. [1, 2]",
+    "En la producción de vidrio flotado, donde el vidrio fundido se vierte sobre un baño de estaño fundido para obtener una superficie plana y uniforme. [1, 2, 4]",
+    "Compuestos de estaño, como el cloruro de estaño(II), se utilizan como agentes reductores y mordientes en tintorería. [1, 2]",
+    "El óxido de estaño(IV) se utiliza como opacificante en esmaltes cerámicos y como abrasivo. [1, 2]",
+    "Compuestos orgánicos de estaño (organoestaños) se han utilizado como estabilizadores en plásticos PVC, biocidas (fungicidas, bactericidas) y conservantes de la madera, aunque su uso está cada vez más restringido debido a su toxicidad. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "SnO₂ (dióxido de estaño / óxido de estaño(IV), casiterita)",
+    "SnO (óxido de estaño(II))",
+    "SnCl₂ (cloruro de estaño(II))",
+    "SnCl₄ (cloruro de estaño(IV))",
+    "SnS₂ (disulfuro de estaño, oro musivo)"
+  ],
+  "abundancia": {
+    "universo": 0.000001,
+    "cortezaTerrestre": 2.3,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.000003,
+    "totalTierra": 0.00041,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00002,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (el estaño metálico y sus compuestos inorgánicos se consideran de baja toxicidad; sin embargo, algunos compuestos orgánicos de estaño son altamente tóxicos). [1, 2]",
+  "origenDelNombre": "La palabra \"estaño\" proviene del latín 'stannum', que era el nombre romano para una aleación de plata y plomo, y más tarde se aplicó al estaño. El símbolo 'Sn' deriva directamente de 'stannum'. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Esta%C3%B1o",
+    "https://www.rsc.org/periodic-table/element/50/tin"
+  ]
 }
   
 ]
