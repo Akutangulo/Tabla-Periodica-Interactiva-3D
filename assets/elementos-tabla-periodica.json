@@ -6014,6 +6014,114 @@
     "https://es.wikipedia.org/wiki/Esta%C3%B1o",
     "https://www.rsc.org/periodic-table/element/50/tin"
   ]
+},
+  {
+  "simbolo": "Sb",
+  "nombre": "Antimonio",
+  "numeroAtomico": 51,
+  "masaAtomica": 121.760,
+  "grupo": 15,
+  "periodo": 5,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 903.78,
+    "puntoDeEbullicion": 1860,
+    "densidad": 6.697,
+    "radioAtomico": 139,
+    "conductividadTermica": 24.4
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.05,
+    "energiaDeIonizacion": 834,
+    "afinidadElectronica": 101.059,
+    "estadosOxidacion": [-3, 0, 3, 5]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 5],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metaloide",
+    "subtipo": []
+  },
+  "isotopos": [
+    {
+      "nombre": "Antimonio-121",
+      "numeroNeutrones": 70,
+      "masaAtomica": 120.9038157,
+      "abundancia": 57.21,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Antimonio-123",
+      "numeroNeutrones": 72,
+      "masaAtomica": 122.9040726,
+      "abundancia": 42.79,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Antimonio-125",
+      "numeroNeutrones": 74,
+      "masaAtomica": 124.9052538,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "2.75856 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Compuestos conocidos desde la antigüedad; el metal fue descrito por Vannoccio Biringuccio y Georgius Agricola.",
+    "fechaDescubrimiento": "c. 1540 (Biringuccio, descripción de aislamiento)"
+  },
+  "datosCuriosos": [
+    "Es un metaloide quebradizo, de color blanco plateado con un brillo metálico, que existe en varias formas alotrópicas (la más común es la metálica). [1, 2, 4]",
+    "El sulfuro de antimonio (estibnita, Sb₂S₃) se utilizaba en el antiguo Egipto y otras civilizaciones como cosmético para los ojos (kohl) y en medicina. [1, 2, 4]",
+    "El antimonio y muchos de sus compuestos son tóxicos, especialmente por inhalación o ingestión. [1, 2, 4]",
+    "El principal mineral de antimonio es la estibnita (Sb₂S₃). También se encuentra en menor medida en otros minerales y como metal nativo. [1, 2, 4]",
+    "El antimonio se expande ligeramente al solidificarse, una propiedad útil en la fundición de tipos de imprenta. [1, 2]",
+    "Es un mal conductor del calor y la electricidad en comparación con los metales. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente como agente de aleación para endurecer y fortalecer el plomo, utilizado en rejillas de baterías de plomo-ácido, municiones, cojinetes y soldaduras. [1, 2, 4]",
+    "El trióxido de antimonio (Sb₂O₃) es un importante retardante de llama, utilizado en plásticos, textiles, caucho y otros materiales combustibles. [1, 2, 4]",
+    "En la fabricación de semiconductores, como dopante en silicio y germanio, y en compuestos como el antimoniuro de indio (InSb) para detectores de infrarrojos. [1, 2, 4]",
+    "Algunos compuestos de antimonio se utilizan como pigmentos en pinturas, cerámicas y vidrios (e.g., amarillo de Nápoles). [1, 2, 4]",
+    "Históricamente, en la fabricación de tipos de imprenta debido a su dureza y la propiedad de expandirse al enfriar. [1, 2]",
+    "En medicina, compuestos como el antimoniato de meglumina y el estibogluconato de sodio se utilizan para tratar la leishmaniasis. [1, 2, 4]",
+    "Como agente de afinado en la producción de vidrio para eliminar burbujas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Sb₂O₃ (trióxido de antimonio)",
+    "Sb₂S₃ (trisulfuro de antimonio, estibnita)",
+    "SbH₃ (estibina / hidruro de antimonio, gas muy tóxico)",
+    "SbCl₃ (tricloruro de antimonio, \"mantequilla de antimonio\")",
+    "SbF₅ (pentafluoruro de antimonio, un ácido de Lewis muy fuerte)",
+    "KSb(OH)₆ (tartrato de antimonio y potasio, \"tártaro emético\")"
+  ],
+  "abundancia": {
+    "universo": 0.00000008,
+    "cortezaTerrestre": 0.2,
+    "atmosfera": "Trazas (como partículas)",
+    "oceano": 0.0002,
+    "totalTierra": 0.00002,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "alta (el antimonio y sus compuestos son tóxicos, causando irritación y daño a órganos; la estibina es un gas extremadamente venenoso). [1, 2]",
+  "origenDelNombre": "Del latín medieval 'antimonium'. La etimología exacta es incierta, pero una teoría popular, aunque probablemente apócrifa, sugiere que proviene del griego 'anti-monos' (ἀντί-μόνος), que significa \"no solo\" o \"contra la soledad\" (refiriéndose a que no se encuentra solo en la naturaleza, o a una historia sobre monjes envenenados). Otra posibilidad es que derive del árabe 'ithmid' o 'uthmud' (nombre del kohl). El símbolo Sb proviene de 'stibium', el nombre latino de la estibnita. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Antimonio",
+    "https://www.rsc.org/periodic-table/element/51/antimony"
+  ]
 }
   
 ]
