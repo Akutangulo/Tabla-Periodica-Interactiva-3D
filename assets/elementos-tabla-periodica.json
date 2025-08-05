@@ -7072,6 +7072,116 @@
     "https://es.wikipedia.org/wiki/Cerio",
     "https://www.rsc.org/periodic-table/element/58/cerium"
   ]
+},
+  {
+  "simbolo": "Pr",
+  "nombre": "Praseodimio",
+  "numeroAtomico": 59,
+  "masaAtomica": 140.90766,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1208,
+    "puntoDeEbullicion": 3403,
+    "densidad": 6.77,
+    "radioAtomico": 182,
+    "conductividadTermica": 12.5
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.13,
+    "energiaDeIonizacion": 527,
+    "afinidadElectronica": 11.7,
+    "estadosOxidacion": [3, 4, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 21, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Praseodimio-141",
+      "numeroNeutrones": 82,
+      "masaAtomica": 140.9076528,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Praseodimio-142",
+      "numeroNeutrones": 83,
+      "masaAtomica": 141.9100448,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "19.12 horas"
+      }
+    },
+    {
+      "nombre": "Praseodimio-143",
+      "numeroNeutrones": 84,
+      "masaAtomica": 142.9108169,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "13.57 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Auer von Welsbach",
+    "fechaDescubrimiento": 1885
+  },
+  "datosCuriosos": [
+    "Sus sales suelen tener un característico color verde pálido o amarillento verdoso. [1, 2, 4]",
+    "Es un metal lantánido blando, maleable y dúctil, de color blanco plateado. [1, 2, 4]",
+    "Se oxida lentamente en el aire, formando una capa de óxido verde que se desprende, exponiendo más metal a la oxidación. Debe almacenarse bajo aceite mineral o en una atmósfera inerte. [1, 2, 4]",
+    "Se encuentra en minerales de tierras raras como la monacita y la bastnasita, siempre junto con otros lantánidos, especialmente el neodimio, del que es difícil de separar. [1, 2, 4]",
+    "El praseodimio fue separado del 'didimio' (una mezcla que se creía un solo elemento) por Carl Auer von Welsbach, quien también separó el neodimio. [1, 2, 4]",
+    "Su estado de oxidación más común es +3, aunque también puede existir en el estado +4 en algunos compuestos. [1, 2]"
+  ],
+  "usos": [
+    "En aleaciones con neodimio y hierro para fabricar imanes permanentes de alta potencia (imanes de neodimio-hierro-boro, NdFeB), a los que el praseodimio puede mejorar la resistencia a la corrosión y el rendimiento a altas temperaturas. [1, 2, 4]",
+    "Como colorante para vidrios y esmaltes cerámicos, impartiendo un color amarillo verdoso (vidrio de didimio, que también contiene neodimio, se usa en gafas de protección para soldadores). [1, 2, 4]",
+    "En aleaciones de magnesio de alta resistencia para componentes de motores de aviones. [1, 2, 4]",
+    "Como dopante en fibras ópticas para amplificadores de fibra. [1, 2, 4]",
+    "En la fabricación de lámparas de arco de carbono para la industria cinematográfica y proyectores, para producir una luz blanca brillante. [1, 2]",
+    "En la producción de ciertos tipos de láseres de estado sólido. [1, 2]",
+    "Como componente de piedras de encendedor (mischmetal). [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Pr₂O₃ (óxido de praseodimio(III))",
+    "PrO₂ (dióxido de praseodimio / óxido de praseodimio(IV))",
+    "PrCl₃ (cloruro de praseodimio(III))",
+    "Pr(NO₃)₃ (nitrato de praseodimio(III))",
+    "Pr₆O₁₁ (un óxido mixto no estequiométrico)"
+  ],
+  "abundancia": {
+    "universo": 0.0000005,
+    "cortezaTerrestre": 9.2,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000006,
+    "totalTierra": 0.00064,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja a moderada (el praseodimio y sus compuestos se consideran de baja a moderada toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Del griego 'prasios' (πράσιος), que significa \"verde puerro\", y 'didymos' (δίδυμος), que significa \"gemelo\". El nombre fue dado por Carl Auer von Welsbach porque el óxido de praseodimio tiene un color verde y porque fue separado del 'didimio' junto con su \"gemelo\" el neodimio. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Praseodimio",
+    "https://www.rsc.org/periodic-table/element/59/praseodymium"
+  ]
 }
   
 ]
