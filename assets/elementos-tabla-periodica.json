@@ -7341,6 +7341,115 @@
     "https://es.wikipedia.org/wiki/Neodimio",
     "https://www.rsc.org/periodic-table/element/60/neodymium"
   ]
+},
+  {
+  "simbolo": "Pm",
+  "nombre": "Prometio",
+  "numeroAtomico": 61,
+  "masaAtomica": 144.912749,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1315,
+    "puntoDeEbullicion": 3273,
+    "densidad": 7.26,
+    "radioAtomico": 183,
+    "conductividadTermica": 17.9
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.13,
+    "energiaDeIonizacion": 540,
+    "afinidadElectronica": 12.45,
+    "estadosOxidacion": [3]
+  },
+  "capasElectronicas": [2, 8, 18, 23, 8, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Prometio-145",
+      "numeroNeutrones": 84,
+      "masaAtomica": 144.912749,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "17.7 años"
+      }
+    },
+    {
+      "nombre": "Prometio-146",
+      "numeroNeutrones": 85,
+      "masaAtomica": 145.914696,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / β-",
+        "vidaMedia": "5.53 años"
+      }
+    },
+    {
+      "nombre": "Prometio-147",
+      "numeroNeutrones": 86,
+      "masaAtomica": 146.9151385,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "2.6234 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Jacob A. Marinsky, Lawrence E. Glendenin y Charles D. Coryell",
+    "fechaDescubrimiento": 1945
+  },
+  "datosCuriosos": [
+    "Es uno de los dos únicos elementos antes del bismuto (elemento 83) que no tienen isótopos estables (el otro es el tecnecio). Todos los isótopos del prometio son radiactivos. [1, 2, 4]",
+    "Debido a su radiactividad (principalmente emisión beta), las sales de prometio pueden brillar en la oscuridad con una luz azul pálida o verdosa. [1, 2, 4]",
+    "Fue descubierto e identificado en los productos de la fisión del uranio en un reactor nuclear. Su existencia había sido predicha anteriormente por Bohuslav Brauner. [1, 2, 4]",
+    "Aunque se han detectado trazas extremadamente pequeñas de prometio en minerales de uranio (producidas por fisión espontánea), se considera un elemento artificial ya que todas las cantidades utilizables se producen sintéticamente. [1, 2, 4]",
+    "El isótopo prometio-147 es el más utilizado y tiene una vida media de 2.62 años. [1, 2]",
+    "El prometio es un metal lantánido. [1, 2]"
+  ],
+  "usos": [
+    "El prometio-147 se utiliza en baterías nucleares de larga duración (generadores termoeléctricos de radioisótopos, RTG) para aplicaciones especializadas como marcapasos (históricamente), sondas espaciales y misiles, donde la energía de la desintegración beta se convierte en electricidad. [1, 2, 4]",
+    "Como fuente de radiación beta en medidores de espesor para materiales como láminas de metal, plástico o papel. [1, 2, 4]",
+    "En pinturas luminiscentes (a menudo mezclado con un fósforo) para señales de emergencia y diales de instrumentos que necesitan ser visibles en la oscuridad, aunque su uso ha disminuido debido a preocupaciones sobre la radiactividad. [1, 2, 4]",
+    "Como fuente de rayos X portátiles. [1, 2]",
+    "En investigación científica como marcador radiactivo. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Pm₂O₃ (óxido de prometio(III))",
+    "PmCl₃ (cloruro de prometio(III))",
+    "Pm(NO₃)₃ (nitrato de prometio(III))"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (trazas por fisión espontánea de uranio)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "alta (debido a su radiactividad; el riesgo químico es secundario al radiológico). La manipulación requiere precauciones especiales para evitar la exposición a la radiación. [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Prometeo, el Titán de la mitología griega que robó el fuego de los dioses y se lo dio a la humanidad. El nombre fue sugerido por Grace Mary Coryell (esposa de Charles Coryell) para simbolizar tanto el poder obtenido de la energía nuclear como la advertencia sobre los peligros de su mal uso. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Prometio",
+    "https://www.rsc.org/periodic-table/element/61/promethium"
+  ]
 }
   
 ]
