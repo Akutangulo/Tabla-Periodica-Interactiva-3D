@@ -6676,6 +6676,162 @@
     "https://es.wikipedia.org/wiki/Cesio",
     "https://www.rsc.org/periodic-table/element/55/caesium"
   ]
+},
+  {
+  "simbolo": "Ba",
+  "nombre": "Bario",
+  "numeroAtomico": 56,
+  "masaAtomica": 137.327,
+  "grupo": 2,
+  "periodo": 6,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1000,
+    "puntoDeEbullicion": 2118,
+    "densidad": 3.51,
+    "radioAtomico": 222,
+    "conductividadTermica": 18.4
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.89,
+    "energiaDeIonizacion": 502.9,
+    "afinidadElectronica": 13.954,
+    "estadosOxidacion": [2, 1]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalinotérreo"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Bario-130",
+      "numeroNeutrones": 74,
+      "masaAtomica": 129.906282,
+      "abundancia": 0.106,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble captura electrónica (εε)",
+        "vidaMedia": "(0.5–2.7) × 10^21 años"
+      }
+    },
+    {
+      "nombre": "Bario-132",
+      "numeroNeutrones": 76,
+      "masaAtomica": 131.905041,
+      "abundancia": 0.101,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Bario-134",
+      "numeroNeutrones": 78,
+      "masaAtomica": 133.904486,
+      "abundancia": 2.417,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Bario-135",
+      "numeroNeutrones": 79,
+      "masaAtomica": 134.905665,
+      "abundancia": 6.592,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Bario-136",
+      "numeroNeutrones": 80,
+      "masaAtomica": 135.904553,
+      "abundancia": 7.854,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Bario-137",
+      "numeroNeutrones": 81,
+      "masaAtomica": 136.905804,
+      "abundancia": 11.232,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Bario-138",
+      "numeroNeutrones": 82,
+      "masaAtomica": 137.905224,
+      "abundancia": 71.698,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Bario-140",
+      "numeroNeutrones": 84,
+      "masaAtomica": 139.910581,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "12.752 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Wilhelm Scheele (1772 identificación del óxido); Sir Humphry Davy (aislamiento del metal 1808)",
+    "fechaDescubrimiento": 1772
+  },
+  "datosCuriosos": [
+    "Las sales de bario, especialmente el nitrato y el cloruro, imparten un color verde amarillento o verde pálido característico a las llamas, lo que se utiliza en fuegos artificiales. [1, 2, 4]",
+    "El bario elemental es químicamente reactivo y se oxida rápidamente en el aire. Todos los compuestos de bario solubles en agua o ácidos son tóxicos. Sin embargo, el sulfato de bario (BaSO₄) es extremadamente insoluble y, por lo tanto, no es tóxico y se usa en medicina. [1, 2, 4]",
+    "Se encuentra principalmente en los minerales barita (sulfato de bario, BaSO₄) y witherita (carbonato de bario, BaCO₃). [1, 2, 4]",
+    "Es un metal alcalinotérreo blando, de color blanco plateado y algo dúctil. [1, 2, 4]",
+    "El bario debe almacenarse bajo aceite mineral o en una atmósfera inerte para evitar su oxidación. [1, 2]",
+    "Reacciona con el agua y el alcohol. [1, 2]"
+  ],
+  "usos": [
+    "El sulfato de bario (BaSO₄), debido a su alta densidad y baja solubilidad, se utiliza como medio de contraste radiopaco en radiografías del tracto gastrointestinal (papilla de bario). [1, 2, 4]",
+    "En la fabricación de fuegos artificiales y bengalas para producir un color verde. [1, 2, 4]",
+    "El carbonato de bario se utiliza en la producción de ciertos tipos de vidrio (e.g., vidrio óptico, vidrio para tubos de rayos catódicos) y cerámicas, y como raticida. [1, 2, 4]",
+    "El sulfato de bario se utiliza como aditivo de alta densidad en los lodos de perforación de pozos petroleros y de gas para aumentar la densidad del lodo y prevenir reventones. [1, 2, 4]",
+    "Como eliminador de gases (getter) en tubos de vacío para eliminar los últimos rastros de oxígeno y otros gases. [1, 2]",
+    "El nitrato de bario y el clorato de bario se utilizan en pirotecnia. [1, 2]",
+    "El óxido de bario se utiliza en recubrimientos para electrodos en lámparas fluorescentes. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "BaSO₄ (sulfato de bario, barita)",
+    "BaCO₃ (carbonato de bario, witherita)",
+    "BaO (óxido de bario)",
+    "BaCl₂ (cloruro de bario)",
+    "Ba(NO₃)₂ (nitrato de bario)",
+    "BaO₂ (peróxido de bario)"
+  ],
+  "abundancia": {
+    "universo": 0.000001,
+    "cortezaTerrestre": 425,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.013,
+    "totalTierra": 0.023,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00003,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "alta (los compuestos de bario solubles en agua o ácidos son tóxicos; el bario metálico también es tóxico debido a su reactividad. El sulfato de bario es no tóxico debido a su insolubilidad). [1, 2]",
+  "origenDelNombre": "Del griego 'barys' (βαρύς), que significa \"pesado\", debido a la alta densidad de algunos de sus minerales comunes, como la barita. El nombre fue sugerido por Antoine Lavoisier. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Bario",
+    "https://www.rsc.org/periodic-table/element/56/barium"
+  ]
 }
   
 ]
