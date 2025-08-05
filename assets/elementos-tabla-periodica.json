@@ -7182,6 +7182,165 @@
     "https://es.wikipedia.org/wiki/Praseodimio",
     "https://www.rsc.org/periodic-table/element/59/praseodymium"
   ]
+},
+  {
+  "simbolo": "Nd",
+  "nombre": "Neodimio",
+  "numeroAtomico": 60,
+  "masaAtomica": 144.242,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1297,
+    "puntoDeEbullicion": 3347,
+    "densidad": 7.01,
+    "radioAtomico": 181,
+    "conductividadTermica": 16.5
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.14,
+    "energiaDeIonizacion": 533.1,
+    "afinidadElectronica": 10.6,
+    "estadosOxidacion": [3, 2, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 22, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Neodimio-142",
+      "numeroNeutrones": 82,
+      "masaAtomica": 141.9077233,
+      "abundancia": 27.152,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Neodimio-143",
+      "numeroNeutrones": 83,
+      "masaAtomica": 142.9098143,
+      "abundancia": 12.173,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "3.3 × 10^15 años"
+      }
+    },
+    {
+      "nombre": "Neodimio-144",
+      "numeroNeutrones": 84,
+      "masaAtomica": 143.9100873,
+      "abundancia": 23.798,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "2.29 × 10^15 años"
+      }
+    },
+    {
+      "nombre": "Neodimio-145",
+      "numeroNeutrones": 85,
+      "masaAtomica": 144.9125736,
+      "abundancia": 8.293,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Neodimio-146",
+      "numeroNeutrones": 86,
+      "masaAtomica": 145.9131169,
+      "abundancia": 17.189,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Neodimio-148",
+      "numeroNeutrones": 88,
+      "masaAtomica": 147.916893,
+      "abundancia": 5.756,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Neodimio-150",
+      "numeroNeutrones": 90,
+      "masaAtomica": 149.920891,
+      "abundancia": 5.638,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": "1.1 × 10^19 años"
+      }
+    },
+    {
+      "nombre": "Neodimio-147",
+      "numeroNeutrones": 87,
+      "masaAtomica": 146.916097,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "10.98 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Auer von Welsbach",
+    "fechaDescubrimiento": 1885
+  },
+  "datosCuriosos": [
+    "Es un metal lantánido de color blanco plateado brillante que se oxida lentamente en el aire, formando una capa de óxido que se desprende. [1, 2, 4]",
+    "Los imanes de neodimio (aleación de neodimio, hierro y boro, Nd₂Fe₁₄B) son los imanes permanentes más potentes conocidos y son cruciales en muchas tecnologías modernas. [1, 2, 4]",
+    "Sus sales, como el nitrato de neodimio y el sulfato de neodimio, tienen colores que varían del rosa lila al violeta rojizo, dependiendo de la iluminación. [1, 2, 4]",
+    "Se encuentra en minerales de tierras raras como la monacita y la bastnasita, siempre junto con otros lantánidos, especialmente el praseodimio, del que fue separado. [1, 2, 4]",
+    "El neodimio, junto con el praseodimio, formaba parte de una mezcla llamada 'didimio', que se creía erróneamente que era un solo elemento hasta que Carl Auer von Welsbach los separó. [1, 2, 4]",
+    "El vidrio dopado con neodimio cambia de color bajo diferentes condiciones de iluminación (efecto dicroico). [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de imanes permanentes de neodimio-hierro-boro (NdFeB), utilizados en motores eléctricos de alta eficiencia (e.g., en vehículos eléctricos e híbridos), generadores de turbinas eólicas, discos duros de ordenador, altavoces, auriculares y cierres magnéticos. [1, 2, 4]",
+    "En la fabricación de láseres de estado sólido de alta potencia, como los láseres Nd:YAG (granate de itrio y aluminio dopado con neodimio), que se utilizan en la industria (corte, soldadura), medicina (cirugía, dermatología) y como punteros láser. [1, 2, 4]",
+    "Como colorante para vidrios y esmaltes cerámicos, impartiendo tonos que van del rosa puro al violeta y al azul grisáceo. El vidrio de neodimio se utiliza en gafas de protección para soldadores y en vidrios decorativos. [1, 2, 4]",
+    "Como catalizador en la polimerización del butadieno para la producción de caucho sintético. [1, 2]",
+    "En la fabricación de condensadores cerámicos. [1, 2]",
+    "Como componente de piedras de encendedor (mischmetal). [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Nd₂O₃ (óxido de neodimio(III))",
+    "NdCl₃ (cloruro de neodimio(III))",
+    "Nd(NO₃)₃ (nitrato de neodimio(III))",
+    "Nd₂Fe₁₄B (imán de neodimio-hierro-boro)"
+  ],
+  "abundancia": {
+    "universo": 0.000002,
+    "cortezaTerrestre": 41.5,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000028,
+    "totalTierra": 0.0024,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja a moderada (el neodimio y sus compuestos se consideran de baja a moderada toxicidad, similar a otros lantánidos). El polvo metálico puede ser irritante e inflamable. [1, 2]",
+  "origenDelNombre": "Del griego 'neos' (νέος), que significa \"nuevo\", y 'didymos' (δίδυμος), que significa \"gemelo\". Fue nombrado así por Carl Auer von Welsbach porque era el \"nuevo gemelo\" separado del 'didimio', siendo el praseodimio el otro \"gemelo\". [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Neodimio",
+    "https://www.rsc.org/periodic-table/element/60/neodymium"
+  ]
 }
   
 ]
