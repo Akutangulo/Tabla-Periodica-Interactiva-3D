@@ -6943,6 +6943,135 @@
     "https://es.wikipedia.org/wiki/Lantano",
     "https://www.rsc.org/periodic-table/element/57/lanthanum"
   ]
+},
+  {
+  "simbolo": "Ce",
+  "nombre": "Cerio",
+  "numeroAtomico": 58,
+  "masaAtomica": 140.116,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1068,
+    "puntoDeEbullicion": 3716,
+    "densidad": 6.770,
+    "radioAtomico": 182,
+    "conductividadTermica": 11.3
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.12,
+    "energiaDeIonizacion": 534.4,
+    "afinidadElectronica": 55,
+    "estadosOxidacion": [3, 4, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 19, 9, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Cerio-136",
+      "numeroNeutrones": 78,
+      "masaAtomica": 135.907172,
+      "abundancia": 0.185,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cerio-138",
+      "numeroNeutrones": 80,
+      "masaAtomica": 137.905991,
+      "abundancia": 0.251,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cerio-140",
+      "numeroNeutrones": 82,
+      "masaAtomica": 139.9054387,
+      "abundancia": 88.450,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cerio-142",
+      "numeroNeutrones": 84,
+      "masaAtomica": 141.909244,
+      "abundancia": 11.114,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta- / alfa",
+        "vidaMedia": "5 × 10^16 años (ββ) / >5 × 10^16 años (α)"
+      }
+    },
+    {
+      "nombre": "Cerio-144",
+      "numeroNeutrones": 86,
+      "masaAtomica": 143.913647,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "284.893 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Jöns Jacob Berzelius y Wilhelm Hisinger (independientemente); Martin Heinrich Klaproth (independientemente)",
+    "fechaDescubrimiento": 1803
+  },
+  "datosCuriosos": [
+    "Es el lantánido más abundante en la corteza terrestre, más común que el cobre. [1, 2, 4]",
+    "Es un metal blando, dúctil y maleable, de color gris plateado, que se oxida rápidamente en el aire y puede incendiarse si se raspa con un cuchillo o se calienta, produciendo chispas brillantes. [1, 2, 4]",
+    "El cerio es único entre los lantánidos por tener un estado de oxidación +4 estable en solución acuosa, además del estado +3 común a todos los lantánidos. [1, 2]",
+    "Se utiliza en las piedras de encendedor (ferrocerio o mischmetal, una aleación de cerio y otros metales de tierras raras con hierro) debido a su piroforicidad. [1, 2, 4]",
+    "El óxido de cerio(IV) (CeO₂) es un importante abrasivo. [1, 2, 4]",
+    "El cerio reacciona lentamente con agua fría y más rápidamente con agua caliente. [1, 2]"
+  ],
+  "usos": [
+    "El óxido de cerio(IV) se utiliza como catalizador en los convertidores catalíticos de los automóviles para reducir las emisiones de gases de escape y en hornos autolimpiables. [1, 2, 4]",
+    "Como agente de pulido de alta calidad (polvo de cerio) para vidrio óptico, lentes, espejos y pantallas de televisión. [1, 2, 4]",
+    "En aleaciones de mischmetal para fabricar piedras de encendedor. [1, 2, 4]",
+    "Como aditivo en aceros para mejorar su maquinabilidad y en aleaciones de aluminio para aumentar su resistencia a altas temperaturas. [1, 2]",
+    "El óxido de cerio se utiliza como pigmento en vidrios y esmaltes cerámicos para darles color amarillo o para decolorar el vidrio eliminando el tinte verde del hierro. [1, 2, 4]",
+    "En lámparas de arco de carbono para iluminación en la industria cinematográfica y proyectores. [1, 2, 4]",
+    "Como dopante en fósforos para tubos de rayos catódicos y LEDs blancos. [1, 2]",
+    "En la fabricación de mantos incandescentes para lámparas de gas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "CeO₂ (óxido de cerio(IV) / dióxido de cerio)",
+    "Ce₂O₃ (óxido de cerio(III))",
+    "CeCl₃ (cloruro de cerio(III))",
+    "Ce(SO₄)₂ (sulfato de cerio(IV))",
+    "Ce(NO₃)₃ (nitrato de cerio(III))"
+  ],
+  "abundancia": {
+    "universo": 0.000004,
+    "cortezaTerrestre": 66.5,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.000001,
+    "totalTierra": 0.0046,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja a moderada (el cerio metálico tiene baja toxicidad; algunos de sus compuestos pueden ser más tóxicos, pero generalmente se considera uno de los lantánidos menos tóxicos). El polvo de cerio es inflamable. [1, 2]",
+  "origenDelNombre": "Nombrado por Jöns Jacob Berzelius en honor al asteroide Ceres, que había sido descubierto dos años antes (en 1801) por Giuseppe Piazzi. Ceres, a su vez, fue nombrada por la diosa romana de la agricultura. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Cerio",
+    "https://www.rsc.org/periodic-table/element/58/cerium"
+  ]
 }
   
 ]
