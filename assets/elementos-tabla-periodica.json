@@ -6553,6 +6553,129 @@
     "https://es.wikipedia.org/wiki/Xen%C3%B3n",
     "https://www.rsc.org/periodic-table/element/54/xenon"
   ]
+},
+  {
+  "simbolo": "Cs",
+  "nombre": "Cesio",
+  "numeroAtomico": 55,
+  "masaAtomica": 132.90545196,
+  "grupo": 1,
+  "periodo": 6,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 301.7,
+    "puntoDeEbullicion": 944,
+    "densidad": 1.93,
+    "radioAtomico": 265,
+    "conductividadTermica": 35.9
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.79,
+    "energiaDeIonizacion": 375.7,
+    "afinidadElectronica": 45.505,
+    "estadosOxidacion": [1, -1]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 8, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Cesio-133",
+      "numeroNeutrones": 78,
+      "masaAtomica": 132.90545196,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Cesio-134",
+      "numeroNeutrones": 79,
+      "masaAtomica": 133.906718475,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta- / ε",
+        "vidaMedia": "2.0652 años"
+      }
+    },
+    {
+      "nombre": "Cesio-135",
+      "numeroNeutrones": 80,
+      "masaAtomica": 134.905977,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "2.3 × 10^6 años"
+      }
+    },
+    {
+      "nombre": "Cesio-137",
+      "numeroNeutrones": 82,
+      "masaAtomica": 136.9070895,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "30.08 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Robert Bunsen y Gustav Kirchhoff",
+    "fechaDescubrimiento": 1860
+  },
+  "datosCuriosos": [
+    "Es el metal alcalino más reactivo y el elemento menos electronegativo (junto con el francio). Reacciona explosivamente con el agua, incluso con hielo a temperaturas tan bajas como -116 °C. [1, 2, 4]",
+    "Tiene un punto de fusión muy bajo (28.5 °C o 83.3 °F), por lo que puede derretirse en un día cálido o con el calor de la mano (si se maneja de forma segura, lo cual es difícil debido a su reactividad). [1, 2, 4]",
+    "Es un metal blando, de color dorado pálido plateado. Es el único metal alcalino que presenta un color dorado, los demás son plateados. [1, 2, 4]",
+    "La transición hiperfina de los átomos de cesio-133 se utiliza como referencia para la definición actual del segundo en el Sistema Internacional de Unidades (SI), fundamental para los relojes atómicos. [1, 2, 4]",
+    "Se encuentra en pequeñas cantidades en minerales como la polucita y la lepidolita. [1, 2, 4]",
+    "El cesio es pirofórico, lo que significa que puede incendiarse espontáneamente en el aire. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de relojes atómicos de alta precisión, que son esenciales para la sincronización en sistemas de navegación global (GPS), redes de telecomunicaciones e internet. [1, 2, 4]",
+    "Como catalizador en la hidrogenación de ciertos compuestos orgánicos. [1, 2]",
+    "En la producción de vidrios ópticos especiales y en la fabricación de fotocátodos para tubos fotomultiplicadores y otros dispositivos sensibles a la luz. [1, 2, 4]",
+    "El formiato de cesio (HCOOCs) se utiliza como fluido de alta densidad en la perforación de pozos petroleros para lubricar y enfriar la broca y controlar la presión del pozo. [1, 2, 4]",
+    "En generadores termoeléctricos y como eliminador de gases (getter) en tubos de vacío. [1, 2]",
+    "El isótopo radiactivo cesio-137 se utiliza en radioterapia para el tratamiento del cáncer, en medidores industriales y como trazador, aunque su uso está disminuyendo debido a preocupaciones sobre la seguridad nuclear. [1, 2, 4]",
+    "Se ha investigado su uso en propulsores iónicos para naves espaciales. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "CsCl (cloruro de cesio)",
+    "CsOH (hidróxido de cesio, una base muy fuerte)",
+    "Cs₂CO₃ (carbonato de cesio)",
+    "CsNO₃ (nitrato de cesio)",
+    "Cs₂SO₄ (sulfato de cesio)",
+    "HCOOCs (formiato de cesio)"
+  ],
+  "abundancia": {
+    "universo": 0.00000008,
+    "cortezaTerrestre": 3,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0003,
+    "totalTierra": 0.00029,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "moderada (el cesio elemental es extremadamente reactivo y peligroso de manejar; los compuestos de cesio son de toxicidad moderada, similar a los de potasio. El cesio-137 radiactivo es altamente peligroso). [1, 2]",
+  "origenDelNombre": "Del latín 'caesius', que significa \"azul celeste\" o \"gris azulado\". Fue nombrado así por Robert Bunsen y Gustav Kirchhoff debido a las dos brillantes líneas azules en el espectro de emisión del elemento, observadas mediante espectroscopia, que permitieron su descubrimiento. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Cesio",
+    "https://www.rsc.org/periodic-table/element/55/caesium"
+  ]
 }
   
 ]
