@@ -6832,6 +6832,117 @@
     "https://es.wikipedia.org/wiki/Bario",
     "https://www.rsc.org/periodic-table/element/56/barium"
   ]
+},
+  {
+  "simbolo": "La",
+  "nombre": "Lantano",
+  "numeroAtomico": 57,
+  "masaAtomica": 138.90547,
+  "grupo": 3,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1193,
+    "puntoDeEbullicion": 3737,
+    "densidad": 6.162,
+    "radioAtomico": 187,
+    "conductividadTermica": 13.4
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.10,
+    "energiaDeIonizacion": 538.1,
+    "afinidadElectronica": 53,
+    "estadosOxidacion": [3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 18, 9, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido", "metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Lantano-138",
+      "numeroNeutrones": 81,
+      "masaAtomica": 137.907112,
+      "abundancia": 0.089,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / β-",
+        "vidaMedia": "1.02 × 10^11 años"
+      }
+    },
+    {
+      "nombre": "Lantano-139",
+      "numeroNeutrones": 82,
+      "masaAtomica": 138.9063533,
+      "abundancia": 99.911,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Lantano-137",
+      "numeroNeutrones": 80,
+      "masaAtomica": 136.906063,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "6 × 10^4 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Gustaf Mosander",
+    "fechaDescubrimiento": 1839
+  },
+  "datosCuriosos": [
+    "Es el primer elemento de la serie de los lantánidos (a menudo considerado como tal, aunque a veces se coloca en el grupo 3 como metal de transición y los lantánidos comienzan con el cerio). [1, 2, 4]",
+    "Es un metal blando, maleable y dúctil, de color blanco plateado, que se puede cortar con un cuchillo. [1, 2, 4]",
+    "Se oxida rápidamente al exponerse al aire, formando una capa de óxido blanco. Reacciona lentamente con agua fría y más rápidamente con agua caliente. [1, 2, 4]",
+    "Se encuentra en minerales de tierras raras como la monacita y la bastnasita, a menudo junto con otros lantánidos. [1, 2, 4]",
+    "El lantano es el lantánido más abundante. [1, 2]",
+    "El metal puro es pirofórico si se divide finamente. [1, 2]"
+  ],
+  "usos": [
+    "Como componente en catalizadores de craqueo catalítico fluidizado (FCC) en refinerías de petróleo para convertir el crudo en gasolina y otros productos. [1, 2, 4]",
+    "El óxido de lantano (La₂O₃) se utiliza en la fabricación de vidrios ópticos de alta calidad con alto índice de refracción y baja dispersión, para lentes de cámaras y telescopios. [1, 2, 4]",
+    "En aleaciones de mischmetal (una aleación de metales de tierras raras) para fabricar piedras de encendedor. [1, 2, 4]",
+    "Como aditivo en algunos aceros para mejorar su ductilidad y resistencia al impacto. [1, 2]",
+    "En electrodos de carbono para lámparas de arco, que producen una luz brillante utilizada en la industria cinematográfica y en proyectores. [1, 2, 4]",
+    "En baterías de níquel-hidruro metálico (NiMH), donde el ánodo es una aleación que contiene lantano (e.g., LaNi₅). [1, 2, 4]",
+    "Compuestos de lantano se utilizan en fósforos para pantallas de televisión y lámparas fluorescentes. [1, 2]",
+    "El carbonato de lantano se utiliza como un quelante de fosfato en pacientes con enfermedad renal crónica. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "La₂O₃ (óxido de lantano)",
+    "LaCl₃ (cloruro de lantano)",
+    "La(NO₃)₃ (nitrato de lantano)",
+    "La₂(CO₃)₃ (carbonato de lantano)",
+    "LaNi₅ (aleación de lantano-níquel)"
+  ],
+  "abundancia": {
+    "universo": 0.0000005,
+    "cortezaTerrestre": 39,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000012,
+    "totalTierra": 0.0018,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja a moderada (el lantano metálico tiene baja toxicidad; algunos de sus compuestos pueden ser más tóxicos, pero generalmente se considera uno de los lantánidos menos tóxicos). [1, 2]",
+  "origenDelNombre": "Del griego 'lanthanein' (λανθάνειν), que significa \"estar oculto\" o \"esconderse\". Fue nombrado así por Carl Gustaf Mosander porque se encontraba \"oculto\" como una impureza en los minerales de cerio y era difícil de separar de otros elementos de tierras raras. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Lantano",
+    "https://www.rsc.org/periodic-table/element/57/lanthanum"
+  ]
 }
   
 ]
