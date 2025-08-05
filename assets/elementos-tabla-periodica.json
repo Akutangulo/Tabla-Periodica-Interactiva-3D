@@ -7450,6 +7450,175 @@
     "https://es.wikipedia.org/wiki/Prometio",
     "https://www.rsc.org/periodic-table/element/61/promethium"
   ]
+},
+  {
+  "simbolo": "Sm",
+  "nombre": "Samario",
+  "numeroAtomico": 62,
+  "masaAtomica": 150.36,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1345,
+    "puntoDeEbullicion": 2067,
+    "densidad": 7.52,
+    "radioAtomico": 180,
+    "conductividadTermica": 13.3
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.17,
+    "energiaDeIonizacion": 544.5,
+    "afinidadElectronica": 15.63,
+    "estadosOxidacion": [3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 24, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Samario-144",
+      "numeroNeutrones": 82,
+      "masaAtomica": 143.911999,
+      "abundancia": 3.07,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Samario-147",
+      "numeroNeutrones": 85,
+      "masaAtomica": 146.9148979,
+      "abundancia": 14.99,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "1.06 × 10^11 años"
+      }
+    },
+    {
+      "nombre": "Samario-148",
+      "numeroNeutrones": 86,
+      "masaAtomica": 147.9148227,
+      "abundancia": 11.24,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "7 × 10^15 años"
+      }
+    },
+    {
+      "nombre": "Samario-149",
+      "numeroNeutrones": 87,
+      "masaAtomica": 148.9171847,
+      "abundancia": 13.82,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Samario-150",
+      "numeroNeutrones": 88,
+      "masaAtomica": 149.9172755,
+      "abundancia": 7.38,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Samario-152",
+      "numeroNeutrones": 90,
+      "masaAtomica": 151.9197324,
+      "abundancia": 26.75,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Samario-154",
+      "numeroNeutrones": 92,
+      "masaAtomica": 153.9222093,
+      "abundancia": 22.75,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Samario-151",
+      "numeroNeutrones": 89,
+      "masaAtomica": 150.9199324,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "90 años"
+      }
+    },
+    {
+      "nombre": "Samario-153",
+      "numeroNeutrones": 91,
+      "masaAtomica": 152.9220974,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "46.284 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Paul-Émile Lecoq de Boisbaudran",
+    "fechaDescubrimiento": 1879
+  },
+  "datosCuriosos": [
+    "Es un metal lantánido de color blanco plateado, razonablemente duro y quebradizo. [1, 2, 4]",
+    "Se encuentra en minerales de tierras raras como la monacita, la bastnasita y la samarskita (el mineral del que toma su nombre). [1, 2, 4]",
+    "Los imanes de samario-cobalto (SmCo₅ y Sm₂Co₁₇) fueron los primeros imanes permanentes de tierras raras de alta potencia desarrollados y son conocidos por su alta resistencia a la desmagnetización y su buen rendimiento a altas temperaturas. [1, 2, 4]",
+    "Se oxida lentamente en el aire a temperatura ambiente y se inflama espontáneamente a unos 150 °C. [1, 2, 4]",
+    "El isótopo natural samario-149 es un fuerte absorbedor de neutrones. [1, 2]",
+    "El estado de oxidación más común del samario es +3, pero también puede existir en el estado +2. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de imanes permanentes de samario-cobalto (SmCo), utilizados en motores pequeños, auriculares, pastillas de guitarra eléctrica y aplicaciones aeroespaciales y militares donde se requiere estabilidad a altas temperaturas. [1, 2, 4]",
+    "Como catalizador en diversas reacciones químicas orgánicas, incluyendo la deshidratación y deshidrogenación del etanol. [1, 2, 4]",
+    "El isótopo samario-149 se utiliza como absorbedor de neutrones en las barras de control de algunos reactores nucleares para controlar la fisión. [1, 2, 4]",
+    "El isótopo radiactivo samario-153 (en forma de lexidronam samario (¹⁵³Sm)) se utiliza en radioterapia para el tratamiento paliativo del dolor óseo causado por metástasis cancerosas. [1, 2, 4]",
+    "En la fabricación de vidrios especiales que absorben la radiación infrarroja. [1, 2]",
+    "Como dopante en cristales de fluoruro de calcio (CaF₂) para láseres y máseres. [1, 2]",
+    "En la industria cerámica y en la iluminación con lámparas de arco de carbono. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Sm₂O₃ (óxido de samario(III))",
+    "SmCl₃ (cloruro de samario(III))",
+    "SmCo₅ (aleación de samario-cobalto para imanes)",
+    "SmI₂ (diyoduro de samario, un importante agente reductor en síntesis orgánica)"
+  ],
+  "abundancia": {
+    "universo": 0.0000005,
+    "cortezaTerrestre": 7.05,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00000045,
+    "totalTierra": 0.0005,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el samario y sus compuestos se consideran de baja toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Nombrado por Paul-Émile Lecoq de Boisbaudran en honor al mineral samarskita, del cual fue aislado. El mineral, a su vez, fue nombrado en honor a Vasili Samarsky-Bykhovets, un coronel ruso e ingeniero de minas que permitió el acceso a muestras del mineral. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Samario",
+    "https://www.rsc.org/periodic-table/element/62/samarium"
+  ]
 }
   
 ]
