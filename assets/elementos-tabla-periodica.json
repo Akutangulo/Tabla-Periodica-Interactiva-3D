@@ -7619,6 +7619,127 @@
     "https://es.wikipedia.org/wiki/Samario",
     "https://www.rsc.org/periodic-table/element/62/samarium"
   ]
+},
+{
+  "simbolo": "Eu",
+  "nombre": "Europio",
+  "numeroAtomico": 63,
+  "masaAtomica": 151.964,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1099,
+    "puntoDeEbullicion": 1802,
+    "densidad": 5.244,
+    "radioAtomico": 180,
+    "conductividadTermica": 13.9
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.2,
+    "energiaDeIonizacion": 547.1,
+    "afinidadElectronica": 11.2,
+    "estadosOxidacion": [3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 25, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Europio-151",
+      "numeroNeutrones": 88,
+      "masaAtomica": 150.9198502,
+      "abundancia": 47.81,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "5 × 10^18 años"
+      }
+    },
+    {
+      "nombre": "Europio-153",
+      "numeroNeutrones": 90,
+      "masaAtomica": 152.9212303,
+      "abundancia": 52.19,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Europio-152",
+      "numeroNeutrones": 89,
+      "masaAtomica": 151.9217445,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / β-",
+        "vidaMedia": "13.516 años"
+      }
+    },
+    {
+      "nombre": "Europio-154",
+      "numeroNeutrones": 91,
+      "masaAtomica": 153.922979,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "8.593 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Eugène-Anatole Demarçay",
+    "fechaDescubrimiento": 1901
+  },
+  "datosCuriosos": [
+    "Es el lantánido más reactivo; se oxida rápidamente en el aire y reacciona con el agua de forma similar al calcio. Debe almacenarse bajo un líquido inerte. [1, 2, 4]",
+    "Los compuestos de europio, especialmente el europio(III), son conocidos por su brillante fluorescencia roja o azul cuando se exponen a la luz ultravioleta. [1, 2, 4]",
+    "Es un metal blando, dúctil, de color blanco plateado, similar en apariencia a otros lantánidos. [1, 2, 4]",
+    "Es uno de los lantánidos menos abundantes y su extracción y purificación son costosas. [1, 2]",
+    "El europio tiene una configuración electrónica con una subcapa 4f semillena ([Xe] 4f⁷ 6s²), lo que le confiere una estabilidad particular al estado de oxidación +2, además del +3 común a los lantánidos. [1, 2]",
+    "El isótopo natural europio-151 es un fuerte absorbedor de neutrones. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente como dopante en fósforos rojos y azules para pantallas de televisión en color (tubos de rayos catódicos, ya obsoletos), lámparas fluorescentes y LEDs. El óxido de europio(III) (Eu₂O₃) es el fósforo rojo estándar. [1, 2, 4]",
+    "En la fabricación de vidrios especiales que absorben la radiación ultravioleta. [1, 2]",
+    "Como activador en fósforos para detectores de radiación y en centelleadores. [1, 2]",
+    "En tintas fluorescentes de seguridad utilizadas en billetes de euro y otros documentos para prevenir la falsificación, ya que emiten una fluorescencia característica bajo luz UV. [1, 2, 4]",
+    "En aleaciones para barras de control en reactores nucleares debido a la alta sección de captura de neutrones de algunos de sus isótopos. [1, 2, 4]",
+    "En la investigación de materiales superconductores y magnéticos. [1, 2]",
+    "Como marcador en estudios biológicos y geoquímicos debido a sus propiedades de fluorescencia. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Eu₂O₃ (óxido de europio(III))",
+    "EuCl₃ (cloruro de europio(III))",
+    "Eu(NO₃)₃ (nitrato de europio(III))",
+    "EuSO₄ (sulfato de europio(II))"
+  ],
+  "abundancia": {
+    "universo": 0.00000005,
+    "cortezaTerrestre": 2.0,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00000013,
+    "totalTierra": 0.00011,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja a moderada (el europio y sus compuestos se consideran de baja a moderada toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Nombrado por su descubridor, Eugène-Anatole Demarçay, en honor al continente de Europa. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Europio",
+    "https://www.rsc.org/periodic-table/element/63/europium"
+  ]
 }
   
 ]
