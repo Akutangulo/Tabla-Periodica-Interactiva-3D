@@ -7886,6 +7886,115 @@
     "https://es.wikipedia.org/wiki/Gadolinio",
     "https://www.rsc.org/periodic-table/element/64/gadolinium"
   ]
+},
+{
+  "simbolo": "Tb",
+  "nombre": "Terbio",
+  "numeroAtomico": 65,
+  "masaAtomica": 158.92535,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1629,
+    "puntoDeEbullicion": 3503,
+    "densidad": 8.23,
+    "radioAtomico": 178,
+    "conductividadTermica": 11.1
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.2,
+    "energiaDeIonizacion": 565.8,
+    "afinidadElectronica": 13.1,
+    "estadosOxidacion": [3, 4, 1, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 27, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Terbio-159",
+      "numeroNeutrones": 94,
+      "masaAtomica": 158.9253468,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Terbio-157",
+      "numeroNeutrones": 92,
+      "masaAtomica": 156.924046,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "71 años"
+      }
+    },
+    {
+      "nombre": "Terbio-160",
+      "numeroNeutrones": 95,
+      "masaAtomica": 159.928170,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "72.3 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Gustaf Mosander",
+    "fechaDescubrimiento": 1843
+  },
+  "datosCuriosos": [
+    "Es un metal lantánido de color blanco plateado, blando, maleable y dúctil, que se puede cortar con un cuchillo. [1, 2, 4]",
+    "Los compuestos de terbio, especialmente el terbio(III), exhiben una brillante fluorescencia verde cuando se exponen a la luz ultravioleta. [1, 2, 4]",
+    "Es un elemento relativamente raro y su aislamiento y purificación son procesos complejos. [1, 2]",
+    "Se encuentra en pequeñas cantidades en minerales de tierras raras como la monacita, la bastnasita, la xenotima y la euxenita, siempre junto con otros lantánidos. [1, 2, 4]",
+    "El terbio es lo suficientemente estable en el aire a temperatura ambiente, pero se oxida a temperaturas más altas. [1, 2]",
+    "Su estado de oxidación más común es +3, aunque también puede existir en el estado +4, especialmente en el dióxido de terbio (TbO₂). [1, 2]"
+  ],
+  "usos": [
+    "Como dopante en fósforos verdes utilizados en pantallas de televisión en color (tubos de rayos catódicos, ya obsoletos), lámparas fluorescentes, LEDs y en pantallas de rayos X para mejorar la imagen. [1, 2, 4]",
+    "En la fabricación de Terfenol-D, una aleación magnetostrictiva (cambia de forma en respuesta a un campo magnético) de terbio, disprosio y hierro, utilizada en transductores, actuadores y sensores sónar. [1, 2, 4]",
+    "En la producción de láseres de estado sólido. [1, 2]",
+    "Como dopante en materiales para dispositivos electrónicos y en celdas de combustible de óxido sólido. [1, 2]",
+    "En aleaciones para imanes de alta resistencia y en la fabricación de componentes electrónicos. [1, 2]",
+    "En la industria del vidrio para dar color verde. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Tb₂O₃ (óxido de terbio(III))",
+    "Tb₄O₇ (un óxido mixto, a menudo formulado como TbO₁.₇₅)",
+    "TbCl₃ (cloruro de terbio(III))",
+    "TbF₃ (fluoruro de terbio(III))",
+    "Terfenol-D (aleación TbₓDy₁₋ₓFe₂)"
+  ],
+  "abundancia": {
+    "universo": 0.00000005,
+    "cortezaTerrestre": 1.2,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00000014,
+    "totalTierra": 0.000078,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el terbio y sus compuestos se consideran de baja toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Nombrado por Carl Gustaf Mosander en honor a la aldea de Ytterby, en Suecia, donde se encontró el mineral gadolinita, que es una fuente de muchas tierras raras. Otros elementos como el itrio, el erbio y el iterbio también deben su nombre a esta localidad. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Terbio",
+    "https://www.rsc.org/periodic-table/element/65/terbium"
+  ]
 }
   
 ]
