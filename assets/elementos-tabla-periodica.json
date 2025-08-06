@@ -7995,6 +7995,146 @@
     "https://es.wikipedia.org/wiki/Terbio",
     "https://www.rsc.org/periodic-table/element/65/terbium"
   ]
+},
+{
+  "simbolo": "Dy",
+  "nombre": "Disprosio",
+  "numeroAtomico": 66,
+  "masaAtomica": 162.500,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1680,
+    "puntoDeEbullicion": 2840,
+    "densidad": 8.551,
+    "radioAtomico": 178,
+    "conductividadTermica": 10.7
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.22,
+    "energiaDeIonizacion": 573.0,
+    "afinidadElectronica": 33.96,
+    "estadosOxidacion": [3, 2, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 28, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Disprosio-156",
+      "numeroNeutrones": 90,
+      "masaAtomica": 155.9252818,
+      "abundancia": 0.056,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Disprosio-158",
+      "numeroNeutrones": 92,
+      "masaAtomica": 157.9244072,
+      "abundancia": 0.095,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Disprosio-160",
+      "numeroNeutrones": 94,
+      "masaAtomica": 159.9251957,
+      "abundancia": 2.329,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Disprosio-161",
+      "numeroNeutrones": 95,
+      "masaAtomica": 160.9269315,
+      "abundancia": 18.889,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Disprosio-162",
+      "numeroNeutrones": 96,
+      "masaAtomica": 161.9267967,
+      "abundancia": 25.475,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Disprosio-163",
+      "numeroNeutrones": 97,
+      "masaAtomica": 162.9287295,
+      "abundancia": 24.896,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Disprosio-164",
+      "numeroNeutrones": 98,
+      "masaAtomica": 163.9291731,
+      "abundancia": 28.260,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Paul-Émile Lecoq de Boisbaudran",
+    "fechaDescubrimiento": 1886
+  },
+  "datosCuriosos": [
+    "Es un metal lantánido que presenta propiedades ferromagnéticas a temperaturas inferiores a 85 K (-188.2 °C). Por encima de esta temperatura, es paramagnético. [1, 2, 4]",
+    "Es un metal de color blanco plateado brillante, relativamente blando y que se puede cortar con un cuchillo. [1, 2, 4]",
+    "Es un elemento relativamente raro y su aislamiento a partir de minerales de tierras raras es un proceso complejo y costoso. [1, 2]",
+    "Se oxida lentamente en el aire y reacciona con el agua para formar hidróxido de disprosio, liberando hidrógeno. [1, 2, 4]",
+    "El disprosio tiene una sección transversal de absorción de neutrones térmicos muy alta, similar al gadolinio. [1, 2]",
+    "Sus sales suelen ser de color amarillo o verde. [1, 2]"
+  ],
+  "usos": [
+    "Como aditivo en imanes permanentes de neodimio-hierro-boro (NdFeB) para aumentar su coercitividad y mejorar su rendimiento a altas temperaturas, lo que es crucial para motores eléctricos en vehículos híbridos y eléctricos, y generadores de turbinas eólicas. [1, 2, 4]",
+    "En la fabricación de Terfenol-D, una aleación magnetostrictiva (junto con terbio y hierro) utilizada en transductores, actuadores y sensores. [1, 2, 4]",
+    "En lámparas de halogenuros metálicos de alta intensidad para producir una luz blanca brillante. [1, 2, 4]",
+    "Como material absorbedor de neutrones en las barras de control de reactores nucleares debido a su alta sección de captura de neutrones. [1, 2, 4]",
+    "En la fabricación de ciertos tipos de láseres que emiten en el infrarrojo. [1, 2]",
+    "Como dopante en materiales para dosímetros de radiación. [1, 2]",
+    "En la producción de discos compactos y en medios de almacenamiento de datos magneto-ópticos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Dy₂O₃ (óxido de disprosio(III))",
+    "DyCl₃ (cloruro de disprosio(III))",
+    "DyF₃ (fluoruro de disprosio(III))",
+    "DyI₃ (yoduro de disprosio(III))",
+    "Terfenol-D (aleación TbₓDy₁₋ₓFe₂)"
+  ],
+  "abundancia": {
+    "universo": 0.0000003,
+    "cortezaTerrestre": 5.2,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000009,
+    "totalTierra": 0.0004,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el disprosio y sus compuestos solubles se consideran de baja toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Del griego 'dysprositos' (δυσπρόσιτος), que significa \"difícil de obtener\" o \"difícil de alcanzar\". Fue nombrado así por Paul-Émile Lecoq de Boisbaudran debido a la gran dificultad que encontró para aislarlo de otros lantánidos. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Disprosio",
+    "https://www.rsc.org/periodic-table/element/66/dysprosium"
+  ]
 }
   
 ]
