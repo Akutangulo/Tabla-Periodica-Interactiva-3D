@@ -7740,6 +7740,152 @@
     "https://es.wikipedia.org/wiki/Europio",
     "https://www.rsc.org/periodic-table/element/63/europium"
   ]
+},
+{
+  "simbolo": "Gd",
+  "nombre": "Gadolinio",
+  "numeroAtomico": 64,
+  "masaAtomica": 157.25,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1585,
+    "puntoDeEbullicion": 3546,
+    "densidad": 7.90,
+    "radioAtomico": 180,
+    "conductividadTermica": 10.6
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.20,
+    "energiaDeIonizacion": 593.4,
+    "afinidadElectronica": 13.22,
+    "estadosOxidacion": [3, 2, 1]
+  },
+  "capasElectronicas": [2, 8, 18, 25, 9, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido", "ferromagnético"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Gadolinio-152",
+      "numeroNeutrones": 88,
+      "masaAtomica": 151.9197910,
+      "abundancia": 0.20,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "1.08 × 10^14 años"
+      }
+    },
+    {
+      "nombre": "Gadolinio-154",
+      "numeroNeutrones": 90,
+      "masaAtomica": 153.9208656,
+      "abundancia": 2.18,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Gadolinio-155",
+      "numeroNeutrones": 91,
+      "masaAtomica": 154.9226220,
+      "abundancia": 14.80,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Gadolinio-156",
+      "numeroNeutrones": 92,
+      "masaAtomica": 155.9221227,
+      "abundancia": 20.47,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Gadolinio-157",
+      "numeroNeutrones": 93,
+      "masaAtomica": 156.9239601,
+      "abundancia": 15.65,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Gadolinio-158",
+      "numeroNeutrones": 94,
+      "masaAtomica": 157.9241039,
+      "abundancia": 24.84,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Gadolinio-160",
+      "numeroNeutrones": 96,
+      "masaAtomica": 159.9270541,
+      "abundancia": 21.86,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": ">1.3 × 10^21 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Jean Charles Galissard de Marignac",
+    "fechaDescubrimiento": 1880
+  },
+  "datosCuriosos": [
+    "Es ferromagnético a temperaturas inferiores a su punto de Curie (20 °C o 68 °F), lo que significa que puede ser magnetizado como el hierro a temperatura ambiente o por debajo de ella. [1, 2, 4]",
+    "Se encuentra en minerales de tierras raras como la monacita, la bastnasita y la gadolinita (el mineral que le dio su nombre indirectamente). [1, 2, 4]",
+    "Es un metal lantánido de color blanco plateado, maleable y dúctil. [1, 2, 4]",
+    "El gadolinio tiene la sección transversal de captura de neutrones térmicos más alta de todos los elementos conocidos (especialmente el isótopo gadolinio-157), lo que lo hace muy eficaz para absorber neutrones. [1, 2, 4]",
+    "Sus compuestos, especialmente los quelatos de gadolinio(III), se utilizan como agentes de contraste en imágenes por resonancia magnética (IRM). [1, 2, 4]",
+    "El gadolinio presenta un efecto magnetocalórico inusualmente grande, lo que significa que su temperatura cambia cuando se expone a un campo magnético. [1, 2]"
+  ],
+  "usos": [
+    "Como componente en agentes de contraste intravenosos para imágenes por resonancia magnética (IRM) en medicina, para mejorar la visibilidad de vasos sanguíneos y tejidos inflamados o cancerosos. [1, 2, 4]",
+    "En aleaciones con hierro, cromo y otros metales para fabricar imanes y componentes electrónicos. [1, 2, 4]",
+    "Como absorbedor de neutrones en las barras de control y como blindaje en reactores nucleares debido a su alta sección de captura de neutrones. [1, 2, 4]",
+    "En la fabricación de fósforos para tubos intensificadores de imagen en pantallas de rayos X y en algunos LEDs. [1, 2, 4]",
+    "En la producción de granates de gadolinio y galio (GGG), que se utilizaron como sustratos para memorias de burbuja magnética y como simulantes de diamante. [1, 2]",
+    "Se investiga su uso en refrigeración magnética debido a su efecto magnetocalórico. [1, 2, 4]",
+    "Como dopante en algunos tipos de láseres. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Gd₂O₃ (óxido de gadolinio(III))",
+    "GdCl₃ (cloruro de gadolinio(III))",
+    "Gd(NO₃)₃ (nitrato de gadolinio(III))",
+    "Gd₂(SO₄)₃ (sulfato de gadolinio(III))",
+    "Quelatos de Gd(III) (e.g., gadopentetato de dimeglumina, utilizado en IRM)"
+  ],
+  "abundancia": {
+    "universo": 0.0000005,
+    "cortezaTerrestre": 6.2,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000007,
+    "totalTierra": 0.00047,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el gadolinio metálico tiene baja toxicidad; los iones de gadolinio libres son tóxicos, pero los quelatos utilizados como agentes de contraste en IRM están diseñados para ser excretados rápidamente, aunque pueden causar problemas en pacientes con insuficiencia renal). [1, 2]",
+  "origenDelNombre": "Nombrado por Jean Charles Galissard de Marignac en honor al químico y geólogo finlandés Johan Gadolin, quien descubrió el itrio (el primer elemento de tierras raras) a partir del mineral gadolinita. El mineral gadolinita, a su vez, fue nombrado en honor a Gadolin. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Gadolinio",
+    "https://www.rsc.org/periodic-table/element/64/gadolinium"
+  ]
 }
   
 ]
