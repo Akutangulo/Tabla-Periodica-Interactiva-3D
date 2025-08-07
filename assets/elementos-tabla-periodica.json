@@ -8207,8 +8207,8 @@ expand_less
     }
   ],
   "descubrimiento": {
-    "descubridor": "Marc Delafontaine y Jacques-Louis Soret (observación espectroscópica); Per Teodor Cleve (aislamiento del óxido)",
-    "fechaDescubrimiento": "1878 (Delafontaine y Soret); 1879 (Cleve)"
+    "descubridor": "Marc Delafontaine y Jacques-Louis Soret (observación espectroscópica 1878); Per Teodor Cleve (aislamiento del óxido 1879)",
+    "fechaDescubrimiento": 1878
   },
   "datosCuriosos": [
     "Posee el momento magnético más alto de todos los elementos naturales (10.6 μB por átomo), lo que le confiere propiedades magnéticas excepcionales y le permite crear los campos magnéticos artificiales más fuertes cuando se coloca dentro de imanes de alta potencia. [1, 2, 4]",
