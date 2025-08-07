@@ -5971,7 +5971,7 @@
   ],
   "descubrimiento": {
     "descubridor": "Conocido por las civilizaciones antiguas (uso desde c. 3000 a.C.). Antoine Lavoisier lo catalogó como elemento químico.",
-    "fechaDescubrimiento": "c. 1789 (reconocimiento como elemento)"
+    "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
     "Fue uno de los primeros metales conocidos y utilizados por la humanidad, siendo un componente esencial del bronce (aleación de cobre y estaño), que dio nombre a la Edad del Bronce. [1, 2, 4]",
@@ -6077,8 +6077,8 @@
     }
   ],
   "descubrimiento": {
-    "descubridor": "Compuestos conocidos desde la antigüedad; el metal fue descrito por Vannoccio Biringuccio y Georgius Agricola.",
-    "fechaDescubrimiento": "c. 1540 (Biringuccio, descripción de aislamiento)"
+    "descubridor": "Compuestos conocidos desde la antigüedad; el metal fue descrito por Vannoccio Biringuccio (1540, descripción de aislamiento) y Georgius Agricola.",
+    "fechaDescubrimiento": 1540
   },
   "datosCuriosos": [
     "Es un metaloide quebradizo, de color blanco plateado con un brillo metálico, que existe en varias formas alotrópicas (la más común es la metálica). [1, 2, 4]",
@@ -6236,8 +6236,8 @@
     }
   ],
   "descubrimiento": {
-    "descubridor": "Franz-Joseph Müller von Reichenstein (descubrimiento); Martin Heinrich Klaproth (confirmación y nombre)",
-    "fechaDescubrimiento": "1782 (Müller von Reichenstein); 1798 (Klaproth)"
+    "descubridor": "Franz-Joseph Müller von Reichenstein (descubrimiento 1782); Martin Heinrich Klaproth (confirmación y nombre 1798)",
+    "fechaDescubrimiento": 1782
   },
   "datosCuriosos": [
     "Cuando se manipula o se calienta, el telurio puede liberar un vapor con un olor desagradable similar al ajo, debido a la formación de dimetil telururo. [1, 2, 4]",
