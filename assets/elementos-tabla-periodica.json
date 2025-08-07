@@ -8249,6 +8249,147 @@ expand_less
     "https://es.wikipedia.org/wiki/Holmio",
     "https://www.rsc.org/periodic-table/element/67/holmium"
   ]
+},
+{
+  "simbolo": "Er",
+  "nombre": "Erbio",
+  "numeroAtomico": 68,
+  "masaAtomica": 167.259,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1802,
+    "puntoDeEbullicion": 3141,
+    "densidad": 9.066,
+    "radioAtomico": 176,
+    "conductividadTermica": 14.5
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.24,
+    "energiaDeIonizacion": 589.3,
+    "afinidadElectronica": 30.1,
+    "estadosOxidacion": [3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 30, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Erbio-162",
+      "numeroNeutrones": 94,
+      "masaAtomica": 161.928778,
+      "abundancia": 0.139,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Erbio-164",
+      "numeroNeutrones": 96,
+      "masaAtomica": 163.929200,
+      "abundancia": 1.601,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Erbio-166",
+      "numeroNeutrones": 98,
+      "masaAtomica": 165.9302931,
+      "abundancia": 33.503,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Erbio-167",
+      "numeroNeutrones": 99,
+      "masaAtomica": 166.9320482,
+      "abundancia": 22.869,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Erbio-168",
+      "numeroNeutrones": 100,
+      "masaAtomica": 167.9323702,
+      "abundancia": 26.978,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Erbio-170",
+      "numeroNeutrones": 102,
+      "masaAtomica": 169.9354643,
+      "abundancia": 14.910,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Erbio-169",
+      "numeroNeutrones": 101,
+      "masaAtomica": 168.9345904,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "9.4 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Carl Gustaf Mosander",
+    "fechaDescubrimiento": 1843
+  },
+  "datosCuriosos": [
+    "Los compuestos de erbio, especialmente el óxido de erbio(III) (Er₂O₃), son de un característico color rosa. [1, 2, 4]",
+    "Es un metal lantánido de color blanco plateado, blando, maleable y relativamente estable en el aire en comparación con otros lantánidos más reactivos. [1, 2, 4]",
+    "Se utiliza para dar un color rosa a vidrios y esmaltes cerámicos, y también en la fabricación de gafas de sol y joyas de imitación. [1, 2, 4]",
+    "Se encuentra en minerales de tierras raras como la gadolinita, la euxenita y la xenotima, a menudo junto con otros lantánidos. [1, 2, 4]",
+    "El erbio fue uno de los varios elementos descubiertos por Carl Gustaf Mosander a partir del mineral itria, que provenía de la cantera de Ytterby en Suecia. [1, 2]",
+    "El óxido de erbio tiene una alta resistividad eléctrica y un alto índice de refracción. [1, 2]"
+  ],
+  "usos": [
+    "Como dopante en fibras ópticas de vidrio para fabricar amplificadores de fibra dopada con erbio (EDFA), que son cruciales para amplificar las señales ópticas en sistemas de comunicación de larga distancia por fibra óptica. [1, 2, 4]",
+    "En láseres de estado sólido, como los láseres Er:YAG (granate de itrio y aluminio dopado con erbio), que emiten luz infrarroja y se utilizan en medicina (dermatología, odontología, cirugía) y en aplicaciones de telemetría. [1, 2, 4]",
+    "Como colorante rosa para vidrios, esmaltes cerámicos, porcelanas y circonia cúbica (para simular gemas rosadas). [1, 2, 4]",
+    "En aleaciones especiales y como absorbedor de neutrones en la industria nuclear. [1, 2]",
+    "Como material fotoluminiscente en algunas aplicaciones de iluminación y visualización. [1, 2]",
+    "En la fabricación de filtros fotográficos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Er₂O₃ (óxido de erbio(III))",
+    "ErCl₃ (cloruro de erbio(III))",
+    "ErF₃ (fluoruro de erbio(III))",
+    "Er(NO₃)₃ (nitrato de erbio(III))"
+  ],
+  "abundancia": {
+    "universo": 0.0000002,
+    "cortezaTerrestre": 3.5,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000009,
+    "totalTierra": 0.00023,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el erbio y sus compuestos se consideran de baja toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Nombrado por Carl Gustaf Mosander en honor a la aldea de Ytterby, en Suecia, donde se encontró el mineral gadolinita, una fuente de muchas tierras raras. El nombre 'erbio' es una derivación de 'Ytterby'. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Erbio",
+    "https://www.rsc.org/periodic-table/element/68/erbium"
+  ]
 }
   
 ]
