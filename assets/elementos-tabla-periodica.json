@@ -8510,6 +8510,157 @@ expand_less
     "https://es.wikipedia.org/wiki/Tulio",
     "https://www.rsc.org/periodic-table/element/69/thulium"
   ]
+},
+  {
+  "simbolo": "Yb",
+  "nombre": "Iterbio",
+  "numeroAtomico": 70,
+  "masaAtomica": 173.045,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1097,
+    "puntoDeEbullicion": 1469,
+    "densidad": 6.965,
+    "radioAtomico": 176,
+    "conductividadTermica": 38.5
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.1,
+    "energiaDeIonizacion": 603.4,
+    "afinidadElectronica": -1.93,
+    "estadosOxidacion": [3, 2, 1]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Iterbio-168",
+      "numeroNeutrones": 98,
+      "masaAtomica": 167.933897,
+      "abundancia": 0.123,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iterbio-170",
+      "numeroNeutrones": 100,
+      "masaAtomica": 169.9347618,
+      "abundancia": 2.982,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iterbio-171",
+      "numeroNeutrones": 101,
+      "masaAtomica": 170.9363258,
+      "abundancia": 14.086,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iterbio-172",
+      "numeroNeutrones": 102,
+      "masaAtomica": 171.9363815,
+      "abundancia": 21.683,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iterbio-173",
+      "numeroNeutrones": 103,
+      "masaAtomica": 172.9382108,
+      "abundancia": 16.103,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iterbio-174",
+      "numeroNeutrones": 104,
+      "masaAtomica": 173.9388621,
+      "abundancia": 32.025,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iterbio-176",
+      "numeroNeutrones": 106,
+      "masaAtomica": 175.9425717,
+      "abundancia": 12.998,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iterbio-169",
+      "numeroNeutrones": 99,
+      "masaAtomica": 168.9348928,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "32.018 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Jean Charles Galissard de Marignac",
+    "fechaDescubrimiento": 1878
+  },
+  "datosCuriosos": [
+    "Es un metal lantánido blando, maleable y dúctil, de color blanco plateado brillante. [1, 2, 4]",
+    "Existe en tres formas alotrópicas (alfa, beta y gamma), con temperaturas de transición a 264 K y 1070 K. La forma beta es la estable a temperatura ambiente. [1, 2]",
+    "Se encuentra en pequeñas cantidades en minerales de tierras raras como la monacita, la gadolinita y la xenotima, siempre junto con otros lantánidos. [1, 2, 4]",
+    "Es relativamente estable en aire seco, pero se oxida lentamente en aire húmedo. Reacciona con el agua. [1, 2, 4]",
+    "El iterbio tiene una capa 4f completa ([Xe] 4f¹⁴ 6s²), lo que explica algunas de sus propiedades físicas y químicas distintivas en comparación con otros lantánidos, como su menor densidad y punto de fusión. [1, 2]",
+    "Sus estados de oxidación más comunes son +2 y +3. [1, 2]"
+  ],
+  "usos": [
+    "Como dopante en fibras ópticas para amplificadores de fibra y en láseres de fibra de alta potencia que emiten en el infrarrojo. [1, 2, 4]",
+    "En aleaciones especiales, por ejemplo, para mejorar la resistencia y otras propiedades de los aceros inoxidables. [1, 2, 4]",
+    "En la fabricación de relojes atómicos experimentales de alta precisión, utilizando transiciones ópticas en átomos de iterbio. [1, 2]",
+    "Como fuente de rayos gamma portátiles (utilizando el isótopo iterbio-169) para radiografía industrial no destructiva. [1, 2, 4]",
+    "En la investigación de materiales cuánticos y como catalizador en algunas reacciones de química orgánica. [1, 2]",
+    "Como dopante en ciertos tipos de fósforos y en sensores de presión. [1, 2]",
+    "Se ha utilizado en la fabricación de ciertos tipos de acero para mejorar su refinamiento de grano. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Yb₂O₃ (óxido de iterbio(III))",
+    "YbCl₃ (cloruro de iterbio(III))",
+    "YbF₃ (fluoruro de iterbio(III))",
+    "YbI₂ (diyoduro de iterbio)"
+  ],
+  "abundancia": {
+    "universo": 0.0000002,
+    "cortezaTerrestre": 3.2,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0000008,
+    "totalTierra": 0.00018,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el iterbio y sus compuestos se consideran de baja toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Nombrado por Jean Charles Galissard de Marignac en honor a la aldea de Ytterby, en Suecia, el lugar donde se encontró el mineral gadolinita, que fue la fuente de muchos elementos de tierras raras. Otros elementos como el itrio, el terbio y el erbio también deben su nombre a esta localidad. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Iterbio",
+    "https://www.rsc.org/periodic-table/element/70/ytterbium"
+  ]
 }
   
 ]
