@@ -8135,6 +8135,120 @@
     "https://es.wikipedia.org/wiki/Disprosio",
     "https://www.rsc.org/periodic-table/element/66/dysprosium"
   ]
+},
+  code
+Json
+download
+content_copy
+expand_less
+
+{
+  "simbolo": "Ho",
+  "nombre": "Holmio",
+  "numeroAtomico": 67,
+  "masaAtomica": 164.93033,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1734,
+    "puntoDeEbullicion": 2993,
+    "densidad": 8.79,
+    "radioAtomico": 177,
+    "conductividadTermica": 16.2
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.23,
+    "energiaDeIonizacion": 581.0,
+    "afinidadElectronica": 32.61,
+    "estadosOxidacion": [3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 29, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Holmio-165",
+      "numeroNeutrones": 98,
+      "masaAtomica": 164.9303237,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Holmio-163",
+      "numeroNeutrones": 96,
+      "masaAtomica": 162.928731,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "4570 años"
+      }
+    },
+    {
+      "nombre": "Holmio-166",
+      "numeroNeutrones": 99,
+      "masaAtomica": 165.932274,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "26.763 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Marc Delafontaine y Jacques-Louis Soret (observación espectroscópica); Per Teodor Cleve (aislamiento del óxido)",
+    "fechaDescubrimiento": "1878 (Delafontaine y Soret); 1879 (Cleve)"
+  },
+  "datosCuriosos": [
+    "Posee el momento magnético más alto de todos los elementos naturales (10.6 μB por átomo), lo que le confiere propiedades magnéticas excepcionales y le permite crear los campos magnéticos artificiales más fuertes cuando se coloca dentro de imanes de alta potencia. [1, 2, 4]",
+    "Sus sales, como el óxido de holmio(III), suelen ser de color amarillo claro o rosado, dependiendo de las condiciones de iluminación y la concentración. [1, 2, 4]",
+    "Es un metal lantánido de color blanco plateado, relativamente blando y maleable. [1, 2, 4]",
+    "Se encuentra en pequeñas cantidades en minerales de tierras raras como la monacita y la gadolinita, siempre junto con otros lantánidos. [1, 2, 4]",
+    "El holmio es razonablemente estable en aire seco a temperatura ambiente, pero se oxida rápidamente en aire húmedo o a temperaturas elevadas. [1, 2]",
+    "Fue descubierto espectroscópicamente por sus líneas de absorción únicas. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de concentradores de flujo magnético para crear los campos magnéticos estáticos más fuertes en imanes de alta potencia, a menudo en aleaciones. [1, 2, 4]",
+    "En láseres de estado sólido, como los láseres Ho:YAG (granate de itrio y aluminio dopado con holmio), que emiten luz infrarroja y se utilizan en procedimientos médicos (cirugía, odontología) y en aplicaciones militares (telémetros). [1, 2, 4]",
+    "Los óxidos de holmio se utilizan como patrones de calibración para espectrofotómetros ópticos debido a sus nítidas bandas de absorción en el espectro visible y ultravioleta. [1, 2, 4]",
+    "Como absorbedor de neutrones (veneno nuclear quemable) en las barras de control de reactores nucleares para controlar la fisión. [1, 2, 4]",
+    "Como colorante amarillo o rojo para vidrios y circonia cúbica. [1, 2]",
+    "En la investigación de materiales cuánticos y espintrónica. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Ho₂O₃ (óxido de holmio(III))",
+    "HoCl₃ (cloruro de holmio(III))",
+    "HoF₃ (fluoruro de holmio(III))",
+    "Ho(NO₃)₃ (nitrato de holmio(III))"
+  ],
+  "abundancia": {
+    "universo": 0.00000005,
+    "cortezaTerrestre": 1.3,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00000022,
+    "totalTierra": 0.000086,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el holmio y sus compuestos se consideran de baja toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Nombrado por Per Teodor Cleve en honor a 'Holmia', el nombre latino de Estocolmo, la ciudad natal de Cleve y también la ciudad donde se realizaron importantes investigaciones sobre las tierras raras. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Holmio",
+    "https://www.rsc.org/periodic-table/element/67/holmium"
+  ]
 }
   
 ]
