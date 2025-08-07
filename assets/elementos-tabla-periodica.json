@@ -8390,6 +8390,126 @@ expand_less
     "https://es.wikipedia.org/wiki/Erbio",
     "https://www.rsc.org/periodic-table/element/68/erbium"
   ]
+},
+  {
+  "simbolo": "Tm",
+  "nombre": "Tulio",
+  "numeroAtomico": 69,
+  "masaAtomica": 168.93422,
+  "grupo": "Lantánidos",
+  "periodo": 6,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1818,
+    "puntoDeEbullicion": 2223,
+    "densidad": 9.32,
+    "radioAtomico": 176,
+    "conductividadTermica": 16.9
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.25,
+    "energiaDeIonizacion": 596.7,
+    "afinidadElectronica": 30.06,
+    "estadosOxidacion": [3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 31, 8, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Tulio-169",
+      "numeroNeutrones": 100,
+      "masaAtomica": 168.9342136,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Tulio-167",
+      "numeroNeutrones": 98,
+      "masaAtomica": 166.9320735,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "9.25 días"
+      }
+    },
+    {
+      "nombre": "Tulio-170",
+      "numeroNeutrones": 101,
+      "masaAtomica": 169.9364285,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "128.6 días"
+      }
+    },
+    {
+      "nombre": "Tulio-171",
+      "numeroNeutrones": 102,
+      "masaAtomica": 170.9384293,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "1.92 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Per Teodor Cleve",
+    "fechaDescubrimiento": 1879
+  },
+  "datosCuriosos": [
+    "Es el segundo lantánido menos abundante en la corteza terrestre, después del lutecio (aunque a veces se considera el menos abundante de los lantánidos estables). [1, 2, 4]",
+    "Es un metal de color blanco plateado brillante, blando, maleable y dúctil, que se puede cortar con un cuchillo. [1, 2, 4]",
+    "Se oxida lentamente en el aire y reacciona con el agua. [1, 2, 4]",
+    "Debido a su rareza y al alto costo de su extracción y purificación, el tulio tiene pocas aplicaciones comerciales a gran escala. [1, 2, 4]",
+    "El óxido de tulio(III) (Tm₂O₃) tiene un color verde pálido. [1, 2]",
+    "El isótopo tulio-170, producido artificialmente, emite rayos X y se ha utilizado en dispositivos portátiles de rayos X. [1, 2]"
+  ],
+  "usos": [
+    "El isótopo tulio-170, producido por bombardeo de neutrones, se utiliza como fuente de radiación en dispositivos portátiles de rayos X para aplicaciones médicas e industriales donde no se dispone de electricidad. [1, 2, 4]",
+    "En la fabricación de algunos tipos de láseres de estado sólido que emiten luz infrarroja, utilizados en medicina y en aplicaciones militares. [1, 2, 4]",
+    "Como dopante en cristales para materiales superconductores de alta temperatura. [1, 2]",
+    "En la producción de cermets (materiales compuestos de cerámica y metal) para imanes. [1, 2]",
+    "Se ha investigado su uso en fósforos para pantallas y en la fabricación de billetes de euro como medida de seguridad (aunque el europio es más común para esto). [1, 2]",
+    "Principalmente utilizado en investigación científica debido a su rareza y costo. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Tm₂O₃ (óxido de tulio(III))",
+    "TmCl₃ (cloruro de tulio(III))",
+    "TmF₃ (fluoruro de tulio(III))",
+    "TmI₂ (diyoduro de tulio)"
+  ],
+  "abundancia": {
+    "universo": 0.00000001,
+    "cortezaTerrestre": 0.52,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00000017,
+    "totalTierra": 0.000027,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el tulio y sus compuestos solubles se consideran de baja toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Nombrado por Per Teodor Cleve en honor a Thule, el antiguo nombre mitológico de una tierra lejana en el extremo norte, a menudo asociada con Escandinavia o Islandia. Esto refleja la procedencia escandinava de muchos minerales de tierras raras y la posición del tulio como uno de los últimos lantánidos en ser descubierto. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Tulio",
+    "https://www.rsc.org/periodic-table/element/69/thulium"
+  ]
 }
   
 ]
