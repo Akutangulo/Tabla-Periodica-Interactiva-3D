@@ -8769,6 +8769,138 @@ expand_less
     "https://es.wikipedia.org/wiki/Lutecio",
     "https://www.rsc.org/periodic-table/element/71/lutetium"
   ]
+},
+{
+  "simbolo": "Hf",
+  "nombre": "Hafnio",
+  "numeroAtomico": 72,
+  "masaAtomica": 178.49,
+  "grupo": 4,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2506,
+    "puntoDeEbullicion": 4876,
+    "densidad": 13.31,
+    "radioAtomico": 159,
+    "conductividadTermica": 23.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 658.5,
+    "afinidadElectronica": 17.18,
+    "estadosOxidacion": [4, 3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 10, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Hafnio-174",
+      "numeroNeutrones": 102,
+      "masaAtomica": 173.940040,
+      "abundancia": 0.16,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "2.0 × 10^15 años"
+      }
+    },
+    {
+      "nombre": "Hafnio-176",
+      "numeroNeutrones": 104,
+      "masaAtomica": 175.941402,
+      "abundancia": 5.26,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Hafnio-177",
+      "numeroNeutrones": 105,
+      "masaAtomica": 176.943220,
+      "abundancia": 18.60,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Hafnio-178",
+      "numeroNeutrones": 106,
+      "masaAtomica": 177.943698,
+      "abundancia": 27.28,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Hafnio-179",
+      "numeroNeutrones": 107,
+      "masaAtomica": 178.945815,
+      "abundancia": 13.62,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Hafnio-180",
+      "numeroNeutrones": 108,
+      "masaAtomica": 179.946549,
+      "abundancia": 35.08,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Dirk Coster y George de Hevesy",
+    "fechaDescubrimiento": 1923
+  },
+  "datosCuriosos": [
+    "Es químicamente casi idéntico al zirconio, por lo que siempre se encuentran juntos en la naturaleza y son muy difíciles de separar. Esta similitud se debe a la contracción lantánida. [1, 2, 4]",
+    "Es un metal de transición dúctil, de color gris plateado brillante y altamente resistente a la corrosión. [1, 2, 4]",
+    "Tiene una alta sección transversal de captura de neutrones, lo que lo convierte en un excelente absorbente de neutrones. Esta propiedad es opuesta a la del zirconio. [1, 2, 4]",
+    "Se encuentra en casi todos los minerales de zirconio, como el zircón, pero no existe como elemento libre en la naturaleza. [1, 2, 4]",
+    "Su existencia fue predicha por Niels Bohr en 1922 basándose en su modelo atómico, antes de ser descubierto experimentalmente. [1, 2]",
+    "El polvo de hafnio puede ser pirofórico y arder espontáneamente en el aire. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de barras de control para reactores nucleares, especialmente en submarinos nucleares, debido a su excelente capacidad para absorber neutrones. [1, 2, 4]",
+    "En superaleaciones a base de níquel y hierro para componentes de alta temperatura en turbinas de aviones y motores a reacción. [1, 2, 4]",
+    "El óxido de hafnio (HfO₂) se utiliza como aislante de puerta (gate insulator) en la fabricación de microchips y transistores modernos, reemplazando al dióxido de silicio en tamaños de puerta inferiores a 45 nm. [1, 2, 4]",
+    "Como electrodo en corte por plasma debido a su alto punto de fusión y su capacidad para emitir electrones. [1, 2]",
+    "En la fabricación de filamentos para lámparas incandescentes y como eliminador de gases (getter) en tubos de vacío. [1, 2]",
+    "En la producción de algunas aleaciones especiales y cerámicas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "HfO₂ (dióxido de hafnio / óxido de hafnio(IV))",
+    "HfCl₄ (tetracloruro de hafnio)",
+    "HfC (carburo de hafnio)",
+    "HfN (nitruro de hafnio)"
+  ],
+  "abundancia": {
+    "universo": 0.0000002,
+    "cortezaTerrestre": 5.8,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": 0.0001,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el hafnio metálico y sus compuestos se consideran de baja toxicidad; el polvo metálico es un riesgo de incendio). [1, 2]",
+  "origenDelNombre": "De 'Hafnia', el nombre latino de Copenhague (Dinamarca), la ciudad donde fue descubierto por Dirk Coster y George de Hevesy en el instituto de Niels Bohr. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Hafnio",
+    "https://www.rsc.org/periodic-table/element/72/hafnium"
+  ]
 }
   
 ]
