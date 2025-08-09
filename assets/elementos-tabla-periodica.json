@@ -8901,6 +8901,121 @@ expand_less
     "https://es.wikipedia.org/wiki/Hafnio",
     "https://www.rsc.org/periodic-table/element/72/hafnium"
   ]
+},
+  code
+Json
+download
+content_copy
+expand_less
+
+{
+  "simbolo": "Ta",
+  "nombre": "Tantalio",
+  "numeroAtomico": 73,
+  "masaAtomica": 180.94788,
+  "grupo": 5,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 3290,
+    "puntoDeEbullicion": 5731,
+    "densidad": 16.69,
+    "radioAtomico": 146,
+    "conductividadTermica": 57.5
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.5,
+    "energiaDeIonizacion": 761,
+    "afinidadElectronica": 31,
+    "estadosOxidacion": [-1, 1, 2, 3, 4, 5]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 11, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Tantalio-180m",
+      "numeroNeutrones": 107,
+      "masaAtomica": 179.9474648,
+      "abundancia": 0.012,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / β- / IT",
+        "vidaMedia": ">1.2 × 10^15 años"
+      }
+    },
+    {
+      "nombre": "Tantalio-181",
+      "numeroNeutrones": 108,
+      "masaAtomica": 180.9479958,
+      "abundancia": 99.988,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Tantalio-179",
+      "numeroNeutrones": 106,
+      "masaAtomica": 178.94595,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "1.82 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Anders Gustaf Ekeberg (descubrimiento); William Hyde Wollaston (inicialmente lo confundió con niobio); Heinrich Rose (distinción final del niobio)",
+    "fechaDescubrimiento": "1802 (Ekeberg); 1846 (Rose)"
+  },
+  "datosCuriosos": [
+    "Es un metal de transición duro, denso, dúctil, de color gris azulado, y es extremadamente resistente a la corrosión por ácidos (incluyendo el agua regia) por debajo de 150 °C. [1, 2, 4]",
+    "Tiene uno de los puntos de fusión más altos de todos los metales, superado solo por el tungsteno, el renio y el osmio. [1, 2, 4]",
+    "El principal mineral de tantalio es la tantalita, que a menudo se encuentra en el mismo mineral que la columbita (fuente de niobio). La mezcla de estos minerales se conoce como coltán. [1, 2, 4]",
+    "Es altamente biocompatible y no reactivo con los fluidos corporales, lo que lo hace ideal para implantes médicos. [1, 2, 4]",
+    "Debido a su similitud química con el niobio, fue difícil de distinguir de este último durante muchos años. [1, 2, 4]",
+    "El tantalio es un \"metal de conflicto\", ya que su extracción en ciertas regiones de África Central ha estado asociada con conflictos armados. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de capacitores electrolíticos de tantalio, que son pequeños y fiables, utilizados en una amplia gama de dispositivos electrónicos como teléfonos móviles, ordenadores portátiles, consolas de videojuegos y cámaras. [1, 2, 4]",
+    "En la fabricación de implantes quirúrgicos, como placas craneales, grapas quirúrgicas y como recubrimiento para implantes de cadera y rodilla, debido a su alta biocompatibilidad y resistencia a la corrosión. [1, 2, 4]",
+    "En superaleaciones a base de níquel para componentes de alta temperatura en turbinas de aviones y motores a reacción. [1, 2, 4]",
+    "En la producción de carburo de tantalio (TaC), un material muy duro utilizado en herramientas de corte y abrasivos. [1, 2, 4]",
+    "En equipos para la industria química que manejan sustancias corrosivas, como intercambiadores de calor y recipientes de reacción. [1, 2, 4]",
+    "En la fabricación de vidrios ópticos especiales con alto índice de refracción para lentes de cámaras. [1, 2]",
+    "En el revestimiento de componentes de hornos de vacío y en partes de misiles. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Ta₂O₅ (pentóxido de tantalio / óxido de tantalio(V))",
+    "TaC (carburo de tantalio)",
+    "TaCl₅ (pentacloruro de tantalio)",
+    "LiTaO₃ (tantalato de litio)"
+  ],
+  "abundancia": {
+    "universo": 0.00000001,
+    "cortezaTerrestre": 2.0,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": 0.00005,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el tantalio metálico es inerte, biocompatible y no se considera tóxico). [1, 2]",
+  "origenDelNombre": "Nombrado por Anders Gustaf Ekeberg en honor a Tántalo (Tantalus), un personaje de la mitología griega, padre de Níobe. El nombre fue elegido para reflejar la frustrante dificultad de disolver el óxido del metal en ácido, evocando el castigo de Tántalo, quien fue condenado a estar eternamente \"tentado\" por el agua que no podía beber y la fruta que no podía alcanzar. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Tantalio",
+    "https://www.rsc.org/periodic-table/element/73/tantalum"
+  ]
 }
   
 ]
