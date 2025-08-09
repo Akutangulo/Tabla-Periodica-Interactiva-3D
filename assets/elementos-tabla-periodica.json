@@ -8661,6 +8661,114 @@ expand_less
     "https://es.wikipedia.org/wiki/Iterbio",
     "https://www.rsc.org/periodic-table/element/70/ytterbium"
   ]
+},
+{
+  "simbolo": "Lu",
+  "nombre": "Lutecio",
+  "numeroAtomico": 71,
+  "masaAtomica": 174.9668,
+  "grupo": 3,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1925,
+    "puntoDeEbullicion": 3675,
+    "densidad": 9.841,
+    "radioAtomico": 173,
+    "conductividadTermica": 16.4
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.27,
+    "energiaDeIonizacion": 523.5,
+    "afinidadElectronica": 33.4,
+    "estadosOxidacion": [3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 9, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["lantánido", "a veces considerado metal de transición del grupo 3"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Lutecio-175",
+      "numeroNeutrones": 104,
+      "masaAtomica": 174.9407718,
+      "abundancia": 97.401,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Lutecio-176",
+      "numeroNeutrones": 105,
+      "masaAtomica": 175.9426863,
+      "abundancia": 2.599,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "3.76 × 10^10 años"
+      }
+    },
+    {
+      "nombre": "Lutecio-177",
+      "numeroNeutrones": 106,
+      "masaAtomica": 176.943758,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "6.6475 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Georges Urbain (Francia); Carl Auer von Welsbach (Austria); Charles James (EE.UU.) (descubrimientos independientes)",
+    "fechaDescubrimiento": 1907
+  },
+  "datosCuriosos": [
+    "Es el último elemento de la serie de los lantánidos y, a veces, se considera el primer metal de transición del sexto período. [1, 2, 4]",
+    "Es el lantánido más duro y denso, y tiene el punto de fusión más alto de este grupo. [1, 2, 4]",
+    "Se encuentra en pequeñas cantidades en minerales de tierras raras como la monacita y la xenotima, siempre junto con otros lantánidos, especialmente el itrio. Es uno de los lantánidos menos abundantes. [1, 2, 4]",
+    "Es un metal de color blanco plateado, resistente a la corrosión y relativamente estable en el aire. [1, 2, 4]",
+    "El isótopo natural lutecio-176 es radiactivo y tiene una vida media muy larga, lo que permite su uso en la datación geológica (datación lutecio-hafnio). [1, 2, 4]",
+    "Debido a su rareza y al alto costo de su extracción y purificación, el lutecio tiene aplicaciones limitadas. [1, 2]"
+  ],
+  "usos": [
+    "Como catalizador en el craqueo del petróleo en refinerías y en otros procesos químicos como la alquilación, hidrogenación y polimerización. [1, 2, 4]",
+    "En la fabricación de ciertos tipos de láseres y como dopante en granates de galio y gadolinio (GGG) para memorias de burbuja magnética. [1, 2]",
+    "El isótopo lutecio-176 se utiliza en la datación radiométrica de meteoritos y rocas antiguas (método lutecio-hafnio). [1, 2, 4]",
+    "El isótopo radiactivo lutecio-177 (¹⁷⁷Lu) se utiliza en medicina nuclear para la terapia dirigida con radionúclidos en el tratamiento de ciertos tipos de cáncer, como los tumores neuroendocrinos. [1, 2, 4]",
+    "En la producción de algunos cristales ópticos y cerámicas especiales. [1, 2]",
+    "Se investiga su uso en detectores para tomografía por emisión de positrones (PET). [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Lu₂O₃ (óxido de lutecio(III))",
+    "LuCl₃ (cloruro de lutecio(III))",
+    "LuF₃ (fluoruro de lutecio(III))",
+    "Lu(OH)₃ (hidróxido de lutecio(III))"
+  ],
+  "abundancia": {
+    "universo": 0.00000005,
+    "cortezaTerrestre": 0.51,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00000015,
+    "totalTierra": 0.000035,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el lutecio y sus compuestos se consideran de baja toxicidad, similar a otros lantánidos). [1, 2]",
+  "origenDelNombre": "Nombrado por Georges Urbain en honor a 'Lutetia Parisiorum', el antiguo nombre latino de París, la ciudad natal de Urbain. Carl Auer von Welsbach propuso el nombre 'cassiopeium' (por la constelación Casiopea), pero el nombre 'lutecio' fue finalmente adoptado. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Lutecio",
+    "https://www.rsc.org/periodic-table/element/71/lutetium"
+  ]
 }
   
 ]
