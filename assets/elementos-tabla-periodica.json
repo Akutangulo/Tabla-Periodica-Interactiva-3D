@@ -8902,12 +8902,6 @@ expand_less
     "https://www.rsc.org/periodic-table/element/72/hafnium"
   ]
 },
-  code
-Json
-download
-content_copy
-expand_less
-
 {
   "simbolo": "Ta",
   "nombre": "Tantalio",
@@ -8973,8 +8967,8 @@ expand_less
     }
   ],
   "descubrimiento": {
-    "descubridor": "Anders Gustaf Ekeberg (descubrimiento); William Hyde Wollaston (inicialmente lo confundió con niobio); Heinrich Rose (distinción final del niobio)",
-    "fechaDescubrimiento": "1802 (Ekeberg); 1846 (Rose)"
+    "descubridor": "Anders Gustaf Ekeberg (descubrimiento 1802); William Hyde Wollaston (inicialmente lo confundió con niobio); Heinrich Rose (distinción final del niobio 1846)",
+    "fechaDescubrimiento": 1802
   },
   "datosCuriosos": [
     "Es un metal de transición duro, denso, dúctil, de color gris azulado, y es extremadamente resistente a la corrosión por ácidos (incluyendo el agua regia) por debajo de 150 °C. [1, 2, 4]",
