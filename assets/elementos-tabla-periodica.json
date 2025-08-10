@@ -9010,6 +9010,144 @@ expand_less
     "https://es.wikipedia.org/wiki/Tantalio",
     "https://www.rsc.org/periodic-table/element/73/tantalum"
   ]
-}
+},
+{
+  "simbolo": "W",
+  "nombre": "Wolframio (Tungsteno)",
+  "numeroAtomico": 74,
+  "masaAtomica": 183.84,
+  "grupo": 6,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 3695,
+    "puntoDeEbullicion": 6203,
+    "densidad": 19.25,
+    "radioAtomico": 139,
+    "conductividadTermica": 173
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.36,
+    "energiaDeIonizacion": 770,
+    "afinidadElectronica": 78.76,
+    "estadosOxidacion": [-2, -1, 0, 1, 2, 3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 12, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Wolframio-180",
+      "numeroNeutrones": 106,
+      "masaAtomica": 179.946704,
+      "abundancia": 0.12,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "1.8 × 10^18 años"
+      }
+    },
+    {
+      "nombre": "Wolframio-182",
+      "numeroNeutrones": 108,
+      "masaAtomica": 181.9482042,
+      "abundancia": 26.50,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Wolframio-183",
+      "numeroNeutrones": 109,
+      "masaAtomica": 182.9502230,
+      "abundancia": 14.31,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Wolframio-184",
+      "numeroNeutrones": 110,
+      "masaAtomica": 183.9509312,
+      "abundancia": 30.64,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Wolframio-186",
+      "numeroNeutrones": 112,
+      "masaAtomica": 185.9543641,
+      "abundancia": 28.43,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Wolframio-185",
+      "numeroNeutrones": 111,
+      "masaAtomica": 184.953459,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "75.1 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Fausto y Juan José de Elhuyar",
+    "fechaDescubrimiento": 1783
+  },
+  "datosCuriosos": [
+    "Tiene el punto de fusión más alto de todos los metales (3422 °C o 6192 °F) y el segundo más alto de todos los elementos (después del carbono). También tiene el punto de ebullición más alto de todos los elementos. [1, 2, 4]",
+    "Es un metal extremadamente denso, con una densidad casi idéntica a la del oro. [1, 2, 4]",
+    "En muchas partes del mundo, especialmente en Norteamérica y en el ámbito anglosajón, se conoce como 'tungsteno', del sueco 'tung sten' (piedra pesada). En gran parte de Europa, se utiliza 'wolframio', de donde deriva su símbolo químico W. [1, 2, 4]",
+    "Los principales minerales de wolframio son la wolframita ((Fe,Mn)WO₄) y la scheelita (CaWO₄). [1, 2, 4]",
+    "El carburo de wolframio (WC) es un compuesto extremadamente duro, casi tanto como el diamante, y se utiliza en herramientas de corte y abrasivos. [1, 2, 4]",
+    "Es el elemento más pesado que se sabe que es utilizado por organismos vivos (en algunas enzimas bacterianas). [1, 2]"
+  ],
+  "usos": [
+    "Como filamento en bombillas incandescentes y tubos de vacío debido a su altísimo punto de fusión y baja presión de vapor. [1, 2, 4]",
+    "En la fabricación de carburo de wolframio para herramientas de corte, perforación y mecanizado de metales, así como en bolas para bolígrafos. [1, 2, 4]",
+    "En aleaciones pesadas para aplicaciones militares, como blindaje de tanques y proyectiles penetradores de energía cinética (sustituyendo al uranio empobrecido). [1, 2, 4]",
+    "Como electrodo no consumible en la soldadura TIG (Tungsten Inert Gas) por su alta resistencia al calor. [1, 2, 4]",
+    "En superaleaciones para componentes de alta temperatura en turbinas de aviones y motores de cohetes. [1, 2]",
+    "Como contrapesos en aviones y coches de carreras, y como lastre en misiles y dardos. [1, 2]",
+    "En contactos eléctricos, elementos calefactores y emisores de electrones en tubos de rayos X y microscopios electrónicos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "WO₃ (trióxido de wolframio / óxido de wolframio(VI))",
+    "WC (carburo de wolframio)",
+    "WS₂ (disulfuro de wolframio, un lubricante)",
+    "CaWO₄ (wolframato de calcio, scheelita)",
+    "(Fe,Mn)WO₄ (wolframita)"
+  ],
+  "abundancia": {
+    "universo": 0.00000005,
+    "cortezaTerrestre": 1.3,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.000012,
+    "totalTierra": 0.000096,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el wolframio metálico y sus compuestos insolubles se consideran de baja toxicidad; sin embargo, la exposición crónica al polvo puede causar problemas respiratorios). [1, 2]",
+  "origenDelNombre": "El nombre 'wolframio' proviene del mineral wolframita, que a su vez deriva del alemán 'Wolf Rahm' (\"espuma de lobo\" o \"crema de lobo\"). Los mineros de estaño de Sajonia le dieron este nombre porque interfería con la fundición del estaño, \"devorándolo\" como un lobo devora a una oveja. El nombre 'tungsteno' proviene del sueco 'tung sten', que significa \"piedra pesada\", nombre original del mineral scheelita. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Wolframio",
+    "https://www.rsc.org/periodic-table/element/74/tungsten"
+  ]
+},
+  
   
 ]
