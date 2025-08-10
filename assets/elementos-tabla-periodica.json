@@ -9222,16 +9222,16 @@ expand_less
     "Es un metal de transición de color blanco plateado, extremadamente denso (el cuarto más denso). [1, 2, 4]",
     "Fue el último elemento estable (no radiactivo) en ser descubierto en la naturaleza. [1, 2, 4]",
     "El renio no se encuentra libre en la naturaleza ni en minerales propios, sino en pequeñas cantidades en minerales de molibdeno (molibdenita) y cobre, de donde se extrae como subproducto. [1, 2, 4]",
-    "El isótopo natural renio-187 es radiactivo, pero su vida media es tan larga (miles de millones de años) que se considera estable para la mayoría de los propósitos. Se utiliza en la datación renio-osmio. [1, 2]"
+    "El isótopo natural renio-187 es radiactivo, pero su vida media es tan larga (miles de millones de años) que se considera estable para la mayoría de los propósitos. Se utiliza en la datación renio-osmio."
   ],
   "usos": [
-    "Principalmente en la fabricación de superaleaciones a base de níquel de alto rendimiento, utilizadas en componentes de alta temperatura de motores a reacción, como álabes de turbinas y cámaras de combustión. [1, 2, 4]",
-    "Como catalizador en la industria petrolera, especialmente en aleaciones de platino-renio para la producción de gasolina de alto octanaje y sin plomo (reformado catalítico). [1, 2, 4]",
-    "En la fabricación de filamentos para espectrómetros de masas y en tubos de rayos X. [1, 2, 4]",
-    "En aleaciones para termopares que pueden medir temperaturas muy altas (hasta 2200 °C). [1, 2, 4]",
-    "En contactos eléctricos resistentes al desgaste y a la corrosión. [1, 2]",
-    "En la fabricación de cohetes y toberas de misiles. [1, 2]",
-    "El isótopo renio-188 se investiga para su uso en radioterapia. [1, 2]"
+    "Principalmente en la fabricación de superaleaciones a base de níquel de alto rendimiento, utilizadas en componentes de alta temperatura de motores a reacción, como álabes de turbinas y cámaras de combustión.",
+    "Como catalizador en la industria petrolera, especialmente en aleaciones de platino-renio para la producción de gasolina de alto octanaje y sin plomo (reformado catalítico).",
+    "En la fabricación de filamentos para espectrómetros de masas y en tubos de rayos X.",
+    "En aleaciones para termopares que pueden medir temperaturas muy altas (hasta 2200 °C).",
+    "En contactos eléctricos resistentes al desgaste y a la corrosión.",
+    "En la fabricación de cohetes y toberas de misiles.",
+    "El isótopo renio-188 se investiga para su uso en radioterapia."
   ],
   "compuestosImportantes": [
     "Re₂O₇ (heptóxido de direnio / óxido de renio(VII))",
@@ -9251,7 +9251,7 @@ expand_less
       "categoriaAbundancia": "Traza"
     }
   },
-  "toxicidad": "baja (el renio metálico y sus compuestos se consideran de baja toxicidad, aunque los datos son limitados). [1, 2]",
+  "toxicidad": "baja (el renio metálico y sus compuestos se consideran de baja toxicidad, aunque los datos son limitados).",
   "origenDelNombre": "Del latín 'Rhenus', el nombre del río Rin. Fue nombrado así por sus descubridores, Walter Noddack e Ida Tacke-Noddack, en honor a la provincia del Rin en Alemania, su tierra natal. [1, 2, 4]",
   "recursos": [
     "https://es.wikipedia.org/wiki/Renio",
