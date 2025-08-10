@@ -9148,6 +9148,115 @@ expand_less
     "https://www.rsc.org/periodic-table/element/74/tungsten"
   ]
 },
-  
+{
+  "simbolo": "Re",
+  "nombre": "Renio",
+  "numeroAtomico": 75,
+  "masaAtomica": 186.207,
+  "grupo": 7,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 3459,
+    "puntoDeEbullicion": 5869,
+    "densidad": 21.02,
+    "radioAtomico": 137,
+    "conductividadTermica": 48.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.9,
+    "energiaDeIonizacion": 760,
+    "afinidadElectronica": 5.8273,
+    "estadosOxidacion": [-3, -1, 0, 1, 2, 3, 4, 5, 6, 7]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 13, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Renio-185",
+      "numeroNeutrones": 110,
+      "masaAtomica": 184.9529550,
+      "abundancia": 37.40,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Renio-187",
+      "numeroNeutrones": 112,
+      "masaAtomica": 186.9557531,
+      "abundancia": 62.60,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "4.33 × 10^10 años"
+      }
+    },
+    {
+      "nombre": "Renio-186",
+      "numeroNeutrones": 111,
+      "masaAtomica": 185.954986,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "β- / ε",
+        "vidaMedia": "3.7186 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Walter Noddack, Ida Tacke-Noddack y Otto Berg",
+    "fechaDescubrimiento": 1925
+  },
+  "datosCuriosos": [
+    "Es uno de los elementos más raros en la corteza terrestre, con una abundancia promedio de menos de una parte por mil millones. [1, 2, 4]",
+    "Tiene el tercer punto de fusión más alto de todos los elementos (después del wolframio y el carbono) y el cuarto punto de ebullición más alto. [1, 2, 4]",
+    "Es un metal de transición de color blanco plateado, extremadamente denso (el cuarto más denso). [1, 2, 4]",
+    "Fue el último elemento estable (no radiactivo) en ser descubierto en la naturaleza. [1, 2, 4]",
+    "El renio no se encuentra libre en la naturaleza ni en minerales propios, sino en pequeñas cantidades en minerales de molibdeno (molibdenita) y cobre, de donde se extrae como subproducto. [1, 2, 4]",
+    "El isótopo natural renio-187 es radiactivo, pero su vida media es tan larga (miles de millones de años) que se considera estable para la mayoría de los propósitos. Se utiliza en la datación renio-osmio. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de superaleaciones a base de níquel de alto rendimiento, utilizadas en componentes de alta temperatura de motores a reacción, como álabes de turbinas y cámaras de combustión. [1, 2, 4]",
+    "Como catalizador en la industria petrolera, especialmente en aleaciones de platino-renio para la producción de gasolina de alto octanaje y sin plomo (reformado catalítico). [1, 2, 4]",
+    "En la fabricación de filamentos para espectrómetros de masas y en tubos de rayos X. [1, 2, 4]",
+    "En aleaciones para termopares que pueden medir temperaturas muy altas (hasta 2200 °C). [1, 2, 4]",
+    "En contactos eléctricos resistentes al desgaste y a la corrosión. [1, 2]",
+    "En la fabricación de cohetes y toberas de misiles. [1, 2]",
+    "El isótopo renio-188 se investiga para su uso en radioterapia. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Re₂O₇ (heptóxido de direnio / óxido de renio(VII))",
+    "ReO₃ (trióxido de renio / óxido de renio(VI))",
+    "ReO₂ (dióxido de renio / óxido de renio(IV))",
+    "NH₄ReO₄ (perrenato de amonio)",
+    "ReS₂ (disulfuro de renio)"
+  ],
+  "abundancia": {
+    "universo": 0.00000004,
+    "cortezaTerrestre": 0.0007,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el renio metálico y sus compuestos se consideran de baja toxicidad, aunque los datos son limitados). [1, 2]",
+  "origenDelNombre": "Del latín 'Rhenus', el nombre del río Rin. Fue nombrado así por sus descubridores, Walter Noddack e Ida Tacke-Noddack, en honor a la provincia del Rin en Alemania, su tierra natal. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Renio",
+    "https://www.rsc.org/periodic-table/element/75/rhenium"
+  ]
+}
   
 ]
