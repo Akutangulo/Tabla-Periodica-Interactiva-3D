@@ -9257,6 +9257,147 @@ expand_less
     "https://es.wikipedia.org/wiki/Renio",
     "https://www.rsc.org/periodic-table/element/75/rhenium"
   ]
+},
+  {
+  "simbolo": "Os",
+  "nombre": "Osmio",
+  "numeroAtomico": 76,
+  "masaAtomica": 190.23,
+  "grupo": 8,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 3306,
+    "puntoDeEbullicion": 5285,
+    "densidad": 22.59,
+    "radioAtomico": 135,
+    "conductividadTermica": 87.6
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.2,
+    "energiaDeIonizacion": 840,
+    "afinidadElectronica": 103.99,
+    "estadosOxidacion": [-2, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 14, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal del grupo del platino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Osmio-184",
+      "numeroNeutrones": 108,
+      "masaAtomica": 183.9524891,
+      "abundancia": 0.02,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Osmio-186",
+      "numeroNeutrones": 110,
+      "masaAtomica": 185.9538382,
+      "abundancia": 1.59,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "2.0 × 10^15 años"
+      }
+    },
+    {
+      "nombre": "Osmio-187",
+      "numeroNeutrones": 111,
+      "masaAtomica": 186.9557505,
+      "abundancia": 1.96,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Osmio-188",
+      "numeroNeutrones": 112,
+      "masaAtomica": 187.9558382,
+      "abundancia": 13.24,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Osmio-189",
+      "numeroNeutrones": 113,
+      "masaAtomica": 188.9581475,
+      "abundancia": 16.15,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Osmio-190",
+      "numeroNeutrones": 114,
+      "masaAtomica": 189.9584470,
+      "abundancia": 26.26,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Osmio-192",
+      "numeroNeutrones": 116,
+      "masaAtomica": 191.9614807,
+      "abundancia": 40.78,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Smithson Tennant",
+    "fechaDescubrimiento": 1803
+  },
+  "datosCuriosos": [
+    "Es el elemento natural más denso conocido, con una densidad de 22.59 g/cm³, ligeramente superior a la del iridio. [1, 2, 4]",
+    "Su óxido, el tetróxido de osmio (OsO₄), es altamente volátil, tóxico y tiene un olor fuerte y desagradable, similar al cloro o al ozono, que da nombre al elemento. [1, 2, 4]",
+    "Es un metal de transición del grupo del platino, de color blanco azulado o gris azulado, extremadamente duro y quebradizo, incluso a altas temperaturas. [1, 2, 4]",
+    "Tiene uno de los puntos de fusión más altos de todos los metales. [1, 2]",
+    "Se encuentra en la naturaleza en aleaciones naturales con otros metales del grupo del platino, como el iridio (en el osmiridio) y el platino. [1, 2, 4]",
+    "El osmio es uno de los elementos más raros en la corteza terrestre. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en aleaciones muy duras con otros metales del grupo del platino (como platino, iridio y rutenio) para fabricar productos que requieren una extrema durabilidad y resistencia al desgaste. [1, 2, 4]",
+    "En la fabricación de puntas de plumas estilográficas, pivotes de instrumentos, agujas de fonógrafo y contactos eléctricos de larga duración. [1, 2, 4]",
+    "El tetróxido de osmio (OsO₄) se utiliza en síntesis química como un potente agente oxidante y catalizador, y en microscopía electrónica como un agente de tinción para lípidos y otros tejidos biológicos. [1, 2, 4]",
+    "En la fabricación de algunos instrumentos quirúrgicos y pines de implantes. [1, 2]",
+    "Se ha investigado su uso en aleaciones para aplicaciones militares y aeroespaciales, pero su alto costo y la toxicidad de su óxido limitan su uso. [1, 2]",
+    "La datación renio-osmio (¹⁸⁷Re/¹⁸⁷Os) se utiliza en geología para determinar la edad de rocas y meteoritos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "OsO₄ (tetróxido de osmio)",
+    "OsO₂ (dióxido de osmio)",
+    "OsCl₃ (tricloruro de osmio)",
+    "Osmiridio (aleación natural de osmio e iridio)"
+  ],
+  "abundancia": {
+    "universo": 0.00000005,
+    "cortezaTerrestre": 0.0015,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "alta (el osmio metálico es inerte, pero cuando se calienta en el aire forma tetróxido de osmio (OsO₄), que es altamente volátil, corrosivo y extremadamente tóxico, causando graves daños a los ojos, la piel y el sistema respiratorio). [1, 2]",
+  "origenDelNombre": "Del griego 'osmē' (ὀσμή), que significa \"olor\", \"hedor\" o \"fragancia\". Fue nombrado así por Smithson Tennant debido al olor fuerte y desagradable de su óxido volátil, el tetróxido de osmio. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Osmio",
+    "https://www.rsc.org/periodic-table/element/76/osmium"
+  ]
 }
   
 ]
