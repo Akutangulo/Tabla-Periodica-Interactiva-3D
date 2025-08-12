@@ -9597,8 +9597,8 @@ expand_less
     }
   ],
   "descubrimiento": {
-    "descubridor": "Conocido por culturas precolombinas; introducido en Europa por Antonio de Ulloa.",
-    "fechaDescubrimiento": "c. 1735 (Ulloa)"
+    "descubridor": "Conocido por culturas precolombinas; introducido en Europa por Antonio de Ulloa 1735.",
+    "fechaDescubrimiento": 1735
   },
   "datosCuriosos": [
     "Es un metal precioso muy raro y valioso, a menudo más caro que el oro. [1, 2, 4]",
@@ -9707,8 +9707,8 @@ expand_less
     }
   ],
   "descubrimiento": {
-    "descubridor": "Conocido por las civilizaciones antiguas (uso desde c. 6000 a.C.).",
-    "fechaDescubrimiento": "Prehistoria"
+    "descubridor": "Conocido y valorado por civilizaciones antiguas (evidencia de uso desde c. 6000 a.C.). Antoine Lavoisier lo catalogó como elemento químico en 1789.",
+    "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
     "Es el metal más maleable y dúctil conocido; una onza (unos 28 gramos) de oro puede estirarse en un alambre de 80 km de largo o martillarse en una lámina translúcida de 100 pies cuadrados. [1, 2, 4]",
@@ -9749,6 +9749,158 @@ expand_less
   "recursos": [
     "https://es.wikipedia.org/wiki/Oro",
     "https://www.rsc.org/periodic-table/element/79/gold"
+  ]
+},
+  {
+  "simbolo": "Hg",
+  "nombre": "Mercurio",
+  "numeroAtomico": 80,
+  "masaAtomica": 200.592,
+  "grupo": 12,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "líquido",
+    "puntoDeFusion": 234.3210,
+    "puntoDeEbullicion": 629.88,
+    "densidad": 13.534,
+    "radioAtomico": 151,
+    "conductividadTermica": 8.30
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.00,
+    "energiaDeIonizacion": 1007.1,
+    "afinidadElectronica": -48,
+    "estadosOxidacion": [1, 2, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "a veces considerado metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Mercurio-196",
+      "numeroNeutrones": 116,
+      "masaAtomica": 195.965833,
+      "abundancia": 0.15,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Mercurio-198",
+      "numeroNeutrones": 118,
+      "masaAtomica": 197.9667690,
+      "abundancia": 9.97,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Mercurio-199",
+      "numeroNeutrones": 119,
+      "masaAtomica": 198.9682799,
+      "abundancia": 16.87,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Mercurio-200",
+      "numeroNeutrones": 120,
+      "masaAtomica": 199.9683260,
+      "abundancia": 23.10,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Mercurio-201",
+      "numeroNeutrones": 121,
+      "masaAtomica": 200.9703023,
+      "abundancia": 13.18,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Mercurio-202",
+      "numeroNeutrones": 122,
+      "masaAtomica": 201.9706430,
+      "abundancia": 29.86,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Mercurio-204",
+      "numeroNeutrones": 124,
+      "masaAtomica": 203.9734939,
+      "abundancia": 6.87,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Mercurio-203",
+      "numeroNeutrones": 123,
+      "masaAtomica": 202.9728725,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "46.612 días"
+      }
+    }
+  ],
+    "descubrimiento": {
+    "descubridor": "Conocido por civilizaciones antiguas (e.g., egipcios, chinos c. 1500 a.C.). Antoine Lavoisier lo catalogó como elemento químico en 1789.",
+    "fechaDescubrimiento": 1789
+  },
+  "datosCuriosos": [
+    "Es el único elemento metálico que es líquido a temperatura y presión estándar. El bromo es el único otro elemento líquido en estas condiciones. [1, 2, 4]",
+    "El mercurio y sus compuestos son altamente tóxicos y pueden acumularse en los organismos vivos (bioacumulación), especialmente en la cadena alimentaria acuática. [1, 2, 4]",
+    "Fue ampliamente utilizado en termómetros, barómetros y manómetros debido a su expansión térmica uniforme, pero su uso ha sido restringido en muchos países por su toxicidad. [1, 2, 4]",
+    "El principal mineral de mercurio es el cinabrio (sulfuro de mercurio, HgS), un mineral de color rojo brillante que se ha utilizado como pigmento (bermellón). [1, 2, 4]",
+    "El mercurio forma aleaciones con muchos metales, como el oro, la plata y el estaño, que se conocen como amalgamas. [1, 2]",
+    "En la alquimia, el mercurio (junto con el azufre y la sal) era uno de los tres principios fundamentales y se asociaba con el espíritu y la fluidez. [1, 2]"
+  ],
+  "usos": [
+    "Históricamente, en termómetros, barómetros, manómetros e interruptores eléctricos, aunque su uso ha sido eliminado o reducido en gran medida. [1, 2, 4]",
+    "En la fabricación de amalgamas dentales (aleación con plata, estaño y otros metales) para empastes, aunque su uso también está disminuyendo. [1, 2, 4]",
+    "En la producción de lámparas fluorescentes, lámparas de vapor de mercurio y otras lámparas de descarga de gas. [1, 2, 4]",
+    "En la minería de oro y plata a pequeña escala (proceso de amalgamación), una práctica peligrosa y contaminante. [1, 2]",
+    "Como catalizador en la industria química, por ejemplo, en la producción de cloruro de vinilo (proceso ahora obsoleto). [1, 2]",
+    "En la fabricación de baterías de mercurio (pilas de botón), cuyo uso está ahora muy restringido. [1, 2]",
+    "En la preparación de productos farmacéuticos y como conservante en algunas vacunas (timerosal), aunque esta práctica es cada vez menos común. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "HgS (sulfuro de mercurio(II), cinabrio)",
+    "HgCl₂ (cloruro de mercurio(II), sublimado corrosivo)",
+    "Hg₂Cl₂ (cloruro de mercurio(I), calomelano)",
+    "Hg(ONC)₂ (fulminato de mercurio, un explosivo)",
+    "CH₃Hg⁺ (ion metilmercurio, una neurotoxina potente)"
+  ],
+  "abundancia": {
+    "universo": 0.0000001,
+    "cortezaTerrestre": 0.085,
+    "atmosfera": "Trazas (como vapor)",
+    "oceano": 0.00003,
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true (el mercurio elemental, sus vapores y sus compuestos son altamente tóxicos, especialmente los compuestos orgánicos como el metilmercurio. Afecta principalmente al sistema nervioso, los riñones y el desarrollo fetal). [1, 2]",
+  "origenDelNombre": "El nombre 'mercurio' fue dado por los alquimistas en honor al planeta Mercurio y al dios romano Mercurio, conocido por su velocidad y movilidad. El símbolo 'Hg' proviene de su nombre grecolatino 'hydrargyrum', que significa \"plata líquida\" ('hydor' = agua, 'argyros' = plata). [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Mercurio_(elemento)",
+    "https://www.rsc.org/periodic-table/element/80/mercury"
   ]
 }
   
