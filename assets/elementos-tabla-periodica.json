@@ -9977,8 +9977,8 @@ expand_less
     }
   ],
   "descubrimiento": {
-    "descubridor": "William Crookes (descubrimiento espectroscópico) y Claude-Auguste Lamy (aislamiento del metal) de forma independiente.",
-    "fechaDescubrimiento": "1861 (Crookes); 1862 (Lamy)"
+    "descubridor": "William Crookes (descubrimiento espectroscópico en 1861) y Claude-Auguste Lamy (aislamiento del metal en 1862) de forma independiente.",
+    "fechaDescubrimiento": 1861
   },
   "datosCuriosos": [
     "Es un metal extremadamente blando, maleable y de color blanco azulado, que se puede cortar con un cuchillo y deja una marca en el papel similar a la del plomo. [1, 2, 4]",
@@ -10019,6 +10019,136 @@ expand_less
   "recursos": [
     "https://es.wikipedia.org/wiki/Talio",
     "https://www.rsc.org/periodic-table/element/81/thallium"
+  ]
+},
+  {
+  "simbolo": "Pb",
+  "nombre": "Plomo",
+  "numeroAtomico": 82,
+  "masaAtomica": 207.2,
+  "grupo": 14,
+  "periodo": 6,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 600.61,
+    "puntoDeEbullicion": 2022,
+    "densidad": 11.34,
+    "radioAtomico": 175,
+    "conductividadTermica": 35.3
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.87,
+    "energiaDeIonizacion": 715.6,
+    "afinidadElectronica": 34.4204,
+    "estadosOxidacion": [-4, 2, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 4],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal del bloque p", "metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Plomo-204",
+      "numeroNeutrones": 122,
+      "masaAtomica": 203.9730436,
+      "abundancia": 1.4,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": ">1.4 × 10^17 años"
+      }
+    },
+    {
+      "nombre": "Plomo-206",
+      "numeroNeutrones": 124,
+      "masaAtomica": 205.9744653,
+      "abundancia": 24.1,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Plomo-207",
+      "numeroNeutrones": 125,
+      "masaAtomica": 206.9758969,
+      "abundancia": 22.1,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Plomo-208",
+      "numeroNeutrones": 126,
+      "masaAtomica": 207.9766521,
+      "abundancia": 52.4,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Plomo-210",
+      "numeroNeutrones": 128,
+      "masaAtomica": 209.9841885,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta- / alfa",
+        "vidaMedia": "22.20 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido por las civilizaciones antiguas (uso desde c. 7000 a.C.). Antoine Lavoisier lo catalogó como elemento químico en 1789.",
+    "fechaDescubrimiento": 1789
+  },
+  "datosCuriosos": [
+    "Es un metal pesado, denso, blando, maleable y de color gris azulado brillante cuando está recién cortado, pero se empaña rápidamente en el aire. [1, 2, 4]",
+    "Es una neurotoxina potente que se acumula en el cuerpo y afecta gravemente al sistema nervioso, especialmente en niños. Su uso ha sido restringido en muchas aplicaciones. [1, 2, 4]",
+    "Fue ampliamente utilizado por los antiguos romanos para fabricar tuberías de agua, recipientes y en la construcción, lo que pudo haber contribuido a problemas de salud pública. [1, 2, 4]",
+    "El principal mineral de plomo es la galena (sulfuro de plomo, PbS). [1, 2, 4]",
+    "Los isótopos estables del plomo (206, 207 y 208) son los productos finales de las principales cadenas de desintegración de elementos radiactivos pesados (uranio y torio). [1, 2]",
+    "El plomo es un excelente absorbente de sonido y vibraciones. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de baterías de plomo-ácido para automóviles y sistemas de alimentación ininterrumpida (SAI). [1, 2, 4]",
+    "Como blindaje contra la radiación (rayos X y rayos gamma) en instalaciones médicas, reactores nucleares y en delantales de protección radiológica. [1, 2, 4]",
+    "En la producción de municiones (balas y perdigones) y como lastre en la quilla de los barcos. [1, 2, 4]",
+    "Históricamente, en pigmentos para pinturas (e.g., blanco de plomo, minio), como aditivo antidetonante en la gasolina (tetraetilo de plomo) y en soldaduras, aunque estos usos están ahora prohibidos o muy restringidos. [1, 2, 4]",
+    "En la fabricación de ciertos tipos de vidrio (vidrio de plomo o cristal) para aumentar su índice de refracción y brillo. [1, 2]",
+    "En cubiertas de cables para protegerlos de la corrosión. [1, 2]",
+    "En la construcción como material para techos y revestimientos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "PbS (sulfuro de plomo(II), galena)",
+    "PbO (óxido de plomo(II), litargirio)",
+    "PbO₂ (dióxido de plomo / óxido de plomo(IV))",
+    "Pb₃O₄ (tetraóxido de plomo, minio)",
+    "Pb(C₂H₃O₂)₂ (acetato de plomo(II), \"azúcar de plomo\")",
+    "PbCO₃ (carbonato de plomo(II), cerusita)",
+    "Pb(N₃)₂ (azida de plomo, un detonador)"
+  ],
+  "abundancia": {
+    "universo": 0.0000005,
+    "cortezaTerrestre": 14,
+    "atmosfera": "Trazas (como partículas, principalmente de origen antropogénico)",
+    "oceano": 0.000002,
+    "totalTierra": 0.00099,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.00017,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "true (el plomo y sus compuestos son altamente tóxicos, especialmente para el sistema nervioso, y se acumulan en el cuerpo. No existe un nivel seguro de exposición conocido). [1, 2]",
+  "origenDelNombre": "La palabra \"plomo\" proviene del latín 'plumbum', que se refería al metal. El símbolo 'Pb' deriva directamente de 'plumbum'. Este término también dio origen a las palabras 'plomero' y 'fontanero' (del inglés 'plumber') debido a su uso histórico en tuberías. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Plomo",
+    "https://www.rsc.org/periodic-table/element/82/lead"
   ]
 }
   
