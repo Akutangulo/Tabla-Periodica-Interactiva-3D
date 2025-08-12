@@ -10470,6 +10470,113 @@ expand_less
     "https://es.wikipedia.org/wiki/Astato",
     "https://www.rsc.org/periodic-table/element/85/astatine"
   ]
+},
+  {
+  "simbolo": "Rn",
+  "nombre": "Radón",
+  "numeroAtomico": 86,
+  "masaAtomica": 222.0175777,
+  "grupo": 18,
+  "periodo": 6,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 202,
+    "puntoDeEbullicion": 211.5,
+    "densidad": 0.00973,
+    "radioAtomico": 150,
+    "conductividadTermica": 0.00361
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.2,
+    "energiaDeIonizacion": 1037,
+    "afinidadElectronica": -68,
+    "estadosOxidacion": [0, 2, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 8],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": ["gas noble"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Radón-222",
+      "numeroNeutrones": 136,
+      "masaAtomica": 222.0175777,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "3.8235 días"
+      }
+    },
+    {
+      "nombre": "Radón-211",
+      "numeroNeutrones": 125,
+      "masaAtomica": 210.990601,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / alfa",
+        "vidaMedia": "14.6 horas"
+      }
+    },
+    {
+      "nombre": "Radón-220",
+      "numeroNeutrones": 134,
+      "masaAtomica": 220.0113940,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "55.6 segundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Friedrich Ernst Dorn",
+    "fechaDescubrimiento": 1900
+  },
+  "datosCuriosos": [
+    "Es un gas noble radiactivo que se forma continuamente por la desintegración del radio, que a su vez proviene de la desintegración del uranio y el torio en la corteza terrestre. [1, 2, 4]",
+    "Es un gas incoloro, inodoro e insípido, pero cuando se enfría por debajo de su punto de congelación, emite una brillante fosforescencia que cambia de amarillo a rojo anaranjado a medida que baja la temperatura. [1, 2, 4]",
+    "Es uno de los gases más densos conocidos (aproximadamente 8 veces más denso que el aire) y es un peligro significativo para la salud, siendo la segunda causa principal de cáncer de pulmón después del tabaquismo. [1, 2, 4]",
+    "Debido a su alta densidad, puede acumularse en espacios cerrados y mal ventilados, como sótanos, cuevas y minas subterráneas. [1, 2, 4]",
+    "Todos los isótopos del radón son radiactivos. El más estable, el radón-222, tiene una vida media de solo 3.8 días. [1, 2]",
+    "El radón es el único gas noble que solo tiene isótopos radiactivos. [1, 2]"
+  ],
+  "usos": [
+    "Históricamente, se utilizó en radioterapia para el tratamiento del cáncer, encapsulado en pequeñas semillas de vidrio u oro (semillas de radón), aunque ha sido reemplazado en gran medida por radionúclidos más seguros. [1, 2, 4]",
+    "En la investigación científica para estudiar la cinética de gases y las reacciones químicas. [1, 2]",
+    "En la exploración geológica y la hidrología, donde las concentraciones de radón en el suelo o el agua pueden indicar la presencia de fallas geológicas, depósitos de uranio o ayudar a rastrear masas de agua subterránea. [1, 2, 4]",
+    "Se ha investigado la correlación entre las fluctuaciones en la concentración de radón en el suelo y la actividad sísmica como un posible predictor de terremotos, aunque los resultados no son concluyentes. [1, 2, 4]",
+    "Se ha utilizado como trazador gaseoso para detectar fugas en tuberías y sistemas industriales. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "RnF₂ (difluoruro de radón, un compuesto predicho pero difícil de aislar y caracterizar debido a la radiactividad del radón)."
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Trazas (variable, por desintegración de uranio y torio)",
+    "atmosfera": "Trazas (variable, aprox. 1 parte en 10^21)",
+    "oceano": "Trazas",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true (no es químicamente tóxico, pero es un carcinógeno conocido debido a su intensa radiactividad alfa. La inhalación de radón y sus productos de desintegración de vida corta es un riesgo grave para la salud). [1, 2]",
+  "origenDelNombre": "Nombrado en honor al elemento radio, del cual se observó que emanaba. Originalmente fue llamado \"emanación de radio\". El nombre fue acortado a 'radón' en 1923. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Rad%C3%B3n",
+    "https://www.rsc.org/periodic-table/element/86/radon"
+  ]
 }
   
 ]
