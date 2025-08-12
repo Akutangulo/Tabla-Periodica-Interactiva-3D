@@ -10251,6 +10251,116 @@ expand_less
     "https://es.wikipedia.org/wiki/Bismuto",
     "https://www.rsc.org/periodic-table/element/83/bismuth"
   ]
+},
+  {
+  "simbolo": "Po",
+  "nombre": "Polonio",
+  "numeroAtomico": 84,
+  "masaAtomica": 208.9824304,
+  "grupo": 16,
+  "periodo": 6,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 527,
+    "puntoDeEbullicion": 1235,
+    "densidad": 9.196,
+    "radioAtomico": 168,
+    "conductividadTermica": 20.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.0,
+    "energiaDeIonizacion": 812.1,
+    "afinidadElectronica": 136,
+    "estadosOxidacion": [-2, 2, 4, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 6],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metaloide",
+    "subtipo": ["calcógeno"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Polonio-208",
+      "numeroNeutrones": 124,
+      "masaAtomica": 207.9812457,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa / ε",
+        "vidaMedia": "2.898 años"
+      }
+    },
+    {
+      "nombre": "Polonio-209",
+      "numeroNeutrones": 125,
+      "masaAtomica": 208.9824304,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa / ε",
+        "vidaMedia": "125.2 años"
+      }
+    },
+    {
+      "nombre": "Polonio-210",
+      "numeroNeutrones": 126,
+      "masaAtomica": 209.9828737,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "138.376 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Marie Curie y Pierre Curie",
+    "fechaDescubrimiento": 1898
+  },
+  "datosCuriosos": [
+    "Es un elemento extremadamente radiactivo y tóxico. El polonio-210 es unas 250,000 veces más tóxico que el cianuro de hidrógeno en peso. [1, 2, 4]",
+    "Debido a su intensa radiactividad alfa, una pequeña cantidad de polonio-210 se calienta espontáneamente y emite un brillo azulado en la oscuridad, causado por la excitación de los gases circundantes. [1, 2, 4]",
+    "Fue descubierto por Marie y Pierre Curie al analizar los residuos radiactivos de la pechblenda (un mineral de uranio). [1, 2, 4]",
+    "Es un elemento extremadamente raro en la naturaleza, presente solo en trazas minúsculas en minerales de uranio como producto de la cadena de desintegración del uranio-238. [1, 2, 4]",
+    "Todos los isótopos del polonio son radiactivos. [1, 2]",
+    "El polonio-210 fue utilizado en el envenenamiento del ex espía ruso Alexander Litvinenko en 2006. [1, 2]"
+  ],
+  "usos": [
+    "Como fuente de calor ligera en generadores termoeléctricos de radioisótopos (RTG) para satélites y sondas espaciales, aunque su corta vida media lo hace menos ideal que el plutonio-238. [1, 2, 4]",
+    "En dispositivos antiestáticos (cepillos ionizadores) para eliminar la electricidad estática en la fabricación de películas fotográficas, textiles y en balanzas de precisión. [1, 2, 4]",
+    "Como fuente de neutrones cuando se alea o se mezcla con berilio. [1, 2]",
+    "En investigación científica y nuclear. [1, 2]",
+    "Históricamente, se consideró su uso en detonadores para armas nucleares. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "PoO₂ (dióxido de polonio)",
+    "PoH₂ (hidruro de polonio / polano)",
+    "PoCl₂ (dicloruro de polonio)",
+    "PoCl₄ (tetracloruro de polonio)"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (trazas por desintegración de uranio, aprox. 100 microgramos por tonelada de mineral)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial / Traza"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad alfa. Es un carcinógeno conocido y causa graves daños a los tejidos vivos si se ingiere, inhala o absorbe). [1, 2]",
+  "origenDelNombre": "Nombrado por Marie Curie en honor a su país natal, Polonia (del latín 'Polonia'). En ese momento, Polonia no era un estado independiente y estaba bajo el dominio de Rusia, Prusia y Austria. Curie esperaba que nombrar el elemento en su honor atrajera la atención sobre la falta de independencia de Polonia. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Polonio",
+    "https://www.rsc.org/periodic-table/element/84/polonium"
+  ]
 }
   
 ]
