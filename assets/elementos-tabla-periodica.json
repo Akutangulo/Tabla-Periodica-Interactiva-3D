@@ -10150,6 +10150,107 @@ expand_less
     "https://es.wikipedia.org/wiki/Plomo",
     "https://www.rsc.org/periodic-table/element/82/lead"
   ]
+},
+  {
+  "simbolo": "Bi",
+  "nombre": "Bismuto",
+  "numeroAtomico": 83,
+  "masaAtomica": 208.98040,
+  "grupo": 15,
+  "periodo": 6,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 544.4,
+    "puntoDeEbullicion": 1837,
+    "densidad": 9.78,
+    "radioAtomico": 156,
+    "conductividadTermica": 7.97
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.02,
+    "energiaDeIonizacion": 703,
+    "afinidadElectronica": 90.924,
+    "estadosOxidacion": [-3, 1, 3, 5]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 5],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal del bloque p", "metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Bismuto-209",
+      "numeroNeutrones": 126,
+      "masaAtomica": 208.9803987,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "2.01 × 10^19 años"
+      }
+    },
+    {
+      "nombre": "Bismuto-210",
+      "numeroNeutrones": 127,
+      "masaAtomica": 209.984120,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta- / alfa",
+        "vidaMedia": "5.012 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido por los alquimistas; Claude François Geoffroy lo distinguió del plomo y el estaño en 1753.",
+    "fechaDescubrimiento": 1753
+  },
+  "datosCuriosos": [
+    "Los cristales de bismuto cultivados en laboratorio forman una estructura de tolva escalonada y muestran una capa de óxido delgada e iridiscente con colores espectaculares. [1, 2, 4]",
+    "Es notablemente no tóxico para ser un metal pesado, especialmente en comparación con sus vecinos en la tabla periódica como el plomo y el antimonio. [1, 2, 4]",
+    "Es uno de los pocos materiales (junto con el agua, el galio y el antimonio) que se expande al solidificarse (aproximadamente un 3.32%). [1, 2, 4]",
+    "Durante siglos, los alquimistas y mineros lo confundieron con el plomo, el estaño y el antimonio debido a sus similitudes físicas. [1, 2, 4]",
+    "El bismuto es el metal más diamagnético de todos, lo que significa que es repelido por los campos magnéticos. [1, 2, 4]",
+    "Aunque durante mucho tiempo se consideró el elemento estable más pesado, en 2003 se descubrió que su único isótopo primordial, el bismuto-209, es extremadamente débilmente radiactivo, con una vida media más de mil millones de veces la edad estimada del universo. [1, 2, 4]"
+  ],
+  "usos": [
+    "Compuestos de bismuto, como el subsalicilato de bismuto (el ingrediente activo en Pepto-Bismol) y el subcitrato de bismuto, se utilizan en medicamentos para tratar trastornos estomacales, indigestión, diarrea y úlceras. [1, 2, 4]",
+    "En aleaciones de bajo punto de fusión (e.g., metal de Wood, metal de Field), utilizadas en fusibles eléctricos, sistemas de rociadores contra incendios y soldaduras especiales. [1, 2, 4]",
+    "El oxicloruro de bismuto (BiOCl) se utiliza en cosméticos (sombras de ojos, polvos faciales) para dar un brillo perlado o iridiscente. [1, 2, 4]",
+    "Como un sustituto no tóxico del plomo en municiones (perdigones), pesas de pesca, soldaduras y en la fabricación de latón. [1, 2, 4]",
+    "En la producción de pigmentos amarillos para pinturas y cerámicas. [1, 2]",
+    "Como aditivo en la producción de hierro maleable. [1, 2]",
+    "Se investiga su uso en superconductores de alta temperatura. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Bi₂O₃ (óxido de bismuto(III))",
+    "BiOCl (oxicloruro de bismuto)",
+    "C₇H₅BiO₄ (subsalicilato de bismuto)",
+    "Bi(NO₃)₃ (nitrato de bismuto(III))",
+    "Bi₂S₃ (sulfuro de bismuto(III), bismutinita)"
+  ],
+  "abundancia": {
+    "universo": 0.00000007,
+    "cortezaTerrestre": 0.0085,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.00002,
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el bismuto y sus compuestos se consideran de baja toxicidad, lo que lo convierte en un sustituto seguro para el plomo en muchas aplicaciones). [1, 2]",
+  "origenDelNombre": "El origen es incierto. Podría derivar del alemán 'Wismut', que a su vez podría provenir de 'weiße Masse' (\"masa blanca\") o 'in der Wiesen gemutet' (\"reclamado en los prados\"), en referencia a su extracción. El nombre fue latinizado como 'bisemutum' por Georgius Agricola en el siglo XVI. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Bismuto",
+    "https://www.rsc.org/periodic-table/element/83/bismuth"
+  ]
 }
   
 ]
