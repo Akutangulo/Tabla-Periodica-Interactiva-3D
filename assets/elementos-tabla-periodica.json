@@ -9902,6 +9902,124 @@ expand_less
     "https://es.wikipedia.org/wiki/Mercurio_(elemento)",
     "https://www.rsc.org/periodic-table/element/80/mercury"
   ]
+},
+  {
+  "simbolo": "Tl",
+  "nombre": "Talio",
+  "numeroAtomico": 81,
+  "masaAtomica": 204.38,
+  "grupo": 13,
+  "periodo": 6,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 577,
+    "puntoDeEbullicion": 1746,
+    "densidad": 11.85,
+    "radioAtomico": 171,
+    "conductividadTermica": 46.1
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.62,
+    "energiaDeIonizacion": 589.4,
+    "afinidadElectronica": 36.4,
+    "estadosOxidacion": [1, 3]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 3],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal del bloque p", "metal postransicional"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Talio-203",
+      "numeroNeutrones": 122,
+      "masaAtomica": 202.9723442,
+      "abundancia": 29.52,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Talio-205",
+      "numeroNeutrones": 124,
+      "masaAtomica": 204.9744275,
+      "abundancia": 70.48,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Talio-201",
+      "numeroNeutrones": 120,
+      "masaAtomica": 200.970820,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "72.912 horas"
+      }
+    },
+    {
+      "nombre": "Talio-204",
+      "numeroNeutrones": 123,
+      "masaAtomica": 203.9738635,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "β- (97.1%), ε (2.9%)",
+        "vidaMedia": "3.78 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "William Crookes (descubrimiento espectroscópico) y Claude-Auguste Lamy (aislamiento del metal) de forma independiente.",
+    "fechaDescubrimiento": "1861 (Crookes); 1862 (Lamy)"
+  },
+  "datosCuriosos": [
+    "Es un metal extremadamente blando, maleable y de color blanco azulado, que se puede cortar con un cuchillo y deja una marca en el papel similar a la del plomo. [1, 2, 4]",
+    "Fue descubierto por William Crookes mediante espectroscopia al observar una brillante línea de emisión verde en el espectro de los residuos de la producción de ácido sulfúrico. [1, 2, 4]",
+    "El talio y sus compuestos son extremadamente tóxicos, inodoros e insípidos, lo que llevó a su uso histórico como veneno para ratas y en homicidios. Su uso como raticida está prohibido en muchos países. [1, 2, 4]",
+    "Se encuentra en trazas en minerales de sulfuro de metales como el zinc, el plomo y el cobre, de cuyos procesos de fundición se obtiene como subproducto. [1, 2, 4]",
+    "La intoxicación por talio puede causar una característica pérdida de cabello (alopecia) y daño severo al sistema nervioso. [1, 2]",
+    "El talio se oxida rápidamente al exponerse al aire, formando una capa de óxido grisácea. [1, 2]"
+  ],
+  "usos": [
+    "En la fabricación de vidrios ópticos especiales con alto índice de refracción para lentes infrarrojas, ya que los compuestos de talio son transparentes a la luz infrarroja. [1, 2, 4]",
+    "El isótopo radiactivo talio-201 se utiliza en medicina nuclear para gammagrafías cardíacas (pruebas de esfuerzo con talio) para evaluar el flujo sanguíneo al músculo cardíaco. [1, 2, 4]",
+    "En detectores de radiación infrarroja y en algunos tipos de fotocélulas. [1, 2]",
+    "Como componente en aleaciones de bajo punto de fusión, como las utilizadas en algunos termómetros para bajas temperaturas (aleación de talio y mercurio). [1, 2, 4]",
+    "En la investigación de superconductores de alta temperatura. [1, 2]",
+    "Históricamente, el sulfato de talio se usaba como raticida e insecticida, pero ha sido prohibido en la mayoría de los países debido a su alta toxicidad. [1, 2, 4]"
+  ],
+  "compuestosImportantes": [
+    "Tl₂SO₄ (sulfato de talio(I))",
+    "Tl₂O (óxido de talio(I))",
+    "TlCl (cloruro de talio(I))",
+    "TlI (yoduro de talio(I))",
+    "Tl(NO₃)₃ (nitrato de talio(III))"
+  ],
+  "abundancia": {
+    "universo": 0.00000005,
+    "cortezaTerrestre": 0.85,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.000019,
+    "totalTierra": 0.00006,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true (el talio y todos sus compuestos son altamente tóxicos, acumulativos y se absorben fácilmente a través de la piel, la inhalación o la ingestión). [1, 2]",
+  "origenDelNombre": "Del griego 'thallos' (θαλλος), que significa \"brote verde\" o \"rama verde\", en referencia a la brillante línea de emisión verde en su espectro que permitió su descubrimiento. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Talio",
+    "https://www.rsc.org/periodic-table/element/81/thallium"
+  ]
 }
   
 ]
