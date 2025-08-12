@@ -9504,6 +9504,143 @@ expand_less
     "https://es.wikipedia.org/wiki/Iridio",
     "https://www.rsc.org/periodic-table/element/77/iridium"
   ]
+},
+  {
+  "simbolo": "Pt",
+  "nombre": "Platino",
+  "numeroAtomico": 78,
+  "masaAtomica": 195.084,
+  "grupo": 10,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2041.4,
+    "puntoDeEbullicion": 4098,
+    "densidad": 21.45,
+    "radioAtomico": 139,
+    "conductividadTermica": 71.6
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.28,
+    "energiaDeIonizacion": 870,
+    "afinidadElectronica": 205.041,
+    "estadosOxidacion": [0, 1, 2, 3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 17, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal precioso", "metal del grupo del platino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Platino-190",
+      "numeroNeutrones": 112,
+      "masaAtomica": 189.959932,
+      "abundancia": 0.012,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "6.5 × 10^11 años"
+      }
+    },
+    {
+      "nombre": "Platino-192",
+      "numeroNeutrones": 114,
+      "masaAtomica": 191.9610380,
+      "abundancia": 0.782,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Platino-194",
+      "numeroNeutrones": 116,
+      "masaAtomica": 193.9626803,
+      "abundancia": 32.86,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Platino-195",
+      "numeroNeutrones": 117,
+      "masaAtomica": 194.9647911,
+      "abundancia": 33.78,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Platino-196",
+      "numeroNeutrones": 118,
+      "masaAtomica": 195.9649515,
+      "abundancia": 25.21,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Platino-198",
+      "numeroNeutrones": 120,
+      "masaAtomica": 197.967893,
+      "abundancia": 7.36,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "doble beta-",
+        "vidaMedia": ">3.2 × 10^14 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido por culturas precolombinas; introducido en Europa por Antonio de Ulloa.",
+    "fechaDescubrimiento": "c. 1735 (Ulloa)"
+  },
+  "datosCuriosos": [
+    "Es un metal precioso muy raro y valioso, a menudo más caro que el oro. [1, 2, 4]",
+    "Es extremadamente resistente a la corrosión, al deslustre y al ataque de la mayoría de los ácidos, aunque se disuelve en agua regia. [1, 2, 4]",
+    "Se encuentra en la naturaleza como metal nativo o en aleaciones con otros metales del grupo del platino, principalmente en depósitos aluviales. [1, 2, 4]",
+    "Es un metal de transición denso, maleable, dúctil y de color blanco plateado brillante. [1, 2, 4]",
+    "El platino tiene una configuración electrónica anómala ([Xe] 4f¹⁴ 5d⁹ 6s¹) que contribuye a sus propiedades catalíticas. [1, 2]",
+    "El kilogramo patrón internacional, que definió la unidad de masa hasta 2019, estaba hecho de una aleación de 90% platino y 10% iridio. [1, 2, 4]"
+  ],
+  "usos": [
+    "Principalmente como catalizador en los convertidores catalíticos de los automóviles (especialmente diésel) para reducir las emisiones de gases de escape. [1, 2, 4]",
+    "En la fabricación de joyería de alta gama debido a su brillo, rareza y resistencia al deslustre. [1, 2, 4]",
+    "Como catalizador en la industria química para la producción de ácido nítrico, siliconas y en el refinado de petróleo. [1, 2, 4]",
+    "En la fabricación de electrodos para celdas de combustible, sensores de oxígeno, bujías y otros equipos de laboratorio (crisoles, alambres) debido a su inercia química y alto punto de fusión. [1, 2, 4]",
+    "En la industria del vidrio para fabricar boquillas para la producción de fibra de vidrio. [1, 2]",
+    "Compuestos de platino, como el cisplatino y el carboplatino, se utilizan en quimioterapia para el tratamiento de varios tipos de cáncer. [1, 2, 4]",
+    "En la fabricación de discos duros de ordenador y en termopares para medir altas temperaturas. [1, 2]",
+    "En la acuñación de monedas de inversión y medallas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "PtO₂ (dióxido de platino / óxido de platino(IV), catalizador de Adams)",
+    "H₂PtCl₆ (ácido hexacloroplatínico(IV))",
+    "cis-[Pt(NH₃)₂Cl₂] (cisplatino, un fármaco anticancerígeno)",
+    "PtCl₄ (tetracloruro de platino)"
+  ],
+  "abundancia": {
+    "universo": 0.0000005,
+    "cortezaTerrestre": 0.005,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el platino metálico es inerte y no tóxico; sin embargo, algunas de sus sales pueden causar reacciones alérgicas graves (platinosis) y son tóxicas). [1, 2]",
+  "origenDelNombre": "Del término español 'platina', que es un diminutivo de 'plata'. Los conquistadores españoles en Sudamérica le dieron este nombre despectivo porque lo consideraban una impureza plateada no deseada que interfería con la extracción de oro. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Platino",
+    "https://www.rsc.org/periodic-table/element/78/platinum"
+  ]
 }
   
 ]
