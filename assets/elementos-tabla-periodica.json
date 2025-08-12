@@ -9641,6 +9641,115 @@ expand_less
     "https://es.wikipedia.org/wiki/Platino",
     "https://www.rsc.org/periodic-table/element/78/platinum"
   ]
+},
+  {
+  "simbolo": "Au",
+  "nombre": "Oro",
+  "numeroAtomico": 79,
+  "masaAtomica": 196.966569,
+  "grupo": 11,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1337.33,
+    "puntoDeEbullicion": 3129,
+    "densidad": 19.30,
+    "radioAtomico": 144,
+    "conductividadTermica": 318
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.54,
+    "energiaDeIonizacion": 890.1,
+    "afinidadElectronica": 222.8,
+    "estadosOxidacion": [-1, 0, 1, 2, 3, 5]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 1],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal precioso", "metal de acuñación"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Oro-197",
+      "numeroNeutrones": 118,
+      "masaAtomica": 196.966570,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Oro-195",
+      "numeroNeutrones": 116,
+      "masaAtomica": 194.965018,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "186.09 días"
+      }
+    },
+    {
+      "nombre": "Oro-198",
+      "numeroNeutrones": 119,
+      "masaAtomica": 197.968242,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "2.69517 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Conocido por las civilizaciones antiguas (uso desde c. 6000 a.C.).",
+    "fechaDescubrimiento": "Prehistoria"
+  },
+  "datosCuriosos": [
+    "Es el metal más maleable y dúctil conocido; una onza (unos 28 gramos) de oro puede estirarse en un alambre de 80 km de largo o martillarse en una lámina translúcida de 100 pies cuadrados. [1, 2, 4]",
+    "Es extremadamente resistente a la corrosión, el deslustre y el ataque de la mayoría de los ácidos. Solo se disuelve en agua regia (una mezcla de ácido nítrico y clorhídrico). [1, 2, 4]",
+    "Ha sido utilizado como moneda, reserva de valor y en la fabricación de joyas y objetos de arte desde hace milenios. [1, 2, 4]",
+    "Se encuentra en la naturaleza en forma de oro nativo (pepitas, polvo o vetas en rocas de cuarzo) y en depósitos aluviales en ríos. [1, 2, 4]",
+    "El oro puro es muy denso, con una densidad de 19.3 g/cm³, casi idéntica a la del wolframio. [1, 2]",
+    "La pureza del oro se mide en quilates (k), donde 24 quilates es oro puro. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en la fabricación de joyería y como inversión en forma de lingotes y monedas. [1, 2, 4]",
+    "En la industria electrónica para fabricar conectores, contactos y cables de alta fiabilidad y resistentes a la corrosión en dispositivos como teléfonos móviles y ordenadores. [1, 2, 4]",
+    "En odontología para la fabricación de coronas, puentes y empastes debido a su biocompatibilidad, maleabilidad y resistencia a la corrosión. [1, 2, 4]",
+    "En la industria aeroespacial, donde finas capas de oro se utilizan como revestimiento en satélites y visores de cascos espaciales para reflejar la radiación infrarroja y controlar la temperatura. [1, 2, 4]",
+    "El isótopo radiactivo oro-198 se utiliza en radioterapia para el tratamiento de algunos tipos de cáncer. [1, 2]",
+    "En la fabricación de vidrios especiales (vidrio rubí oro) para dar un color rojo intenso. [1, 2]",
+    "En la gastronomía, en forma de pan de oro, para decorar alimentos y bebidas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "AuCl₃ (cloruro de oro(III))",
+    "HAuCl₄ (ácido tetracloroáurico(III))",
+    "Au₂O₃ (óxido de oro(III))",
+    "Na[Au(CN)₂] (dicianuroaurato(I) de sodio, utilizado en galvanoplastia)"
+  ],
+  "abundancia": {
+    "universo": 0.00000004,
+    "cortezaTerrestre": 0.004,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.000011,
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": 0.0000001,
+      "categoriaAbundancia": "Traza (<0.1%)"
+    }
+  },
+  "toxicidad": "baja (el oro metálico es inerte, biocompatible y no tóxico; algunas de sus sales pueden ser tóxicas en altas dosis). [1, 2]",
+  "origenDelNombre": "La palabra \"oro\" proviene del latín 'aurum', que significa \"oro\". El símbolo 'Au' deriva directamente de 'aurum'. El término latino está relacionado con 'aurora', que significa \"amanecer\", en referencia al color brillante y amarillo del metal. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Oro",
+    "https://www.rsc.org/periodic-table/element/79/gold"
+  ]
 }
   
 ]
