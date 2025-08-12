@@ -10361,6 +10361,115 @@ expand_less
     "https://es.wikipedia.org/wiki/Polonio",
     "https://www.rsc.org/periodic-table/element/84/polonium"
   ]
+},
+  {
+  "simbolo": "At",
+  "nombre": "Astato",
+  "numeroAtomico": 85,
+  "masaAtomica": 209.98715,
+  "grupo": 17,
+  "periodo": 6,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 575,
+    "puntoDeEbullicion": 610,
+    "densidad": 6.35,
+    "radioAtomico": 145,
+    "conductividadTermica": 1.7
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.2,
+    "energiaDeIonizacion": 899.0,
+    "afinidadElectronica": 233,
+    "estadosOxidacion": [-1, 1, 3, 5, 7]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 7],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metaloide",
+    "subtipo": ["halógeno"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Astato-209",
+      "numeroNeutrones": 124,
+      "masaAtomica": 208.98664,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / alfa",
+        "vidaMedia": "5.41 horas"
+      }
+    },
+    {
+      "nombre": "Astato-210",
+      "numeroNeutrones": 125,
+      "masaAtomica": 209.987148,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / alfa",
+        "vidaMedia": "8.1 horas"
+      }
+    },
+    {
+      "nombre": "Astato-211",
+      "numeroNeutrones": 126,
+      "masaAtomica": 210.9874963,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / alfa",
+        "vidaMedia": "7.214 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Dale R. Corson, Kenneth Ross MacKenzie y Emilio Segrè",
+    "fechaDescubrimiento": 1940
+  },
+  "datosCuriosos": [
+    "Es el elemento natural más raro en la corteza terrestre. Se estima que en un momento dado, hay menos de 30 gramos de astato en toda la corteza terrestre. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos y tienen vidas medias muy cortas. El isótopo más estable, el astato-210, tiene una vida media de solo 8.1 horas. [1, 2, 4]",
+    "Químicamente, se comporta como un halógeno, similar al yodo, pero con propiedades más metálicas. Es el halógeno más pesado. [1, 2, 4]",
+    "Se produce en la naturaleza en cantidades ínfimas a través de las cadenas de desintegración de elementos pesados como el uranio y el torio. Todas las cantidades estudiadas se producen artificialmente. [1, 2, 4]",
+    "Debido a su extrema rareza e intensa radiactividad, muchas de sus propiedades físicas y químicas no se conocen con certeza y se infieren de su posición en la tabla periódica. [1, 2]",
+    "El astato es tan radiactivo que el calor generado por su propia desintegración vaporizaría rápidamente cualquier muestra macroscópica. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en investigación científica, especialmente en química nuclear y física. [1, 2, 4]",
+    "El isótopo astato-211 se investiga para su uso en radioterapia dirigida con partículas alfa para el tratamiento del cáncer. Las partículas alfa depositan una gran cantidad de energía en una distancia muy corta, lo que permite destruir células cancerosas con un daño mínimo a los tejidos circundantes. [1, 2, 4]",
+    "Debido a su similitud con el yodo, se utiliza en estudios sobre el comportamiento de los halógenos en sistemas biológicos y ambientales. [1, 2]",
+    "Como marcador radiactivo en experimentos científicos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "HAt (astaturo de hidrógeno)",
+    "NaAt (astaturo de sodio)",
+    "CH₃At (astatometano)",
+    "AtI (monoyoduro de astato)"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (se estima menos de 30 gramos en total)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial / Traza"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Se acumula en la glándula tiroides de manera similar al yodo, lo que lo hace particularmente peligroso). [1, 2]",
+  "origenDelNombre": "Del griego 'astatos' (ἄστατος), que significa \"inestable\" o \"inconstante\", en referencia a su naturaleza altamente radiactiva y la falta de isótopos estables. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Astato",
+    "https://www.rsc.org/periodic-table/element/85/astatine"
+  ]
 }
   
 ]
