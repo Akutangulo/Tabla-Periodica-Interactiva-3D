@@ -9398,6 +9398,112 @@ expand_less
     "https://es.wikipedia.org/wiki/Osmio",
     "https://www.rsc.org/periodic-table/element/76/osmium"
   ]
+},
+  {
+  "simbolo": "Ir",
+  "nombre": "Iridio",
+  "numeroAtomico": 77,
+  "masaAtomica": 192.217,
+  "grupo": 9,
+  "periodo": 6,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2719,
+    "puntoDeEbullicion": 4701,
+    "densidad": 22.56,
+    "radioAtomico": 136,
+    "conductividadTermica": 147
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.20,
+    "energiaDeIonizacion": 880,
+    "afinidadElectronica": 150.94,
+    "estadosOxidacion": [-3, -1, 0, 1, 2, 3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 15, 2],
+  "natural": true,
+  "radiactivo": false,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal de transición", "metal del grupo del platino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Iridio-191",
+      "numeroNeutrones": 114,
+      "masaAtomica": 190.9605940,
+      "abundancia": 37.3,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iridio-193",
+      "numeroNeutrones": 116,
+      "masaAtomica": 192.9629264,
+      "abundancia": 62.7,
+      "natural": true,
+      "radiactivo": false,
+      "desintegracion": null
+    },
+    {
+      "nombre": "Iridio-192",
+      "numeroNeutrones": 115,
+      "masaAtomica": 191.962605,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "β- / ε",
+        "vidaMedia": "73.827 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Smithson Tennant",
+    "fechaDescubrimiento": 1803
+  },
+  "datosCuriosos": [
+    "Es el metal más resistente a la corrosión conocido, siendo prácticamente inatacable por el aire, el agua, los ácidos (incluyendo el agua regia) y otros agentes corrosivos a temperatura ambiente. [1, 2, 4]",
+    "Es el segundo elemento natural más denso, con una densidad casi idéntica a la del osmio. [1, 2, 4]",
+    "La abundancia de iridio en la capa límite K-Pg (Cretácico-Paleógeno) en todo el mundo es una evidencia clave de la teoría del impacto de un gran asteroide que causó la extinción de los dinosaurios, ya que el iridio es mucho más abundante en los meteoritos que en la corteza terrestre. [1, 2, 4]",
+    "Es un metal de transición del grupo del platino, de color blanco plateado con un ligero tinte amarillento, muy duro y quebradizo, lo que lo hace difícil de mecanizar. [1, 2, 4]",
+    "La barra del metro patrón original, que definió el metro entre 1889 y 1960, estaba hecha de una aleación de 90% platino y 10% iridio. [1, 2, 4]",
+    "Fue descubierto junto con el osmio en los residuos de la disolución de mineral de platino en agua regia. [1, 2]"
+  ],
+  "usos": [
+    "En aleaciones con platino para fabricar crisoles, contactos eléctricos y otros equipos de laboratorio que requieren alta resistencia a la corrosión y al calor. [1, 2, 4]",
+    "En la fabricación de bujías de alto rendimiento para aviones y helicópteros debido a su alta durabilidad y punto de fusión. [1, 2, 4]",
+    "En las puntas de plumas estilográficas y en pivotes de brújulas y otros instrumentos de precisión, a menudo en aleaciones con osmio. [1, 2, 4]",
+    "Como catalizador en la industria química, por ejemplo, en el proceso Cativa para la producción de ácido acético. [1, 2, 4]",
+    "El isótopo radiactivo iridio-192 se utiliza en radioterapia (braquiterapia) para el tratamiento del cáncer y en radiografía industrial para la inspección no destructiva de soldaduras. [1, 2, 4]",
+    "En la fabricación de algunos componentes electrónicos y en recubrimientos para óptica de rayos X. [1, 2]",
+    "Históricamente, en la barra del metro patrón y el kilogramo patrón internacional (aleación platino-iridio). [1, 2, 4]"
+  ],
+  "compuestosImportantes": [
+    "IrO₂ (dióxido de iridio)",
+    "IrCl₃ (tricloruro de iridio)",
+    "H₂IrCl₆ (ácido hexacloroirídico(IV))",
+    "[Ir(ppy)₃] (un complejo organometálico utilizado en OLEDs)"
+  ],
+  "abundancia": {
+    "universo": 0.0000002,
+    "cortezaTerrestre": 0.001,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas insignificantes",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "baja (el iridio metálico es inerte y no se considera tóxico; algunos de sus compuestos solubles pueden ser ligeramente tóxicos, pero la exposición es rara). [1, 2]",
+  "origenDelNombre": "Del latín 'iris' (genitivo 'iridis'), que significa \"arcoíris\". Fue nombrado así por Smithson Tennant debido a la gran variedad de colores vivos que presentaban sus sales al disolverse en ácido clorhídrico. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Iridio",
+    "https://www.rsc.org/periodic-table/element/77/iridium"
+  ]
 }
   
 ]
