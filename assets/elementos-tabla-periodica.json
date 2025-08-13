@@ -10577,6 +10577,100 @@ expand_less
     "https://es.wikipedia.org/wiki/Rad%C3%B3n",
     "https://www.rsc.org/periodic-table/element/86/radon"
   ]
+},
+  {
+  "simbolo": "Fr",
+  "nombre": "Francio",
+  "numeroAtomico": 87,
+  "masaAtomica": 223.0197359,
+  "grupo": 1,
+  "periodo": 7,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 300,
+    "puntoDeEbullicion": 950,
+    "densidad": 1.87,
+    "radioAtomico": 270,
+    "conductividadTermica": 15.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.7,
+    "energiaDeIonizacion": 380,
+    "afinidadElectronica": 46.89,
+    "estadosOxidacion": [1]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 8, 1],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalino"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Francio-221",
+      "numeroNeutrones": 134,
+      "masaAtomica": 221.014255,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "4.9 minutos"
+      }
+    },
+    {
+      "nombre": "Francio-223",
+      "numeroNeutrones": 136,
+      "masaAtomica": 223.0197359,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta- / alfa",
+        "vidaMedia": "22 minutos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Marguerite Perey",
+    "fechaDescubrimiento": 1939
+  },
+  "datosCuriosos": [
+    "Es el segundo elemento natural más raro en la corteza terrestre, después del astato. Se estima que en cualquier momento dado, hay menos de 30 gramos de francio en toda la corteza terrestre. [1, 2, 4]",
+    "Todos sus isótopos son extremadamente radiactivos y tienen vidas medias muy cortas. El isótopo más estable, el francio-223, tiene una vida media de solo 22 minutos. [1, 2, 4]",
+    "Fue el último elemento en ser descubierto en la naturaleza, en lugar de ser sintetizado en un laboratorio. Marguerite Perey lo identificó como un producto de la desintegración alfa del actinio-227. [1, 2, 4]",
+    "Es el elemento menos electronegativo (junto con el cesio) y, teóricamente, el metal alcalino más reactivo. Sin embargo, su extrema radiactividad impide la producción de una muestra lo suficientemente grande como para confirmar experimentalmente muchas de sus propiedades. [1, 2, 4]",
+    "Debido a su inestabilidad, nunca se ha visto una cantidad macroscópica de francio. [1, 2]",
+    "Sus propiedades químicas se han estudiado utilizando cantidades de trazas (unos pocos miles de átomos a la vez). [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema rareza, inestabilidad y costo, el francio no tiene aplicaciones comerciales. [1, 2, 4]",
+    "Su uso se limita exclusivamente a la investigación científica, especialmente en los campos de la física atómica y nuclear, y la química. [1, 2, 4]",
+    "Se ha utilizado en experimentos de espectroscopia para estudiar la estructura atómica y las interacciones fundamentales. [1, 2]",
+    "Se ha propuesto su uso en diagnósticos médicos experimentales para el cáncer, pero su corta vida media y la dificultad de producción lo hacen poco práctico en comparación con otros radionúclidos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Debido a su extrema inestabilidad, no se han preparado cantidades macroscópicas de compuestos de francio. Se han estudiado compuestos en trazas, como el perclorato de francio (FrClO₄), que coprecipita con el perclorato de cesio. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (se estima menos de 30 gramos en total)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Cualquier cantidad visible sería inmediatamente peligrosa). [1, 2]",
+  "origenDelNombre": "Nombrado por su descubridora, Marguerite Perey, en honor a su país natal, Francia. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Francio",
+    "https://www.rsc.org/periodic-table/element/87/francium"
+  ]
 }
   
 ]
