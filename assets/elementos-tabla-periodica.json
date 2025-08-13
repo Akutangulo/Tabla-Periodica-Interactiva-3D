@@ -10671,6 +10671,129 @@ expand_less
     "https://es.wikipedia.org/wiki/Francio",
     "https://www.rsc.org/periodic-table/element/87/francium"
   ]
+},
+  {
+  "simbolo": "Ra",
+  "nombre": "Radio",
+  "numeroAtomico": 88,
+  "masaAtomica": 226.0254098,
+  "grupo": 2,
+  "periodo": 7,
+  "bloque": "s",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 973,
+    "puntoDeEbullicion": 2010,
+    "densidad": 5.5,
+    "radioAtomico": 220,
+    "conductividadTermica": 18.6
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 0.9,
+    "energiaDeIonizacion": 509.3,
+    "afinidadElectronica": 9.6485,
+    "estadosOxidacion": [2]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 8, 2],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["metal alcalinotérreo"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Radio-223",
+      "numeroNeutrones": 135,
+      "masaAtomica": 223.0185022,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "11.43 días"
+      }
+    },
+    {
+      "nombre": "Radio-224",
+      "numeroNeutrones": 136,
+      "masaAtomica": 224.0202118,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "3.6319 días"
+      }
+    },
+    {
+      "nombre": "Radio-226",
+      "numeroNeutrones": 138,
+      "masaAtomica": 226.0254098,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "1600 años"
+      }
+    },
+    {
+      "nombre": "Radio-228",
+      "numeroNeutrones": 140,
+      "masaAtomica": 228.0310704,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "5.75 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Marie Curie y Pierre Curie",
+    "fechaDescubrimiento": 1898
+  },
+  "datosCuriosos": [
+    "Es un metal alcalinotérreo intensamente radiactivo. Su isótopo más estable, el radio-226, tiene una vida media de 1600 años. [1, 2, 4]",
+    "El radio puro es un metal de color blanco plateado brillante, pero se ennegrece rápidamente al exponerse al aire debido a la formación de nitruro de radio. [1, 2, 4]",
+    "Emite una luminiscencia azulada (brilla en la oscuridad) debido a su intensa radiactividad, que excita las moléculas de nitrógeno en el aire. [1, 2, 4]",
+    "Históricamente, se mezclaba con pinturas a base de sulfuro de zinc para crear pinturas radioluminiscentes utilizadas en las esferas de relojes, interruptores y paneles de instrumentos, una práctica que se abandonó tras descubrirse sus peligros para la salud. [1, 2, 4]",
+    "Se encuentra en trazas en todos los minerales de uranio, ya que es un producto de la cadena de desintegración del uranio-238. Se necesitan varias toneladas de pechblenda para extraer una pequeña fracción de un gramo de radio. [1, 2, 4]",
+    "La desintegración del radio produce radón, un gas radiactivo. [1, 2]"
+  ],
+  "usos": [
+    "Históricamente, se utilizó ampliamente en radioterapia para el tratamiento del cáncer (braquiterapia), aunque ha sido reemplazado en gran medida por radioisótopos más seguros y eficaces como el cobalto-60 y el cesio-137. [1, 2, 4]",
+    "El isótopo radio-223 (en forma de dicloruro de radio-223) se utiliza en medicina nuclear para tratar el cáncer de próstata con metástasis óseas. [1, 2, 4]",
+    "Como fuente de radón para investigación y, antiguamente, para algunos tratamientos médicos. [1, 2]",
+    "En investigación científica y nuclear. [1, 2]",
+    "Históricamente, en pinturas luminiscentes y como fuente de neutrones cuando se mezcla con berilio. [1, 2, 4]",
+    "Debido a su peligrosidad y la disponibilidad de alternativas más seguras, la mayoría de sus aplicaciones históricas han sido descontinuadas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "RaCl₂ (cloruro de radio)",
+    "RaBr₂ (bromuro de radio)",
+    "Ra(NO₃)₂ (nitrato de radio)",
+    "RaSO₄ (sulfato de radio)"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Trazas (aprox. 1 parte por billón, por desintegración de uranio)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Trazas",
+    "totalTierra": "Trazas",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico y carcinogénico debido a su intensa radiactividad. Se comporta químicamente como el calcio y se acumula en los huesos, donde la radiación alfa y gamma puede causar anemia, cáncer de huesos y otros trastornos). [1, 2]",
+  "origenDelNombre": "Del latín 'radius', que significa \"rayo\", en referencia a su propiedad de emitir energía en forma de rayos (radiactividad). Fue nombrado así por sus descubridores, los Curie. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Radio_(elemento)",
+    "https://www.rsc.org/periodic-table/element/88/radium"
+  ]
 }
   
 ]
