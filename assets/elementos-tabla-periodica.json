@@ -10794,6 +10794,104 @@ expand_less
     "https://es.wikipedia.org/wiki/Radio_(elemento)",
     "https://www.rsc.org/periodic-table/element/88/radium"
   ]
+},
+  {
+  "simbolo": "Ac",
+  "nombre": "Actinio",
+  "numeroAtomico": 89,
+  "masaAtomica": 227.0277521,
+  "grupo": 3,
+  "periodo": 7,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1500,
+    "puntoDeEbullicion": 3500,
+    "densidad": 10.07,
+    "radioAtomico": 188,
+    "conductividadTermica": 12.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.1,
+    "energiaDeIonizacion": 499,
+    "afinidadElectronica": 33.77,
+    "estadosOxidacion": [3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 9, 2],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido", "a veces considerado metal de transición del grupo 3"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Actinio-225",
+      "numeroNeutrones": 136,
+      "masaAtomica": 225.023229,
+      "abundancia": 0.0,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "10.0 días"
+      }
+    },
+    {
+      "nombre": "Actinio-227",
+      "numeroNeutrones": 138,
+      "masaAtomica": 227.0277521,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "β- (98.62%), α (1.38%)",
+        "vidaMedia": "21.772 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "André-Louis Debierne (descubrimiento en 1899); Friedrich Oskar Giesel (descubrimiento independiente en 1902)",
+    "fechaDescubrimiento": 1899
+  },
+  "datosCuriosos": [
+    "Es un metal radiactivo blando, de color blanco plateado, que emite un intenso brillo azulado en la oscuridad debido a su radiactividad, que excita el aire circundante. [1, 2, 4]",
+    "Es el primer elemento de la serie de los actínidos, que lleva su nombre. [1, 2, 4]",
+    "Se encuentra en trazas minúsculas en los minerales de uranio y torio, como producto de la desintegración del uranio-235. Se estima que una tonelada de pechblenda contiene alrededor de 0.2 miligramos de actinio. [1, 2, 4]",
+    "Todos los isótopos del actinio son radiactivos. El más estable, el actinio-227, tiene una vida media de 21.77 años. [1, 2]",
+    "El actinio es unas 150 veces más radiactivo que el radio. [1, 2]",
+    "Debido a su intensa radiactividad y escasez, el actinio tiene un uso industrial limitado y se maneja principalmente en laboratorios especializados. [1, 2]"
+  ],
+  "usos": [
+    "Como fuente de neutrones cuando se irradia con berilio, utilizado en sondas de neutrones para medir la humedad del suelo y en la radiografía de neutrones. [1, 2, 4]",
+    "El isótopo actinio-225 se utiliza en medicina nuclear para la terapia dirigida con partículas alfa (TAT), un tratamiento experimental prometedor para ciertos tipos de cáncer. [1, 2, 4]",
+    "En investigación científica, especialmente en estudios de química nuclear y física. [1, 2]",
+    "El actinio-227 se ha utilizado en generadores termoeléctricos de radioisótopos (RTG) para aplicaciones espaciales, aunque el plutonio-238 es más común. [1, 2]",
+    "Se utiliza para producir otros elementos más pesados mediante bombardeo de partículas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Ac₂O₃ (óxido de actinio(III))",
+    "AcCl₃ (cloruro de actinio(III))",
+    "AcF₃ (fluoruro de actinio(III))",
+    "AcPO₄ (fosfato de actinio(III))"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (trazas por desintegración de uranio)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico y peligroso debido a su intensa radiactividad alfa y beta. Se acumula en los huesos y el hígado, causando graves daños por radiación). [1, 2]",
+  "origenDelNombre": "Del griego 'aktis' o 'aktinos' (ἀκτίς, ἀκτῖνος), que significa \"rayo\" o \"haz de luz\", en referencia a su intensa radiactividad y al brillo que emite. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Actinio",
+    "https://www.rsc.org/periodic-table/element/89/actinium"
+  ]
 }
   
 ]
