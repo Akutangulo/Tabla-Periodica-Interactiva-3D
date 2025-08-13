@@ -10892,6 +10892,116 @@ expand_less
     "https://es.wikipedia.org/wiki/Actinio",
     "https://www.rsc.org/periodic-table/element/89/actinium"
   ]
+},
+  {
+  "simbolo": "Th",
+  "nombre": "Torio",
+  "numeroAtomico": 90,
+  "masaAtomica": 232.0377,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2023,
+    "puntoDeEbullicion": 5061,
+    "densidad": 11.724,
+    "radioAtomico": 179,
+    "conductividadTermica": 54.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 587,
+    "afinidadElectronica": 112.72,
+    "estadosOxidacion": [4, 3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 18, 10, 2],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Torio-232",
+      "numeroNeutrones": 142,
+      "masaAtomica": 232.0380558,
+      "abundancia": 100,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa / fisión espontánea",
+        "vidaMedia": "1.405 × 10^10 años"
+      }
+    },
+    {
+      "nombre": "Torio-230",
+      "numeroNeutrones": 140,
+      "masaAtomica": 230.0331338,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "75,380 años"
+      }
+    },
+    {
+      "nombre": "Torio-229",
+      "numeroNeutrones": 139,
+      "masaAtomica": 229.031762,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "7,932 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Jöns Jacob Berzelius",
+    "fechaDescubrimiento": 1829
+  },
+  "datosCuriosos": [
+    "Todos sus isótopos conocidos son radiactivos. El isótopo más común y estable, el torio-232, tiene una vida media de 14.05 mil millones de años, comparable a la edad del universo. [1, 2, 4]",
+    "Es aproximadamente de tres a cuatro veces más abundante que el uranio en la corteza terrestre. [1, 2, 4]",
+    "El torio puro es un metal de color blanco plateado brillante que se empaña lentamente en el aire, volviéndose gris y finalmente negro. [1, 2, 4]",
+    "El óxido de torio (ThO₂) se utilizaba en los mantos incandescentes de las lámparas de gas (manto de Welsbach) porque brilla intensamente con una luz blanca cuando se calienta. [1, 2, 4]",
+    "El torio es un actínido fértil, lo que significa que, aunque no es fisible por sí mismo, puede transmutarse en un isótopo fisible (uranio-233) al absorber un neutrón, lo que lo convierte en un combustible potencial para reactores nucleares. [1, 2, 4]",
+    "El polvo de torio metálico puede ser pirofórico y arder espontáneamente en el aire. [1, 2]"
+  ],
+  "usos": [
+    "Como combustible nuclear potencial en reactores de torio, que podrían ofrecer ventajas en términos de abundancia de combustible, reducción de residuos nucleares y resistencia a la proliferación de armas. [1, 2, 4]",
+    "En aleaciones de magnesio y aluminio para componentes de motores de aviones y misiles, para mejorar su resistencia a altas temperaturas y su resistencia mecánica. [1, 2, 4]",
+    "El óxido de torio se utiliza en crisoles de laboratorio para altas temperaturas, en filamentos de tungsteno para tubos de electrones y en vidrios ópticos de alta calidad para aumentar su índice de refracción y disminuir la dispersión. [1, 2, 4]",
+    "En la datación de rocas y sedimentos mediante el método uranio-torio. [1, 2]",
+    "Históricamente, en mantos para lámparas de gas y como electrodos en soldadura TIG. [1, 2, 4]",
+    "Como catalizador en algunas reacciones químicas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "ThO₂ (dióxido de torio / óxido de torio(IV), torianita)",
+    "Th(NO₃)₄ (nitrato de torio)",
+    "ThF₄ (fluoruro de torio(IV))"
+  ],
+  "abundancia": {
+    "universo": 0.00000004,
+    "cortezaTerrestre": 6,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": "Trazas",
+    "totalTierra": 0.0008,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "moderada (el torio es un material radiactivo que presenta un riesgo para la salud principalmente por la inhalación de polvo, que puede causar cáncer de pulmón, páncreas y sangre. El riesgo químico es bajo). [1, 2]",
+  "origenDelNombre": "Nombrado por Jöns Jacob Berzelius en honor a Thor, el dios nórdico del trueno. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Torio",
+    "https://www.rsc.org/periodic-table/element/90/thorium"
+  ]
 }
   
 ]
