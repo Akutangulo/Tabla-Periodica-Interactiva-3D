@@ -11112,6 +11112,117 @@ expand_less
     "https://es.wikipedia.org/wiki/Protactinio",
     "https://www.rsc.org/periodic-table/element/91/protactinium"
   ]
+},
+  {
+  "simbolo": "U",
+  "nombre": "Uranio",
+  "numeroAtomico": 92,
+  "masaAtomica": 238.02891,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1405.3,
+    "puntoDeEbullicion": 4404,
+    "densidad": 19.1,
+    "radioAtomico": 156,
+    "conductividadTermica": 27.5
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.38,
+    "energiaDeIonizacion": 597.6,
+    "afinidadElectronica": 50.9,
+    "estadosOxidacion": [3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 21, 9, 2],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Uranio-234",
+      "numeroNeutrones": 142,
+      "masaAtomica": 234.0409521,
+      "abundancia": 0.0055,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "245,500 años"
+      }
+    },
+    {
+      "nombre": "Uranio-235",
+      "numeroNeutrones": 143,
+      "masaAtomica": 235.0439299,
+      "abundancia": 0.7204,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "7.038 × 10^8 años"
+      }
+    },
+    {
+      "nombre": "Uranio-238",
+      "numeroNeutrones": 146,
+      "masaAtomica": 238.05078826,
+      "abundancia": 99.2741,
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "4.468 × 10^9 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Martin Heinrich Klaproth (descubrimiento del elemento en 1789 ); Eugène-Melchior Péligot (aislamiento del metal puro en 1841)",
+    "fechaDescubrimiento": 1789
+  },
+  "datosCuriosos": [
+    "Todos los isótopos del uranio son radiactivos. El uranio-235 es el único isótopo fisible natural, lo que significa que puede sostener una reacción en cadena, y es el combustible principal para los reactores nucleares y las armas nucleares. [1, 2, 4]",
+    "Es un metal actínido denso, pesado, maleable y dúctil, de color blanco plateado. Es pirofórico cuando está finamente dividido. [1, 2, 4]",
+    "El principal mineral de uranio es la uraninita, comúnmente conocida como pechblenda. [1, 2, 4]",
+    "Fue nombrado por Martin Klaproth en honor al planeta Urano, que había sido descubierto ocho años antes por William Herschel. [1, 2, 4]",
+    "El uranio empobrecido (uranio-238, con la mayor parte del uranio-235 eliminado) es extremadamente denso y se utiliza en blindajes de tanques y proyectiles penetradores. [1, 2, 4]",
+    "El uranio es el elemento con el mayor peso atómico que se encuentra de forma natural en cantidades significativas en la Tierra. [1, 2]"
+  ],
+  "usos": [
+    "Como combustible en reactores nucleares para generar electricidad, utilizando principalmente uranio enriquecido (con una mayor concentración de uranio-235). [1, 2, 4]",
+    "En la fabricación de armas nucleares, utilizando uranio altamente enriquecido (uranio-235) o plutonio-239 (producido a partir de uranio-238). [1, 2, 4]",
+    "El uranio empobrecido se utiliza en blindajes para tanques, en proyectiles perforantes de blindaje, como contrapesos en aviones y como blindaje contra la radiación. [1, 2, 4]",
+    "La datación uranio-plomo y uranio-torio se utilizan en geología para determinar la edad de rocas y formaciones geológicas muy antiguas. [1, 2, 4]",
+    "Históricamente, el óxido de uranio se utilizaba como colorante en vidrios y esmaltes cerámicos, produciendo colores que van del amarillo al verde (vidrio de uranio o vidrio vaselina). [1, 2, 4]",
+    "Como blanco en la producción de isótopos para uso médico. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "UO₂ (dióxido de uranio / óxido de uranio(IV), uraninita)",
+    "U₃O₈ (octaóxido de triuranio, \"yellowcake\")",
+    "UF₆ (hexafluoruro de uranio, utilizado en el enriquecimiento)",
+    "UO₂(NO₃)₂ (nitrato de uranilo)"
+  ],
+  "abundancia": {
+    "universo": 0.00000005,
+    "cortezaTerrestre": 2.7,
+    "atmosfera": "Trazas insignificantes",
+    "oceano": 0.0033,
+    "totalTierra": 0.00018,
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Trazas insignificantes",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true (es tóxico tanto por su radiactividad como por sus efectos químicos como metal pesado, causando daño renal y otros problemas de salud. La exposición debe ser estrictamente controlada). [1, 2]",
+  "origenDelNombre": "Nombrado por Martin Heinrich Klaproth en honor al planeta Urano, que había sido descubierto recientemente (en 1781) por William Herschel. El planeta, a su vez, fue nombrado por Urano, el dios griego primordial del cielo. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Uranio",
+    "https://www.rsc.org/periodic-table/element/92/uranium"
+  ]
 }
   
 ]
