@@ -11002,6 +11002,116 @@ expand_less
     "https://es.wikipedia.org/wiki/Torio",
     "https://www.rsc.org/periodic-table/element/90/thorium"
   ]
+},
+  {
+  "simbolo": "Pa",
+  "nombre": "Protactinio",
+  "numeroAtomico": 91,
+  "masaAtomica": 231.03588,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1841,
+    "puntoDeEbullicion": 4300,
+    "densidad": 15.37,
+    "radioAtomico": 163,
+    "conductividadTermica": 47.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.5,
+    "energiaDeIonizacion": 568,
+    "afinidadElectronica": 53.03,
+    "estadosOxidacion": [5, 4, 3, 2]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 20, 9, 2],
+  "natural": true,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Protactinio-231",
+      "numeroNeutrones": 140,
+      "masaAtomica": 231.0358840,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "32,760 años"
+      }
+    },
+    {
+      "nombre": "Protactinio-233",
+      "numeroNeutrones": 142,
+      "masaAtomica": 233.039631,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "26.975 días"
+      }
+    },
+    {
+      "nombre": "Protactinio-234",
+      "numeroNeutrones": 143,
+      "masaAtomica": 234.04200,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta-",
+        "vidaMedia": "6.70 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Kasimir Fajans y Oswald Helmuth Göhring (isótopo de vida corta, 1913); Otto Hahn y Lise Meitner (isótopo de vida larga, 1917); Frederick Soddy y John Cranston (isótopo de vida larga, 1917, independientemente)",
+    "fechaDescubrimiento": 1913
+  },
+  "datosCuriosos": [
+    "Es un metal actínido denso, de color blanco plateado brillante, que es altamente radiactivo y tóxico. [1, 2, 4]",
+    "Se encuentra en trazas minúsculas en todos los minerales de uranio (como la pechblenda), ya que se forma como un producto intermedio en la cadena de desintegración del uranio-235. [1, 2, 4]",
+    "La existencia de un elemento entre el torio y el uranio (como 'eka-tantalio') fue predicha por Dmitri Mendeléyev en 1871. [1, 2]",
+    "Todos sus isótopos son radiactivos. El más estable, el protactinio-231, tiene una vida media de 32,760 años. [1, 2, 4]",
+    "El protactinio es uno de los elementos naturales más raros y caros de obtener. [1, 2, 4]",
+    "El metal se vuelve superconductor a temperaturas inferiores a 1.4 K. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su escasez, alto costo y alta radiactividad, el protactinio no tiene aplicaciones comerciales o industriales. [1, 2, 4]",
+    "Su uso se limita exclusivamente a la investigación científica fundamental, especialmente en los campos de la química nuclear, la física y la geoquímica. [1, 2, 4]",
+    "El isótopo protactinio-231, junto con el torio-230, se utiliza en la datación radiométrica de sedimentos marinos para estudiar los cambios climáticos del pasado. [1, 2, 4]",
+    "Se utiliza en estudios sobre la química y el comportamiento de los actínidos. [1, 2]",
+    "Puede ser utilizado para la producción de otros isótopos pesados mediante bombardeo de partículas en aceleradores. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Pa₂O₅ (pentóxido de protactinio)",
+    "PaO₂ (dióxido de protactinio)",
+    "PaF₄ (tetrafluoruro de protactinio)",
+    "PaCl₅ (pentacloruro de protactinio)"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Trazas (aprox. 1 parte por billón, por desintegración de uranio)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Traza"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico y peligroso debido a su intensa radiactividad alfa. La manipulación requiere precauciones especiales en instalaciones adecuadas). [1, 2]",
+  "origenDelNombre": "Del griego 'protos' (πρῶτος), que significa \"primero\" o \"antes\", y 'actinio'. Fue nombrado así porque el protactinio-231 se desintegra (mediante emisión alfa) para formar actinio-227, siendo así el \"progenitor\" o \"precursor\" del actinio en esa cadena de desintegración. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Protactinio",
+    "https://www.rsc.org/periodic-table/element/91/protactinium"
+  ]
 }
   
 ]
