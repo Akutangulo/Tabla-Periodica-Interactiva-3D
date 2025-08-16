@@ -11223,6 +11223,115 @@ expand_less
     "https://es.wikipedia.org/wiki/Uranio",
     "https://www.rsc.org/periodic-table/element/92/uranium"
   ]
+},
+  {
+  "simbolo": "Np",
+  "nombre": "Neptunio",
+  "numeroAtomico": 93,
+  "masaAtomica": 237.0481734,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 917,
+    "puntoDeEbullicion": 4273,
+    "densidad": 20.45,
+    "radioAtomico": 155,
+    "conductividadTermica": 6.3
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.36,
+    "energiaDeIonizacion": 604.5,
+    "afinidadElectronica": 45.85,
+    "estadosOxidacion": [3, 4, 5, 6, 7]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 22, 9, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Neptunio-235",
+      "numeroNeutrones": 142,
+      "masaAtomica": 235.0440633,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "396.1 días"
+      }
+    },
+    {
+      "nombre": "Neptunio-236",
+      "numeroNeutrones": 143,
+      "masaAtomica": 236.04657,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / β- / α",
+        "vidaMedia": "1.54 × 10^5 años"
+      }
+    },
+    {
+      "nombre": "Neptunio-237",
+      "numeroNeutrones": 144,
+      "masaAtomica": 237.0481734,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "2.144 × 10^6 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Edwin McMillan y Philip H. Abelson",
+    "fechaDescubrimiento": 1940
+  },
+  "datosCuriosos": [
+    "Fue el primer elemento transuránico (con número atómico mayor que 92) en ser descubierto y sintetizado. [1, 2, 4]",
+    "Es un metal actínido de color blanco plateado, denso y químicamente reactivo. [1, 2, 4]",
+    "Se produce en cantidades significativas como subproducto en los reactores nucleares convencionales a partir del uranio-238. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos. El más estable, el neptunio-237, tiene una vida media de 2.14 millones de años, lo que lo convierte en un residuo nuclear de larga duración. [1, 2, 4]",
+    "Aunque se considera un elemento artificial, se pueden encontrar trazas minúsculas de neptunio-237 y neptunio-239 en minerales de uranio, formadas por captura de neutrones. [1, 2]",
+    "El neptunio presenta al menos tres formas alotrópicas. [1, 2]"
+  ],
+  "usos": [
+    "Principalmente en investigación científica, especialmente en los campos de la física y la química nuclear para estudiar las propiedades de los actínidos. [1, 2, 4]",
+    "El isótopo neptunio-237 se utiliza como material de partida en la irradiación con neutrones para producir plutonio-238, que se emplea como fuente de energía en generadores termoeléctricos de radioisótopos (RTG) para sondas espaciales y otras aplicaciones. [1, 2, 4]",
+    "En la fabricación de dispositivos para la detección de neutrones de alta energía. [1, 2, 4]",
+    "Se ha investigado su potencial como combustible nuclear o para ser transmutado en isótopos de vida más corta, pero estas aplicaciones no están extendidas. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "NpO₂ (dióxido de neptunio)",
+    "NpF₃ (trifluoruro de neptunio)",
+    "NpF₆ (hexafluoruro de neptunio)",
+    "NpO₂⁺ (ion neptunilo(V))"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (trazas por captura de neutrones en minerales de uranio)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (es tóxico tanto por su radiactividad como por sus efectos químicos. Se acumula en los huesos, lo que lo convierte en un peligro radiológico a largo plazo si se ingiere o inhala). [1, 2]",
+  "origenDelNombre": "Nombrado en honor al planeta Neptuno. Este nombre fue elegido porque Neptuno es el siguiente planeta en el sistema solar después de Urano, y el neptunio (elemento 93) sigue al uranio (elemento 92) en la tabla periódica. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Neptunio",
+    "https://www.rsc.org/periodic-table/element/93/neptunium"
+  ]
 }
   
 ]
