@@ -11332,6 +11332,140 @@ expand_less
     "https://es.wikipedia.org/wiki/Neptunio",
     "https://www.rsc.org/periodic-table/element/93/neptunium"
   ]
+},
+  {
+  "simbolo": "Pu",
+  "nombre": "Plutonio",
+  "numeroAtomico": 94,
+  "masaAtomica": 244.064204,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 912.5,
+    "puntoDeEbullicion": 3505,
+    "densidad": 19.816,
+    "radioAtomico": 159,
+    "conductividadTermica": 6.74
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.28,
+    "energiaDeIonizacion": 584.7,
+    "afinidadElectronica": -18,
+    "estadosOxidacion": [3, 4, 5, 6, 7]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 24, 8, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Plutonio-238",
+      "numeroNeutrones": 144,
+      "masaAtomica": 238.0495599,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "87.7 años"
+      }
+    },
+    {
+      "nombre": "Plutonio-239",
+      "numeroNeutrones": 145,
+      "masaAtomica": 239.0521634,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "24,110 años"
+      }
+    },
+    {
+      "nombre": "Plutonio-240",
+      "numeroNeutrones": 146,
+      "masaAtomica": 240.0538135,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa / fisión espontánea",
+        "vidaMedia": "6,561 años"
+      }
+    },
+    {
+      "nombre": "Plutonio-242",
+      "numeroNeutrones": 148,
+      "masaAtomica": 242.0587426,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "373,300 años"
+      }
+    },
+    {
+      "nombre": "Plutonio-244",
+      "numeroNeutrones": 150,
+      "masaAtomica": 244.064204,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa / fisión espontánea",
+        "vidaMedia": "80.8 × 10^6 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Glenn T. Seaborg 1940 (síntesis), Edwin McMillan, Joseph W. Kennedy y Arthur Wahl 1941 (identificación)",
+    "fechaDescubrimiento": 1940
+  },
+  "datosCuriosos": [
+    "Es un metal actínido radiactivo, conocido principalmente por su uso en armas nucleares y como combustible nuclear. El isótopo plutonio-239 es uno de los tres nucleidos fisibles primarios. [1, 2, 4]",
+    "Es un metal de color blanco plateado brillante que se empaña rápidamente en el aire, formando una capa de óxido de color amarillo a verde oliva. [1, 2, 4]",
+    "Debido a su desintegración alfa, una pieza de plutonio se siente caliente al tacto. Una pieza grande puede hervir agua. [1, 2, 4]",
+    "Se produce en grandes cantidades en reactores nucleares mediante la captura de neutrones por el uranio-238. [1, 2, 4]",
+    "El plutonio tiene una estructura cristalina compleja con al menos seis alótropos a presión ambiente, que presentan grandes cambios de volumen y densidad con la temperatura. [1, 2, 4]",
+    "Aunque se considera un elemento artificial, se han encontrado trazas minúsculas de plutonio-244 primordial en la naturaleza. [1, 2]"
+  ],
+  "usos": [
+    "Como combustible en algunos reactores nucleares, especialmente en forma de MOX (mezcla de óxidos de uranio y plutonio). [1, 2, 4]",
+    "El isótopo plutonio-239 es un componente clave en la fabricación de armas nucleares modernas debido a su capacidad para sostener una reacción en cadena de fisión. [1, 2, 4]",
+    "El isótopo plutonio-238 se utiliza como fuente de energía en generadores termoeléctricos de radioisótopos (RTG) para alimentar sondas espaciales de larga duración (e.g., Voyager, Cassini, Curiosity) y marcapasos cardíacos (históricamente). [1, 2, 4]",
+    "En la investigación científica para estudiar la fisión nuclear y la química de los actínidos. [1, 2]",
+    "Como fuente de calor en unidades de calentamiento por radioisótopos (RHU) para mantener calientes los componentes de las naves espaciales. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "PuO₂ (dióxido de plutonio)",
+    "PuF₄ (tetrafluoruro de plutonio)",
+    "PuF₆ (hexafluoruro de plutonio)",
+    "PuCl₃ (tricloruro de plutonio)"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (trazas primordiales y por captura de neutrones en minerales de uranio)",
+    "atmosfera": "Prácticamente cero (presente por pruebas nucleares atmosféricas)",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico tanto por su intensa radiactividad alfa como por sus efectos químicos como metal pesado. Es un carcinógeno conocido y es particularmente peligroso si se inhala, ya que se deposita en los pulmones y los huesos). [1, 2]",
+  "origenDelNombre": "Nombrado en honor al planeta enano Plutón. Este nombre fue elegido para seguir la secuencia planetaria iniciada con el uranio (por Urano) y el neptunio (por Neptuno), ya que el plutonio (elemento 94) sigue al neptunio (elemento 93) en la tabla periódica. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Plutonio",
+    "https://www.rsc.org/periodic-table/element/94/plutonium"
+  ]
 }
   
 ]
