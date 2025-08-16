@@ -11466,6 +11466,116 @@ expand_less
     "https://es.wikipedia.org/wiki/Plutonio",
     "https://www.rsc.org/periodic-table/element/94/plutonium"
   ]
+},
+  {
+  "simbolo": "Am",
+  "nombre": "Americio",
+  "numeroAtomico": 95,
+  "masaAtomica": 243.061380,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1449,
+    "puntoDeEbullicion": 2284,
+    "densidad": 13.67,
+    "radioAtomico": 173,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.13,
+    "energiaDeIonizacion": 578,
+    "afinidadElectronica": 9.93,
+    "estadosOxidacion": [2, 3, 4, 5, 6, 7]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 25, 8, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Americio-241",
+      "numeroNeutrones": 146,
+      "masaAtomica": 241.0568291,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "432.2 años"
+      }
+    },
+    {
+      "nombre": "Americio-242m",
+      "numeroNeutrones": 147,
+      "masaAtomica": 242.0595492,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "transición isomérica (IT) / α / fisión espontánea",
+        "vidaMedia": "141 años"
+      }
+    },
+    {
+      "nombre": "Americio-243",
+      "numeroNeutrones": 148,
+      "masaAtomica": 243.0613811,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "7,370 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Glenn T. Seaborg, Ralph A. James, Leon O. Morgan y Albert Ghiorso",
+    "fechaDescubrimiento": 1944
+  },
+  "datosCuriosos": [
+    "Es un metal actínido radiactivo que emite una débil luz visible (brilla en la oscuridad) debido a su intensa radiactividad alfa y gamma. [1, 2, 4]",
+    "Es un metal de color blanco plateado, blando, maleable y dúctil. [1, 2, 4]",
+    "Se produce artificialmente en reactores nucleares mediante el bombardeo sucesivo de neutrones sobre el plutonio. [1, 2, 4]",
+    "Fue descubierto en el Laboratorio Metalúrgico de la Universidad de Chicago como parte del Proyecto Manhattan. Su descubrimiento se mantuvo en secreto y no se anunció hasta después de la Segunda Guerra Mundial. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos. El más estable, el americio-243, tiene una vida media de 7,370 años. [1, 2]",
+    "El americio es el único elemento sintético que ha encontrado un uso doméstico común. [1, 2]"
+  ],
+  "usos": [
+    "El isótopo americio-241 es ampliamente utilizado en pequeñas cantidades en los detectores de humo de tipo ionización. Las partículas alfa emitidas por el americio ionizan el aire en una cámara; el humo interrumpe esta corriente de iones y activa la alarma. [1, 2, 4]",
+    "Como fuente de radiación alfa y gamma en investigación científica y en medidores industriales para medir el espesor de materiales como el vidrio o el metal. [1, 2, 4]",
+    "En fuentes de neutrones portátiles, donde las partículas alfa del americio-241 bombardean un blanco de berilio. [1, 2, 4]",
+    "Se ha investigado su uso en generadores termoeléctricos de radioisótopos (RTG) para aplicaciones espaciales, aunque el plutonio-238 es más común. [1, 2]",
+    "En la investigación de la química de los actínidos y como material de partida para la producción de elementos transuránicos más pesados. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "AmO₂ (dióxido de americio)",
+    "Am₂O₃ (óxido de americio(III))",
+    "AmCl₃ (cloruro de americio(III))",
+    "AmF₄ (fluoruro de americio(IV))"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (presente en residuos nucleares y por lluvia radiactiva)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (es tóxico tanto por su radiactividad como por sus efectos químicos. Si se ingiere o inhala, se acumula en los huesos y el hígado, donde la radiación alfa puede causar cáncer). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a las Américas (el continente), por analogía con su homólogo lantánido, el europio, que fue nombrado en honor a Europa. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Americio",
+    "https://www.rsc.org/periodic-table/element/95/americium"
+  ]
 }
   
 ]
