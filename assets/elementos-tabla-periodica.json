@@ -11895,6 +11895,115 @@ expand_less
     "https://es.wikipedia.org/wiki/Californio",
     "https://www.rsc.org/periodic-table/element/98/californium"
   ]
+},
+  {
+  "simbolo": "Es",
+  "nombre": "Einstenio",
+  "numeroAtomico": 99,
+  "masaAtomica": 252.08298,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1133,
+    "puntoDeEbullicion": 1269,
+    "densidad": 8.84,
+    "radioAtomico": 186,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 619,
+    "afinidadElectronica": -28.6,
+    "estadosOxidacion": [2, 3, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 29, 8, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Einstenio-252",
+      "numeroNeutrones": 153,
+      "masaAtomica": 252.08298,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "α / ε / β-",
+        "vidaMedia": "471.7 días"
+      }
+    },
+    {
+      "nombre": "Einstenio-253",
+      "numeroNeutrones": 154,
+      "masaAtomica": 253.0848247,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "20.47 días"
+      }
+    },
+    {
+      "nombre": "Einstenio-254",
+      "numeroNeutrones": 155,
+      "masaAtomica": 254.0868519,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "α / ε / β-",
+        "vidaMedia": "275.7 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Albert Ghiorso y su equipo en los laboratorios de Berkeley, Argonne y Los Álamos.",
+    "fechaDescubrimiento": 1952
+  },
+  "datosCuriosos": [
+    "Es un metal actínido sintético y altamente radiactivo. [1, 2, 4]",
+    "Fue descubierto inesperadamente en los restos de la primera explosión de una bomba de hidrógeno, la prueba \"Ivy Mike\", en el atolón de Enewetak en 1952. [1, 2, 4]",
+    "Debido a su intensa radiactividad, una muestra macroscópica de einstenio brilla en la oscuridad con una luz azulada. [1, 2, 4]",
+    "Solo se ha producido en cantidades muy pequeñas, del orden de microgramos a miligramos, en reactores nucleares de alto flujo. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos. El más estable, el einstenio-252, tiene una vida media de 471.7 días, lo que dificulta su estudio. [1, 2]",
+    "El descubrimiento del einstenio (y del fermio) se mantuvo en secreto hasta 1955 debido a las tensiones de la Guerra Fría. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su escasez, alto costo, corta vida media y alta radiactividad, el einstenio no tiene aplicaciones comerciales o industriales. [1, 2, 4]",
+    "Su uso se limita exclusivamente a la investigación científica fundamental. [1, 2, 4]",
+    "Es de gran importancia como material de partida para la síntesis de elementos superpesados. El isótopo einstenio-254 se ha utilizado como blanco para producir mendelevio (elemento 101). [1, 2, 4]",
+    "Se utiliza para estudiar las propiedades químicas y físicas de los últimos elementos de la serie de los actínidos. [1, 2]",
+    "La intensa radiación que emite daña rápidamente su propia estructura cristalina, lo que complica el estudio de sus propiedades en estado sólido. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Es₂O₃ (óxido de einstenio(III))",
+    "EsCl₃ (cloruro de einstenio(III))",
+    "EsOCl (oxicloruro de einstenio)"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico si se ingiere o inhala). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Albert Einstein, uno de los físicos más influyentes de todos los tiempos. El nombre fue sugerido por el equipo descubridor. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Einstenio",
+    "https://www.rsc.org/periodic-table/element/99/einsteinium"
+  ]
 }
   
 ]
