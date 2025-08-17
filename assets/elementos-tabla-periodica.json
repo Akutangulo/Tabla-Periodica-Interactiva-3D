@@ -11686,6 +11686,103 @@ expand_less
     "https://es.wikipedia.org/wiki/Curio_(elemento)",
     "https://www.rsc.org/periodic-table/element/96/curium"
   ]
+},
+  {
+  "simbolo": "Bk",
+  "nombre": "Berkelio",
+  "numeroAtomico": 97,
+  "masaAtomica": 247.070307,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1259,
+    "puntoDeEbullicion": 2900,
+    "densidad": 14.78,
+    "radioAtomico": 170,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 601,
+    "afinidadElectronica": -165.24,
+    "estadosOxidacion": [3, 4]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 27, 8, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Berkelio-247",
+      "numeroNeutrones": 150,
+      "masaAtomica": 247.070307,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "1,380 años"
+      }
+    },
+    {
+      "nombre": "Berkelio-249",
+      "numeroNeutrones": 152,
+      "masaAtomica": 249.0749877,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "beta- / α",
+        "vidaMedia": "330 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Glenn T. Seaborg, Stanley G. Thompson, Albert Ghiorso y Kenneth Street Jr.",
+    "fechaDescubrimiento": 1949
+  },
+  "datosCuriosos": [
+    "Es un metal actínido transuránico, radiactivo y sintético. [1, 2, 4]",
+    "Es un metal blando, de color blanco plateado, que se oxida rápidamente en el aire y es atacado por ácidos. [1, 2, 4]",
+    "Fue el quinto elemento transuránico en ser descubierto. Se produjo bombardeando americio-241 con partículas alfa (iones de helio) en un ciclotrón en la Universidad de California, Berkeley. [1, 2, 4]",
+    "Solo se ha producido en cantidades muy pequeñas (del orden de miligramos) y nunca se ha aislado en cantidades macroscópicas en su forma elemental. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos. El más estable, el berkelio-247, tiene una vida media de 1,380 años. [1, 2]",
+    "El isótopo berkelio-249 es importante porque es el material de partida para la síntesis de elementos aún más pesados, como el teneso (elemento 117). [1, 2]"
+  ],
+  "usos": [
+    "Debido a su escasez, alto costo y alta radiactividad, el berkelio no tiene aplicaciones comerciales o industriales. [1, 2, 4]",
+    "Su uso se limita exclusivamente a la investigación científica fundamental, especialmente en la síntesis y estudio de las propiedades químicas y físicas de los actínidos y elementos superpesados. [1, 2, 4]",
+    "El isótopo berkelio-249 se utiliza como blanco en aceleradores de partículas para producir elementos transuránicos más pesados, como el lawrencio, el rutherfordio y el teneso. [1, 2, 4]",
+    "En estudios espectroscópicos y de magnetoquímica para comprender mejor la estructura electrónica de los actínidos. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "BkO₂ (dióxido de berkelio)",
+    "Bk₂O₃ (óxido de berkelio(III))",
+    "BkCl₃ (cloruro de berkelio(III))",
+    "BkF₄ (fluoruro de berkelio(IV))"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Se acumula en el esqueleto, donde la radiación puede causar cáncer de huesos y dañar el sistema hematopoyético). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a la ciudad de Berkeley, California, y a la Universidad de California, Berkeley, donde fue descubierto. Este nombre sigue la tradición de nombrar elementos actínidos en honor a lugares, por analogía con su homólogo lantánido, el terbio, que fue nombrado por el pueblo de Ytterby. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Berkelio",
+    "https://www.rsc.org/periodic-table/element/97/berkelium"
+  ]
 }
   
 ]
