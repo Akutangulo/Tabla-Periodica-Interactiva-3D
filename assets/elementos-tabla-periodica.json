@@ -11576,6 +11576,116 @@ expand_less
     "https://es.wikipedia.org/wiki/Americio",
     "https://www.rsc.org/periodic-table/element/95/americium"
   ]
+},
+  {
+  "simbolo": "Cm",
+  "nombre": "Curio",
+  "numeroAtomico": 96,
+  "masaAtomica": 247.070354,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1613,
+    "puntoDeEbullicion": 3383,
+    "densidad": 13.51,
+    "radioAtomico": 174,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.28,
+    "energiaDeIonizacion": 581,
+    "afinidadElectronica": 27.17,
+    "estadosOxidacion": [3, 4, 5, 6]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 25, 9, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Curio-244",
+      "numeroNeutrones": 148,
+      "masaAtomica": 244.0627526,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "18.1 años"
+      }
+    },
+    {
+      "nombre": "Curio-247",
+      "numeroNeutrones": 151,
+      "masaAtomica": 247.070354,
+      "abundancia": "Trazas",
+      "natural": true,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "1.56 × 10^7 años"
+      }
+    },
+    {
+      "nombre": "Curio-248",
+      "numeroNeutrones": 152,
+      "masaAtomica": 248.072349,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "α / fisión espontánea",
+        "vidaMedia": "3.48 × 10^5 años"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Glenn T. Seaborg, Ralph A. James y Albert Ghiorso",
+    "fechaDescubrimiento": 1944
+  },
+  "datosCuriosos": [
+    "Es un metal actínido transuránico, radiactivo, duro, denso, quebradizo y de color blanco plateado. [1, 2, 4]",
+    "Debido a su intensa desintegración alfa, una muestra de curio se calienta espontáneamente y puede brillar en la oscuridad con una luz rojiza o púrpura. [1, 2, 4]",
+    "Se produce artificialmente en reactores nucleares mediante el bombardeo de plutonio o americio con neutrones. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos. El más estable, el curio-247, tiene una vida media de 15.6 millones de años, lo que ha permitido detectar trazas primordiales de este isótopo en la naturaleza. [1, 2, 4]",
+    "Fue el tercer elemento transuránico en ser descubierto, aunque fue el cuarto en ser anunciado (después del americio). [1, 2]",
+    "El curio es químicamente muy reactivo y se oxida rápidamente en el aire. [1, 2]"
+  ],
+  "usos": [
+    "El isótopo curio-244 se ha utilizado como fuente de energía en generadores termoeléctricos de radioisótopos (RTG) para sondas espaciales y misiones robóticas (e.g., en los espectrómetros de rayos X de las misiones Mars Pathfinder y Mars Exploration Rovers) debido a la gran cantidad de calor que genera. [1, 2, 4]",
+    "Como fuente de partículas alfa para espectrómetros de rayos X de partículas alfa (APXS). [1, 2, 4]",
+    "En investigación científica para estudiar la química de los actínidos y los efectos de la radiación. [1, 2]",
+    "Como material de partida para la producción de elementos transuránicos más pesados y otros radionúclidos en aceleradores de partículas. [1, 2, 4]",
+    "El isótopo curio-242 también se ha utilizado en RTGs, aunque su vida media es más corta. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "CmO₂ (dióxido de curio)",
+    "Cm₂O₃ (óxido de curio(III))",
+    "CmCl₃ (cloruro de curio(III))",
+    "CmF₄ (fluoruro de curio(IV))"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero (trazas primordiales de Cm-247)",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Si se ingiere o inhala, se acumula en los huesos, donde la radiación alfa puede causar cáncer y destruir la médula ósea). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Marie Curie y su esposo Pierre Curie, pioneros en el estudio de la radiactividad. El nombre fue elegido por analogía con su homólogo lantánido, el gadolinio, que fue nombrado en honor al investigador de tierras raras Johan Gadolin. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Curio_(elemento)",
+    "https://www.rsc.org/periodic-table/element/96/curium"
+  ]
 }
   
 ]
