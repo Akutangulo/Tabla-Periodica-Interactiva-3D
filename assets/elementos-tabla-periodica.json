@@ -12332,15 +12332,7 @@ expand_less
       3
     ]
   },
-  "capasElectronicas": [
-    2,
-    8,
-    18,
-    32,
-    32,
-    9,
-    2
-  ],
+  "capasElectronicas": [2, 8, 18, 32, 32, 9, 2],
   "natural": false,
   "radiactivo": true,
   "clasificacion": {
@@ -12438,15 +12430,7 @@ expand_less
       4
     ]
   },
-  "capasElectronicas": [
-    2,
-    8,
-    18,
-    32,
-    32,
-    10,
-    2
-  ],
+  "capasElectronicas": [2, 8, 18, 32, 32, 10, 2],
   "natural": false,
   "radiactivo": true,
   "clasificacion": {
