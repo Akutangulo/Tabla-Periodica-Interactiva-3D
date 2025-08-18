@@ -12004,6 +12004,111 @@ expand_less
     "https://es.wikipedia.org/wiki/Einstenio",
     "https://www.rsc.org/periodic-table/element/99/einsteinium"
   ]
+},
+  {
+  "simbolo": "Fm",
+  "nombre": "Fermio",
+  "numeroAtomico": 100,
+  "masaAtomica": 257.095106,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1800,
+    "puntoDeEbullicion": null,
+    "densidad": 9.7,
+    "radioAtomico": 198,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 627,
+    "afinidadElectronica": 33.96,
+    "estadosOxidacion": [2, 3]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 30, 8, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Fermio-252",
+      "numeroNeutrones": 152,
+      "masaAtomica": 252.08447,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "α / fisión espontánea",
+        "vidaMedia": "25.39 horas"
+      }
+    },
+    {
+      "nombre": "Fermio-253",
+      "numeroNeutrones": 153,
+      "masaAtomica": 253.08685,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / α",
+        "vidaMedia": "3.00 días"
+      }
+    },
+    {
+      "nombre": "Fermio-257",
+      "numeroNeutrones": 157,
+      "masaAtomica": 257.095106,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "α / fisión espontánea",
+        "vidaMedia": "100.5 días"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Albert Ghiorso y su equipo en los laboratorios de Berkeley, Argonne y Los Álamos.",
+    "fechaDescubrimiento": 1952
+  },
+  "datosCuriosos": [
+    "Es un metal actínido sintético y altamente radiactivo. [1, 2, 4]",
+    "Fue descubierto junto con el einstenio en los restos de la primera explosión de una bomba de hidrógeno, la prueba \"Ivy Mike\", en 1952. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos y tienen vidas medias cortas. El más estable, el fermio-257, tiene una vida media de solo 100.5 días. [1, 2, 4]",
+    "Debido a la corta vida media de sus isótopos, el fermio solo puede producirse en cantidades de picogramos o nanogramos, lo que impide su estudio en forma de metal macroscópico. [1, 2, 4]",
+    "Es el elemento más pesado que puede producirse en un reactor nuclear mediante bombardeo de neutrones; los elementos más pesados solo pueden sintetizarse en aceleradores de partículas. [1, 2, 4]",
+    "El descubrimiento del fermio (y del einstenio) se mantuvo en secreto hasta 1955 por razones de seguridad nacional durante la Guerra Fría. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema escasez, corta vida media y alta radiactividad, el fermio no tiene ninguna aplicación comercial o industrial. [1, 2, 4]",
+    "Su uso se limita exclusivamente a la investigación científica fundamental para expandir el conocimiento de la tabla periódica y estudiar las propiedades químicas y físicas de los elementos pesados. [1, 2, 4]",
+    "Se ha utilizado como material de partida para intentar sintetizar elementos superpesados, aunque con éxito limitado debido a las pequeñas cantidades disponibles. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "Debido a que solo se han producido cantidades de trazas de fermio, no se han sintetizado ni aislado compuestos macroscópicos. Se han estudiado compuestos en solución, como el ion Fm³⁺. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Enrico Fermi, uno de los pioneros de la física nuclear y la era atómica, quien construyó el primer reactor nuclear y recibió el Premio Nobel de Física en 1938. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Fermio",
+    "https://www.rsc.org/periodic-table/element/100/fermium"
+  ]
 }
   
 ]
