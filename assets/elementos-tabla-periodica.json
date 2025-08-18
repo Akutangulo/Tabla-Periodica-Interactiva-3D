@@ -12214,6 +12214,99 @@ expand_less
     "https://es.wikipedia.org/wiki/Mendelevio",
     "https://www.rsc.org/periodic-table/element/101/mendelevium"
   ]
+},
+  {
+  "simbolo": "No",
+  "nombre": "Nobelio",
+  "numeroAtomico": 102,
+  "masaAtomica": 259.1010,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1100,
+    "puntoDeEbullicion": null,
+    "densidad": 9.9,
+    "radioAtomico": 197,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 642,
+    "afinidadElectronica": -223.22,
+    "estadosOxidacion": [2, 3]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 32, 8, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Nobelio-255",
+      "numeroNeutrones": 153,
+      "masaAtomica": 255.09326,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "α / ε",
+        "vidaMedia": "3.1 minutos"
+      }
+    },
+    {
+      "nombre": "Nobelio-259",
+      "numeroNeutrones": 157,
+      "masaAtomica": 259.10103,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea / α / ε",
+        "vidaMedia": "58 minutos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Instituto Conjunto de Investigación Nuclear (JINR) en Dubna en 1966, Rusia, y equipo del Laboratorio Nacional Lawrence Berkeley (LBNL) en EE.UU. (múltiples afirmaciones y confirmaciones).",
+    "fechaDescubrimiento": 1966
+  },
+  "datosCuriosos": [
+    "Es un metal actínido sintético y altamente radiactivo. [1, 2, 4]",
+    "Su descubrimiento fue objeto de una controversia prolongada entre equipos de investigación en Suecia, Estados Unidos y la Unión Soviética. La IUPAC finalmente reconoció al laboratorio de Dubna (Rusia) por la primera confirmación concluyente. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos y tienen vidas medias muy cortas. El más estable, el nobelio-259, tiene una vida media de solo 58 minutos. [1, 2, 4]",
+    "Solo se ha producido en cantidades de trazas (átomos individuales a la vez), por lo que sus propiedades macroscópicas son en gran parte desconocidas y se basan en predicciones teóricas. [1, 2, 4]",
+    "A diferencia de otros actínidos que favorecen el estado de oxidación +3, el nobelio muestra una marcada preferencia por el estado +2 en solución acuosa, lo que es una propiedad química inusual para un actínido tardío. [1, 2, 4]",
+    "Se produce bombardeando blancos de elementos pesados (como curio o californio) con iones ligeros en un acelerador de partículas. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema escasez, corta vida media y la dificultad de su producción, el nobelio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y los límites de la tabla periódica. [1, 2, 4]",
+    "La investigación sobre la química del nobelio ayuda a probar y refinar los modelos teóricos de la estructura atómica y los efectos relativistas en los átomos pesados. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado compuestos macroscópicos de nobelio. Su química se ha estudiado exclusivamente a nivel de trazas, donde se ha observado que forma iones No²⁺ y No³⁺ en solución. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Alfred Nobel, el químico e ingeniero sueco que inventó la dinamita y fundó los Premios Nobel. El nombre fue propuesto por el equipo del Instituto Nobel de Física en Suecia, aunque su afirmación de descubrimiento fue posteriormente refutada. A pesar de la controversia, el nombre fue finalmente adoptado por la IUPAC. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Nobelio",
+    "https://www.rsc.org/periodic-table/element/102/nobelium"
+  ]
 }
   
 ]
