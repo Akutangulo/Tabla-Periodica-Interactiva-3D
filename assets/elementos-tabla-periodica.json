@@ -12109,6 +12109,111 @@ expand_less
     "https://es.wikipedia.org/wiki/Fermio",
     "https://www.rsc.org/periodic-table/element/100/fermium"
   ]
+},
+  {
+  "simbolo": "Md",
+  "nombre": "Mendelevio",
+  "numeroAtomico": 101,
+  "masaAtomica": 258.098431,
+  "grupo": "Actínidos",
+  "periodo": 7,
+  "bloque": "f",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1100,
+    "puntoDeEbullicion": null,
+    "densidad": 10.3,
+    "radioAtomico": 194,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 635,
+    "afinidadElectronica": 94,
+    "estadosOxidacion": [2, 3]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 31, 8, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": ["actínido"]
+  },
+  "isotopos": [
+    {
+      "nombre": "Mendelevio-258",
+      "numeroNeutrones": 157,
+      "masaAtomica": 258.098431,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "α / fisión espontánea",
+        "vidaMedia": "51.5 días"
+      }
+    },
+    {
+      "nombre": "Mendelevio-260",
+      "numeroNeutrones": 159,
+      "masaAtomica": 260.10365,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea / α / ε",
+        "vidaMedia": "27.8 días"
+      }
+    },
+    {
+      "nombre": "Mendelevio-257",
+      "numeroNeutrones": 156,
+      "masaAtomica": 257.09557,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "ε / α / fisión espontánea",
+        "vidaMedia": "5.52 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Albert Ghiorso, Glenn T. Seaborg, Gregory Robert Choppin, Bernard G. Harvey y Stanley G. Thompson",
+    "fechaDescubrimien-to": 1955
+  },
+  "datosCuriosos": [
+    "Es un metal actínido sintético y altamente radiactivo. [1, 2, 4]",
+    "Fue el primer elemento en ser sintetizado átomo por átomo. En el experimento original, solo se produjeron 17 átomos. [1, 2, 4]",
+    "Se creó bombardeando un blanco de einstenio-253 con partículas alfa (iones de helio) en el ciclotrón de 60 pulgadas de la Universidad de California, Berkeley. [1, 2, 4]",
+    "Debido a que solo se ha producido en cantidades de trazas (unos pocos átomos a la vez), muchas de sus propiedades físicas, como la apariencia o la densidad, son estimaciones teóricas y no se han medido experimentalmente. [1, 2, 4]",
+    "Todos sus isótopos son radiactivos y tienen vidas medias cortas. El más estable, el mendelevio-258, tiene una vida media de 51.5 días. [1, 2]",
+    "A diferencia de la mayoría de los otros actínidos, el mendelevio tiene un estado de oxidación +2 estable, además del estado +3 más común en la serie. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema escasez, corta vida media y la dificultad de su producción, el mendelevio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio permite a los científicos investigar las propiedades químicas y nucleares de los elementos más pesados de la tabla periódica. [1, 2, 4]",
+    "Se utiliza para explorar los límites de la estabilidad nuclear y para comprender mejor el comportamiento de los electrones en átomos con un gran número de protones. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado compuestos macroscópicos de mendelevio. Su química se ha estudiado en soluciones de trazas, donde se ha observado que forma iones Md²⁺ y Md³⁺. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Dmitri Mendeléyev, el químico ruso que formuló la Ley Periódica y creó la primera versión de la tabla periódica. Es un homenaje a su contribución fundamental a la química. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Mendelevio",
+    "https://www.rsc.org/periodic-table/element/101/mendelevium"
+  ]
 }
   
 ]
