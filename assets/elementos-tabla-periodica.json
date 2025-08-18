@@ -12307,6 +12307,112 @@ expand_less
     "https://es.wikipedia.org/wiki/Nobelio",
     "https://www.rsc.org/periodic-table/element/102/nobelium"
   ]
+},
+  {
+  "simbolo": "Lr",
+  "nombre": "Lawrencio",
+  "numeroAtomico": 103,
+  "masaAtomica": 266.1097,
+  "grupo": 3,
+  "periodo": 7,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 1900,
+    "puntoDeEbullicion": null,
+    "densidad": 15.6,
+    "radioAtomico": 196,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 470,
+    "afinidadElectronica": -30.04,
+    "estadosOxidacion": [
+      3
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    9,
+    2
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "actínido",
+      "metal de transición"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Lawrencio-262",
+      "numeroNeutrones": 159,
+      "masaAtomica": 262.10961,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "captura electrónica (ε)",
+        "vidaMedia": "3.6 horas"
+      }
+    },
+    {
+      "nombre": "Lawrencio-266",
+      "numeroNeutrones": 163,
+      "masaAtomica": 266.1097,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea",
+        "vidaMedia": "11 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Albert Ghiorso, Torbjørn Sikkeland, Almon E. Larsh y Robert M. Latimer",
+    "fechaDescubrimiento": 1961
+  },
+  "datosCuriosos": [
+    "Es el último elemento de la serie de los actínidos y el primer metal de transición del séptimo período. [1, 2, 4]",
+    "Es un elemento sintético y altamente radiactivo que solo se ha producido en cantidades de unos pocos átomos a la vez. [1, 2, 4]",
+    "Fue sintetizado por primera vez en el Laboratorio de Radiación de Berkeley bombardeando un blanco de californio con iones de boro. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias muy cortas. El más estable, el lawrencio-266, tiene una vida media de aproximadamente 11 horas. [1, 2, 4]",
+    "Debido a su extrema escasez e inestabilidad, muchas de sus propiedades físicas, como la apariencia o la densidad, son predicciones teóricas y no se han medido experimentalmente. [1, 2, 4]",
+    "Su química es difícil de estudiar, pero se ha confirmado que su estado de oxidación más estable es +3, como se esperaba para un homólogo más pesado del lutecio. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema rareza, corta vida media y la dificultad de su producción, el lawrencio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los químicos y físicos nucleares para comprender las propiedades de los elementos superpesados y los efectos relativistas en los átomos. [1, 2, 4]",
+    "Se utiliza para investigar los límites de la tabla periódica y la estabilidad nuclear. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado compuestos macroscópicos de lawrencio. Su química se ha estudiado exclusivamente a nivel de trazas, donde se ha observado que forma el ion Lr³⁺ en solución. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Ernest O. Lawrence, el físico estadounidense inventor del ciclotrón, un tipo de acelerador de partículas que fue crucial para el descubrimiento de muchos elementos transuránicos. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Lawrencio",
+    "https://www.rsc.org/periodic-table/element/103/lawrencium"
+  ]
 }
   
 ]
