@@ -12413,6 +12413,124 @@ expand_less
     "https://es.wikipedia.org/wiki/Lawrencio",
     "https://www.rsc.org/periodic-table/element/103/lawrencium"
   ]
+},
+  {
+  "simbolo": "Rf",
+  "nombre": "Rutherfordio",
+  "numeroAtomico": 104,
+  "masaAtomica": 267.122,
+  "grupo": 4,
+  "periodo": 7,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 2400,
+    "puntoDeEbullicion": 5800,
+    "densidad": 23.2,
+    "radioAtomico": 157,
+    "conductividadTermica": 23.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.3,
+    "energiaDeIonizacion": 579.9,
+    "afinidadElectronica": null,
+    "estadosOxidacion": [
+      4
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    10,
+    2
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal de transición",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Rutherfordio-263",
+      "numeroNeutrones": 159,
+      "masaAtomica": 263.1182,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea / alfa",
+        "vidaMedia": "11 minutos"
+      }
+    },
+    {
+      "nombre": "Rutherfordio-265",
+      "numeroNeutrones": 161,
+      "masaAtomica": 265.1205,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea",
+        "vidaMedia": "1.0 minutos"
+      }
+    },
+    {
+      "nombre": "Rutherfordio-267",
+      "numeroNeutrones": 163,
+      "masaAtomica": 267.1217,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea",
+        "vidaMedia": "1.3 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Instituto Conjunto de Investigación Nuclear (JINR) en Dubnaen 1964, Rusia, y equipo del Laboratorio Nacional Lawrence Berkeley (LBNL) en EE.UU. en 1969",
+    "fechaDescubrimiento": 1964
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y altamente radiactivo, el primer elemento transactinido (después de la serie de los actínidos). [1, 2, 4]",
+    "Fue sintetizado por primera vez en el Instituto Conjunto de Investigación Nuclear (JINR) en Dubna (Rusia) en 1964, y posteriormente confirmado en el Laboratorio Nacional Lawrence Berkeley (LBNL) en California en 1969. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas. El más estable, el rutherfordio-267, tiene una vida media de aproximadamente 1.3 horas. [1, 2, 4]",
+    "Se produce en aceleradores de partículas bombardeando blancos de elementos pesados (como plutonio o californio) con iones de elementos más ligeros (como neón o carbono). [1, 2, 4]",
+    "Su descubrimiento fue objeto de una controversia entre los laboratorios de Dubna y Berkeley, que también disputaron el nombre del elemento (Dubna propuso 'kurchatovio', Ku). La IUPAC finalmente asignó el nombre 'rutherfordio'. [1, 2, 4]",
+    "Se espera que se comporte químicamente como un homólogo más pesado del hafnio, en el grupo 4 de la tabla periódica. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la dificultad de su producción (solo se pueden crear unos pocos átomos a la vez), el rutherfordio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio ayuda a los científicos a investigar las propiedades químicas y nucleares de los elementos superpesados y a probar los límites de la tabla periódica. [1, 2, 4]",
+    "La investigación sobre el rutherfordio es crucial para comprender los efectos relativistas en los átomos pesados, que pueden causar que sus propiedades químicas se desvíen de las predicciones basadas en tendencias periódicas simples. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado compuestos macroscópicos de rutherfordio. Su química se ha estudiado a nivel de átomo único, donde se han investigado compuestos volátiles como el tetracloruro de rutherfordio (RfCl₄) y el tetrabromuro de rutherfordio (RfBr₄). [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Ernest Rutherford, el físico y químico neozelandés considerado el \"padre de la física nuclear\" por su descubrimiento del núcleo atómico y su modelo del átomo. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Rutherfordio",
+    "https://www.rsc.org/periodic-table/element/104/rutherfordium"
+  ]
 }
   
 ]
