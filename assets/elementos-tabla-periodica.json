@@ -12717,6 +12717,127 @@ expand_less
     "https://es.wikipedia.org/wiki/Seaborgio",
     "https://www.rsc.org/periodic-table/element/106/seaborgium"
   ]
+},
+  {
+  "simbolo": "Bh",
+  "nombre": "Bohrio",
+  "numeroAtomico": 107,
+  "masaAtomica": 270.133,
+  "grupo": 7,
+  "periodo": 7,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": null,
+    "puntoDeEbullicion": null,
+    "densidad": 37.1,
+    "radioAtomico": 141,
+    "conductividadTermica": 23.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.5,
+    "energiaDeIonizacion": 742.9,
+    "afinidadElectronica": null,
+    "estadosOxidacion": [
+      7,
+      5,
+      4,
+      3
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    13,
+    2
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal de transición",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Bohrio-267",
+      "numeroNeutrones": 160,
+      "masaAtomica": 267.127,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "17 segundos"
+      }
+    },
+    {
+      "nombre": "Bohrio-270",
+      "numeroNeutrones": 163,
+      "masaAtomica": 270.133,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "61 segundos"
+      }
+    },
+    {
+      "nombre": "Bohrio-274",
+      "numeroNeutrones": 167,
+      "masaAtomica": 274.143,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "0.9 minutos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Gesellschaft für Schwerionenforschung (GSI) en Darmstadt, Alemania, liderado por Peter Armbruster y Gottfried Münzenberg en 1981.",
+    "fechaDescubrimiento": 1981
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue sintetizado por primera vez en el GSI en Darmstadt, Alemania, bombardeando un blanco de bismuto-209 con iones de cromo-54 en un acelerador lineal. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas, del orden de segundos o minutos. El más estable, el bohrio-270, tiene una vida media de aproximadamente 61 segundos. [1, 2, 4]",
+    "Solo se han producido unos pocos átomos de bohrio, por lo que sus propiedades físicas macroscópicas son en gran parte desconocidas y se basan en predicciones teóricas. [1, 2, 4]",
+    "Su descubrimiento fue también reclamado por el equipo del JINR en Dubna (Rusia) en 1976, pero la evidencia del equipo alemán fue considerada más concluyente por la IUPAC. [1, 2]",
+    "Se espera que se comporte químicamente como un homólogo más pesado del renio, en el grupo 7 de la tabla periódica. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el bohrio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y los límites de la estabilidad nuclear. [1, 2, 4]",
+    "La investigación sobre la química del bohrio, como la formación de oxicloruro de bohrio (BhO₃Cl), ayuda a confirmar su posición en la tabla periódica y a estudiar los efectos relativistas en los átomos pesados. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado compuestos macroscópicos de bohrio. Su química se ha estudiado a nivel de átomo único, investigando compuestos volátiles como el oxicloruro de bohrio (BhO₃Cl) y el oxibromuro de bohrio (BhO₃Br). [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Niels Bohr, el físico danés que hizo contribuciones fundamentales para la comprensión de la estructura atómica y la mecánica cuántica, y recibió el Premio Nobel de Física en 1922. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Bohrio",
+    "https://www.rsc.org/periodic-table/element/107/bohrium"
+  ]
 }
   
 ]
