@@ -12426,9 +12426,7 @@ expand_less
     "electronegatividad": 1.3,
     "energiaDeIonizacion": 579.9,
     "afinidadElectronica": null,
-    "estadosOxidacion": [
-      4
-    ]
+    "estadosOxidacion": [4]
   },
   "capasElectronicas": [2, 8, 18, 32, 32, 10, 2],
   "natural": false,
@@ -12536,11 +12534,7 @@ expand_less
     "electronegatividad": 1.4,
     "energiaDeIonizacion": 665,
     "afinidadElectronica": null,
-    "estadosOxidacion": [
-      5,
-      4,
-      3
-    ]
+    "estadosOxidacion": [5, 4, 3]
   },
   "capasElectronicas": [2, 8, 18, 32, 32, 11, 2],
   "natural": false,
@@ -12614,6 +12608,114 @@ expand_less
   "recursos": [
     "https://es.wikipedia.org/wiki/Dubnio",
     "https://www.rsc.org/periodic-table/element/105/dubnium"
+  ]
+},
+  {
+  "simbolo": "Sg",
+  "nombre": "Seaborgio",
+  "numeroAtomico": 106,
+  "masaAtomica": 269.128,
+  "grupo": 6,
+  "periodo": 7,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": null,
+    "puntoDeEbullicion": null,
+    "densidad": 35.0,
+    "radioAtomico": 143,
+    "conductividadTermica": 23.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.4,
+    "energiaDeIonizacion": 757.5,
+    "afinidadElectronica": null,
+    "estadosOxidacion": [6, 5, 4, 3, 0]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 32, 12, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal de transición",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Seaborgio-265",
+      "numeroNeutrones": 159,
+      "masaAtomica": 265.1234,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea / alfa",
+        "vidaMedia": "8.4 segundos"
+      }
+    },
+    {
+      "nombre": "Seaborgio-269",
+      "numeroNeutrones": 163,
+      "masaAtomica": 269.128,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "2.1 minutos"
+      }
+    },
+    {
+      "nombre": "Seaborgio-271",
+      "numeroNeutrones": 165,
+      "masaAtomica": 271.1339,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea / alfa",
+        "vidaMedia": "2.4 minutos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Instituto Conjunto de Investigación Nuclear (JINR) en Dubna, Rusia, y equipo del Laboratorio Nacional Lawrence Berkeley (LBNL) en EE.UU (ambos equipos de forma independiente en 1974).",
+    "fechaDescubrimiento": 1974
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y altamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue el primer elemento en ser nombrado en honor a una persona viva, el químico nuclear estadounidense Glenn T. Seaborg. Esta decisión fue controvertida en su momento, pero finalmente fue aprobada por la IUPAC en 1997. [1, 2, 4]",
+    "Solo se han sintetizado unos pocos cientos de átomos de seaborgio, y se produce en aceleradores de partículas bombardeando blancos de elementos pesados (como californio) con iones (como oxígeno). [1, 2, 4]",
+    "Todos sus isótopos son extremadamente inestables y tienen vidas medias muy cortas, del orden de segundos o minutos. El más estable, el seaborgio-269, tiene una vida media de aproximadamente 2.1 minutos. [1, 2, 4]",
+    "Se espera que se comporte químicamente como un homólogo más pesado del wolframio, en el grupo 6 de la tabla periódica. [1, 2]",
+    "Su descubrimiento fue reclamado casi simultáneamente por equipos de investigación en Dubna (Rusia) y Berkeley (EE.UU.) en 1974. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el seaborgio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y los límites de la estabilidad nuclear. [1, 2, 4]",
+    "La investigación sobre la química del seaborgio, como la formación de compuestos volátiles como el oxicloruro de seaborgio (SgO₂Cl₂), ayuda a confirmar su posición en el grupo 6 de la tabla periódica y a estudiar los efectos relativistas en los átomos pesados. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado compuestos macroscópicos de seaborgio. Su química se ha estudiado a nivel de átomo único, investigando compuestos como el hexacarbonilo de seaborgio (Sg(CO)₆) y el oxicloruro de seaborgio (SgO₂Cl₂). [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Glenn T. Seaborg, el químico nuclear estadounidense que fue pionero en la síntesis de elementos transuránicos y co-descubridor de diez de ellos (incluyendo el plutonio, americio, curio, berkelio, californio, einstenio, fermio, mendelevio y nobelio). [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Seaborgio",
+    "https://www.rsc.org/periodic-table/element/106/seaborgium"
   ]
 }
   
