@@ -12515,6 +12515,106 @@ expand_less
     "https://es.wikipedia.org/wiki/Rutherfordio",
     "https://www.rsc.org/periodic-table/element/104/rutherfordium"
   ]
+},
+  {
+  "simbolo": "Db",
+  "nombre": "Dubnio",
+  "numeroAtomico": 105,
+  "masaAtomica": 268.126,
+  "grupo": 5,
+  "periodo": 7,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": null,
+    "puntoDeEbullicion": null,
+    "densidad": 29.3,
+    "radioAtomico": 149,
+    "conductividadTermica": 23.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.4,
+    "energiaDeIonizacion": 665,
+    "afinidadElectronica": null,
+    "estadosOxidacion": [
+      5,
+      4,
+      3
+    ]
+  },
+  "capasElectronicas": [2, 8, 18, 32, 32, 11, 2],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal de transición",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Dubnio-262",
+      "numeroNeutrones": 157,
+      "masaAtomica": 262.1144,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea / alfa",
+        "vidaMedia": "34 segundos"
+      }
+    },
+    {
+      "nombre": "Dubnio-268",
+      "numeroNeutrones": 163,
+      "masaAtomica": 268.126,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "fisión espontánea / alfa",
+        "vidaMedia": "29 horas"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Instituto Conjunto de Investigación Nuclear (JINR) en Dubna, Rusia en 1968, y equipo del Laboratorio Nacional Lawrence Berkeley (LBNL) en EE.UU en 1970.",
+    "fechaDescubrimiento": 1968
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y altamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue sintetizado por primera vez en el Instituto Conjunto de Investigación Nuclear (JINR) en Dubna (Rusia) en 1968, y de forma independiente en el Laboratorio Nacional Lawrence Berkeley (LBNL) en California en 1970. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas. El más estable, el dubnio-268, tiene una vida media de aproximadamente 29 horas. [1, 2, 4]",
+    "Se produce en aceleradores de partículas bombardeando blancos de elementos pesados (como americio, berkelio o californio) con iones de elementos más ligeros (como neón o nitrógeno). [1, 2, 4]",
+    "Su descubrimiento y nombre fueron objeto de una larga controversia. El equipo de Berkeley propuso 'hahnio' (Ha) en honor a Otto Hahn, mientras que el equipo de Dubna propuso 'nielsbohrio' (Ns) en honor a Niels Bohr. La IUPAC finalmente resolvió la disputa en 1997, nombrando al elemento 'dubnio'. [1, 2, 4]",
+    "Se espera que se comporte químicamente como un homólogo más pesado del tantalio, en el grupo 5 de la tabla periódica. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el dubnio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio permite a los científicos investigar las propiedades químicas y nucleares de los elementos superpesados y los efectos de la relatividad en los átomos pesados. [1, 2, 4]",
+    "La investigación sobre el dubnio ayuda a verificar y refinar los modelos teóricos de la estructura nuclear y la tabla periódica. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado compuestos macroscópicos de dubnio. Su química se ha estudiado a nivel de átomo único, investigando compuestos volátiles como el pentacloruro de dubnio (DbCl₅) y el pentabromuro de dubnio (DbBr₅). [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a la ciudad de Dubna, en Rusia, sede del Instituto Conjunto de Investigación Nuclear (JINR), donde el elemento fue sintetizado por primera vez. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Dubnio",
+    "https://www.rsc.org/periodic-table/element/105/dubnium"
+  ]
 }
   
 ]
