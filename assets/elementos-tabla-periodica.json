@@ -13303,6 +13303,114 @@ expand_less
     "https://es.wikipedia.org/wiki/Roentgenio",
     "https://www.rsc.org/periodic-table/element/111/roentgenium"
   ]
+},
+  {
+  "simbolo": "Cn",
+  "nombre": "Copernicio",
+  "numeroAtomico": 112,
+  "masaAtomica": 285.177,
+  "grupo": 12,
+  "periodo": 7,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 283,
+    "puntoDeEbullicion": 357,
+    "densidad": 23.7,
+    "radioAtomico": 147,
+    "conductividadTermica": 23.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 2.0,
+    "energiaDeIonizacion": 1154.9,
+    "afinidadElectronica": null,
+    "estadosOxidacion": [
+      4,
+      2,
+      0
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    18,
+    2
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal de transición",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Copernicio-283",
+      "numeroNeutrones": 171,
+      "masaAtomica": 283.172,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa / fisión espontánea",
+        "vidaMedia": "4 segundos"
+      }
+    },
+    {
+      "nombre": "Copernicio-285",
+      "numeroNeutrones": 173,
+      "masaAtomica": 285.177,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "29 segundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Gesellschaft für Schwerionenforschung (GSI) en Darmstadt, Alemania, liderado por Sigurd Hofmann.",
+    "fechaDescubrimiento": 1996
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue sintetizado por primera vez en el GSI en Darmstadt, Alemania, bombardeando un blanco de plomo-208 con iones de zinc-70. [1, 2, 4]",
+    "Debido a los fuertes efectos relativistas, se predice que el copernicio es muy volátil y podría ser un líquido o incluso un gas a temperatura y presión estándar, comportándose más como un gas noble que como un metal. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas, del orden de microsegundos a segundos. El más estable, el copernicio-285, tiene una vida media de aproximadamente 29 segundos. [1, 2, 4]",
+    "Solo se han producido unos pocos átomos de copernicio, por lo que sus propiedades físicas macroscópicas son en gran parte desconocidas y se basan en predicciones teóricas. [1, 2, 4]",
+    "Se espera que se comporte químicamente como un homólogo más pesado del mercurio, en el grupo 12 de la tabla periódica, pero con propiedades más inertes. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el copernicio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y los límites de la estabilidad nuclear. [1, 2, 4]",
+    "La investigación sobre la química del copernicio, como su interacción con superficies de oro, ayuda a comprender los efectos relativistas en los átomos pesados y a confirmar su posición en la tabla periódica. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado ni estudiado experimentalmente compuestos de copernicio debido a la extrema dificultad de su producción y su corta vida media. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Nicolás Copérnico, el astrónomo polaco-prusiano que formuló el modelo heliocéntrico del universo, en el que la Tierra y los demás planetas giran alrededor del Sol. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Copernicio",
+    "https://www.rsc.org/periodic-table/element/112/copernicium"
+  ]
 }
   
 ]
