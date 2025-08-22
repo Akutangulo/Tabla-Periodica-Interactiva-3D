@@ -13520,6 +13520,116 @@ expand_less
     "https://es.wikipedia.org/wiki/Nihonio",
     "https://www.rsc.org/periodic-table/element/113/nihonium"
   ]
+},
+  {
+  "simbolo": "Fl",
+  "nombre": "Flerovio",
+  "numeroAtomico": 114,
+  "masaAtomica": 289.191,
+  "grupo": 14,
+  "periodo": 7,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "gas",
+    "puntoDeFusion": 340,
+    "puntoDeEbullicion": 420,
+    "densidad": 14.0,
+    "radioAtomico": 180,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.7,
+    "energiaDeIonizacion": 823.9,
+    "afinidadElectronica": null,
+    "estadosOxidacion": [
+      6,
+      4,
+      2,
+      1,
+      0
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    18,
+    4
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal del bloque p",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Flerovio-287",
+      "numeroNeutrones": 173,
+      "masaAtomica": 287.188,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "0.48 segundos"
+      }
+    },
+    {
+      "nombre": "Flerovio-289",
+      "numeroNeutrones": 175,
+      "masaAtomica": 289.191,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa / fisión espontánea",
+        "vidaMedia": "2.6 segundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Instituto Conjunto de Investigación Nuclear (JINR) en Dubna, Rusia en 1998, en colaboración con el Laboratorio Nacional Lawrence Livermore (LLNL) en EE.UU. Reconocimiento oficial en 2009",
+    "fechaDescubrimiento": 1998
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue sintetizado por primera vez en el JINR en Dubna, Rusia, bombardeando un blanco de plutonio-244 con iones de calcio-48. [1, 2, 4]",
+    "Se encuentra en la llamada \"isla de estabilidad\", una región teórica de la tabla periódica donde se predice que los núcleos de los elementos superpesados son más estables de lo esperado. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas, del orden de milisegundos a segundos. El más estable, el flerovio-289, tiene una vida media de aproximadamente 2.6 segundos. [1, 2, 4]",
+    "Debido a los fuertes efectos relativistas, se predice que el flerovio es inusualmente volátil para un metal del grupo 14, posiblemente comportándose de manera similar a un gas noble. [1, 2, 4]",
+    "Se espera que sea el homólogo más pesado del plomo, pero los experimentos sugieren que sus propiedades químicas son significativamente diferentes. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el flerovio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y la existencia de la \"isla de estabilidad\". [1, 2, 4]",
+    "La investigación sobre el flerovio ayuda a comprender los efectos relativistas en los átomos pesados y a verificar los modelos teóricos de la estructura nuclear. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado ni estudiado experimentalmente compuestos de flerovio debido a la extrema dificultad de su producción y su corta vida media. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor al Laboratorio Flerov de Reacciones Nucleares del Instituto Conjunto de Investigación Nuclear (JINR) en Dubna, Rusia. El laboratorio, a su vez, fue nombrado en honor a Georgy Flyorov (o Flerov), un físico nuclear soviético pionero en la física de iones pesados y co-descubridor de la fisión espontánea. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Flerovio",
+    "https://www.rsc.org/periodic-table/element/114/flerovium"
+  ]
 }
   
 ]
