@@ -12961,6 +12961,117 @@ expand_less
     "https://es.wikipedia.org/wiki/Hasio",
     "https://www.rsc.org/periodic-table/element/108/hassium"
   ]
+},
+  {
+  "simbolo": "Mt",
+  "nombre": "Meitnerio",
+  "numeroAtomico": 109,
+  "masaAtomica": 277.154,
+  "grupo": 9,
+  "periodo": 7,
+  "bloque": "d",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": null,
+    "puntoDeEbullicion": null,
+    "densidad": 37.4,
+    "radioAtomico": 128,
+    "conductividadTermica": 23.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.7,
+    "energiaDeIonizacion": 800.7,
+    "afinidadElectronica": null,
+    "estadosOxidacion": [
+      9,
+      8,
+      6,
+      4,
+      3,
+      1
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    15,
+    2
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal de transición",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Meitnerio-276",
+      "numeroNeutrones": 167,
+      "masaAtomica": 276.151,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "0.72 segundos"
+      }
+    },
+    {
+      "nombre": "Meitnerio-278",
+      "numeroNeutrones": 169,
+      "masaAtomica": 278.154,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "7.6 segundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Gesellschaft für Schwerionenforschung (GSI) en Darmstadt, Alemania, liderado por Peter Armbruster y Gottfried Münzenberg.",
+    "fechaDescubrimiento": 1982
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue sintetizado por primera vez en el GSI en Darmstadt, Alemania, bombardeando un blanco de bismuto-209 con iones de hierro-58. En el experimento original, solo se detectó un único átomo. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas, del orden de milisegundos a segundos. El más estable, el meitnerio-278, tiene una vida media de aproximadamente 7.6 segundos. [1, 2, 4]",
+    "Solo se han producido unos pocos átomos de meitnerio, por lo que sus propiedades físicas macroscópicas son en gran parte desconocidas y se basan en predicciones teóricas. [1, 2, 4]",
+    "Se espera que se comporte químicamente como un homólogo más pesado del iridio, en el grupo 9 de la tabla periódica. [1, 2]",
+    "Es uno de los pocos elementos nombrados en honor a una mujer científica no mitológica. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el meitnerio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y los límites de la estabilidad nuclear. [1, 2, 4]",
+    "La investigación sobre el meitnerio ayuda a comprender los efectos relativistas en los átomos pesados y a verificar los modelos teóricos de la estructura nuclear. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado ni estudiado experimentalmente compuestos de meitnerio debido a la extrema dificultad de su producción y su corta vida media. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Lise Meitner, la física austriaca-sueca que fue una de las descubridoras de la fisión nuclear y del elemento protactinio. Su contribución a la fisión fue fundamental, aunque no fue reconocida con el Premio Nobel que se otorgó a su colega Otto Hahn. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Meitnerio",
+    "https://www.rsc.org/periodic-table/element/109/meitnerium"
+  ]
 }
   
 ]
