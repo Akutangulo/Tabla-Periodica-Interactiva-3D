@@ -13411,6 +13411,115 @@ expand_less
     "https://es.wikipedia.org/wiki/Copernicio",
     "https://www.rsc.org/periodic-table/element/112/copernicium"
   ]
+},
+  {
+  "simbolo": "Nh",
+  "nombre": "Nihonio",
+  "numeroAtomico": 113,
+  "masaAtomica": 286.182,
+  "grupo": 13,
+  "periodo": 7,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 700,
+    "puntoDeEbullicion": 1430,
+    "densidad": 16.0,
+    "radioAtomico": 170,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.6,
+    "energiaDeIonizacion": 704.9,
+    "afinidadElectronica": 66.6,
+    "estadosOxidacion": [
+      5,
+      3,
+      1,
+      -1
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    18,
+    3
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal del bloque p",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Nihonio-284",
+      "numeroNeutrones": 171,
+      "masaAtomica": 284.178,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "0.48 segundos"
+      }
+    },
+    {
+      "nombre": "Nihonio-286",
+      "numeroNeutrones": 173,
+      "masaAtomica": 286.182,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "19.6 segundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del instituto RIKEN en Wako, Japón, liderado por Kosuke Morita.",
+    "fechaDescubrimiento": "2004 (síntesis); 2015 (reconocimiento oficial)"
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue el primer elemento sintético en ser descubierto en un país asiático. [1, 2, 4]",
+    "Fue sintetizado en el instituto RIKEN en Japón, bombardeando un blanco de bismuto-209 con iones de zinc-70. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas, del orden de milisegundos a segundos. El más estable, el nihonio-286, tiene una vida media de aproximadamente 19.6 segundos. [1, 2, 4]",
+    "Solo se han producido unos pocos átomos de nihonio, por lo que sus propiedades físicas macroscópicas son en gran parte desconocidas y se basan en predicciones teóricas. [1, 2, 4]",
+    "Se espera que se comporte químicamente como un homólogo más pesado del talio, en el grupo 13 de la tabla periódica, aunque los efectos relativistas podrían alterar significativamente sus propiedades. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el nihonio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y los límites de la estabilidad nuclear. [1, 2, 4]",
+    "La investigación sobre el nihonio ayuda a comprender los efectos relativistas en los átomos pesados y a verificar los modelos teóricos de la estructura nuclear. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado ni estudiado experimentalmente compuestos de nihonio debido a la extrema dificultad de su producción y su corta vida media. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Japón, el país donde fue descubierto. 'Nihon' (日本) es uno de los dos nombres japoneses para Japón. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Nihonio",
+    "https://www.rsc.org/periodic-table/element/113/nihonium"
+  ]
 }
   
 ]
