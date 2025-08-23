@@ -13954,6 +13954,104 @@ expand_less
     "https://es.wikipedia.org/wiki/Teneso",
     "https://www.rsc.org/periodic-table/element/117/tennessine"
   ]
+},
+  {
+  "simbolo": "Og",
+  "nombre": "Oganesón",
+  "numeroAtomico": 118,
+  "masaAtomica": 294.214,
+  "grupo": 18,
+  "periodo": 7,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido (predicho)",
+    "puntoDeFusion": 325,
+    "puntoDeEbullicion": 450,
+    "densidad": 4.95,
+    "radioAtomico": 180,
+    "conductividadTermica": 0.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.7,
+    "energiaDeIonizacion": 861.4,
+    "afinidadElectronica": 5.40318,
+    "estadosOxidacion": [
+      6,
+      4,
+      2,
+      0,
+      -1
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    18,
+    8
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "no metal",
+    "subtipo": [
+      "gas noble",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Oganesón-294",
+      "numeroNeutrones": 176,
+      "masaAtomica": 294.21392,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "0.69 milisegundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Sintetizado en 2002 por el equipo del Instituto Conjunto de Investigación Nuclear (JINR) en Dubna, Rusia, y equipo del Laboratorio Nacional Lawrence Livermore (LLNL) en EE.UU., liderado por Yuri Oganessian. Reconocido y nombrado oficialmente en 2016.",
+    "fechaDescubrimiento": 2002
+  },
+  "datosCuriosos": [
+    "Es el elemento con el número atómico y la masa atómica más altos sintetizados hasta la fecha. [1, 2, 4]",
+    "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Debido a los fuertes efectos relativistas, se predice que el oganesón es el único gas noble que no es un gas en condiciones estándar, sino un sólido semiconductor. [1, 2, 4]",
+    "A diferencia de otros gases nobles, se predice que el oganesón es químicamente reactivo y podría formar compuestos estables, como fluoruros y óxidos. [1, 2, 4]",
+    "Solo se han sintetizado unos pocos átomos de oganesón, y su isótopo más estable tiene una vida media de menos de un milisegundo. [1, 2, 4]",
+    "Fue creado bombardeando un blanco de californio-249 con iones de calcio-48. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el oganesón no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan los límites de la tabla periódica y las propiedades de los elementos superpesados. [1, 2, 4]",
+    "La investigación sobre el oganesón ayuda a comprender los efectos relativistas en los átomos pesados y a verificar los modelos teóricos de la estructura nuclear. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado ni estudiado experimentalmente compuestos de oganesón debido a la extrema dificultad de su producción y su corta vida media. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a Yuri Oganessian, un físico nuclear ruso-armenio, en reconocimiento a sus contribuciones pioneras a la investigación de elementos transactinidos. Es una de las dos únicas personas (junto con Glenn T. Seaborg) que ha tenido un elemento nombrado en su honor durante su vida. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Oganes%C3%B3n",
+    "https://www.rsc.org/periodic-table/element/118/oganesson"
+  ]
 }
   
 ]
