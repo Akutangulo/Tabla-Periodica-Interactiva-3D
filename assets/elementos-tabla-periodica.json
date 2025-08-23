@@ -13484,8 +13484,8 @@ expand_less
     }
   ],
   "descubrimiento": {
-    "descubridor": "Equipo del instituto RIKEN en Wako, Japón, liderado por Kosuke Morita.",
-    "fechaDescubrimiento": "2004 (síntesis); 2015 (reconocimiento oficial)"
+    "descubridor": "Sintetizado en 2004 por el equipo del instituto RIKEN en Wako, Japón, liderado por Kosuke Morita. Reconocido oficialmente en 2015.",
+    "fechaDescubrimiento": 2004
   },
   "datosCuriosos": [
     "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
