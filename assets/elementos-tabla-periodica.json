@@ -13737,6 +13737,114 @@ expand_less
     "https://es.wikipedia.org/wiki/Moscovio",
     "https://www.rsc.org/periodic-table/element/115/moscovium"
   ]
+},
+  {
+  "simbolo": "Lv",
+  "nombre": "Livermorio",
+  "numeroAtomico": 116,
+  "masaAtomica": 293.205,
+  "grupo": 16,
+  "periodo": 7,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 637,
+    "puntoDeEbullicion": 1035,
+    "densidad": 12.9,
+    "radioAtomico": 183,
+    "conductividadTermica": 10.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.8,
+    "energiaDeIonizacion": 723.6,
+    "afinidadElectronica": 74.9,
+    "estadosOxidacion": [
+      4,
+      2,
+      -2
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    18,
+    6
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metal",
+    "subtipo": [
+      "metal del bloque p",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Livermorio-290",
+      "numeroNeutrones": 174,
+      "masaAtomica": 290.200,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "7.1 milisegundos"
+      }
+    },
+    {
+      "nombre": "Livermorio-293",
+      "numeroNeutrones": 177,
+      "masaAtomica": 293.205,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "53 milisegundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Equipo del Instituto Conjunto de Investigación Nuclear (JINR) en Dubna, Rusia, y equipo del Laboratorio Nacional Lawrence Livermore (LLNL) en EE.UU en 2000 (síntesis). Reconocimiento oficial en 2012",
+    "fechaDescubrimiento": 2000
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue sintetizado por primera vez en el JINR en Dubna, Rusia, bombardeando un blanco de curio-248 con iones de calcio-48. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas, del orden de milisegundos. El más estable, el livermorio-293, tiene una vida media de aproximadamente 53 milisegundos. [1, 2, 4]",
+    "Solo se han producido unos pocos átomos de livermorio, por lo que sus propiedades físicas macroscópicas son en gran parte desconocidas y se basan en predicciones teóricas. [1, 2, 4]",
+    "Se espera que se comporte químicamente como un homólogo más pesado del polonio, en el grupo 16 de la tabla periódica, aunque los efectos relativistas podrían hacer que sus propiedades se asemejen más a las de un metal noble. [1, 2]",
+    "El descubrimiento del livermorio es parte de los esfuerzos para explorar la \"isla de estabilidad\". [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el livermorio no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y los límites de la estabilidad nuclear. [1, 2, 4]",
+    "La investigación sobre el livermorio ayuda a comprender los efectos relativistas en los átomos pesados y a verificar los modelos teóricos de la estructura nuclear. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado ni estudiado experimentalmente compuestos de livermorio debido a la extrema dificultad de su producción y su corta vida media. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor al Laboratorio Nacional Lawrence Livermore (LLNL) en Livermore, California, y a la ciudad de Livermore. El equipo del LLNL colaboró con el JINR en Dubna en el descubrimiento de varios elementos superpesados, incluyendo el livermorio. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Livermorio",
+    "https://www.rsc.org/periodic-table/element/116/livermorium"
+  ]
 }
   
 ]
