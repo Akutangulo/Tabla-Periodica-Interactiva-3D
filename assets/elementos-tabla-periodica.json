@@ -13845,6 +13845,115 @@ expand_less
     "https://es.wikipedia.org/wiki/Livermorio",
     "https://www.rsc.org/periodic-table/element/116/livermorium"
   ]
+},
+  {
+  "simbolo": "Ts",
+  "nombre": "Teneso",
+  "numeroAtomico": 117,
+  "masaAtomica": 294.211,
+  "grupo": 17,
+  "periodo": 7,
+  "bloque": "p",
+  "propiedadesFisicas": {
+    "estado": "sólido",
+    "puntoDeFusion": 723,
+    "puntoDeEbullicion": 883,
+    "densidad": 7.17,
+    "radioAtomico": 165,
+    "conductividadTermica": 5.0
+  },
+  "propiedadesQuimicas": {
+    "electronegatividad": 1.8,
+    "energiaDeIonizacion": 742.9,
+    "afinidadElectronica": 165.9,
+    "estadosOxidacion": [
+      5,
+      3,
+      1,
+      -1
+    ]
+  },
+  "capasElectronicas": [
+    2,
+    8,
+    18,
+    32,
+    32,
+    18,
+    7
+  ],
+  "natural": false,
+  "radiactivo": true,
+  "clasificacion": {
+    "tipo": "metaloide",
+    "subtipo": [
+      "halógeno",
+      "elemento superpesado"
+    ]
+  },
+  "isotopos": [
+    {
+      "nombre": "Teneso-293",
+      "numeroNeutrones": 176,
+      "masaAtomica": 293.208,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "22 milisegundos"
+      }
+    },
+    {
+      "nombre": "Teneso-294",
+      "numeroNeutrones": 177,
+      "masaAtomica": 294.211,
+      "abundancia": 0.0,
+      "natural": false,
+      "radiactivo": true,
+      "desintegracion": {
+        "tipo": "alfa",
+        "vidaMedia": "51 milisegundos"
+      }
+    }
+  ],
+  "descubrimiento": {
+    "descubridor": "Sintesis en colaboración entre el Instituto Conjunto de Investigación Nuclear (JINR) en Dubna, Rusia, y el Laboratorio Nacional Oak Ridge (ORNL) en Tennessee, EE.UU., liderada por Yuri Oganessian en 2010. Reconocido y nombrado oficialmente en 2016.",
+    "fechaDescubrimiento": 2010
+  },
+  "datosCuriosos": [
+    "Es un elemento sintético y extremadamente radiactivo que no existe en la naturaleza. [1, 2, 4]",
+    "Fue sintetizado por primera vez en el JINR en Dubna, Rusia, bombardeando un blanco de berkelio-249 con iones de calcio-48. El berkelio utilizado fue producido en el Laboratorio Nacional Oak Ridge en EE.UU. [1, 2, 4]",
+    "Todos sus isótopos tienen vidas medias extremadamente cortas, del orden de milisegundos. El más estable, el teneso-294, tiene una vida media de aproximadamente 51 milisegundos. [1, 2, 4]",
+    "Solo se han producido unos pocos átomos de teneso, por lo que sus propiedades físicas macroscópicas son en gran parte desconocidas y se basan en predicciones teóricas. [1, 2, 4]",
+    "Se encuentra en el grupo 17, por lo que es un homólogo pesado del astato y se clasifica como un halógeno. Sin embargo, debido a los efectos relativistas, se predice que tendrá propiedades más metálicas que los halógenos más ligeros. [1, 2, 4]",
+    "Es el segundo elemento más pesado sintetizado hasta la fecha. [1, 2]"
+  ],
+  "usos": [
+    "Debido a su extrema inestabilidad, corta vida media y la producción de solo unos pocos átomos a la vez, el teneso no tiene ninguna aplicación fuera de la investigación científica fundamental. [1, 2, 4]",
+    "Su estudio es de interés para los científicos que investigan las propiedades de los elementos superpesados y los límites de la estabilidad nuclear. [1, 2, 4]",
+    "La investigación sobre el teneso ayuda a comprender los efectos relativistas en los átomos pesados y a verificar los modelos teóricos de la estructura nuclear. [1, 2]"
+  ],
+  "compuestosImportantes": [
+    "No se han preparado ni estudiado experimentalmente compuestos de teneso debido a la extrema dificultad de su producción y su corta vida media. [1, 2]"
+  ],
+  "abundancia": {
+    "universo": "Prácticamente cero",
+    "cortezaTerrestre": "Prácticamente cero",
+    "atmosfera": "Prácticamente cero",
+    "oceano": "Prácticamente cero",
+    "totalTierra": "Prácticamente cero",
+    "composicionCuerpoHumano": {
+      "porcentajeMasa": "Prácticamente cero",
+      "categoriaAbundancia": "Artificial"
+    }
+  },
+  "toxicidad": "true (extremadamente tóxico debido a su intensa radiactividad. Representa un grave peligro radiológico). [1, 2]",
+  "origenDelNombre": "Nombrado en honor a la región de Tennessee, en Estados Unidos, en reconocimiento a la contribución de instituciones de investigación de esa región, como el Laboratorio Nacional Oak Ridge, la Universidad de Vanderbilt y la Universidad de Tennessee, en la investigación de elementos superpesados, incluyendo la producción del blanco de berkelio crucial para la síntesis del teneso. [1, 2, 4]",
+  "recursos": [
+    "https://es.wikipedia.org/wiki/Teneso",
+    "https://www.rsc.org/periodic-table/element/117/tennessine"
+  ]
 }
   
 ]
