@@ -73,14 +73,14 @@
     "Bajo presiones extremadamente altas, se teoriza que el hidrógeno puede existir como un metal líquido (hidrógeno metálico), posiblemente en el interior de planetas gigantes gaseosos como Júpiter y Saturno."
   ],
   "usos": [
-    "Producción de amoniaco (proceso Haber-Bosch) para fertilizantes. [10, 37]",
-    "Hidrogenación de aceites vegetales para producir grasas sólidas (margarina). [10]",
-    "Combustible para cohetes espaciales, usualmente en forma líquida (LH₂) con oxígeno líquido (LOX). [10]",
-    "Refrigerante en generadores eléctricos de gran tamaño debido a su alta conductividad térmica y baja densidad. [5]",
+    "Producción de amoniaco (proceso Haber-Bosch) para fertilizantes.",
+    "Hidrogenación de aceites vegetales para producir grasas sólidas (margarina).",
+    "Combustible para cohetes espaciales, usualmente en forma líquida (LH₂) con oxígeno líquido (LOX).",
+    "Refrigerante en generadores eléctricos de gran tamaño debido a su alta conductividad térmica y baja densidad.",
     "Producción de metanol y ácido clorhídrico. [10, 38]",
-    "Combustible en celdas de hidrógeno para vehículos eléctricos, produciendo solo agua como subproducto. [10]",
-    "Agente reductor en metalurgia para obtener metales puros a partir de sus óxidos. [18]",
-    "En soldadura (soplete de hidrógeno atómico). [18]"
+    "Combustible en celdas de hidrógeno para vehículos eléctricos, produciendo solo agua como subproducto.",
+    "Agente reductor en metalurgia para obtener metales puros a partir de sus óxidos.",
+    "En soldadura (soplete de hidrógeno atómico)."
   ],
   "compuestosImportantes": [
     "H₂O (agua)",
@@ -88,7 +88,7 @@
     "CH₄ (metano)",
     "HCl (ácido clorhídrico)",
     "H₂O₂ (peróxido de hidrógeno)",
-    "Numerosos compuestos orgánicos (hidrocarburos, alcoholes, azúcares, etc.). [2, 33]"
+    "Numerosos compuestos orgánicos (hidrocarburos, alcoholes, azúcares, etc.)."
   ],
   "abundancia": {
     "universo": 75,
@@ -102,7 +102,7 @@
     }
   },
   "toxicidad": "false",
-  "origenDelNombre": "Del griego 'hydro' (agua) y 'genes' (generador o creador), que significa \"formador de agua\", nombre acuñado por Antoine Lavoisier. [2, 10, 12]",
+  "origenDelNombre": "Del griego 'hydro' (agua) y 'genes' (generador o creador), que significa \"formador de agua\", nombre acuñado por Antoine Lavoisier.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Hidr%C3%B3geno",
     "https://www.rsc.org/periodic-table/element/1/hydrogen"
