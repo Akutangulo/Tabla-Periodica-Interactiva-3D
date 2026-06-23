@@ -176,20 +176,20 @@
   "datosCuriosos": [
     "Fue descubierto en el espectro de la corona solar durante un eclipse en 1868 antes que en la Tierra.",
     "Es el segundo elemento más abundante en el universo después del hidrógeno, constituyendo aproximadamente el 24% de la masa elemental del universo.",
-    "No se solidifica a presión atmosférica normal, incluso a temperaturas cercanas al cero absoluto; se requiere una presión de unas 25 atmósferas. [1, 6, 7]",
-    "Al inhalarlo, la voz se vuelve temporalmente más aguda debido a que la velocidad del sonido en el helio es casi tres veces mayor que en el aire. [14]",
-    "El helio líquido (Helio II, por debajo de 2.17 K) es un superfluido, con viscosidad prácticamente nula y una conductividad térmica extremadamente alta. [1, 3]",
+    "No se solidifica a presión atmosférica normal, incluso a temperaturas cercanas al cero absoluto; se requiere una presión de unas 25 atmósferas.",
+    "Al inhalarlo, la voz se vuelve temporalmente más aguda debido a que la velocidad del sonido en el helio es casi tres veces mayor que en el aire.",
+    "El helio líquido (Helio II, por debajo de 2.17 K) es un superfluido, con viscosidad prácticamente nula y una conductividad térmica extremadamente alta.",
     "Es el elemento con el punto de ebullición más bajo de todos. [4, 5, 6]"
   ],
   "usos": [
-    "Inflar globos y dirigibles debido a su baja densidad (más ligero que el aire) y por no ser inflamable. [1, 8, 9, 10, 12, 15]",
-    "Refrigerante criogénico para imanes superconductores en escáneres de Resonancia Magnética (MRI) y espectrómetros de RMN. [5, 9, 10, 14, 33]",
-    "Gas protector inerte en soldadura por arco de metales. [1, 10, 15, 33]",
-    "Detección de fugas en sistemas de alto vacío y tuberías. [1, 10]",
-    "En mezclas respiratorias (heliox) para buceo a gran profundidad y para pacientes con dificultades respiratorias, ya que reduce la resistencia al flujo de aire. [9, 10, 12]",
-    "Gas portador en cromatografía de gases. [10]",
-    "Enfriamiento de detectores infrarrojos y telescopios espaciales. [9]",
-    "Como medio de transmisión de calor en algunos reactores nucleares refrigerados por gas. [1]"
+    "Inflar globos y dirigibles debido a su baja densidad (más ligero que el aire) y por no ser inflamable.",
+    "Refrigerante criogénico para imanes superconductores en escáneres de Resonancia Magnética (MRI) y espectrómetros de RMN.",
+    "Gas protector inerte en soldadura por arco de metales.",
+    "Detección de fugas en sistemas de alto vacío y tuberías.",
+    "En mezclas respiratorias (heliox) para buceo a gran profundidad y para pacientes con dificultades respiratorias, ya que reduce la resistencia al flujo de aire.",
+    "Gas portador en cromatografía de gases.",
+    "Enfriamiento de detectores infrarrojos y telescopios espaciales.",
+    "Como medio de transmisión de calor en algunos reactores nucleares refrigerados por gas."
   ],
   "compuestosImportantes": [
     "Na₂He (Heluro de disodio, un compuesto predicho y observado bajo altas presiones). [37]"
