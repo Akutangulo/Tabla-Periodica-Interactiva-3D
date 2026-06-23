@@ -179,7 +179,7 @@
     "No se solidifica a presión atmosférica normal, incluso a temperaturas cercanas al cero absoluto; se requiere una presión de unas 25 atmósferas.",
     "Al inhalarlo, la voz se vuelve temporalmente más aguda debido a que la velocidad del sonido en el helio es casi tres veces mayor que en el aire.",
     "El helio líquido (Helio II, por debajo de 2.17 K) es un superfluido, con viscosidad prácticamente nula y una conductividad térmica extremadamente alta.",
-    "Es el elemento con el punto de ebullición más bajo de todos. [4, 5, 6]"
+    "Es el elemento con el punto de ebullición más bajo de todos."
   ],
   "usos": [
     "Inflar globos y dirigibles debido a su baja densidad (más ligero que el aire) y por no ser inflamable.",
@@ -192,7 +192,7 @@
     "Como medio de transmisión de calor en algunos reactores nucleares refrigerados por gas."
   ],
   "compuestosImportantes": [
-    "Na₂He (Heluro de disodio, un compuesto predicho y observado bajo altas presiones). [37]"
+    "Na₂He (Heluro de disodio, un compuesto predicho y observado bajo altas presiones)."
   ],
   "abundancia": {
     "universo": 24,
@@ -206,7 +206,7 @@
     }
   },
   "toxicidad": "false",
-  "origenDelNombre": "Del griego 'helios' (ἥλιος), que significa Sol, ya que fue detectado por primera vez en el espectro de la corona solar. [1, 4, 12, 17, 18, 22, 25, 29]",
+  "origenDelNombre": "Del griego 'helios' (ἥλιος), que significa Sol, ya que fue detectado por primera vez en el espectro de la corona solar.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Helio",
     "https://www.rsc.org/periodic-table/element/2/helium"
