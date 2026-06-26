@@ -517,30 +517,30 @@
     "fechaDescubrimiento": 1808
   },
   "datosCuriosos": [
-    "El boro cristalino es un metaloide muy duro (9,5 en la escala de Mohs) y resistente al calor, mientras que el boro amorfo es un polvo marrón. [1]",
-    "El boro amorfo se usa en fuegos artificiales para dar un característico color verde. [1, 3]",
-    "Es un micronutriente esencial para el crecimiento de las plantas, participando en la estructura de la pared celular y el transporte de azúcares. [14, 18, 28]",
-    "Tiene uno de los puntos de fusión y ebullición más altos entre los metaloides. [1, 3, 8]",
-    "El nitruro de boro cúbico (c-BN) es uno de los materiales más duros conocidos, casi tanto como el diamante, y es un excelente conductor térmico. [3, 22]",
-    "El isótopo boro-10 tiene una alta capacidad de absorción de neutrones. [1, 4]"
+    "El boro cristalino es un metaloide muy duro (9,5 en la escala de Mohs) y resistente al calor, mientras que el boro amorfo es un polvo marrón.",
+    "El boro amorfo se usa en fuegos artificiales para dar un característico color verde.",
+    "Es un micronutriente esencial para el crecimiento de las plantas, participando en la estructura de la pared celular y el transporte de azúcares.",
+    "Tiene uno de los puntos de fusión y ebullición más altos entre los metaloides.",
+    "El nitruro de boro cúbico (c-BN) es uno de los materiales más duros conocidos, casi tanto como el diamante, y es un excelente conductor térmico.",
+    "El isótopo boro-10 tiene una alta capacidad de absorción de neutrones."
   ],
   "usos": [
-    "Fabricación de vidrio borosilicato (como Pyrex y Kimax), conocido por su resistencia al choque térmico y durabilidad, usado en utensilios de cocina y material de laboratorio. [1, 4]",
-    "En la agricultura, como componente de fertilizantes para corregir deficiencias de boro en los suelos. [10, 25]",
-    "El isótopo boro-10 se utiliza en el control de reactores nucleares (barras de control), como escudo contra la radiación y en la detección de neutrones. [1, 4, 9]",
-    "En aleaciones, como el ferroboro, para aumentar la templabilidad del acero. [9]",
-    "Producción de perborato de sodio, un agente blanqueador en detergentes. [2]",
-    "Las fibras de boro se utilizan en aplicaciones aeroespaciales y en equipamiento deportivo de alto rendimiento por su gran resistencia y ligereza. [1, 3]",
-    "El ácido bórico tiene propiedades antisépticas, insecticidas y fungicidas leves. [1, 4]",
-    "Componente en imanes permanentes de neodimio-hierro-boro (NdFeB), que son muy potentes. [27]"
+    "Fabricación de vidrio borosilicato (como Pyrex y Kimax), conocido por su resistencia al choque térmico y durabilidad, usado en utensilios de cocina y material de laboratorio.",
+    "En la agricultura, como componente de fertilizantes para corregir deficiencias de boro en los suelos.",
+    "El isótopo boro-10 se utiliza en el control de reactores nucleares (barras de control), como escudo contra la radiación y en la detección de neutrones.",
+    "En aleaciones, como el ferroboro, para aumentar la templabilidad del acero.",
+    "Producción de perborato de sodio, un agente blanqueador en detergentes.",
+    "Las fibras de boro se utilizan en aplicaciones aeroespaciales y en equipamiento deportivo de alto rendimiento por su gran resistencia y ligereza.",
+    "El ácido bórico tiene propiedades antisépticas, insecticidas y fungicidas leves.",
+    "Componente en imanes permanentes de neodimio-hierro-boro (NdFeB), que son muy potentes."
   ],
   "compuestosImportantes": [
     "B₂O₃ (óxido de boro / trióxido de diboro)",
     "H₃BO₃ (ácido bórico)",
-    "Na₂B₄O₇·10H₂O (bórax / tetraborato de sodio decahidratado). [16]",
-    "BN (nitruro de boro). [3, 22]",
+    "Na₂B₄O₇·10H₂O (bórax / tetraborato de sodio decahidratado).",
+    "BN (nitruro de boro).",
     "B₄C (carburo de boro)",
-    "NaBH₄ (borohidruro de sodio). [9]",
+    "NaBH₄ (borohidruro de sodio).",
     "BF₃ (trifluoruro de boro)"
   ],
   "abundancia": {
@@ -555,7 +555,7 @@
     }
   },
   "toxicidad": "baja (elemento y boratos); compuestos como los boranos son altamente tóxicos",
-  "origenDelNombre": "Del árabe 'buraq' y del persa 'burah', ambos referidos al mineral bórax, del cual fue aislado. [9, 21]",
+  "origenDelNombre": "Del árabe 'buraq' y del persa 'burah', ambos referidos al mineral bórax, del cual fue aislado.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Boro",
     "https://www.rsc.org/periodic-table/element/5/boron"
