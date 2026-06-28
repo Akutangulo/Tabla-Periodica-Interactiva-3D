@@ -735,20 +735,20 @@
     "fechaDescubrimiento": 1772
   },
   "datosCuriosos": [
-    "Compone aproximadamente el 78.09% del aire de la Tierra en volumen. [4]",
-    "Es un componente esencial de los aminoácidos, las proteínas y los ácidos nucleicos (ADN y ARN), fundamentales para la vida. [1, 4]",
+    "Compone aproximadamente el 78.09% del aire de la Tierra en volumen.",
+    "Es un componente esencial de los aminoácidos, las proteínas y los ácidos nucleicos (ADN y ARN), fundamentales para la vida.",
     "Muchos compuestos de nitrógeno son altamente energéticos y se usan en explosivos como el TNT (trinitrotolueno) y la nitroglicerina. [2]",
-    "Fue descubierto por Daniel Rutherford al eliminar el oxígeno y el dióxido de carbono del aire, llamándolo \"aire nocivo\" o \"aire flogisticado\". [1, 2, 4]",
-    "El nitrógeno líquido, a -196 °C (-321 °F), se utiliza como un refrigerante criogénico común. [4, 10]",
-    "El ciclo del nitrógeno es un proceso biogeoquímico crucial para convertir el nitrógeno atmosférico en formas utilizables por los organismos vivos. [2, 4]"
+    "Fue descubierto por Daniel Rutherford al eliminar el oxígeno y el dióxido de carbono del aire, llamándolo \"aire nocivo\" o \"aire flogisticado\".",
+    "El nitrógeno líquido, a -196 °C (-321 °F), se utiliza como un refrigerante criogénico común.",
+    "El ciclo del nitrógeno es un proceso biogeoquímico crucial para convertir el nitrógeno atmosférico en formas utilizables por los organismos vivos."
   ],
   "usos": [
-    "Producción de amoniaco (NH₃) mediante el proceso Haber-Bosch, que es la base para la mayoría de los fertilizantes nitrogenados. [1, 2, 4]",
-    "El nitrógeno líquido se usa como refrigerante criogénico para la conservación de muestras biológicas, en dermatología y en la industria alimentaria. [4, 10]",
-    "Fabricación de numerosos compuestos químicos, incluyendo ácido nítrico, nylon, tintes y explosivos. [2, 4]",
-    "Como gas inerte en atmósferas modificadas para el empaquetado de alimentos, para prevenir la oxidación y prolongar la vida útil. [2, 4]",
-    "Inflado de neumáticos de aviones y vehículos de competición para proporcionar una presión más estable y reducir el riesgo de incendio. [2, 4]",
-    "En la industria electrónica para crear atmósferas inertes durante la fabricación de semiconductores. [4]"
+    "Producción de amoniaco (NH₃) mediante el proceso Haber-Bosch, que es la base para la mayoría de los fertilizantes nitrogenados.",
+    "El nitrógeno líquido se usa como refrigerante criogénico para la conservación de muestras biológicas, en dermatología y en la industria alimentaria.",
+    "Fabricación de numerosos compuestos químicos, incluyendo ácido nítrico, nylon, tintes y explosivos.",
+    "Como gas inerte en atmósferas modificadas para el empaquetado de alimentos, para prevenir la oxidación y prolongar la vida útil.",
+    "Inflado de neumáticos de aviones y vehículos de competición para proporcionar una presión más estable y reducir el riesgo de incendio.",
+    "En la industria electrónica para crear atmósferas inertes durante la fabricación de semiconductores."
   ],
   "compuestosImportantes": [
     "NH₃ (amoniaco)",
@@ -771,7 +771,7 @@
     }
   },
   "toxicidad": "false (el gas N₂ no es tóxico, pero puede ser un asfixiante simple en altas concentraciones; muchos compuestos de nitrógeno son tóxicos)",
-  "origenDelNombre": "Del griego 'nitron' (nitro, un antiguo nombre para el salitre o nitrato de potasio) y 'genes' (formador o generador), propuesto por el químico francés Jean-Antoine Chaptal en 1790. [1, 2, 4]",
+  "origenDelNombre": "Del griego 'nitron' (nitro, un antiguo nombre para el salitre o nitrato de potasio) y 'genes' (formador o generador), propuesto por el químico francés Jean-Antoine Chaptal en 1790.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Nitr%C3%B3geno",
     "https://www.rsc.org/periodic-table/element/7/nitrogen"
