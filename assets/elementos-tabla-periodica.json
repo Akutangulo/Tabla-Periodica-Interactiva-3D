@@ -852,19 +852,19 @@
     "fechaDescubrimiento": 1774
   },
   "datosCuriosos": [
-    "Compone aproximadamente el 20.95% del volumen de la atmósfera terrestre y es esencial para la respiración de la mayoría de los seres vivos. [2, 13]",
-    "Forma el ozono (O₃) en la estratosfera, una capa que protege la vida en la Tierra de la radiación ultravioleta dañina del sol. [15, 30]",
-    "Es el elemento más abundante en masa en la corteza terrestre (aproximadamente 46-50%). [5, 25, 30]",
-    "Fue descubierto independientemente por Scheele y Priestley al calentar óxidos (como el óxido de mercurio) y observar el gas liberado. [1, 13]",
-    "El oxígeno líquido y sólido tienen un color azul pálido. [1]",
-    "Es el tercer elemento más abundante en el universo, después del hidrógeno y el helio. [2, 3]"
+    "Compone aproximadamente el 20.95% del volumen de la atmósfera terrestre y es esencial para la respiración de la mayoría de los seres vivos.",
+    "Forma el ozono (O₃) en la estratosfera, una capa que protege la vida en la Tierra de la radiación ultravioleta dañina del sol.",
+    "Es el elemento más abundante en masa en la corteza terrestre (aproximadamente 46-50%).",
+    "Fue descubierto independientemente por Scheele y Priestley al calentar óxidos (como el óxido de mercurio) y observar el gas liberado.",
+    "El oxígeno líquido y sólido tienen un color azul pálido.",
+    "Es el tercer elemento más abundante en el universo, después del hidrógeno y el helio."
   ],
   "usos": [
-    "Soporte vital en medicina (oxigenoterapia) para pacientes con dificultades respiratorias. [1, 19]",
-    "En procesos de combustión, como en la soldadura oxiacetilénica, y como oxidante en combustibles para cohetes. [1, 28]",
-    "Producción de acero, donde se utiliza para eliminar impurezas de carbono y otros elementos. [1, 7, 17]",
-    "Tratamiento de aguas residuales y potabilización del agua, a menudo en forma de ozono. [14, 22]",
-    "Industria química para la síntesis de numerosos compuestos y en procesos de oxidación. [19]",
+    "Soporte vital en medicina (oxigenoterapia) para pacientes con dificultades respiratorias.",
+    "En procesos de combustión, como en la soldadura oxiacetilénica, y como oxidante en combustibles para cohetes.",
+    "Producción de acero, donde se utiliza para eliminar impurezas de carbono y otros elementos.",
+    "Tratamiento de aguas residuales y potabilización del agua, a menudo en forma de ozono.",
+    "Industria química para la síntesis de numerosos compuestos y en procesos de oxidación.",
     "En la industria papelera para el blanqueo de la pulpa de celulosa."
   ],
   "compuestosImportantes": [
@@ -887,8 +887,8 @@
       "categoriaAbundancia": "Principal (>1%)"
     }
   },
-  "toxicidad": "false (el gas O₂ es esencial para la vida; altas concentraciones o el ozono pueden ser tóxicos). [19]",
-  "origenDelNombre": "Del griego 'oxys' (ácido) y 'genēs' (productor o generador), nombre acuñado por Antoine Lavoisier debido a la creencia errónea de que el oxígeno era un constituyente esencial de todos los ácidos. [1, 2, 9, 23]",
+  "toxicidad": "false (el gas O₂ es esencial para la vida; altas concentraciones o el ozono pueden ser tóxicos).",
+  "origenDelNombre": "Del griego 'oxys' (ácido) y 'genēs' (productor o generador), nombre acuñado por Antoine Lavoisier debido a la creencia errónea de que el oxígeno era un constituyente esencial de todos los ácidos.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Ox%C3%ADgeno",
     "https://www.rsc.org/periodic-table/element/8/oxygen"
