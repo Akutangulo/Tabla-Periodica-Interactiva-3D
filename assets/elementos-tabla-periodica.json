@@ -963,20 +963,20 @@
     "fechaDescubrimiento": 1886
   },
   "datosCuriosos": [
-    "Es el elemento más electronegativo y reactivo de todos los elementos químicos. [1, 10]",
-    "En forma de ion fluoruro (F-), es un componente del esmalte dental y ayuda a prevenir la caries. [12, 20, 21, 22, 24, 26, 34]",
-    "Es un gas diatómico (F₂) de color amarillo pálido verdoso, altamente tóxico y corrosivo. [1, 8, 35]",
-    "Su aislamiento fue un desafío considerable y peligroso para los químicos; varios investigadores sufrieron intoxicaciones o murieron en el intento, siendo conocidos como los \"mártires del flúor\". [6, 23, 35]",
-    "Reacciona con prácticamente todos los demás elementos, incluyendo algunos gases nobles como el xenón y el radón. [1, 2, 10]",
-    "El ácido fluorhídrico (HF), un compuesto de flúor, es capaz de corroer el vidrio. [1, 9, 35]"
+    "Es el elemento más electronegativo y reactivo de todos los elementos químicos.",
+    "En forma de ion fluoruro (F-), es un componente del esmalte dental y ayuda a prevenir la caries.",
+    "Es un gas diatómico (F₂) de color amarillo pálido verdoso, altamente tóxico y corrosivo.",
+    "Su aislamiento fue un desafío considerable y peligroso para los químicos; varios investigadores sufrieron intoxicaciones o murieron en el intento, siendo conocidos como los \"mártires del flúor\".",
+    "Reacciona con prácticamente todos los demás elementos, incluyendo algunos gases nobles como el xenón y el radón.",
+    "El ácido fluorhídrico (HF), un compuesto de flúor, es capaz de corroer el vidrio."
   ],
   "usos": [
-    "En la producción de fluoruros para la fluoración del agua potable y como ingrediente en pastas dentales para prevenir la caries dental. [1, 10, 12, 13, 20, 22, 26, 34, 39]",
-    "Fabricación de polímeros fluorados como el politetrafluoroetileno (PTFE), conocido comercialmente como Teflón, utilizado en recubrimientos antiadherentes. [2, 10, 16]",
-    "En la producción de hexafluoruro de uranio (UF₆), un compuesto clave en el proceso de enriquecimiento de uranio para combustible nuclear y armas nucleares. [2, 4, 10, 12, 15, 36]",
-    "Síntesis de compuestos orgánicos fluorados, incluyendo refrigerantes (anteriormente CFCs, ahora HFCs y HFOs), anestésicos y productos farmacéuticos. [2, 10, 23]",
-    "El ácido fluorhídrico (HF) se utiliza para grabar vidrio, como catalizador en la alquilación del petróleo y en la producción de aluminio (criolita sintética). [1, 2, 8, 12, 35]",
-    "El hexafluoruro de azufre (SF₆) se utiliza como gas dieléctrico en equipos eléctricos de alta tensión. [4, 12, 23]"
+    "En la producción de fluoruros para la fluoración del agua potable y como ingrediente en pastas dentales para prevenir la caries dental.",
+    "Fabricación de polímeros fluorados como el politetrafluoroetileno (PTFE), conocido comercialmente como Teflón, utilizado en recubrimientos antiadherentes.",
+    "En la producción de hexafluoruro de uranio (UF₆), un compuesto clave en el proceso de enriquecimiento de uranio para combustible nuclear y armas nucleares.",
+    "Síntesis de compuestos orgánicos fluorados, incluyendo refrigerantes (anteriormente CFCs, ahora HFCs y HFOs), anestésicos y productos farmacéuticos.",
+    "El ácido fluorhídrico (HF) se utiliza para grabar vidrio, como catalizador en la alquilación del petróleo y en la producción de aluminio (criolita sintética).",
+    "El hexafluoruro de azufre (SF₆) se utiliza como gas dieléctrico en equipos eléctricos de alta tensión."
   ],
   "compuestosImportantes": [
     "HF (ácido fluorhídrico)",
@@ -998,8 +998,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "true (el gas F₂ es extremadamente tóxico y corrosivo; los iones fluoruro son tóxicos en altas dosis, pero beneficiosos en pequeñas cantidades para la salud dental). [1, 16, 17, 30, 31]",
-  "origenDelNombre": "Del latín 'fluere', que significa \"fluir\", debido a que el mineral fluorita (CaF₂) se utilizaba como fundente para facilitar la fusión de metales. [1, 7, 9, 11, 12, 18]",
+  "toxicidad": "true (el gas F₂ es extremadamente tóxico y corrosivo; los iones fluoruro son tóxicos en altas dosis, pero beneficiosos en pequeñas cantidades para la salud dental).",
+  "origenDelNombre": "Del latín 'fluere', que significa \"fluir\", debido a que el mineral fluorita (CaF₂) se utilizaba como fundente para facilitar la fusión de metales.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Fl%C3%BAor",
     "https://www.rsc.org/periodic-table/element/9/fluorine"
