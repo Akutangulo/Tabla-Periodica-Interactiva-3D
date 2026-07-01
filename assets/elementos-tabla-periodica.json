@@ -1171,28 +1171,28 @@
     "fechaDescubrimiento": 1807
   },
   "datosCuriosos": [
-    "Es un metal tan blando que se puede cortar fácilmente con un cuchillo a temperatura ambiente. [13]",
-    "Reacciona violentamente con el agua, liberando hidrógeno gaseoso que puede inflamarse y causar una explosión. [2, 6, 9]",
-    "Es un componente esencial de la sal de mesa (cloruro de sodio, NaCl), vital para la vida. [2, 9, 28]",
-    "Las lámparas de vapor de sodio emiten una característica luz amarilla brillante y son muy eficientes energéticamente. [9, 11]",
-    "El sodio metálico se oxida rápidamente al exponerse al aire, perdiendo su brillo plateado y debiendo almacenarse en aceite mineral o una atmósfera inerte. [2, 12, 20]",
-    "Es el sexto elemento más abundante en la corteza terrestre. [1, 2, 4]"
+    "Es un metal tan blando que se puede cortar fácilmente con un cuchillo a temperatura ambiente.",
+    "Reacciona violentamente con el agua, liberando hidrógeno gaseoso que puede inflamarse y causar una explosión.",
+    "Es un componente esencial de la sal de mesa (cloruro de sodio, NaCl), vital para la vida.",
+    "Las lámparas de vapor de sodio emiten una característica luz amarilla brillante y son muy eficientes energéticamente.",
+    "El sodio metálico se oxida rápidamente al exponerse al aire, perdiendo su brillo plateado y debiendo almacenarse en aceite mineral o una atmósfera inerte.",
+    "Es el sexto elemento más abundante en la corteza terrestre."
   ],
   "usos": [
-    "Fabricación de compuestos de sodio como el hidróxido de sodio (sosa cáustica) para jabones, detergentes, papel y rayón. [1, 5, 8, 14]",
-    "En lámparas de vapor de sodio para iluminación pública debido a su alta eficiencia. [9, 11]",
-    "Como intercambiador de calor en algunos reactores nucleares. [2, 9]",
-    "En la producción de aditivos antidetonantes para gasolinas (históricamente, como plomo tetraetilo). [5, 10]",
-    "Purificación de metales fundidos y en la fabricación de aleaciones. [1, 18]",
-    "El ion sodio (Na+) es esencial para la función nerviosa y la regulación del balance hídrico en animales, incluyendo los humanos. [1, 2, 31, 32]"
+    "Fabricación de compuestos de sodio como el hidróxido de sodio (sosa cáustica) para jabones, detergentes, papel y rayón.",
+    "En lámparas de vapor de sodio para iluminación pública debido a su alta eficiencia.",
+    "Como intercambiador de calor en algunos reactores nucleares.",
+    "En la producción de aditivos antidetonantes para gasolinas (históricamente, como plomo tetraetilo).",
+    "Purificación de metales fundidos y en la fabricación de aleaciones.",
+    "El ion sodio (Na+) es esencial para la función nerviosa y la regulación del balance hídrico en animales, incluyendo los humanos."
   ],
   "compuestosImportantes": [
-    "NaCl (cloruro de sodio, sal de mesa). [1, 21, 27]",
-    "NaOH (hidróxido de sodio, sosa cáustica). [1, 8, 14, 21]",
-    "Na₂CO₃ (carbonato de sodio, soda). [2, 14, 21]",
-    "NaHCO₃ (bicarbonato de sodio). [11, 14, 21]",
-    "NaNO₃ (nitrato de sodio, salitre de Chile). [5, 11, 14]",
-    "Na₂B₄O₇·10H₂O (bórax). [7, 10, 11, 21]"
+    "NaCl (cloruro de sodio, sal de mesa).",
+    "NaOH (hidróxido de sodio, sosa cáustica).",
+    "Na₂CO₃ (carbonato de sodio, soda).",
+    "NaHCO₃ (bicarbonato de sodio).",
+    "NaNO₃ (nitrato de sodio, salitre de Chile).",
+    "Na₂B₄O₇·10H₂O (bórax)."
   ],
   "abundancia": {
     "universo": 0.0019,
@@ -1205,8 +1205,8 @@
       "categoriaAbundancia": "Secundario (0.1-1%)"
     }
   },
-  "toxicidad": "baja (el ion sodio es esencial; el metal sodio es altamente reactivo y corrosivo). [9]",
-  "origenDelNombre": "Del inglés 'soda'. El símbolo Na proviene del latín 'natrium', derivado del árabe 'natrun', un nombre para el carbonato de sodio natural. [1, 5, 10, 11, 13, 20, 22, 23]",
+  "toxicidad": "baja (el ion sodio es esencial; el metal sodio es altamente reactivo y corrosivo).",
+  "origenDelNombre": "Del inglés 'soda'. El símbolo Na proviene del latín 'natrium', derivado del árabe 'natrun', un nombre para el carbonato de sodio natural.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Sodio",
     "https://www.rsc.org/periodic-table/element/11/sodium"
