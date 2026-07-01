@@ -1068,21 +1068,21 @@
     "fechaDescubrimiento": 1898
   },
   "datosCuriosos": [
-    "Emite un característico brillo rojo-anaranjado cuando se le aplica una descarga eléctrica en un tubo de vacío, lo que lo hace famoso en las luces de neón. [1, 2, 8, 9, 10]",
-    "Es relativamente raro en la atmósfera terrestre (aproximadamente 1 parte en 55,000 o 18.2 ppm), pero es el quinto elemento más abundante en el universo. [2, 4, 10]",
-    "Fue descubierto por Ramsay y Travers al estudiar los componentes del aire líquido, poco después de su descubrimiento del kriptón y el xenón. [1, 2, 4, 10]",
-    "Es un gas noble extremadamente inerte y, durante mucho tiempo, se consideró que no formaba compuestos químicos. Se han observado iones moleculares exóticos en condiciones de laboratorio. [1, 2, 4, 10]",
-    "El neón líquido tiene más de 40 veces la capacidad de refrigeración por unidad de volumen que el helio líquido, y más de 3 veces la del hidrógeno líquido. [2, 4]"
+    "Emite un característico brillo rojo-anaranjado cuando se le aplica una descarga eléctrica en un tubo de vacío, lo que lo hace famoso en las luces de neón.",
+    "Es relativamente raro en la atmósfera terrestre (aproximadamente 1 parte en 55,000 o 18.2 ppm), pero es el quinto elemento más abundante en el universo.",
+    "Fue descubierto por Ramsay y Travers al estudiar los componentes del aire líquido, poco después de su descubrimiento del kriptón y el xenón.",
+    "Es un gas noble extremadamente inerte y, durante mucho tiempo, se consideró que no formaba compuestos químicos. Se han observado iones moleculares exóticos en condiciones de laboratorio.",
+    "El neón líquido tiene más de 40 veces la capacidad de refrigeración por unidad de volumen que el helio líquido, y más de 3 veces la del hidrógeno líquido."
   ],
   "usos": [
-    "Principalmente en la fabricación de letreros luminosos (luces de neón), donde produce un brillo rojo-anaranjado. Otros gases nobles se usan para producir otros colores. [1, 2, 4, 8, 9, 10, 11]",
-    "En indicadores de alto voltaje y tubos de televisión. [2, 4, 10]",
-    "En algunos tipos de láseres, como los láseres de helio-neón (HeNe), que emiten luz roja. [2, 4, 10, 11]",
-    "Como refrigerante criogénico en aplicaciones específicas donde se requieren temperaturas muy bajas. [2, 4, 10]",
-    "En tubos de vacío y detectores de partículas. [2, 4]"
+    "Principalmente en la fabricación de letreros luminosos (luces de neón), donde produce un brillo rojo-anaranjado. Otros gases nobles se usan para producir otros colores.",
+    "En indicadores de alto voltaje y tubos de televisión.",
+    "En algunos tipos de láseres, como los láseres de helio-neón (HeNe), que emiten luz roja.",
+    "Como refrigerante criogénico en aplicaciones específicas donde se requieren temperaturas muy bajas.",
+    "En tubos de vacío y detectores de partículas."
   ],
   "compuestosImportantes": [
-    "Prácticamente ninguno en condiciones normales. Se han observado iones como (NeAr)+, (NeH)+, y (HeNe)+ en espectrómetros de masas y estudios ópticos. [2, 4]"
+    "Prácticamente ninguno en condiciones normales. Se han observado iones como (NeAr)+, (NeH)+, y (HeNe)+ en espectrómetros de masas y estudios ópticos."
   ],
   "abundancia": {
     "universo": 0.126,
@@ -1095,8 +1095,8 @@
       "categoriaAbundancia": "Traza"
     }
   },
-  "toxicidad": "false (no tóxico, pero puede ser un asfixiante simple en altas concentraciones). [2]",
-  "origenDelNombre": "Del griego 'neos' (νέος), que significa \"nuevo\", ya que era un elemento recién descubierto cuando fue aislado por primera vez. [1, 2, 4, 8, 9, 10, 11]",
+  "toxicidad": "false (no tóxico, pero puede ser un asfixiante simple en altas concentraciones).",
+  "origenDelNombre": "Del griego 'neos' (νέος), que significa \"nuevo\", ya que era un elemento recién descubierto cuando fue aislado por primera vez.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Ne%C3%B3n",
     "https://www.rsc.org/periodic-table/element/10/neon"
