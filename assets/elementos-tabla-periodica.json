@@ -2213,21 +2213,21 @@
     "fechaDescubrimiento": 1808
   },
   "datosCuriosos": [
-    "Es el mineral más abundante en el cuerpo humano, siendo un componente esencial de los huesos y los dientes (en forma de hidroxiapatita). [1, 2, 4]",
-    "Se encuentra en productos lácteos como la leche y el queso, así como en verduras de hoja verde y la tiza (carbonato de calcio). [1, 2, 4]",
-    "Cuando se quema, el calcio metálico produce una llama de color naranja-rojizo brillante. [1, 2]",
-    "Es el quinto elemento más abundante en la corteza terrestre, principalmente en forma de minerales como la piedra caliza (carbonato de calcio), el yeso (sulfato de calcio) y la fluorita (fluoruro de calcio). [1, 2, 4]",
-    "El calcio metálico es un metal alcalinotérreo relativamente blando, de color plateado, que reacciona con el aire y el agua. [1, 2]",
-    "El ion calcio (Ca²⁺) juega un papel vital en muchos procesos biológicos, incluyendo la contracción muscular, la transmisión de impulsos nerviosos y la coagulación de la sangre. [1, 2, 4]"
+    "Es el mineral más abundante en el cuerpo humano, siendo un componente esencial de los huesos y los dientes (en forma de hidroxiapatita).",
+    "Se encuentra en productos lácteos como la leche y el queso, así como en verduras de hoja verde y la tiza (carbonato de calcio).",
+    "Cuando se quema, el calcio metálico produce una llama de color naranja-rojizo brillante.",
+    "Es el quinto elemento más abundante en la corteza terrestre, principalmente en forma de minerales como la piedra caliza (carbonato de calcio), el yeso (sulfato de calcio) y la fluorita (fluoruro de calcio).",
+    "El calcio metálico es un metal alcalinotérreo relativamente blando, de color plateado, que reacciona con el aire y el agua.",
+    "El ion calcio (Ca²⁺) juega un papel vital en muchos procesos biológicos, incluyendo la contracción muscular, la transmisión de impulsos nerviosos y la coagulación de la sangre."
   ],
   "usos": [
-    "Producción de cemento y mortero (a partir de piedra caliza, que es principalmente carbonato de calcio) para la construcción. [1, 2, 4]",
-    "Como suplemento dietético para asegurar una ingesta adecuada de calcio y fortalecer los huesos, previniendo la osteoporosis. [1, 2, 4]",
-    "Como agente reductor en la extracción de otros metales, como el uranio, circonio y torio. [1, 2]",
-    "En la fabricación de queso, donde el cloruro de calcio se utiliza a veces como coagulante. [1, 2]",
-    "Producción de cal viva (óxido de calcio, CaO) y cal apagada (hidróxido de calcio, Ca(OH)₂), utilizadas en la industria, la agricultura y el tratamiento de aguas. [1, 2, 4]",
-    "El yeso (sulfato de calcio dihidratado) se utiliza para fabricar paneles de yeso (drywall) y como material de moldeo. [1, 2, 4]",
-    "En la industria siderúrgica como desoxidante, desulfurante y descarbonizante. [1, 2]"
+    "Producción de cemento y mortero (a partir de piedra caliza, que es principalmente carbonato de calcio) para la construcción.",
+    "Como suplemento dietético para asegurar una ingesta adecuada de calcio y fortalecer los huesos, previniendo la osteoporosis.",
+    "Como agente reductor en la extracción de otros metales, como el uranio, circonio y torio.",
+    "En la fabricación de queso, donde el cloruro de calcio se utiliza a veces como coagulante.",
+    "Producción de cal viva (óxido de calcio, CaO) y cal apagada (hidróxido de calcio, Ca(OH)₂), utilizadas en la industria, la agricultura y el tratamiento de aguas.",
+    "El yeso (sulfato de calcio dihidratado) se utiliza para fabricar paneles de yeso (drywall) y como material de moldeo.",
+    "En la industria siderúrgica como desoxidante, desulfurante y descarbonizante."
   ],
   "compuestosImportantes": [
     "CaCO₃ (carbonato de calcio, piedra caliza, mármol, tiza)",
@@ -2249,8 +2249,8 @@
       "categoriaAbundancia": "Principal (>1%)"
     }
   },
-  "toxicidad": "baja (el ion calcio es esencial; el metal calcio reacciona con la humedad y puede ser irritante). Un exceso de calcio en el cuerpo (hipercalcemia) puede ser perjudicial. [1, 2]",
-  "origenDelNombre": "Del latín 'calx' (genitivo 'calcis'), que significa cal o piedra caliza, ya que el calcio se aisló por primera vez a partir de la cal. [1, 2, 4]",
+  "toxicidad": "baja (el ion calcio es esencial; el metal calcio reacciona con la humedad y puede ser irritante). Un exceso de calcio en el cuerpo (hipercalcemia) puede ser perjudicial.",
+  "origenDelNombre": "Del latín 'calx' (genitivo 'calcis'), que significa cal o piedra caliza, ya que el calcio se aisló por primera vez a partir de la cal.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Calcio",
     "https://www.rsc.org/periodic-table/element/20/calcium"
