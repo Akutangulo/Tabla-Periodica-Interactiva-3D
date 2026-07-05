@@ -2439,21 +2439,21 @@
     "fechaDescubrimiento": 1791
   },
   "datosCuriosos": [
-    "Es un metal fuerte como el acero pero aproximadamente un 45% más ligero. [1, 2]",
-    "Posee una excelente resistencia a la corrosión, especialmente del agua de mar y el cloro, debido a la formación de una capa de óxido pasivante. [1, 2, 4]",
-    "Se encuentra principalmente en minerales como la ilmenita (FeTiO₃) y el rutilo (TiO₂), a menudo presentes en arenas minerales pesadas (arenas negras). [1, 2, 4]",
-    "El polvo fino de titanio puede ser pirofórico y arder espontáneamente en el aire o en nitrógeno. [1, 2]",
-    "Es biocompatible, lo que significa que no es tóxico ni rechazado por el cuerpo humano, haciéndolo ideal para implantes médicos. [1, 2, 4]",
-    "Es el noveno elemento más abundante en la corteza terrestre. [1, 2]"
+    "Es un metal fuerte como el acero pero aproximadamente un 45% más ligero.",
+    "Posee una excelente resistencia a la corrosión, especialmente del agua de mar y el cloro, debido a la formación de una capa de óxido pasivante.",
+    "Se encuentra principalmente en minerales como la ilmenita (FeTiO₃) y el rutilo (TiO₂), a menudo presentes en arenas minerales pesadas (arenas negras).",
+    "El polvo fino de titanio puede ser pirofórico y arder espontáneamente en el aire o en nitrógeno.",
+    "Es biocompatible, lo que significa que no es tóxico ni rechazado por el cuerpo humano, haciéndolo ideal para implantes médicos.",
+    "Es el noveno elemento más abundante en la corteza terrestre."
   ],
   "usos": [
-    "Fabricación de implantes médicos y dentales (prótesis de cadera y rodilla, tornillos óseos, implantes dentales) debido a su biocompatibilidad y resistencia a la corrosión. [1, 2, 4]",
-    "En aleaciones ligeras y de alta resistencia para componentes estructurales de aviones, motores a reacción, naves espaciales y misiles. [1, 2, 4]",
-    "El dióxido de titanio (TiO₂) es el pigmento blanco más utilizado en pinturas, plásticos, papel, protectores solares, alimentos y cosméticos. [1, 2, 4]",
-    "El dióxido de titanio micronizado se usa ampliamente en protectores solares por su capacidad para bloquear la radiación UV. [1, 2, 4]",
-    "Equipamiento deportivo de alto rendimiento como palos de golf, cuadros de bicicleta, raquetas de tenis y cascos. [1, 2]",
-    "Componentes en plantas de desalinización y para la industria química debido a su excepcional resistencia a la corrosión. [1, 2]",
-    "En joyería, por su ligereza, resistencia y la capacidad de ser anodizado para producir varios colores. [1, 2]"
+    "Fabricación de implantes médicos y dentales (prótesis de cadera y rodilla, tornillos óseos, implantes dentales) debido a su biocompatibilidad y resistencia a la corrosión.",
+    "En aleaciones ligeras y de alta resistencia para componentes estructurales de aviones, motores a reacción, naves espaciales y misiles.",
+    "El dióxido de titanio (TiO₂) es el pigmento blanco más utilizado en pinturas, plásticos, papel, protectores solares, alimentos y cosméticos.",
+    "El dióxido de titanio micronizado se usa ampliamente en protectores solares por su capacidad para bloquear la radiación UV.",
+    "Equipamiento deportivo de alto rendimiento como palos de golf, cuadros de bicicleta, raquetas de tenis y cascos.",
+    "Componentes en plantas de desalinización y para la industria química debido a su excepcional resistencia a la corrosión.",
+    "En joyería, por su ligereza, resistencia y la capacidad de ser anodizado para producir varios colores."
   ],
   "compuestosImportantes": [
     "TiO₂ (dióxido de titanio / óxido de titanio(IV))",
@@ -2474,7 +2474,7 @@
     }
   },
   "toxicidad": "baja (el metal titanio y el TiO₂ son considerados no tóxicos y biocompatibles; algunos compuestos como el TiCl₄ son corrosivos).",
-  "origenDelNombre": "Nombrado por Martin Klaproth en honor a los Titanes de la mitología griega, seres de gran fuerza, debido a la resistencia del metal. [1, 2, 4]",
+  "origenDelNombre": "Nombrado por Martin Klaproth en honor a los Titanes de la mitología griega, seres de gran fuerza, debido a la resistencia del metal.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Titanio",
     "https://www.rsc.org/periodic-table/element/22/titanium"
