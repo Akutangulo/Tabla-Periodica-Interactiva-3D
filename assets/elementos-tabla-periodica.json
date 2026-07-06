@@ -2672,21 +2672,21 @@
     "fechaDescubrimiento": 1797
   },
   "datosCuriosos": [
-    "Es un metal duro, quebradizo y lustroso, conocido por su alto brillo plateado y su resistencia al deslustre. [1, 2, 4]",
-    "Muchos de sus compuestos son intensamente coloreados, como el rojo rubí (óxido de cromo en corindón), el verde esmeralda (cromo en berilo) y el amarillo de cromato de plomo. [1, 2, 4]",
-    "Es altamente resistente a la corrosión, por lo que se utiliza como recubrimiento protector y decorativo (cromado). [1, 2, 4]",
-    "El principal mineral comercial de cromo es la cromita (FeCr₂O₄). [1, 2, 4]",
-    "El cromo(VI) es tóxico y carcinogénico, mientras que el cromo(III) es un oligoelemento esencial para el metabolismo de la glucosa en humanos. [1, 2, 4]",
-    "Tiene una configuración electrónica anómala ([Ar] 3d⁵ 4s¹) que le confiere mayor estabilidad. [1, 2]"
+    "Es un metal duro, quebradizo y lustroso, conocido por su alto brillo plateado y su resistencia al deslustre.",
+    "Muchos de sus compuestos son intensamente coloreados, como el rojo rubí (óxido de cromo en corindón), el verde esmeralda (cromo en berilo) y el amarillo de cromato de plomo.",
+    "Es altamente resistente a la corrosión, por lo que se utiliza como recubrimiento protector y decorativo (cromado).",
+    "El principal mineral comercial de cromo es la cromita (FeCr₂O₄).",
+    "El cromo(VI) es tóxico y carcinogénico, mientras que el cromo(III) es un oligoelemento esencial para el metabolismo de la glucosa en humanos.",
+    "Tiene una configuración electrónica anómala ([Ar] 3d⁵ 4s¹) que le confiere mayor estabilidad."
   ],
   "usos": [
-    "En el cromado electrolítico de piezas metálicas para proporcionar un acabado brillante, resistente al desgaste y a la corrosión (e.g., parachoques de automóviles, grifos, herramientas). [1, 2, 4]",
-    "Como componente principal en la producción de acero inoxidable (generalmente >10.5% de cromo), que es altamente resistente a la corrosión. [1, 2, 4]",
-    "Sus compuestos se utilizan como pigmentos en pinturas, tintes, tintas y vidrios (e.g., amarillo de cromo, verde de óxido de cromo, rojo de cromo). [1, 2, 4]",
-    "Las sales de cromo(III) se utilizan en el curtido del cuero para estabilizar las fibras de colágeno. [1, 2, 4]",
-    "En aleaciones especiales como el nicromo (níquel-cromo), que se utiliza en elementos calefactores por su alta resistencia eléctrica y resistencia a la oxidación a altas temperaturas. [1, 2]",
-    "Como catalizador en diversas reacciones químicas industriales. [1, 2]",
-    "El óxido de cromo(IV) (CrO₂) se utilizó en cintas magnéticas de alta calidad. [1, 2]"
+    "En el cromado electrolítico de piezas metálicas para proporcionar un acabado brillante, resistente al desgaste y a la corrosión (e.g., parachoques de automóviles, grifos, herramientas).",
+    "Como componente principal en la producción de acero inoxidable (generalmente >10.5% de cromo), que es altamente resistente a la corrosión.",
+    "Sus compuestos se utilizan como pigmentos en pinturas, tintes, tintas y vidrios (e.g., amarillo de cromo, verde de óxido de cromo, rojo de cromo).",
+    "Las sales de cromo(III) se utilizan en el curtido del cuero para estabilizar las fibras de colágeno.",
+    "En aleaciones especiales como el nicromo (níquel-cromo), que se utiliza en elementos calefactores por su alta resistencia eléctrica y resistencia a la oxidación a altas temperaturas.",
+    "Como catalizador en diversas reacciones químicas industriales.",
+    "El óxido de cromo(IV) (CrO₂) se utilizó en cintas magnéticas de alta calidad."
   ],
   "compuestosImportantes": [
     "Cr₂O₃ (óxido de cromo(III), verde de cromo)",
@@ -2707,8 +2707,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "variable (el cromo metálico y el Cr(III) tienen baja toxicidad y el Cr(III) es esencial; los compuestos de Cr(VI) son muy tóxicos, corrosivos y carcinogénicos por inhalación). [1, 2]",
-  "origenDelNombre": "Del griego 'chrōma' (χρῶμα), que significa \"color\", debido a la gran variedad de colores vivos que presentan sus compuestos. [1, 2, 4]",
+  "toxicidad": "variable (el cromo metálico y el Cr(III) tienen baja toxicidad y el Cr(III) es esencial; los compuestos de Cr(VI) son muy tóxicos, corrosivos y carcinogénicos por inhalación).",
+  "origenDelNombre": "Del griego 'chrōma' (χρῶμα), que significa \"color\", debido a la gran variedad de colores vivos que presentan sus compuestos.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Cromo",
     "https://www.rsc.org/periodic-table/element/24/chromium"
