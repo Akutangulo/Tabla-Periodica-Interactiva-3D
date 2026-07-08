@@ -2771,21 +2771,21 @@
     "fechaDescubrimiento": 1774
   },
   "datosCuriosos": [
-    "Es un metal duro y muy quebradizo, difícil de mecanizar en estado puro, pero es un componente esencial en muchas aleaciones de acero. [1, 2, 4]",
-    "Se encuentra en grandes cantidades en forma de nódulos de manganeso en el fondo de los océanos, que también contienen otros metales valiosos. [1, 2, 4]",
-    "Es un oligoelemento esencial para muchos seres vivos, incluyendo humanos y plantas. En las plantas, juega un papel crucial en la fotosíntesis (en el complejo que desprende oxígeno). [1, 2, 4]",
-    "El dióxido de manganeso (pirolusita) se ha utilizado como pigmento negro y marrón desde la prehistoria, encontrándose en pinturas rupestres. [1, 2, 4]",
-    "El permanganato de potasio (KMnO₄), un compuesto de manganeso, es un potente agente oxidante con un característico color púrpura intenso. [1, 2]",
-    "El manganeso presenta múltiples estados de oxidación, lo que da lugar a una rica química y compuestos coloreados. [1, 2]"
+    "Es un metal duro y muy quebradizo, difícil de mecanizar en estado puro, pero es un componente esencial en muchas aleaciones de acero.",
+    "Se encuentra en grandes cantidades en forma de nódulos de manganeso en el fondo de los océanos, que también contienen otros metales valiosos.",
+    "Es un oligoelemento esencial para muchos seres vivos, incluyendo humanos y plantas. En las plantas, juega un papel crucial en la fotosíntesis (en el complejo que desprende oxígeno).",
+    "El dióxido de manganeso (pirolusita) se ha utilizado como pigmento negro y marrón desde la prehistoria, encontrándose en pinturas rupestres.",
+    "El permanganato de potasio (KMnO₄), un compuesto de manganeso, es un potente agente oxidante con un característico color púrpura intenso.",
+    "El manganeso presenta múltiples estados de oxidación, lo que da lugar a una rica química y compuestos coloreados."
   ],
   "usos": [
-    "Principalmente en la producción de acero y otras aleaciones (ferromanganeso y silicomanganeso) para mejorar la resistencia, dureza y trabajabilidad. [1, 2, 4]",
-    "El dióxido de manganeso (MnO₂) se utiliza como cátodo en baterías secas (pilas alcalinas y de zinc-carbono). [1, 2, 4]",
-    "Como componente de fertilizantes para suplir las deficiencias de manganeso en los suelos y mejorar el crecimiento de las plantas. [1, 2]",
-    "Sus compuestos se utilizan como pigmentos en la fabricación de cerámicas, vidrios (para decolorar o dar color violeta), ladrillos y pinturas. [1, 2, 4]",
-    "El permanganato de potasio se utiliza como desinfectante, desodorante, agente blanqueador y en el tratamiento de aguas. [1, 2]",
-    "En la producción de aluminio para mejorar su resistencia a la corrosión. [1, 2]",
-    "Como catalizador en diversas reacciones químicas. [1, 2]"
+    "Principalmente en la producción de acero y otras aleaciones (ferromanganeso y silicomanganeso) para mejorar la resistencia, dureza y trabajabilidad.",
+    "El dióxido de manganeso (MnO₂) se utiliza como cátodo en baterías secas (pilas alcalinas y de zinc-carbono).",
+    "Como componente de fertilizantes para suplir las deficiencias de manganeso en los suelos y mejorar el crecimiento de las plantas.",
+    "Sus compuestos se utilizan como pigmentos en la fabricación de cerámicas, vidrios (para decolorar o dar color violeta), ladrillos y pinturas.",
+    "El permanganato de potasio se utiliza como desinfectante, desodorante, agente blanqueador y en el tratamiento de aguas.",
+    "En la producción de aluminio para mejorar su resistencia a la corrosión.",
+    "Como catalizador en diversas reacciones químicas."
   ],
   "compuestosImportantes": [
     "MnO₂ (dióxido de manganeso, pirolusita)",
@@ -2805,8 +2805,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "moderada (el manganeso es un oligoelemento esencial, pero la exposición crónica a altas concentraciones de polvo o vapores de manganeso, especialmente en minería y soldadura, puede causar manganismo, un trastorno neurológico similar al Parkinson). [1, 2]",
-  "origenDelNombre": "Proviene del latín 'magnesia nigra' (magnesia negra), un nombre antiguo para el mineral pirolusita (dióxido de manganeso), que a su vez deriva de Magnesia, una región de Grecia. Se confundía a menudo con la 'magnesia alba' (óxido de magnesio). [1, 2, 4]",
+  "toxicidad": "moderada (el manganeso es un oligoelemento esencial, pero la exposición crónica a altas concentraciones de polvo o vapores de manganeso, especialmente en minería y soldadura, puede causar manganismo, un trastorno neurológico similar al Parkinson).",
+  "origenDelNombre": "Proviene del latín 'magnesia nigra' (magnesia negra), un nombre antiguo para el mineral pirolusita (dióxido de manganeso), que a su vez deriva de Magnesia, una región de Grecia. Se confundía a menudo con la 'magnesia alba' (óxido de magnesio).",
   "recursos": [
     "https://es.wikipedia.org/wiki/Manganeso",
     "https://www.rsc.org/periodic-table/element/25/manganese"
