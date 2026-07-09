@@ -2896,20 +2896,20 @@
     "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
-    "Es el cuarto elemento más abundante en la corteza terrestre y el más abundante en masa en la Tierra en su conjunto, formando gran parte del núcleo externo e interno. [1, 2, 4]",
-    "El hierro puro es un metal relativamente blando, pero se vuelve mucho más duro y resistente cuando se alea con carbono para formar acero. [1, 2]",
-    "Se oxida fácilmente en presencia de aire húmedo, formando óxidos de hierro hidratados, comúnmente conocidos como herrumbre o roña. [1, 2, 4]",
-    "El desarrollo de la tecnología para fundir hierro a partir de sus minerales marcó el inicio de la Edad del Hierro, un período crucial en la historia de la humanidad. [1, 2, 4]",
-    "Es un componente esencial de la hemoglobina, la proteína en los glóbulos rojos que transporta oxígeno por el cuerpo. [1, 2, 4]",
-    "El hierro es el elemento más pesado que se produce por fusión nuclear en estrellas masivas; los elementos más pesados se forman en supernovas. [1, 2]"
+    "Es el cuarto elemento más abundante en la corteza terrestre y el más abundante en masa en la Tierra en su conjunto, formando gran parte del núcleo externo e interno.",
+    "El hierro puro es un metal relativamente blando, pero se vuelve mucho más duro y resistente cuando se alea con carbono para formar acero.",
+    "Se oxida fácilmente en presencia de aire húmedo, formando óxidos de hierro hidratados, comúnmente conocidos como herrumbre o roña.",
+    "El desarrollo de la tecnología para fundir hierro a partir de sus minerales marcó el inicio de la Edad del Hierro, un período crucial en la historia de la humanidad.",
+    "Es un componente esencial de la hemoglobina, la proteína en los glóbulos rojos que transporta oxígeno por el cuerpo.",
+    "El hierro es el elemento más pesado que se produce por fusión nuclear en estrellas masivas; los elementos más pesados se forman en supernovas."
   ],
   "usos": [
-    "La mayor parte del hierro se utiliza para producir acero (una aleación de hierro y carbono), que es fundamental en la construcción de edificios, puentes, infraestructuras, vehículos y maquinaria. [1, 2, 4]",
-    "Fabricación de herramientas, armas, utensilios de cocina (hierro fundido) y una amplia variedad de bienes manufacturados. [1, 2, 4]",
-    "Componente clave en motores de combustión interna, maquinaria pesada y estructuras portantes. [1, 2]",
-    "Los suplementos de hierro se utilizan para tratar la anemia ferropénica, una deficiencia común de hierro. [1, 2, 4]",
-    "El óxido de hierro se utiliza como pigmento (ocre, siena, umbra), en medios de grabación magnética y como catalizador. [1, 2]",
-    "El hierro fundido se utiliza para fabricar tuberías, estufas y elementos decorativos. [1, 2]"
+    "La mayor parte del hierro se utiliza para producir acero (una aleación de hierro y carbono), que es fundamental en la construcción de edificios, puentes, infraestructuras, vehículos y maquinaria.",
+    "Fabricación de herramientas, armas, utensilios de cocina (hierro fundido) y una amplia variedad de bienes manufacturados.",
+    "Componente clave en motores de combustión interna, maquinaria pesada y estructuras portantes.",
+    "Los suplementos de hierro se utilizan para tratar la anemia ferropénica, una deficiencia común de hierro.",
+    "El óxido de hierro se utiliza como pigmento (ocre, siena, umbra), en medios de grabación magnética y como catalizador.",
+    "El hierro fundido se utiliza para fabricar tuberías, estufas y elementos decorativos."
   ],
   "compuestosImportantes": [
     "Fe₂O₃ (óxido de hierro(III), hematita)",
@@ -2930,8 +2930,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "baja (el hierro es esencial para la vida; sin embargo, la sobrecarga de hierro (hemocromatosis) o la ingestión masiva pueden ser tóxicas). [1, 2]",
-  "origenDelNombre": "La palabra \"hierro\" proviene del latín 'ferrum'. El símbolo 'Fe' deriva directamente de 'ferrum'. El origen de la palabra en muchas lenguas germánicas (e.g., inglés 'iron', alemán 'Eisen') es antiguo y de etimología incierta, posiblemente relacionado con su uso y propiedades. [1, 2, 4]",
+  "toxicidad": "baja (el hierro es esencial para la vida; sin embargo, la sobrecarga de hierro (hemocromatosis) o la ingestión masiva pueden ser tóxicas).",
+  "origenDelNombre": "La palabra \"hierro\" proviene del latín 'ferrum'. El símbolo 'Fe' deriva directamente de 'ferrum'. El origen de la palabra en muchas lenguas germánicas (e.g., inglés 'iron', alemán 'Eisen') es antiguo y de etimología incierta, posiblemente relacionado con su uso y propiedades.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Hierro",
     "https://www.rsc.org/periodic-table/element/26/iron"
