@@ -3141,21 +3141,21 @@
     "fechaDescubrimiento": 1751
   },
   "datosCuriosos": [
-    "Es un metal de color blanco plateado con un ligero tono dorado, duro, dúctil, maleable y muy resistente a la corrosión en el aire y el agua. [1, 2, 4]",
-    "Se encuentra en cantidades significativas en meteoritos de hierro-níquel, y se cree que el núcleo de la Tierra está compuesto principalmente de hierro y níquel. [1, 2, 4]",
-    "El contacto con el níquel puede causar dermatitis alérgica (alergia al níquel) en personas sensibles, una de las causas más comunes de alergia por contacto. [1, 2, 4]",
-    "Se ha utilizado en la acuñación de monedas durante mucho tiempo, a menudo en aleaciones como el cuproníquel (cobre-níquel). La moneda de cinco centavos de EE. UU. (\"nickel\") está hecha de esta aleación. [1, 2, 4]",
-    "Es uno de los tres elementos ferromagnéticos a temperatura ambiente, junto con el hierro y el cobalto. [1, 2]",
-    "El vidrio coloreado con pequeñas cantidades de níquel puede presentar una variedad de colores, incluyendo verde, azul, violeta o negro. [1, 2]"
+    "Es un metal de color blanco plateado con un ligero tono dorado, duro, dúctil, maleable y muy resistente a la corrosión en el aire y el agua.",
+    "Se encuentra en cantidades significativas en meteoritos de hierro-níquel, y se cree que el núcleo de la Tierra está compuesto principalmente de hierro y níquel.",
+    "El contacto con el níquel puede causar dermatitis alérgica (alergia al níquel) en personas sensibles, una de las causas más comunes de alergia por contacto.",
+    "Se ha utilizado en la acuñación de monedas durante mucho tiempo, a menudo en aleaciones como el cuproníquel (cobre-níquel). La moneda de cinco centavos de EE. UU. (\"nickel\") está hecha de esta aleación.",
+    "Es uno de los tres elementos ferromagnéticos a temperatura ambiente, junto con el hierro y el cobalto.",
+    "El vidrio coloreado con pequeñas cantidades de níquel puede presentar una variedad de colores, incluyendo verde, azul, violeta o negro."
   ],
   "usos": [
-    "Principalmente en la producción de acero inoxidable y otras aleaciones resistentes a la corrosión y altas temperaturas (e.g., Inconel, Monel, Nicromo). [1, 2, 4]",
-    "En la fabricación de monedas en muchos países, a menudo aleado con cobre (cuproníquel). [1, 2, 4]",
-    "Componente clave en baterías recargables, como las de níquel-cadmio (NiCd, ahora menos comunes), níquel-hidruro metálico (NiMH) y algunas de ion-litio. [1, 2, 4]",
-    "Como catalizador en numerosos procesos industriales, especialmente en la hidrogenación de aceites vegetales para producir margarina. [1, 2, 4]",
-    "En el niquelado electrolítico para proporcionar un recubrimiento protector y decorativo a otros metales. [1, 2]",
-    "En la fabricación de imanes permanentes (e.g., Alnico). [1, 2]",
-    "En cuerdas de guitarra eléctrica y en la industria electrónica. [1, 2]"
+    "Principalmente en la producción de acero inoxidable y otras aleaciones resistentes a la corrosión y altas temperaturas (e.g., Inconel, Monel, Nicromo).",
+    "En la fabricación de monedas en muchos países, a menudo aleado con cobre (cuproníquel).",
+    "Componente clave en baterías recargables, como las de níquel-cadmio (NiCd, ahora menos comunes), níquel-hidruro metálico (NiMH) y algunas de ion-litio.",
+    "Como catalizador en numerosos procesos industriales, especialmente en la hidrogenación de aceites vegetales para producir margarina.",
+    "En el niquelado electrolítico para proporcionar un recubrimiento protector y decorativo a otros metales.",
+    "En la fabricación de imanes permanentes (e.g., Alnico).",
+    "En cuerdas de guitarra eléctrica y en la industria electrónica."
   ],
   "compuestosImportantes": [
     "NiO (óxido de níquel(II))",
@@ -3176,8 +3176,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "moderada (el níquel metálico puede causar alergias cutáneas; algunos compuestos de níquel, como el tetracarbonilo de níquel y el polvo de sulfuro de níquel, son carcinogénicos y altamente tóxicos por inhalación). [1, 2]",
-  "origenDelNombre": "Derivado del mineral alemán 'Kupfernickel' (que significa \"cobre del diablo\" o \"falso cobre\"). Los mineros lo llamaban así porque se parecía al mineral de cobre pero no se podía extraer cobre de él, y a menudo contenía arsénico que causaba problemas de salud, atribuyéndolo a un duende o 'Nickel'. [1, 2, 4]",
+  "toxicidad": "moderada (el níquel metálico puede causar alergias cutáneas; algunos compuestos de níquel, como el tetracarbonilo de níquel y el polvo de sulfuro de níquel, son carcinogénicos y altamente tóxicos por inhalación).",
+  "origenDelNombre": "Derivado del mineral alemán 'Kupfernickel' (que significa \"cobre del diablo\" o \"falso cobre\"). Los mineros lo llamaban así porque se parecía al mineral de cobre pero no se podía extraer cobre de él, y a menudo contenía arsénico que causaba problemas de salud, atribuyéndolo a un duende o 'Nickel'.",
   "recursos": [
     "https://es.wikipedia.org/wiki/N%C3%ADquel",
     "https://www.rsc.org/periodic-table/element/28/nickel"
