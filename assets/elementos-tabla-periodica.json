@@ -3249,21 +3249,21 @@
     "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
-    "Es uno de los primeros metales utilizados por la humanidad, marcando el inicio de la Edad del Cobre y posteriormente la Edad del Bronce (aleación de cobre y estaño). [1, 2, 4]",
-    "Con el tiempo, el cobre expuesto al aire o al agua se oxida formando una pátina verdosa característica, compuesta principalmente de carbonato de cobre (e.g., la Estatua de la Libertad). [1, 2, 4]",
-    "Es un excelente conductor de la electricidad y el calor, solo superado por la plata en conductividad eléctrica entre los metales puros. [1, 2, 4]",
-    "A veces se encuentra en la naturaleza en forma de cobre nativo (puro), aunque la mayoría se extrae de minerales como la calcopirita, bornita y malaquita. [1, 2, 4]",
-    "El cobre es un oligoelemento esencial para muchos seres vivos, incluyendo los humanos, donde participa en funciones enzimáticas y en la formación de la sangre. [1, 2, 4]",
-    "Tiene propiedades antimicrobianas naturales, lo que significa que puede matar o inhibir el crecimiento de bacterias y virus en su superficie. [1, 2]"
+    "Es uno de los primeros metales utilizados por la humanidad, marcando el inicio de la Edad del Cobre y posteriormente la Edad del Bronce (aleación de cobre y estaño).",
+    "Con el tiempo, el cobre expuesto al aire o al agua se oxida formando una pátina verdosa característica, compuesta principalmente de carbonato de cobre (e.g., la Estatua de la Libertad).",
+    "Es un excelente conductor de la electricidad y el calor, solo superado por la plata en conductividad eléctrica entre los metales puros.",
+    "A veces se encuentra en la naturaleza en forma de cobre nativo (puro), aunque la mayoría se extrae de minerales como la calcopirita, bornita y malaquita.",
+    "El cobre es un oligoelemento esencial para muchos seres vivos, incluyendo los humanos, donde participa en funciones enzimáticas y en la formación de la sangre.",
+    "Tiene propiedades antimicrobianas naturales, lo que significa que puede matar o inhibir el crecimiento de bacterias y virus en su superficie."
   ],
   "usos": [
-    "Fabricación de cables eléctricos, alambres y componentes electrónicos debido a su alta conductividad eléctrica y ductilidad. [1, 2, 4]",
-    "Producción de tuberías para sistemas de fontanería de agua potable y gas, y en intercambiadores de calor, por su buena conductividad térmica y resistencia a la corrosión. [1, 2, 4]",
-    "Acuñación de monedas (a menudo en aleaciones como el cuproníquel o el bronce) y fabricación de joyería y objetos decorativos. [1, 2, 4]",
-    "Componente principal en importantes aleaciones como el bronce (cobre y estaño) y el latón (cobre y zinc), utilizadas en una amplia gama de aplicaciones. [1, 2, 4]",
-    "En la fabricación de techos, canalones y elementos arquitectónicos por su durabilidad y la pátina estética que desarrolla. [1, 2]",
-    "Como fungicida en la agricultura (e.g., sulfato de cobre) y conservante de la madera. [1, 2]",
-    "En utensilios de cocina de alta gama por su excelente distribución del calor. [1, 2]"
+    "Fabricación de cables eléctricos, alambres y componentes electrónicos debido a su alta conductividad eléctrica y ductilidad.",
+    "Producción de tuberías para sistemas de fontanería de agua potable y gas, y en intercambiadores de calor, por su buena conductividad térmica y resistencia a la corrosión.",
+    "Acuñación de monedas (a menudo en aleaciones como el cuproníquel o el bronce) y fabricación de joyería y objetos decorativos.",
+    "Componente principal en importantes aleaciones como el bronce (cobre y estaño) y el latón (cobre y zinc), utilizadas en una amplia gama de aplicaciones.",
+    "En la fabricación de techos, canalones y elementos arquitectónicos por su durabilidad y la pátina estética que desarrolla.",
+    "Como fungicida en la agricultura (e.g., sulfato de cobre) y conservante de la madera.",
+    "En utensilios de cocina de alta gama por su excelente distribución del calor."
   ],
   "compuestosImportantes": [
     "CuO (óxido de cobre(II))",
@@ -3285,8 +3285,8 @@
       "categoriaAbundancia": "Oligoelemento esencial"
     }
   },
-  "toxicidad": "baja (el cobre es un nutriente esencial; sin embargo, la ingestión de grandes cantidades de compuestos de cobre puede ser tóxica, causando problemas gastrointestinales y daño hepático). [1, 2]",
-  "origenDelNombre": "Del latín 'cuprum', que a su vez deriva de 'aes Cyprium', que significa \"metal de Chipre\", ya que la isla de Chipre fue una importante fuente de cobre en la antigüedad. [1, 2, 4]",
+  "toxicidad": "baja (el cobre es un nutriente esencial; sin embargo, la ingestión de grandes cantidades de compuestos de cobre puede ser tóxica, causando problemas gastrointestinales y daño hepático).",
+  "origenDelNombre": "Del latín 'cuprum', que a su vez deriva de 'aes Cyprium', que significa \"metal de Chipre\", ya que la isla de Chipre fue una importante fuente de cobre en la antigüedad.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Cobre",
     "https://www.rsc.org/periodic-table/element/29/copper"
