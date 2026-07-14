@@ -3385,21 +3385,21 @@
     "fechaDescubrimiento": 1746
   },
   "datosCuriosos": [
-    "Se utiliza ampliamente para galvanizar el acero o el hierro, protegiéndolos de la corrosión al actuar como ánodo de sacrificio. [1, 2, 4]",
-    "Es un oligoelemento esencial para humanos, animales y plantas, desempeñando un papel crucial en el sistema inmunológico, la cicatrización de heridas, la síntesis de ADN y la función enzimática. [1, 2, 4]",
-    "El principal mineral de zinc es la esfalerita (sulfuro de zinc, también llamado blenda de zinc). Otros minerales incluyen la smithsonita (carbonato de zinc) y la hemimorfita (silicato de zinc). [1, 2, 4]",
-    "El polvo de zinc puede ser pirofórico y arder en el aire con una llama azul verdosa. [1, 2]",
-    "El latón, una aleación de cobre y zinc, se conoce desde la antigüedad, incluso antes de que el zinc fuera reconocido como un metal distinto. [1, 2]",
-    "El zinc es un metal de color blanco azulado, moderadamente reactivo, que se vuelve quebradizo a ciertas temperaturas pero es maleable entre 100 y 150 °C. [1, 2]"
+    "Se utiliza ampliamente para galvanizar el acero o el hierro, protegiéndolos de la corrosión al actuar como ánodo de sacrificio.",
+    "Es un oligoelemento esencial para humanos, animales y plantas, desempeñando un papel crucial en el sistema inmunológico, la cicatrización de heridas, la síntesis de ADN y la función enzimática.",
+    "El principal mineral de zinc es la esfalerita (sulfuro de zinc, también llamado blenda de zinc). Otros minerales incluyen la smithsonita (carbonato de zinc) y la hemimorfita (silicato de zinc).",
+    "El polvo de zinc puede ser pirofórico y arder en el aire con una llama azul verdosa.",
+    "El latón, una aleación de cobre y zinc, se conoce desde la antigüedad, incluso antes de que el zinc fuera reconocido como un metal distinto.",
+    "El zinc es un metal de color blanco azulado, moderadamente reactivo, que se vuelve quebradizo a ciertas temperaturas pero es maleable entre 100 y 150 °C."
   ],
   "usos": [
-    "Galvanización del acero y el hierro para protegerlos de la corrosión (acero galvanizado). [1, 2, 4]",
-    "Componente principal en la fabricación de baterías y pilas, especialmente en pilas secas de zinc-carbono y como ánodo en pilas alcalinas. [1, 2, 4]",
-    "Como suplemento dietético para prevenir o tratar la deficiencia de zinc. [1, 2, 4]",
-    "En aleaciones importantes como el latón (con cobre), la alpaca (con cobre y níquel) y en aleaciones de fundición a presión. [1, 2, 4]",
-    "El óxido de zinc (ZnO) se utiliza en protectores solares, pomadas, pinturas blancas, cerámicas y como aditivo en la industria del caucho. [1, 2, 4]",
-    "El sulfuro de zinc (ZnS) se utiliza como pigmento luminiscente en pantallas de televisión y pinturas fluorescentes. [1, 2]",
-    "En la fabricación de piezas de fundición, como componentes de automóviles y herrajes. [1, 2]"
+    "Galvanización del acero y el hierro para protegerlos de la corrosión (acero galvanizado).",
+    "Componente principal en la fabricación de baterías y pilas, especialmente en pilas secas de zinc-carbono y como ánodo en pilas alcalinas.",
+    "Como suplemento dietético para prevenir o tratar la deficiencia de zinc.",
+    "En aleaciones importantes como el latón (con cobre), la alpaca (con cobre y níquel) y en aleaciones de fundición a presión.",
+    "El óxido de zinc (ZnO) se utiliza en protectores solares, pomadas, pinturas blancas, cerámicas y como aditivo en la industria del caucho.",
+    "El sulfuro de zinc (ZnS) se utiliza como pigmento luminiscente en pantallas de televisión y pinturas fluorescentes.",
+    "En la fabricación de piezas de fundición, como componentes de automóviles y herrajes."
   ],
   "compuestosImportantes": [
     "ZnO (óxido de zinc)",
@@ -3420,8 +3420,8 @@
       "categoriaAbundancia": "Oligoelemento esencial"
     }
   },
-  "toxicidad": "baja (el zinc es un nutriente esencial; la ingesta excesiva puede causar deficiencia de cobre y problemas gastrointestinales; los humos de óxido de zinc pueden causar fiebre de los humos metálicos). [1, 2]",
-  "origenDelNombre": "Del alemán 'Zink'. El origen exacto es incierto, pero podría estar relacionado con la palabra alemana 'Zinke' (diente, púa) por la forma de los cristales de calamina, o con 'Zinn' (estaño) por su apariencia similar. [1, 2, 4]",
+  "toxicidad": "baja (el zinc es un nutriente esencial; la ingesta excesiva puede causar deficiencia de cobre y problemas gastrointestinales; los humos de óxido de zinc pueden causar fiebre de los humos metálicos).",
+  "origenDelNombre": "Del alemán 'Zink'. El origen exacto es incierto, pero podría estar relacionado con la palabra alemana 'Zinke' (diente, púa) por la forma de los cristales de calamina, o con 'Zinn' (estaño) por su apariencia similar.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Zinc",
     "https://www.rsc.org/periodic-table/element/30/zinc"
