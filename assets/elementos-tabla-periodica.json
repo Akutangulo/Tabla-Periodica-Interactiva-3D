@@ -3493,20 +3493,20 @@
     "fechaDescubrimiento": 1875
   },
   "datosCuriosos": [
-    "Tiene un punto de fusión muy bajo (29.76 °C o 85.57 °F), lo que significa que puede derretirse en la mano de una persona. [1, 2, 4]",
-    "Su existencia y propiedades (como 'eka-aluminio') fueron predichas con notable precisión por Dmitri Mendeléyev en 1871, antes de su descubrimiento. [1, 2, 4]",
-    "Es un metal blando, de color blanco plateado brillante, que se fractura de forma concoidea como el vidrio. [1, 2, 4]",
-    "A diferencia del mercurio, el galio líquido moja el vidrio y la piel, y tiene un rango de temperatura en estado líquido muy amplio, lo que lo hace útil en termómetros de alta temperatura. [1, 2, 4]",
-    "El galio se expande un 3.1% al solidificarse, por lo que no debe almacenarse en recipientes de vidrio o metal rígidos. [1, 2]",
-    "No se encuentra libre en la naturaleza, sino en trazas en minerales como la bauxita, la germanita y la esfalerita. [1, 2]"
+    "Tiene un punto de fusión muy bajo (29.76 °C o 85.57 °F), lo que significa que puede derretirse en la mano de una persona.",
+    "Su existencia y propiedades (como 'eka-aluminio') fueron predichas con notable precisión por Dmitri Mendeléyev en 1871, antes de su descubrimiento.",
+    "Es un metal blando, de color blanco plateado brillante, que se fractura de forma concoidea como el vidrio.",
+    "A diferencia del mercurio, el galio líquido moja el vidrio y la piel, y tiene un rango de temperatura en estado líquido muy amplio, lo que lo hace útil en termómetros de alta temperatura.",
+    "El galio se expande un 3.1% al solidificarse, por lo que no debe almacenarse en recipientes de vidrio o metal rígidos.",
+    "No se encuentra libre en la naturaleza, sino en trazas en minerales como la bauxita, la germanita y la esfalerita."
   ],
   "usos": [
-    "Principalmente en la fabricación de compuestos semiconductores como el arseniuro de galio (GaAs) y el nitruro de galio (GaN), utilizados en diodos emisores de luz (LEDs), láseres, transistores de alta frecuencia y circuitos integrados para microondas. [1, 2, 4]",
-    "En aleaciones de bajo punto de fusión, como el Galinstan (galio, indio y estaño), que es líquido a temperatura ambiente y se utiliza como sustituto no tóxico del mercurio en termómetros y como refrigerante. [1, 2, 4]",
-    "En la producción de espejos ópticos de alta reflectividad. [1, 2]",
-    "El isótopo galio-67 se utiliza en medicina nuclear para la detección de tumores e inflamaciones (gammagrafía con galio). [1, 2, 4]",
-    "Se investiga su uso en catalizadores para diversas reacciones químicas y en el dopaje de otros semiconductores. [1, 2]",
-    "En algunos termómetros de alta temperatura debido a su alto punto de ebullición. [1, 2, 4]"
+    "Principalmente en la fabricación de compuestos semiconductores como el arseniuro de galio (GaAs) y el nitruro de galio (GaN), utilizados en diodos emisores de luz (LEDs), láseres, transistores de alta frecuencia y circuitos integrados para microondas.",
+    "En aleaciones de bajo punto de fusión, como el Galinstan (galio, indio y estaño), que es líquido a temperatura ambiente y se utiliza como sustituto no tóxico del mercurio en termómetros y como refrigerante.",
+    "En la producción de espejos ópticos de alta reflectividad.",
+    "El isótopo galio-67 se utiliza en medicina nuclear para la detección de tumores e inflamaciones (gammagrafía con galio).",
+    "Se investiga su uso en catalizadores para diversas reacciones químicas y en el dopaje de otros semiconductores.",
+    "En algunos termómetros de alta temperatura debido a su alto punto de ebullición."
   ],
   "compuestosImportantes": [
     "GaAs (arseniuro de galio)",
@@ -3527,8 +3527,8 @@
       "categoriaAbundancia": "Traza"
     }
   },
-  "toxicidad": "baja (el galio elemental se considera de baja toxicidad; algunos de sus compuestos pueden ser más tóxicos, pero la información es limitada). [1, 2]",
-  "origenDelNombre": "De 'Gallia', el nombre latino de Francia, en honor al país natal de su descubridor, Paul-Émile Lecoq de Boisbaudran. También se ha sugerido un juego de palabras con 'le coq' (gallo en francés), ya que 'gallus' es gallo en latín. [1, 2, 4]",
+  "toxicidad": "baja (el galio elemental se considera de baja toxicidad; algunos de sus compuestos pueden ser más tóxicos, pero la información es limitada).",
+  "origenDelNombre": "De 'Gallia', el nombre latino de Francia, en honor al país natal de su descubridor, Paul-Émile Lecoq de Boisbaudran. También se ha sugerido un juego de palabras con 'le coq' (gallo en francés), ya que 'gallus' es gallo en latín.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Galio",
     "https://www.rsc.org/periodic-table/element/31/gallium"
