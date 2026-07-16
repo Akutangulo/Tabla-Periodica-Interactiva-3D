@@ -3630,21 +3630,21 @@
     "fechaDescubrimiento": 1886
   },
   "datosCuriosos": [
-    "La existencia y propiedades del germanio (como 'eka-silicio') fueron predichas con gran precisión por Dmitri Mendeléyev en 1869, antes de su descubrimiento. [1, 2, 4]",
-    "Es un metaloide duro, quebradizo, de color blanco grisáceo y brillante, con una estructura cristalina similar a la del diamante. [1, 2, 4]",
-    "Fue uno de los primeros materiales semiconductores utilizados en la fabricación de transistores y diodos, desempeñando un papel crucial en el desarrollo temprano de la electrónica. [1, 2, 4]",
-    "Es un elemento relativamente raro en la corteza terrestre, encontrándose principalmente en minerales como la argirodita, la germanita y en algunos minerales de zinc y carbón. [1, 2, 4]",
-    "El germanio es transparente a la radiación infrarroja, lo que lo hace útil para ópticas infrarrojas. [1, 2, 4]",
-    "Al igual que el silicio y el galio, el germanio se expande al solidificarse. [1, 2]"
+    "La existencia y propiedades del germanio (como 'eka-silicio') fueron predichas con gran precisión por Dmitri Mendeléyev en 1869, antes de su descubrimiento.",
+    "Es un metaloide duro, quebradizo, de color blanco grisáceo y brillante, con una estructura cristalina similar a la del diamante.",
+    "Fue uno de los primeros materiales semiconductores utilizados en la fabricación de transistores y diodos, desempeñando un papel crucial en el desarrollo temprano de la electrónica.",
+    "Es un elemento relativamente raro en la corteza terrestre, encontrándose principalmente en minerales como la argirodita, la germanita y en algunos minerales de zinc y carbón.",
+    "El germanio es transparente a la radiación infrarroja, lo que lo hace útil para ópticas infrarrojas.",
+    "Al igual que el silicio y el galio, el germanio se expande al solidificarse."
   ],
   "usos": [
-    "Como material semiconductor en la fabricación de transistores, diodos y otros componentes electrónicos, aunque en muchas aplicaciones ha sido reemplazado por el silicio. [1, 2, 4]",
-    "En la fabricación de lentes y ventanas para espectroscopios y sistemas de visión nocturna por infrarrojos, debido a su transparencia a la radiación infrarroja. [1, 2, 4]",
-    "Como dopante en fibras ópticas para telecomunicaciones para controlar el índice de refracción. [1, 2, 4]",
-    "El dióxido de germanio (GeO₂) se utiliza como catalizador en la producción de plásticos PET (tereftalato de polietileno). [1, 2, 4]",
-    "En aleaciones, como el silicio-germanio (SiGe), para mejorar el rendimiento de los dispositivos semiconductores. [1, 2]",
-    "En células solares de alta eficiencia, especialmente para aplicaciones espaciales. [1, 2]",
-    "Algunos compuestos de germanio se han investigado por sus posibles propiedades terapéuticas, aunque su uso médico es limitado y controvertido. [1, 2]"
+    "Como material semiconductor en la fabricación de transistores, diodos y otros componentes electrónicos, aunque en muchas aplicaciones ha sido reemplazado por el silicio.",
+    "En la fabricación de lentes y ventanas para espectroscopios y sistemas de visión nocturna por infrarrojos, debido a su transparencia a la radiación infrarroja.",
+    "Como dopante en fibras ópticas para telecomunicaciones para controlar el índice de refracción.",
+    "El dióxido de germanio (GeO₂) se utiliza como catalizador en la producción de plásticos PET (tereftalato de polietileno).",
+    "En aleaciones, como el silicio-germanio (SiGe), para mejorar el rendimiento de los dispositivos semiconductores.",
+    "En células solares de alta eficiencia, especialmente para aplicaciones espaciales.",
+    "Algunos compuestos de germanio se han investigado por sus posibles propiedades terapéuticas, aunque su uso médico es limitado y controvertido."
   ],
   "compuestosImportantes": [
     "GeO₂ (dióxido de germanio)",
@@ -3664,8 +3664,8 @@
       "categoriaAbundancia": "Traza"
     }
   },
-  "toxicidad": "baja (el germanio elemental y la mayoría de sus compuestos inorgánicos se consideran de baja toxicidad; algunos compuestos orgánicos de germanio pueden ser más tóxicos). [1, 2]",
-  "origenDelNombre": "De 'Germania', el nombre latino de Alemania, en honor al país natal de su descubridor, Clemens Winkler. [1, 2, 4]",
+  "toxicidad": "baja (el germanio elemental y la mayoría de sus compuestos inorgánicos se consideran de baja toxicidad; algunos compuestos orgánicos de germanio pueden ser más tóxicos).",
+  "origenDelNombre": "De 'Germania', el nombre latino de Alemania, en honor al país natal de su descubridor, Clemens Winkler.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Germanio",
     "https://www.rsc.org/periodic-table/element/32/germanium"
