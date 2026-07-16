@@ -3740,21 +3740,21 @@
     "fechaDescubrimiento": 1250
   },
   "datosCuriosos": [
-    "Es tristemente célebre como un veneno potente y ha sido utilizado históricamente con fines homicidas, ganándose el apodo de \"el rey de los venenos\". [1, 2, 4]",
-    "Existe en varias formas alotrópicas, siendo las más comunes el arsénico gris (metálico, estable), el arsénico amarillo (no metálico, ceroso) y el arsénico negro (no metálico, vítreo). [1, 2, 4]",
-    "El arsénico gris metálico se sublima (pasa directamente de sólido a gas sin fundirse) a presión atmosférica cuando se calienta, liberando un vapor con olor a ajo. [1, 2, 4]",
-    "Se encuentra de forma natural en trazas en el suelo, el agua, el aire y los alimentos, y puede acumularse en ciertas plantas y animales. [1, 2, 4]",
-    "A pesar de su toxicidad, algunos compuestos de arsénico tienen aplicaciones médicas. [1, 2, 4]",
-    "La exposición crónica a niveles bajos de arsénico (principalmente a través del agua potable contaminada) es un problema de salud pública en algunas regiones del mundo. [1, 2]"
+    "Es tristemente célebre como un veneno potente y ha sido utilizado históricamente con fines homicidas, ganándose el apodo de \"el rey de los venenos\".",
+    "Existe en varias formas alotrópicas, siendo las más comunes el arsénico gris (metálico, estable), el arsénico amarillo (no metálico, ceroso) y el arsénico negro (no metálico, vítreo).",
+    "El arsénico gris metálico se sublima (pasa directamente de sólido a gas sin fundirse) a presión atmosférica cuando se calienta, liberando un vapor con olor a ajo.",
+    "Se encuentra de forma natural en trazas en el suelo, el agua, el aire y los alimentos, y puede acumularse en ciertas plantas y animales.",
+    "A pesar de su toxicidad, algunos compuestos de arsénico tienen aplicaciones médicas.",
+    "La exposición crónica a niveles bajos de arsénico (principalmente a través del agua potable contaminada) es un problema de salud pública en algunas regiones del mundo."
   ],
   "usos": [
-    "Históricamente, y en algunas regiones aún, se utiliza como conservante de la madera (e.g., arseniato de cobre cromatado, CCA), aunque su uso está cada vez más restringido debido a su toxicidad. [1, 2, 4]",
-    "En la fabricación de semiconductores como el arseniuro de galio (GaAs), utilizado en circuitos integrados de alta velocidad, diodos láser y células solares. [1, 2, 4]",
-    "Producción de ciertos tipos de pesticidas, herbicidas e insecticidas (e.g., arseniato de plomo, verde de París), aunque muchos han sido prohibidos o restringidos. [1, 2, 4]",
-    "El trióxido de arsénico (As₂O₃) se utiliza en dosis controladas en el tratamiento de ciertos tipos de leucemia (leucemia promielocítica aguda). [1, 2, 4]",
-    "Como agente de aleación para endurecer el plomo en baterías y municiones. [1, 2]",
-    "En la industria del vidrio para eliminar el color verde causado por impurezas de hierro. [1, 2]",
-    "Históricamente, en pigmentos (e.g., oropimente, rejalgar). [1, 2]"
+    "Históricamente, y en algunas regiones aún, se utiliza como conservante de la madera (e.g., arseniato de cobre cromatado, CCA), aunque su uso está cada vez más restringido debido a su toxicidad.",
+    "En la fabricación de semiconductores como el arseniuro de galio (GaAs), utilizado en circuitos integrados de alta velocidad, diodos láser y células solares.",
+    "Producción de ciertos tipos de pesticidas, herbicidas e insecticidas (e.g., arseniato de plomo, verde de París), aunque muchos han sido prohibidos o restringidos.",
+    "El trióxido de arsénico (As₂O₃) se utiliza en dosis controladas en el tratamiento de ciertos tipos de leucemia (leucemia promielocítica aguda).",
+    "Como agente de aleación para endurecer el plomo en baterías y municiones.",
+    "En la industria del vidrio para eliminar el color verde causado por impurezas de hierro.",
+    "Históricamente, en pigmentos (e.g., oropimente, rejalgar)."
   ],
   "compuestosImportantes": [
     "As₂O₃ (trióxido de arsénico / anhídrido arsenioso)",
@@ -3776,8 +3776,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "true (el arsénico y la mayoría de sus compuestos son altamente tóxicos y carcinogénicos; la arsina es un gas extremadamente venenoso). [1, 2]",
-  "origenDelNombre": "Del griego 'arsenikon' (ἀρσενικόν), que era el nombre del pigmento amarillo oropimente (As₂S₃). Este término griego podría derivar del persa 'zarnik' (amarillo) o del griego 'arsenikos' (masculino, potente), aunque la primera etimología es más aceptada. [1, 2, 4]",
+  "toxicidad": "true (el arsénico y la mayoría de sus compuestos son altamente tóxicos y carcinogénicos; la arsina es un gas extremadamente venenoso).",
+  "origenDelNombre": "Del griego 'arsenikon' (ἀρσενικόν), que era el nombre del pigmento amarillo oropimente (As₂S₃). Este término griego podría derivar del persa 'zarnik' (amarillo) o del griego 'arsenikos' (masculino, potente), aunque la primera etimología es más aceptada.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Ars%C3%A9nico",
     "https://www.rsc.org/periodic-table/element/33/arsenic"
