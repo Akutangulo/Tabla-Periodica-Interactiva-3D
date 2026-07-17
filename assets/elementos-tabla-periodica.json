@@ -3888,21 +3888,21 @@
     "fechaDescubrimiento": 1817
   },
   "datosCuriosos": [
-    "El selenio gris es fotoconductor, lo que significa que su conductividad eléctrica aumenta cuando se expone a la luz. [1, 2, 4]",
-    "Es un oligoelemento esencial para muchos organismos, incluyendo los humanos, ya que forma parte de importantes enzimas antioxidantes como la glutatión peroxidasa. [1, 2, 4]",
-    "Cuando se quema o se vaporiza, el selenio y algunos de sus compuestos pueden producir un olor característico similar al ajo podrido o a rábanos picantes. [1, 2, 4]",
-    "Se encuentra en el suelo y es absorbido por las plantas; la concentración en las plantas varía mucho según el contenido de selenio del suelo. Las nueces de Brasil son particularmente ricas en selenio. [1, 2, 4]",
-    "Existe en varias formas alotrópicas: el selenio gris (metálico, estable), el selenio rojo (no metálico, amorfo o cristalino) y el selenio negro (amorfo). [1, 2, 4]",
-    "La diferencia entre la dosis esencial y la dosis tóxica de selenio es relativamente pequeña. [1, 2]"
+    "El selenio gris es fotoconductor, lo que significa que su conductividad eléctrica aumenta cuando se expone a la luz.",
+    "Es un oligoelemento esencial para muchos organismos, incluyendo los humanos, ya que forma parte de importantes enzimas antioxidantes como la glutatión peroxidasa.",
+    "Cuando se quema o se vaporiza, el selenio y algunos de sus compuestos pueden producir un olor característico similar al ajo podrido o a rábanos picantes.",
+    "Se encuentra en el suelo y es absorbido por las plantas; la concentración en las plantas varía mucho según el contenido de selenio del suelo. Las nueces de Brasil son particularmente ricas en selenio.",
+    "Existe en varias formas alotrópicas: el selenio gris (metálico, estable), el selenio rojo (no metálico, amorfo o cristalino) y el selenio negro (amorfo).",
+    "La diferencia entre la dosis esencial y la dosis tóxica de selenio es relativamente pequeña."
   ],
   "usos": [
-    "En la fabricación de rectificadores y células fotovoltaicas (aunque menos común ahora que en el pasado) debido a sus propiedades semiconductoras y fotoconductoras. [1, 2, 4]",
-    "Para decolorar el vidrio (eliminar el tinte verdoso causado por impurezas de hierro) y para dar un color rojo rubí al vidrio y a las cerámicas. [1, 2, 4]",
-    "Como suplemento alimenticio para humanos y animales para asegurar una ingesta adecuada de este micronutriente esencial. [1, 2, 4]",
-    "En fotocopiadoras y medidores de luz (fotocélulas) debido a su fotoconductividad. [1, 2, 4]",
-    "El sulfuro de selenio (SeS₂) se utiliza en champús anticaspa. [1, 2, 4]",
-    "En la industria metalúrgica para mejorar la maquinabilidad de los aceros inoxidables. [1, 2]",
-    "El isótopo selenio-75 se utiliza en medicina nuclear como trazador en gammagrafía. [1, 2]"
+    "En la fabricación de rectificadores y células fotovoltaicas (aunque menos común ahora que en el pasado) debido a sus propiedades semiconductoras y fotoconductoras.",
+    "Para decolorar el vidrio (eliminar el tinte verdoso causado por impurezas de hierro) y para dar un color rojo rubí al vidrio y a las cerámicas.",
+    "Como suplemento alimenticio para humanos y animales para asegurar una ingesta adecuada de este micronutriente esencial.",
+    "En fotocopiadoras y medidores de luz (fotocélulas) debido a su fotoconductividad.",
+    "El sulfuro de selenio (SeS₂) se utiliza en champús anticaspa.",
+    "En la industria metalúrgica para mejorar la maquinabilidad de los aceros inoxidables.",
+    "El isótopo selenio-75 se utiliza en medicina nuclear como trazador en gammagrafía."
   ],
   "compuestosImportantes": [
     "SeO₂ (dióxido de selenio)",
@@ -3923,8 +3923,8 @@
       "categoriaAbundancia": "Oligoelemento esencial"
     }
   },
-  "toxicidad": "moderada (esencial en pequeñas dosis, pero tóxico en cantidades mayores; la exposición crónica puede causar selenosis). [1, 2]",
-  "origenDelNombre": "Del griego 'selēnē' (σελήνη), que significa \"Luna\". Jöns Jacob Berzelius lo nombró así debido a su similitud química con el telurio (nombrado por la Tierra, 'tellus' en latín), que a menudo se encontraba junto al selenio en los minerales. [1, 2, 4]",
+  "toxicidad": "moderada (esencial en pequeñas dosis, pero tóxico en cantidades mayores; la exposición crónica puede causar selenosis).",
+  "origenDelNombre": "Del griego 'selēnē' (σελήνη), que significa \"Luna\". Jöns Jacob Berzelius lo nombró así debido a su similitud química con el telurio (nombrado por la Tierra, 'tellus' en latín), que a menudo se encontraba junto al selenio en los minerales.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Selenio",
     "https://www.rsc.org/periodic-table/element/34/selenium"
