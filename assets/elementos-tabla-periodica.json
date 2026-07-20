@@ -4370,21 +4370,21 @@
     "fechaDescubrimiento": 1790
   },
   "datosCuriosos": [
-    "Las sales de estroncio, especialmente el nitrato y el carbonato, imparten un color rojo carmesí brillante a las llamas, lo que las hace ideales para fuegos artificiales y bengalas. [1, 2, 4]",
-    "Se encuentra principalmente en los minerales celestina (sulfato de estroncio, SrSO₄) y estroncianita (carbonato de estroncio, SrCO₃). [1, 2, 4]",
-    "Es un metal alcalinotérreo blando, de color blanco plateado, que se oxida rápidamente en el aire adquiriendo un tono amarillento. Es más blando que el calcio y reacciona vigorosamente con el agua. [1, 2, 4]",
-    "Las proporciones de isótopos de estroncio (especialmente ⁸⁷Sr/⁸⁶Sr) se utilizan en geología y arqueología para la datación y el rastreo del origen de rocas, aguas, artefactos y restos humanos o animales. [1, 2]",
-    "El isótopo radiactivo estroncio-90 es un producto de la fisión nuclear y es peligroso porque puede incorporarse a los huesos en lugar del calcio, causando daños por radiación. [1, 2, 4]",
-    "El estroncio es químicamente similar al calcio y al bario. [1, 2]"
+    "Las sales de estroncio, especialmente el nitrato y el carbonato, imparten un color rojo carmesí brillante a las llamas, lo que las hace ideales para fuegos artificiales y bengalas.",
+    "Se encuentra principalmente en los minerales celestina (sulfato de estroncio, SrSO₄) y estroncianita (carbonato de estroncio, SrCO₃).",
+    "Es un metal alcalinotérreo blando, de color blanco plateado, que se oxida rápidamente en el aire adquiriendo un tono amarillento. Es más blando que el calcio y reacciona vigorosamente con el agua.",
+    "Las proporciones de isótopos de estroncio (especialmente ⁸⁷Sr/⁸⁶Sr) se utilizan en geología y arqueología para la datación y el rastreo del origen de rocas, aguas, artefactos y restos humanos o animales.",
+    "El isótopo radiactivo estroncio-90 es un producto de la fisión nuclear y es peligroso porque puede incorporarse a los huesos en lugar del calcio, causando daños por radiación.",
+    "El estroncio es químicamente similar al calcio y al bario."
   ],
   "usos": [
-    "En la fabricación de fuegos artificiales y bengalas para producir un color rojo intenso. [1, 2, 4]",
-    "El carbonato de estroncio se utiliza en la producción de imanes de ferrita permanentes y en el refinamiento del zinc para eliminar el plomo. [1, 2, 4]",
-    "Históricamente, el hidróxido de estroncio se utilizó en la industria azucarera para extraer azúcar de la melaza de remolacha. [1, 2]",
-    "El ranelato de estroncio es un medicamento que se ha utilizado para tratar la osteoporosis, ya que puede aumentar la densidad ósea. [1, 2, 4]",
-    "El vidrio de los tubos de rayos catódicos (CRTs) de televisores y monitores antiguos contenía óxido de estroncio para bloquear la emisión de rayos X. [1, 2, 4]",
-    "El isótopo estroncio-89 se utiliza en radioterapia para aliviar el dolor óseo causado por metástasis cancerosas. [1, 2]",
-    "En aleaciones y como eliminador de gases en tubos de vacío. [1, 2]"
+    "En la fabricación de fuegos artificiales y bengalas para producir un color rojo intenso.",
+    "El carbonato de estroncio se utiliza en la producción de imanes de ferrita permanentes y en el refinamiento del zinc para eliminar el plomo.",
+    "Históricamente, el hidróxido de estroncio se utilizó en la industria azucarera para extraer azúcar de la melaza de remolacha.",
+    "El ranelato de estroncio es un medicamento que se ha utilizado para tratar la osteoporosis, ya que puede aumentar la densidad ósea.",
+    "El vidrio de los tubos de rayos catódicos (CRTs) de televisores y monitores antiguos contenía óxido de estroncio para bloquear la emisión de rayos X.",
+    "El isótopo estroncio-89 se utiliza en radioterapia para aliviar el dolor óseo causado por metástasis cancerosas.",
+    "En aleaciones y como eliminador de gases en tubos de vacío."
   ],
   "compuestosImportantes": [
     "SrCO₃ (carbonato de estroncio, estroncianita)",
@@ -4405,8 +4405,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "baja (el estroncio estable no es tóxico y se comporta de manera similar al calcio en el cuerpo; el estroncio-90 radiactivo es peligroso debido a su incorporación en los huesos y la emisión de radiación beta). [1, 2]",
-  "origenDelNombre": "Nombrado por el pueblo de Strontian en Argyllshire, Escocia, donde se descubrió por primera vez el mineral estroncianita en 1790. [1, 2, 4]",
+  "toxicidad": "baja (el estroncio estable no es tóxico y se comporta de manera similar al calcio en el cuerpo; el estroncio-90 radiactivo es peligroso debido a su incorporación en los huesos y la emisión de radiación beta).",
+  "origenDelNombre": "Nombrado por el pueblo de Strontian en Argyllshire, Escocia, donde se descubrió por primera vez el mineral estroncianita en 1790.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Estroncio",
     "https://www.rsc.org/periodic-table/element/38/strontium"
