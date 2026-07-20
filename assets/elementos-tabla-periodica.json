@@ -4246,20 +4246,20 @@
     "fechaDescubrimiento": 1861
   },
   "datosCuriosos": [
-    "Es un metal alcalino muy blando, de color blanco plateado, que es altamente reactivo y puede incendiarse espontáneamente en el aire. [1, 2, 4]",
-    "Cuando se introduce en una llama, el rubidio y sus compuestos le imparten un color rojo violáceo o carmesí intenso, debido a sus líneas espectrales características. [1, 2, 4]",
-    "Tiene un punto de fusión bajo, apenas por encima de la temperatura corporal humana (39.3 °C o 102.7 °F). [1, 2, 4]",
-    "Se encuentra en pequeñas cantidades en minerales como la lepidolita, la carnalita y la polucita, a menudo junto con otros metales alcalinos como el potasio y el cesio. [1, 2, 4]",
-    "El isótopo natural rubidio-87 es radiactivo (emisor beta) y tiene una vida media muy larga, lo que permite su uso en la datación geológica (datación rubidio-estroncio). [1, 2, 4]",
-    "Reacciona violentamente con el agua, liberando hidrógeno que se inflama. [1, 2]"
+    "Es un metal alcalino muy blando, de color blanco plateado, que es altamente reactivo y puede incendiarse espontáneamente en el aire.",
+    "Cuando se introduce en una llama, el rubidio y sus compuestos le imparten un color rojo violáceo o carmesí intenso, debido a sus líneas espectrales características.",
+    "Tiene un punto de fusión bajo, apenas por encima de la temperatura corporal humana (39.3 °C o 102.7 °F).",
+    "Se encuentra en pequeñas cantidades en minerales como la lepidolita, la carnalita y la polucita, a menudo junto con otros metales alcalinos como el potasio y el cesio.",
+    "El isótopo natural rubidio-87 es radiactivo (emisor beta) y tiene una vida media muy larga, lo que permite su uso en la datación geológica (datación rubidio-estroncio).",
+    "Reacciona violentamente con el agua, liberando hidrógeno que se inflama."
   ],
   "usos": [
-    "En la fabricación de ciertos tipos de relojes atómicos de alta precisión, donde se utilizan las transiciones hiperfinas de los átomos de rubidio. [1, 2, 4]",
-    "En investigación científica, especialmente en física cuántica para la creación de condensados de Bose-Einstein y en magnetómetros. [1, 2, 4]",
-    "En la producción de vidrios especiales y cerámicas, y como componente de fotocélulas y tubos de vacío. [1, 2, 4]",
-    "Algunos compuestos de rubidio se utilizan como catalizadores en química orgánica. [1, 2]",
-    "El carbonato de rubidio se utiliza en algunos tipos de vidrio para mejorar su estabilidad y reducir su conductividad eléctrica. [1, 2]",
-    "Se ha investigado su uso en generadores termoeléctricos y como fluido de trabajo en turbinas de vapor. [1, 2]"
+    "En la fabricación de ciertos tipos de relojes atómicos de alta precisión, donde se utilizan las transiciones hiperfinas de los átomos de rubidio.",
+    "En investigación científica, especialmente en física cuántica para la creación de condensados de Bose-Einstein y en magnetómetros.",
+    "En la producción de vidrios especiales y cerámicas, y como componente de fotocélulas y tubos de vacío.",
+    "Algunos compuestos de rubidio se utilizan como catalizadores en química orgánica.",
+    "El carbonato de rubidio se utiliza en algunos tipos de vidrio para mejorar su estabilidad y reducir su conductividad eléctrica.",
+    "Se ha investigado su uso en generadores termoeléctricos y como fluido de trabajo en turbinas de vapor."
   ],
   "compuestosImportantes": [
     "RbCl (cloruro de rubidio)",
@@ -4279,8 +4279,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "moderada (el rubidio elemental es altamente reactivo y corrosivo; los iones de rubidio tienen una toxicidad similar a los de potasio y pueden interferir con el metabolismo del potasio si se ingieren en grandes cantidades). [1, 2]",
-  "origenDelNombre": "Del latín 'rubidus', que significa \"rojo oscuro\" o \"rojizo\", en referencia a las dos prominentes líneas rojas en el espectro de emisión del elemento, que permitieron su descubrimiento mediante espectroscopia. [1, 2, 4]",
+  "toxicidad": "moderada (el rubidio elemental es altamente reactivo y corrosivo; los iones de rubidio tienen una toxicidad similar a los de potasio y pueden interferir con el metabolismo del potasio si se ingieren en grandes cantidades).",
+  "origenDelNombre": "Del latín 'rubidus', que significa \"rojo oscuro\" o \"rojizo\", en referencia a las dos prominentes líneas rojas en el espectro de emisión del elemento, que permitieron su descubrimiento mediante espectroscopia.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Rubidio",
     "https://www.rsc.org/periodic-table/element/37/rubidium"
