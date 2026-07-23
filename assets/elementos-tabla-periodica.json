@@ -4618,20 +4618,20 @@
     "fechaDescubrimiento": 1789
   },
   "datosCuriosos": [
-    "Es un metal de transición lustroso, de color blanco grisáceo, muy resistente a la corrosión por álcalis, ácidos, agua salada y otros agentes. [1, 2, 4]",
-    "El mineral más importante de zirconio es el zircón (silicato de zirconio, ZrSiO₄), que se utiliza como gema y es la fuente principal del metal. [1, 2, 4]",
-    "El zirconio tiene una sección transversal de absorción de neutrones muy baja, lo que lo hace ideal para el revestimiento de barras de combustible en reactores nucleares. [1, 2, 4]",
-    "El polvo de zirconio puede ser pirofórico y arder espontáneamente en el aire, especialmente a temperaturas elevadas. [1, 2]",
-    "La zirconia cúbica (dióxido de zirconio estabilizado, ZrO₂) es un material cerámico duro, ópticamente impecable y generalmente incoloro que se utiliza como un popular sustituto del diamante en joyería. [1, 2, 4]",
-    "El zirconio es químicamente similar al hafnio, que casi siempre se encuentra junto con el zirconio en la naturaleza y es difícil de separar. [1, 2]"
+    "Es un metal de transición lustroso, de color blanco grisáceo, muy resistente a la corrosión por álcalis, ácidos, agua salada y otros agentes.",
+    "El mineral más importante de zirconio es el zircón (silicato de zirconio, ZrSiO₄), que se utiliza como gema y es la fuente principal del metal.",
+    "El zirconio tiene una sección transversal de absorción de neutrones muy baja, lo que lo hace ideal para el revestimiento de barras de combustible en reactores nucleares.",
+    "El polvo de zirconio puede ser pirofórico y arder espontáneamente en el aire, especialmente a temperaturas elevadas.",
+    "La zirconia cúbica (dióxido de zirconio estabilizado, ZrO₂) es un material cerámico duro, ópticamente impecable y generalmente incoloro que se utiliza como un popular sustituto del diamante en joyería.",
+    "El zirconio es químicamente similar al hafnio, que casi siempre se encuentra junto con el zirconio en la naturaleza y es difícil de separar."
   ],
   "usos": [
-    "Principalmente en la industria nuclear como material de revestimiento para las barras de combustible de uranio en reactores nucleares (en forma de aleaciones como Zircaloy) debido a su baja absorción de neutrones y alta resistencia a la corrosión. [1, 2, 4]",
-    "El dióxido de zirconio (zirconia) se utiliza para fabricar cerámicas refractarias resistentes al calor y al choque térmico, crisoles, abrasivos y como opacificante en esmaltes y pigmentos cerámicos. [1, 2, 4]",
-    "La zirconia cúbica se utiliza ampliamente como un simulante de diamante en joyería. [1, 2, 4]",
-    "En aleaciones con otros metales para mejorar la resistencia a la corrosión y al calor, como en equipos químicos y herramientas quirúrgicas. [1, 2, 4]",
-    "El metal zirconio se utiliza en lámparas de flash fotográfico, tubos de vacío y como agente de aleación en aceros. [1, 2]",
-    "Compuestos de zirconio se utilizan en desodorantes antitranspirantes. [1, 2]"
+    "Principalmente en la industria nuclear como material de revestimiento para las barras de combustible de uranio en reactores nucleares (en forma de aleaciones como Zircaloy) debido a su baja absorción de neutrones y alta resistencia a la corrosión.",
+    "El dióxido de zirconio (zirconia) se utiliza para fabricar cerámicas refractarias resistentes al calor y al choque térmico, crisoles, abrasivos y como opacificante en esmaltes y pigmentos cerámicos.",
+    "La zirconia cúbica se utiliza ampliamente como un simulante de diamante en joyería.",
+    "En aleaciones con otros metales para mejorar la resistencia a la corrosión y al calor, como en equipos químicos y herramientas quirúrgicas.",
+    "El metal zirconio se utiliza en lámparas de flash fotográfico, tubos de vacío y como agente de aleación en aceros.",
+    "Compuestos de zirconio se utilizan en desodorantes antitranspirantes."
   ],
   "compuestosImportantes": [
     "ZrO₂ (dióxido de zirconio / óxido de zirconio(IV), zirconia)",
@@ -4651,8 +4651,8 @@
       "categoriaAbundancia": "Traza (<0.1%)"
     }
   },
-  "toxicidad": "baja (el zirconio metálico y la mayoría de sus compuestos se consideran de baja toxicidad y no son biológicamente activos; el polvo de zirconio puede ser irritante). [1, 2]",
-  "origenDelNombre": "Del mineral zircón. La palabra 'zircón' deriva del persa 'zargun' (زرگون), que significa \"color dorado\", en referencia al color de algunas variedades de esta gema. [1, 2, 4]",
+  "toxicidad": "baja (el zirconio metálico y la mayoría de sus compuestos se consideran de baja toxicidad y no son biológicamente activos; el polvo de zirconio puede ser irritante).",
+  "origenDelNombre": "Del mineral zircón. La palabra 'zircón' deriva del persa 'zargun' (زرگون), que significa \"color dorado\", en referencia al color de algunas variedades de esta gema.",
   "recursos": [
     "https://es.wikipedia.org/wiki/Zirconio",
     "https://www.rsc.org/periodic-table/element/40/zirconium"
